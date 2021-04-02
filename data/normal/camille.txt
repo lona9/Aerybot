@@ -1,0 +1,21 @@
+**Camille ** *(Normal)*
+**Posición:** *Top*
+**Porcentaje de victorias:** 50.4%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+
+>   <:valor11:804449943376232509>:cd::cd:
+>   :cd::cd:<:valor23:804449943876010024>
+>   :cd::cd:<:valor33:804449943603118131>
+>   <:valor41:804449944298586143>:cd::cd:
+
+>   :cd:<:insp22:804450563793747989>:cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd::cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Brillo > Fuerza de la trinidad > Hidra voraz > Guantelete de Sterak
+**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Danza de la muerte

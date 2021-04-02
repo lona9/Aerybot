@@ -1,0 +1,21 @@
+**Teemo ** *(Normal)*
+**Posición:** *Top*
+**Porcentaje de victorias:** 48.2%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
+
+>   <:valor11:804449943376232509>:cd::cd:
+>   <:valor21:804449943984537690>:cd::cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   <:valor41:804449944298586143>:cd::cd:
+
+>   <:dom21:804457127800078397>:cd::cd:
+>   :cd::cd::cd:
+> <:dom41:804457130379182120>:cd::cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
+**Objetos principales:** Arco curvo > Diente de Nashor > Angustia de Liandry > Abrazo demoníaco
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Reloj de arena de Zhonya

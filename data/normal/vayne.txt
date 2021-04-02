@@ -1,0 +1,21 @@
+**Vayne ** *(Normal)*
+**Posición:** *AD Carry*
+**Porcentaje de victorias:** 50.2%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+
+> <:precision11:804445926906658886>:cd::cd::cd:
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
+
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd::cd:
+> <:dom41:804457130379182120>:cd::cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Grebas de berserker
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Bailarín espectral > Filo del infinito
+**Objetos finales:** Ángel Guardián, Cimitarra mercurial, Sanguinaria

@@ -1,0 +1,21 @@
+**Pantheon ** *(Normal)*
+**Posición:** *Mid, Support*
+**Porcentaje de victorias:** 49.2%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+
+> <:precision11:804445926906658886>:cd::cd::cd:
+>   :cd:<:precision22:804446921414541333>:cd:
+>   :cd:<:precision32:804446921737371648>:cd:
+>   <:precision41:804446922151690300>:cd::cd:
+
+>   <:dom21:804457127800078397>:cd::cd:
+>   :cd::cd::cd:
+> :cd::cd:<:dom43:804457129183936582>:cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Poción de corrupción
+**Objetos principales:** Puñal serrado > Eclipse > Cuchilla oscura > Guantelete de Sterak
+**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Danza de la muerte

@@ -1,0 +1,21 @@
+**Garen ** *(Normal)*
+**Posición:** *Top*
+**Porcentaje de victorias:** 52.1%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
+
+> :cd::cd:<:precision13:804446921619931187>:cd:
+>   :cd:<:precision22:804446921414541333>:cd:
+>   :cd:<:precision32:804446921737371648>:cd:
+>   :cd::cd:<:precision43:804446921941975080>
+
+>   :cd::cd::cd:
+>   <:valor31:804449943666425907>:cd::cd:
+>   <:valor41:804449944298586143>:cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Grebas de berserker
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Látigo férreo > Cortasendas > Coraza del muerto > Guantelete de Sterak
+**Objetos finales:** Cota de espinas, Guantelete de Sterak, Fuerza de la naturaleza

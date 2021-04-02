@@ -1,0 +1,20 @@
+**Jhin ** *(ARAM)*
+**Porcentaje de victorias:** 51.6%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
+
+> :cd::cd:<:dom13:804447179828625438>:cd:
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd:<:dom33:804457129578332160>
+> <:dom41:804457130379182120>:cd::cd::cd:
+
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd::cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas de rapidez
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > El Coleccionista > Cañón de fuego rápido
+**Objetos finales:** Recuerdos de lord Dominik, Filo del infinito, Sanguinaria

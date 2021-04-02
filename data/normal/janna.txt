@@ -1,0 +1,21 @@
+**Janna ** *(Normal)*
+**Posición:** *Support*
+**Porcentaje de victorias:** 50.9%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
+
+>   :cd:<:bruj12:804448797001252864>:cd:
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   :cd:<:bruj32:804448797346234369>:cd:
+>   <:bruj41:804448797597499402>:cd::cd:
+
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd::cd:
+> :cd::cd:<:dom43:804457129183936582>:cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas jonias de la lucidez
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
+**Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Báculo de agua fluyente > Pebetero ardiente
+**Objetos finales:** Redención, Báculo de agua fluyente, Pebetero ardiente

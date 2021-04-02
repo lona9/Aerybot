@@ -1,0 +1,21 @@
+**Lissandra ** *(Normal)*
+**Posición:** *Mid*
+**Porcentaje de victorias:** 50.0%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
+
+> <:dom11:804447179758239744>:cd::cd::cd:
+>   <:dom21:804457127800078397>:cd::cd:
+>   :cd::cd:<:dom33:804457129578332160>
+> :cd::cd::cd:<:dom44:804457129732866048>
+
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
+>   :cd::cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
+
+**Build**
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
+**Objetos principales:** Capítulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Morellonomicón
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón

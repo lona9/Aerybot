@@ -1,0 +1,21 @@
+**Quinn ** *(Normal)*
+**Posición:** *Top*
+**Porcentaje de victorias:** 51.0%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+
+> <:precision11:804445926906658886>:cd::cd::cd:
+>   <:precision21:804446921363685387>:cd::cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   :cd:<:precision42:804446921636053043>:cd:
+
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd::cd:
+> <:dom41:804457130379182120>:cd::cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Grebas de berserker
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > Navaja de asalto > Filo del infinito
+**Objetos finales:** Ángel Guardián, Filo del infinito, Recuerdos de lord Dominik

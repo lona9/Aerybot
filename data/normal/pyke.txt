@@ -1,0 +1,21 @@
+**Pyke ** *(Normal)*
+**Posición:** *Support*
+**Porcentaje de victorias:** 48.5%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:dom:804451124085522442> <:valor:804451124245561394>
+
+> :cd::cd::cd:<:dom14:804447179938070569>
+>   <:dom21:804457127800078397>:cd::cd:
+>   <:dom31:804457128914976788>:cd::cd:
+> :cd::cd::cd:<:dom44:804457129732866048>
+
+>   :cd::cd::cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd::cd:<:valor43:804449944001708043>
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas de movilidad
+**Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
+**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > Guja sombría > Filo de la noche
+**Objetos finales:** Ángel Guardián, Filo de la noche, Filo fantasmal de Youmuu

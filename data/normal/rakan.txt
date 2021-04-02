@@ -1,0 +1,21 @@
+**Rakan ** *(Normal)*
+**Posición:** *Support*
+**Porcentaje de victorias:** 49.4%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
+
+>   :cd::cd:<:valor13:804449943497605171>
+>   :cd:<:valor22:804449944018223104>:cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd::cd:<:valor43:804449944001708043>
+
+>   :cd::cd::cd:
+>   <:dom31:804457128914976788>:cd::cd:
+> :cd::cd::cd:<:dom44:804457129732866048>
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas jonias de la lucidez
+**Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
+**Objetos principales:** Gemaluz > Canción de batalla de Shurelya > Convergencia de Zeke > Redención
+**Objetos finales:** Redención, Báculo de agua fluyente, Robaalmas de Mejai

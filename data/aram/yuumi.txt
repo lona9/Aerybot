@@ -1,0 +1,20 @@
+**Yuumi ** *(ARAM)*
+**Porcentaje de victorias:** 51.3%
+**Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Ignite:804555481167298570>
+**Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
+
+>   <:bruj11:804448796104589323>:cd::cd:
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
+>   <:bruj41:804448797597499402>:cd::cd:
+
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd::cd::cd:
+>   :cd:<:precision42:804446921636053043>:cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas jonias de la lucidez
+**Objetos iniciales:** Cristal de rubí, Espejo de cristal de Bandle
+**Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Báculo de agua fluyente > Pebetero ardiente
+**Objetos finales:** Putrificador tecnoquímico, Redención, Bendición de Mikael

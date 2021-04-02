@@ -13,7 +13,7 @@ PREFIX = "aery "
 
 OWNER_IDS = [485054727755792410]
 
-COGS = ["ayuda", "rotacion", "meta", "guilds"]
+COGS = ["ayuda", "rotacion", "meta", "guilds", "aram", "normal"]
 
 class Ready(object):
   def __init__(self):
@@ -71,7 +71,7 @@ class Bot(BotBase):
         await self.invoke(ctx)
     
       else:
-        await ctx.send("Aún no estoy listo para recibir comandos, por favor espera unos segundos.")
+        await ctx.send("Aún no estoy lista para recibir comandos, por favor espera unos segundos.")
 
   async def on_connect(self):
     print('bot connected')
@@ -83,7 +83,7 @@ class Bot(BotBase):
     if err == "on_command_error":
       pass
 
-    await self.testchannel.send("Ocurrió un error.")
+    await self.testchannel.send("Bot en actualización.")
 
     raise
 

@@ -1,0 +1,21 @@
+**Ornn ** *(Normal)*
+**Posición:** *Top*
+**Porcentaje de victorias:** 51.2%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+
+>   <:valor11:804449943376232509>:cd::cd:
+>   <:valor21:804449943984537690>:cd::cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   <:valor41:804449944298586143>:cd::cd:
+
+>   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   <:insp41:804450563507879947>:cd::cd:
+>   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Máscara abisal
+**Objetos finales:** Armadura pétrea, Presagio de Randuin, Corazón de hielo

@@ -1,0 +1,21 @@
+**Nautilus ** *(Normal)*
+**Posición:** *Support*
+**Porcentaje de victorias:** 49.9%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+
+>   :cd:<:valor12:804449943775084614>:cd:
+>   :cd::cd:<:valor23:804449943876010024>
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd::cd:<:valor43:804449944001708043>
+
+>   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   <:insp41:804450563507879947>:cd::cd:
+>   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas de movilidad
+**Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
+**Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
+**Objetos finales:** Cota de espinas, Bendición de Mikael, Presagio de Randuin

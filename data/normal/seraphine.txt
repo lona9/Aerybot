@@ -1,0 +1,21 @@
+**Seraphine ** *(Normal)*
+**Posición:** *Support*
+**Porcentaje de victorias:** 51.2%
+**Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
+**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+
+>   :cd::cd:<:valor13:804449943497605171>
+>   :cd::cd:<:valor23:804449943876010024>
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd:<:valor42:804449943615438919>:cd:
+
+>   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   <:insp41:804450563507879947>:cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas jonias de la lucidez
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
+**Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Báculo de agua fluyente > Putrificador tecnoquímico
+**Objetos finales:** Reloj de arena de Zhonya, Putrificador tecnoquímico, Pebetero ardiente

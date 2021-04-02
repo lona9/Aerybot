@@ -1,0 +1,20 @@
+**Skarner ** *(ARAM)*
+**Porcentaje de victorias:** 51.5%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
+**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
+
+> :cd:<:dom12:804447180362219551>:cd::cd:
+>   <:dom21:804457127800078397>:cd::cd:
+>   :cd::cd:<:dom33:804457129578332160>
+> :cd::cd::cd:<:dom44:804457129732866048>
+
+>   :cd::cd:<:bruj23:804448797425532928>
+>   :cd:<:bruj32:804448797346234369>:cd:
+>   :cd::cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas de mercurio
+**Objetos iniciales:** Poción reutilizable, Ceniza de Bami
+**Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Coraza del muerto > Fuerza de la naturaleza
+**Objetos finales:** Armadura de Warmog, Cota de espinas, Armadura pétrea
