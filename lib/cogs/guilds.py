@@ -9,12 +9,12 @@ class Guilds(Cog):
 
   @Cog.listener()
   async def on_guild_join(self, guild):
-    lona = await bot.fetch_user(485054727755792410)
+    lona = await self.bot.fetch_user(485054727755792410)
     await lona.send('aery se unió a {} ({} miembros)'.format(guild.name, guild.member_count))
 
   @Cog.listener()
-  async def on_guild_remove(guild):
-    lona = await bot.fetch_user(485054727755792410)
+  async def on_guild_remove(self, guild):
+    lona = await self.bot.fetch_user(485054727755792410)
     await lona.send('aery fue expulsada de {} ({} miembros)'.format(guild.name, guild.member_count))
 
   @Cog.listener()

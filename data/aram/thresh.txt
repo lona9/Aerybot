@@ -14,7 +14,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Armadura de Warmog
+**Botas:** Botas de mercurio
 **Objetos iniciales:** Carcaj de mediodía
-**Objetos principales:** Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero > Botas de mercurio
+**Objetos principales:** Carcaj de mediodía > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero 
 **Objetos finales:** Armadura de Warmog, Cota de espinas, Armadura pétrea
