@@ -1,20 +1,20 @@
 **Sivir ** *(ARAM)*
-**Porcentaje de victorias:** 51.1%
+**Porcentaje de victorias:** 51.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
-**Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
+**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd:<:dom33:804457129578332160>
 > <:dom41:804457130379182120>:cd::cd::cd:
 
->   :cd::cd:<:precision23:804446921628057630>
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
 >   :cd::cd::cd:
->   <:precision41:804446922151690300>:cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Manamune
-**Objetos iniciales:** Lágrima de la diosa, Poción reutilizable, Espada larga
-**Objetos principales:** Poción reutilizable > Espada larga > Puñal serrado > Filoscuro de Draktharr
-**Objetos finales:** Recordatorio mortal, Sanguinaria, Filo del infinito
+**Botas:** Botas jonias de la lucidez
+**Objetos iniciales:** Guardián invisible, Lágrima de la diosa, Poción de vida
+**Objetos principales:** Martillo de guerra de Caulfield > Manamune > Filoscuro de Draktharr > Rencor de Serylda
+**Objetos finales:** Ángel de la guarda, Recordatorio letal, Filo de la noche
