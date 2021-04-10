@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Alternador hextech > Cosechador nocturno > Maldición del liche > Báculo del vacío
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Reloj de arena de Zhonya
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Velo de la banshee

@@ -8,10 +8,13 @@ class Ayuda(Cog):
 
   @command(name="ayuda", aliases=["info"])
   async def ayuda(self, ctx):
+
+    self.testchannel = self.bot.get_channel(827220123299086447)
+    channel = self.testchannel
     
     embed = Embed(title="Información de Aery")
 
-    fields = [("\u200B", "Escribe *aery comandos* para ver qué puede hacer Aerybot.\n\nEste bot fue actualizado por ultima vez el **02/04/21 a las 15:15**\n\nLos datos y builds fueron obtenidos de League of Graphs, para Todas las regiones, Platino+, **parche 11.6**.\n\nSi quieres invitar a este bot a otro server, puedes hacerlo con este link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot\n\nSi te gustó este bot, considera comprar un kofi a la creadora: https://www.ko-fi.com/lona9", False)]
+    fields = [("\u200B", "Escribe *aery comandos* para ver qué puede hacer Aerybot.\n\nEste bot fue actualizado por ultima vez el **07/04/21 a las 15:15**\n\nLos datos y builds fueron obtenidos de League of Graphs, para Todas las regiones, Platino+, **parche 11.7**.\n\nSi quieres invitar a este bot a otro server, puedes hacerlo con este link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot\n\nSi te gustó este bot, considera comprar un kofi a la creadora: https://www.ko-fi.com/lona9", False)]
 
     for name, value, inline in fields:
       embed.add_field(name=name, value=value, inline=inline)
@@ -20,6 +23,12 @@ class Ayuda(Cog):
     embed.set_footer(text="Si presento problemas o necesitas más ayuda, envía un mensaje a lona#4817")
 
     await ctx.channel.send(embed=embed)
+    try:
+      eventmsg = str(ctx.message.content) + ", guild: " + str(ctx.guild.name)
+      await self.testchannel.send(eventmsg)
+    except AttributeError:
+      eventmsg = str(ctx.message.content) + ", guild: None"
+      await self.testchannel.send(eventmsg)
 
   @command(name="comandos", aliases=["comando"])
   async def comandos(self, ctx):
@@ -36,6 +45,13 @@ class Ayuda(Cog):
     embed.set_footer(text="Si presento problemas o necesitas más ayuda, menciona o envía un mensaje a lona#4817")
 
     await ctx.channel.send(embed=embed)
+
+    try:
+      eventmsg = str(ctx.message.content) + ", guild: " + str(ctx.guild.name)
+      await self.testchannel.send(eventmsg)
+    except AttributeError:
+      eventmsg = str(ctx.message.content) + ", guild: None"
+      await self.testchannel.send(eventmsg)
 
   @command(name='invitacion', aliases=["invite"])
   async def invitacion(self, ctx, *argument):

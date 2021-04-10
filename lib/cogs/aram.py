@@ -9,6 +9,9 @@ class Aram(Cog):
   @command(name="aram")
   async def aram(self, ctx, *args):
 
+    self.testchannel = self.bot.get_channel(827220123299086447)
+    channel = self.testchannel
+
     if args == ():
       await ctx.channel.send('¡Debes escribir el nombre de un champ después de *aery aram*!')
 
@@ -187,7 +190,12 @@ class Aram(Cog):
             with open(path) as f:
               text = f.read()
               await ctx.channel.send(text)
-              print(str(ctx.message.content), ctx.guild)
+              try:
+                eventmsg = str(ctx.message.content) + ", guild: " + str(ctx.guild.name)
+                await self.testchannel.send(eventmsg)
+              except AttributeError:
+                eventmsg = str(ctx.message.content) + ", guild: None"
+                await self.testchannel.send(eventmsg)
         else:
           pass
 

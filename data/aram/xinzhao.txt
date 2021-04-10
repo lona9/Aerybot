@@ -9,12 +9,12 @@
 > <:dom41:804457130379182120>:cd::cd::cd:
 
 >   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd::cd:
->   <:precision41:804446922151690300>:cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Látigo férreo
+**Objetos iniciales:** Poción reutilizable, Puñal serrado
 **Objetos principales:** Puñal serrado > Eclipse > Hoja del rey arruinado > Guantelete de Sterak
 **Objetos finales:** Danza de la muerte, Apariencia espiritual, Al filo de la Cordura

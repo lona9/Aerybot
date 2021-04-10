@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Látigo férreo
 **Objetos principales:** Látigo férreo > Cortasendas > Guantelete de Sterak > Cota de espinas
-**Objetos finales:** Cota de espinas, Fuerza de la naturaleza, Apariencia espiritual
+**Objetos finales:** Apariencia espiritual, Cota de espinas, Fuerza de la naturaleza

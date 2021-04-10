@@ -1,6 +1,6 @@
 **Lulu ** *(Normal)*
 **Posición:** *Support*
-**Porcentaje de victorias:** 51.4%
+**Porcentaje de victorias:** 51.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Pebetero ardiente > Báculo de agua fluyente
-**Objetos finales:** Pebetero ardiente, Redención, Báculo de agua fluyente
+**Objetos finales:** Redención, Báculo de agua fluyente, Bendición de Mikael

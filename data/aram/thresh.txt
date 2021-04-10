@@ -1,5 +1,5 @@
 **Thresh ** *(ARAM)*
-**Porcentaje de victorias:** 48.2%
+**Porcentaje de victorias:** 47.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de mercurio
-**Objetos iniciales:** Carcaj de mediodía
-**Objetos principales:** Carcaj de mediodía > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero 
-**Objetos finales:** Armadura de Warmog, Cota de espinas, Armadura pétrea
+**Botas:** Convergencia de Zeke
+**Objetos iniciales:** Botas, Poción reutilizable, Gemaluz
+**Objetos principales:** Poción reutilizable > Gemaluz > Gemaluz > Relicario de los Solari de Hierro
+**Objetos finales:** Armadura de Warmog, Armadura pétrea, Cota de espinas
