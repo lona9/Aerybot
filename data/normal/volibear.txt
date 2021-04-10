@@ -1,7 +1,7 @@
 **Volibear ** *(Normal)*
-**Posición:** *Top, Jungler*
-**Porcentaje de victorias:** 51.4%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Posición:** *Jungler, Top*
+**Porcentaje de victorias:** 51.6%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
 > <:precision11:804445926906658886>:cd::cd::cd:
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Punteras de acero revestidas
+**Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Coraza del muerto > Cota de espinas
 **Objetos finales:** Cota de espinas, Apariencia espiritual, Guantelete de Sterak

@@ -1,6 +1,6 @@
 **Renekton ** *(Normal)*
 **Posición:** *Top*
-**Porcentaje de victorias:** 48.8%
+**Porcentaje de victorias:** 47.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Látigo férreo > Cortasendas > Guantelete de Sterak > Ángel Guardián
-**Objetos finales:** Ángel Guardián, Danza de la muerte, Cota de espinas
+**Objetos finales:** Ángel Guardián, Cota de espinas, Danza de la muerte

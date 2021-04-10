@@ -1,5 +1,5 @@
 **Nunu y Willump ** *(ARAM)*
-**Porcentaje de victorias:** 44.7%
+**Porcentaje de victorias:** 45.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Botas, Alternador hextech
-**Objetos principales:** Alternador hextech > Cosechador nocturno > Sombrero mortífero de Rabadon > Báculo del vacío
-**Objetos finales:** Cota de espinas, Reloj de arena de Zhonya, Báculo del vacío
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Apariencia espiritual > Cota de espinas
+**Objetos finales:** Cota de espinas, Apariencia espiritual, Reloj de arena de Zhonya

@@ -1,5 +1,5 @@
 **Udyr ** *(ARAM)*
-**Porcentaje de victorias:** 45.7%
+**Porcentaje de victorias:** 44.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Ceniza de Bami
 **Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Coraza del muerto > Fuerza de la naturaleza
-**Objetos finales:** Cota de espinas, Armadura de Warmog, Apariencia espiritual
+**Objetos finales:** Armadura de Warmog, Cota de espinas, Apariencia espiritual

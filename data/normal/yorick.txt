@@ -1,21 +1,21 @@
 **Yorick ** *(Normal)*
 **Posición:** *Top*
-**Porcentaje de victorias:** 49.0%
+**Porcentaje de victorias:** 51.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+**Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
->   <:valor11:804449943376232509>:cd::cd:
+> :cd::cd:<:precision13:804446921619931187>:cd:
+>   :cd:<:precision22:804446921414541333>:cd:
+>   :cd:<:precision32:804446921737371648>:cd:
+>   :cd::cd:<:precision43:804446921941975080>
+
 >   <:valor21:804449943984537690>:cd::cd:
 >   :cd::cd:<:valor33:804449943603118131>
->   <:valor41:804449944298586143>:cd::cd:
-
->   :cd:<:insp22:804450563793747989>:cd:
->   :cd::cd:<:insp33:804450564049731594>
 >   :cd::cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Brillo > Cercenador divino > Guantelete de Sterak > Cota de espinas
-**Objetos finales:** Apariencia espiritual, Cota de espinas, Coraza del muerto
+**Objetos principales:** Brillo > Fuerza de la trinidad > Hidra titánica > Guantelete de Sterak
+**Objetos finales:** Cota de espinas, Apariencia espiritual, Coraza del muerto

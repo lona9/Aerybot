@@ -8,8 +8,18 @@ class Rotacion(Cog):
 
   @command(name="rotacion", aliases=["rota"])
   async def rotacion(self, ctx):
+    self.testchannel = self.bot.get_channel(827220123299086447)
+    channel = self.testchannel
+
     await ctx.channel.send(
-		    "**Los champs en rotación de esta semana son:** Ekko, Jarvan IV, Jayce, Jinx, Kha'Zix, Lucian, Maokai, Mordekaiser, Neeko, Orianna, Rengar, Thresh, Twisted Fate, Zed, Zyra")
+		    "**Los champs en rotación de esta semana son:** Aatrox, Aphelios, Cho'Gath, Draven, Fizz, Galio, Leona, Lissandra, Olaf, Senna, Swain, Sylas, Taliyah, Xin Zhao, Zac")
+    
+    try:
+      eventmsg = str(ctx.message.content) + ", guild: " + str(ctx.guild.name)
+      await self.testchannel.send(eventmsg)
+    except AttributeError:
+      eventmsg = str(ctx.message.content) + ", guild: None"
+      await self.testchannel.send(eventmsg)
 
   @Cog.listener()
   async def on_ready(self):

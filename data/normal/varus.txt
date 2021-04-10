@@ -1,6 +1,6 @@
 **Varus ** *(Normal)*
 **Posición:** *AD Carry*
-**Porcentaje de victorias:** 48.0%
+**Porcentaje de victorias:** 49.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > Manamune > Filo de la noche
+**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > Manamune > Rencor de Serylda
 **Objetos finales:** Ángel Guardián, Filo de la noche, Rencor de Serylda

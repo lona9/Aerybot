@@ -1,5 +1,5 @@
 **Yorick ** *(ARAM)*
-**Porcentaje de victorias:** 52.5%
+**Porcentaje de victorias:** 59.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Bacteriófago
 **Objetos principales:** Bacteriófago > Cercenador divino > Guantelete de Sterak > Apariencia espiritual
-**Objetos finales:** Danza de la muerte, Cota de espinas, Apariencia espiritual
+**Objetos finales:** Cota de espinas, Danza de la muerte, Apariencia espiritual

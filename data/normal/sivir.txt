@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Lágrima de la diosa, Poción de vida
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Martillo de guerra de Caulfield > Manamune > Filoscuro de Draktharr > Rencor de Serylda
-**Objetos finales:** Ángel Guardián, Recordatorio mortal, Filo de la noche
+**Objetos finales:** Ángel Guardián, Filo de la noche, Recordatorio mortal

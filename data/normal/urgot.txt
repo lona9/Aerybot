@@ -1,6 +1,6 @@
 **Urgot ** *(Normal)*
 **Posición:** *Top*
-**Porcentaje de victorias:** 52.7%
+**Porcentaje de victorias:** 52.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Tiamat > Hidra titánica > Cortasendas > Cuchilla oscura
+**Objetos principales:** Tiamat > Hidra titánica > Cortasendas > Cota de espinas
 **Objetos finales:** Guantelete de Sterak, Cota de espinas, Danza de la muerte
