@@ -33,6 +33,9 @@ class Ayuda(Cog):
   @command(name="comandos", aliases=["comando"])
   async def comandos(self, ctx):
 
+    self.testchannel = self.bot.get_channel(827220123299086447)
+    channel = self.testchannel
+
     embed = Embed(title="Lista de comandos", colour=0xFF0000)
     
     fields = [("\u200B", "Estos son los comandos que puedes utilizar y sus funciones:", False),
