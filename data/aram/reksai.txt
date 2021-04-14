@@ -1,10 +1,10 @@
 **Rek'Sai ** *(ARAM)*
-**Porcentaje de victorias:** 45.7%
+**Porcentaje de victorias:** 45.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd::cd:<:dom14:804447179938070569>
->   :cd::cd:<:dom23:804457130307485707>
+>   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd:<:dom33:804457129578332160>
 > <:dom41:804457130379182120>:cd::cd::cd:
 
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Puñal serrado
 **Objetos principales:** Puñal serrado > Garra de merodeador > El Coleccionista > Filo de la noche
-**Objetos finales:** Danza de la muerte, Hidra voraz, Apariencia espiritual
+**Objetos finales:** Hidra voraz, Guantelete de Sterak, Danza de la muerte

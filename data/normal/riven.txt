@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Látigo férreo > Bebedor de sangre > Cuchilla oscura > Danza de la muerte
-**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Danza de la muerte
+**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Guantelete de Sterak

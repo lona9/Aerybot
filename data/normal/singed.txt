@@ -1,6 +1,6 @@
 **Singed ** *(Normal)*
 **Posición:** *Top*
-**Porcentaje de victorias:** 49.8%
+**Porcentaje de victorias:** 50.8%
 **Hechizos del Invocador:** <:Ghost:804555480856002610> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Punteras de acero revestidas
+**Botas:** Coraza del muerto
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Vara explosiva > Cetro de cristal de Rylai > Quimiotanque turbo > Coraza del muerto
-**Objetos finales:** Morellonomicón, Coraza del muerto, Robaalmas de Mejai
+**Objetos principales:** Cetro de cristal de Rylai > Quimiotanque turbo > Coraza del muerto > Punteras de acero revestidas
+**Objetos finales:** Coraza del muerto, Morellonomicón, Abrazo demoníaco

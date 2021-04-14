@@ -1,6 +1,6 @@
 **Aphelios ** *(Normal)*
 **Posición:** *AD Carry*
-**Porcentaje de victorias:** 45.4%
+**Porcentaje de victorias:** 45.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 

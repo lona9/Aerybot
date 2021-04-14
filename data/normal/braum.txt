@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Redención, Promesa del caballero, Presagio de Randuin
+**Objetos finales:** Presagio de Randuin, Convergencia de Zeke, Promesa del caballero

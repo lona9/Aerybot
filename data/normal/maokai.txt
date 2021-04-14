@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
-**Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Abrazo demoníaco > Morellonomicón
-**Objetos finales:** Presagio de Randuin, Corazón de hielo, Máscara abisal
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Apariencia espiritual
+**Objetos finales:** Presagio de Randuin, Apariencia espiritual, Armadura pétrea

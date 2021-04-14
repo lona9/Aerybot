@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Presagio de Randuin, Canción de batalla de Shurelya, Cota de espinas
+**Objetos finales:** Danza de la muerte, Apariencia espiritual, Guantelete de Sterak
