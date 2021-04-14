@@ -6,7 +6,7 @@
 > <:dom11:804447179758239744>:cd::cd::cd:
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd:<:dom33:804457129578332160>
-> :cd::cd::cd:<:dom44:804457129732866048>
+> <:dom41:804457130379182120>:cd::cd::cd:
 
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd::cd::cd:
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Puñal serrado
 **Objetos principales:** Puñal serrado > Filoscuro de Draktharr > El Coleccionista > Filo de la noche
-**Objetos finales:** Hidra voraz, Rencor de Serylda, Filo de la noche
+**Objetos finales:** Hidra voraz, Rencor de Serylda, Guantelete de Sterak

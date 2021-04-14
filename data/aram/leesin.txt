@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Puñal serrado
 **Objetos principales:** Puñal serrado > Filoscuro de Draktharr > El Coleccionista > Filo de la noche
-**Objetos finales:** Danza de la muerte, Hidra voraz, Sierraespada Quimopunk
+**Objetos finales:** Danza de la muerte, Guantelete de Sterak, Hidra voraz

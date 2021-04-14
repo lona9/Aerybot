@@ -1,6 +1,6 @@
 **Soraka ** *(Normal)*
 **Posición:** *Support*
-**Porcentaje de victorias:** 49.7%
+**Porcentaje de victorias:** 50.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
-**Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Báculo de agua fluyente > Redención
-**Objetos finales:** Redención, Pebetero ardiente, Reloj de arena de Zhonya
+**Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Báculo de agua fluyente > Pebetero ardiente
+**Objetos finales:** Pebetero ardiente, Redención, Báculo de agua fluyente

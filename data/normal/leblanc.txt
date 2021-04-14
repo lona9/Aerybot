@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Botas del hechicero
+**Botas:** Sombrero mortífero de Rabadon
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Capítulo perdido > Tempestad de Luden > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón
+**Objetos principales:** Tempestad de Luden > Reloj de arena de Zhonya > Morellonomicón > Botas del hechicero
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Reloj de arena de Zhonya

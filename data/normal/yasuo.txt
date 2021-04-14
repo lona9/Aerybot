@@ -18,4 +18,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Filo del infinito > Sanguinaria
-**Objetos finales:** Ángel Guardián, Recordatorio mortal, Danza de la muerte
+**Objetos finales:** Ángel Guardián, Danza de la muerte, Recordatorio mortal

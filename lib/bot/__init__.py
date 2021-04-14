@@ -1,5 +1,4 @@
 import discord
-from keep_alive import keep_alive
 from asyncio import sleep
 from discord import Intents
 from datetime import datetime
@@ -116,7 +115,5 @@ class Bot(BotBase):
   async def on_message(self, message):
     if not message.author.bot:
       await self.process_commands(message)
-
-keep_alive()
 
 bot = Bot()

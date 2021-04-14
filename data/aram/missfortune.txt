@@ -1,5 +1,5 @@
 **Miss Fortune ** *(ARAM)*
-**Porcentaje de victorias:** 51.3%
+**Porcentaje de victorias:** 51.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj de mediodía
+**Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Puñal serrado > Eclipse > El Coleccionista > Filo de la noche
-**Objetos finales:** Recordatorio mortal, Sanguinaria, Filo del infinito
+**Objetos finales:** Recordatorio mortal, Filo del infinito, Sanguinaria

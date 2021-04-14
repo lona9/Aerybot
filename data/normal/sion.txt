@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Punteras de acero revestidas
+**Botas:** Armadura pétrea
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Presagio de Randuin
-**Objetos finales:** Cota de espinas, Presagio de Randuin, Armadura pétrea
+**Objetos principales:** Guantelete de fuego escarchado > Cota de espinas > Presagio de Randuin > Punteras de acero revestidas
+**Objetos finales:** Armadura pétrea, Presagio de Randuin, Cota de espinas
