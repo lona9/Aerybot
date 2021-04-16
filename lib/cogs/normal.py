@@ -175,7 +175,7 @@ class Normal(Cog):
 
 
       def filename(x):
-        arampath = '/home/runner/Aerybotv2/data/normal/'
+        arampath = '/root/aery/data/normal/'
         extension = '.txt'
         file = arampath + x + extension
         return file

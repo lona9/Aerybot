@@ -175,7 +175,7 @@ class Aram(Cog):
 
 
       def filename(x):
-        arampath = '/home/runner/Aerybotv2/data/aram/'
+        arampath = '/root/aery/data/aram/'
         extension = '.txt'
         file = arampath + x + extension
         return file
