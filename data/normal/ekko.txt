@@ -1,6 +1,6 @@
 **Ekko ** *(Normal)*
-**PosiciÃ³n:** *Jungler, Mid*
-**Porcentaje de victorias:** 49.2%
+**Posición:** *Mid, Jungler*
+**Porcentaje de victorias:** 49.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Hoja granizo, PociÃ³n reutilizable
-**Objetos principales:** Alternador hextech > Cintomisil hextech > MaldiciÃ³n del liche > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortÃ­fero de Rabadon, BÃ¡culo del vacÃ­o, Reloj de arena de Zhonya
+**Objetos iniciales:** Centinela invisible, Poción de corrupción
+**Objetos principales:** Alternador hextech > Cintomisil hextech > Maldición del liche > Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Reloj de arena de Zhonya

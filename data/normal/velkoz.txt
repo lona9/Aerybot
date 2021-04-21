@@ -1,7 +1,7 @@
 **Vel'Koz ** *(Normal)*
-**Posici贸n:** *Mid, Support*
+**Posici髇:** *Mid, Support*
 **Porcentaje de victorias:** 50.3%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
 >   :cd:<:bruj12:804448797001252864>:cd:
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poci贸n de vida
-**Objetos principales:** Cap铆tulo perdido > Tempestad de Luden > Reloj de arena de Zhonya > Precisi贸n infalible
-**Objetos finales:** Sombrero mort铆fero de Rabadon, Morellonomic贸n, B谩culo del vac铆o
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poci髇 de vida
+**Objetos principales:** Cap韙ulo perdido > Tempestad de Luden > Reloj de arena de Zhonya > Precisi髇 infalible
+**Objetos finales:** Sombrero mort韋ero de Rabadon, Morellonomic髇, B醕ulo del vac韔

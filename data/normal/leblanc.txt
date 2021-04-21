@@ -1,6 +1,6 @@
 **LeBlanc ** *(Normal)*
-**Posici贸n:** *Mid*
-**Porcentaje de victorias:** 48.8%
+**Posici髇:** *Mid*
+**Porcentaje de victorias:** 49.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Sombrero mort铆fero de Rabadon
-**Objetos iniciales:** Centinela invisible, Poci贸n de corrupci贸n
-**Objetos principales:** Tempestad de Luden > Reloj de arena de Zhonya > Morellonomic贸n > Botas del hechicero
-**Objetos finales:** Sombrero mort铆fero de Rabadon, B谩culo del vac铆o, Reloj de arena de Zhonya
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Centinela invisible, Poci髇 de corrupci髇
+**Objetos principales:** Cap韙ulo perdido > Tempestad de Luden > Reloj de arena de Zhonya > Morellonomic髇
+**Objetos finales:** B醕ulo del vac韔, Sombrero mort韋ero de Rabadon, Morellonomic髇

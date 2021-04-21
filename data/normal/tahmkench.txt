@@ -1,6 +1,6 @@
 **Tahm Kench ** *(Normal)*
-**PosiciÃ³n:** *AD Carry, Top, Support*
-**Porcentaje de victorias:** 49.6%
+**Posición:** *AD Carry, Top, Support*
+**Porcentaje de victorias:** 48.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Escudo de Doran, PociÃ³n de vida
-**Objetos principales:** Ceniza de Bami > Ã‰gida de fuego solar > Cota de espinas > Apariencia espiritual
-**Objetos finales:** Cota de espinas, Coraza del muerto, Presagio de Randuin
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Apariencia espiritual
+**Objetos finales:** Apariencia espiritual, Presagio de Randuin, Armadura de Warmog

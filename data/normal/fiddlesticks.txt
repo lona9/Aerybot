@@ -1,6 +1,6 @@
 **Fiddlesticks ** *(Normal)*
-**Posici贸n:** *Jungler*
-**Porcentaje de victorias:** 52.2%
+**Posici髇:** *Jungler*
+**Porcentaje de victorias:** 52.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Hoja granizo, Poci贸n de vida, Guardi谩n de control
-**Objetos principales:** Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya > Morellonomic贸n
-**Objetos finales:** Sombrero mort铆fero de Rabadon, B谩culo del vac铆o, Morellonomic贸n
+**Objetos iniciales:** Hoja granizo, Poci髇 de vida, Guardi醤 de control
+**Objetos principales:** Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya > Morellonomic髇
+**Objetos finales:** B醕ulo del vac韔, Morellonomic髇, Sombrero mort韋ero de Rabadon

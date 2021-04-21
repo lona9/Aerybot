@@ -1,6 +1,6 @@
 **Lissandra ** *(Normal)*
-**Posici贸n:** *Mid*
-**Porcentaje de victorias:** 50.7%
+**Posici髇:** *Mid*
+**Porcentaje de victorias:** 51.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poci贸n de vida
-**Objetos principales:** Cap铆tulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Morellonomic贸n
-**Objetos finales:** B谩culo del vac铆o, Morellonomic贸n, Sombrero mort铆fero de Rabadon
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poci髇 de vida
+**Objetos principales:** Cap韙ulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Morellonomic髇
+**Objetos finales:** B醕ulo del vac韔, Sombrero mort韋ero de Rabadon, Morellonomic髇

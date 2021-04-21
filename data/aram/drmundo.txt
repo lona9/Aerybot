@@ -1,5 +1,5 @@
 **Dr. Mundo ** *(ARAM)*
-**Porcentaje de victorias:** 52.9%
+**Porcentaje de victorias:** 57.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** PociÃ³n reutilizable, Ceniza de Bami
-**Objetos principales:** Ceniza de Bami > Ã‰gida de fuego solar > Apariencia espiritual > Cota de espinas
-**Objetos finales:** Armadura pÃ©trea, Presagio de Randuin, Cota de espinas
+**Objetos iniciales:** Poción reutilizable, Ceniza de Bami
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Apariencia espiritual > Cota de espinas
+**Objetos finales:** Armadura pétrea, Presagio de Randuin, Cota de espinas

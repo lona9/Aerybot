@@ -1,6 +1,6 @@
 **Kha'Zix ** *(Normal)*
-**Posición:** *Jungler*
-**Porcentaje de victorias:** 51.0%
+**Posici�n:** *Jungler*
+**Porcentaje de victorias:** 50.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Filoscuro de Draktharr
-**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
-**Objetos principales:** Centinela invisible > Hoja granizo > Poción reutilizable > Puñal serrado
-**Objetos finales:** Ángel Guardián, Rencor de Serylda, Filo de la noche
+**Botas:** Botas jonias de la lucidez
+**Objetos iniciales:** Centinela invisible, Hoja granizo, Poci�n reutilizable
+**Objetos principales:** Pu�al serrado > Filoscuro de Draktharr > El Coleccionista > Filo de la noche
+**Objetos finales:** �ngel Guardi�n, Rencor de Serylda, Sierraespada Quimopunk

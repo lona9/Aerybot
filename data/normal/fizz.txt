@@ -1,6 +1,6 @@
 **Fizz ** *(Normal)*
-**Posici贸n:** *Mid*
-**Porcentaje de victorias:** 51.3%
+**Posici髇:** *Mid*
+**Porcentaje de victorias:** 50.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Sombrero mort铆fero de Rabadon
-**Objetos iniciales:** Centinela invisible, Poci贸n de corrupci贸n
-**Objetos principales:** Cosechador nocturno > Maldici贸n del liche > Reloj de arena de Zhonya > Botas jonias de la lucidez
-**Objetos finales:** Sombrero mort铆fero de Rabadon, B谩culo del vac铆o, Morellonomic贸n
+**Botas:** Botas jonias de la lucidez
+**Objetos iniciales:** Centinela invisible, Poci髇 de corrupci髇
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Maldici髇 del liche > Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mort韋ero de Rabadon, B醕ulo del vac韔, Morellonomic髇

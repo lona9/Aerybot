@@ -1,6 +1,6 @@
 **Kassadin ** *(Normal)*
-**PosiciÃ³n:** *Mid*
-**Porcentaje de victorias:** 51.7%
+**Posición:** *Mid*
+**Porcentaje de victorias:** 50.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Sello oscuro, PociÃ³n reutilizable
-**Objetos principales:** CapÃ­tulo perdido > Escarcha eterna > BÃ¡culo del arcÃ¡ngel > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortÃ­fero de Rabadon, BÃ¡culo del vacÃ­o, Robaalmas de Mejai
+**Objetos iniciales:** Centinela invisible, Sello oscuro, Poción reutilizable
+**Objetos principales:** Capítulo perdido > Escarcha eterna > Báculo del arcángel > Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Robaalmas de Mejai

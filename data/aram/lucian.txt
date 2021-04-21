@@ -1,5 +1,5 @@
 **Lucian ** *(ARAM)*
-**Porcentaje de victorias:** 47.1%
+**Porcentaje de victorias:** 48.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj de mediodÃ­a
-**Objetos principales:** Carcaj de mediodÃ­a > Matakrakens > Saqueador de esencias > Filoveloz de Navori
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Saqueador de esencias > Filoveloz de Navori
 **Objetos finales:** Filo del infinito, Sanguinaria, Recordatorio mortal

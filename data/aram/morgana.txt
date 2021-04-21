@@ -1,5 +1,5 @@
 **Morgana ** *(ARAM)*
-**Porcentaje de victorias:** 53.3%
+**Porcentaje de victorias:** 53.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** CapÃ­tulo perdido
-**Objetos principales:** CapÃ­tulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Abrazo demonÃ­aco
-**Objetos finales:** BÃ¡culo del vacÃ­o, MorellonomicÃ³n, Sombrero mortÃ­fero de Rabadon
+**Objetos iniciales:** Capítulo perdido
+**Objetos principales:** Capítulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Abrazo demoníaco
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

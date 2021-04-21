@@ -1,6 +1,6 @@
 **Ornn ** *(Normal)*
-**PosiciÃ³n:** *Top*
-**Porcentaje de victorias:** 51.2%
+**Posición:** *Top*
+**Porcentaje de victorias:** 52.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Escudo de Doran, PociÃ³n de vida
-**Objetos principales:** Ceniza de Bami > Ã‰gida de fuego solar > Cota de espinas > MÃ¡scara abisal
-**Objetos finales:** Armadura pÃ©trea, Presagio de Randuin, Armadura de Warmog
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Máscara abisal
+**Objetos finales:** Armadura pétrea, Corazón de hielo, Armadura de Warmog

@@ -1,21 +1,21 @@
 **Ahri ** *(Normal)*
-**Posici贸n:** *Mid*
-**Porcentaje de victorias:** 52.0%
+**Posici髇:** *Mid*
+**Porcentaje de victorias:** 51.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
+**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
 > <:dom11:804447179758239744>:cd::cd::cd:
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd:<:dom33:804457129578332160>
 > :cd::cd::cd:<:dom44:804457129732866048>
 
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
 >   :cd::cd::cd:
->   :cd::cd:<:insp33:804450564049731594>
->   :cd::cd:<:insp43:804450563952869452>
->   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poci贸n de vida
-**Objetos principales:** Cap铆tulo perdido > Escarcha eterna > Impulso c贸smico > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mort铆fero de Rabadon, B谩culo del vac铆o, Morellonomic贸n
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poci髇 de vida
+**Objetos principales:** Cap韙ulo perdido > Escarcha eterna > Impulso c髎mico > Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mort韋ero de Rabadon, B醕ulo del vac韔, Morellonomic髇

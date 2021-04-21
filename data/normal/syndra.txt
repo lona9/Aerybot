@@ -1,6 +1,6 @@
 **Syndra ** *(Normal)*
-**PosiciÃ³n:** *Mid*
-**Porcentaje de victorias:** 46.0%
+**Posición:** *Mid*
+**Porcentaje de victorias:** 45.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Anillo de Doran, PociÃ³n de vida
-**Objetos principales:** CapÃ­tulo perdido > Tempestad de Luden > BÃ¡culo del arcÃ¡ngel > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortÃ­fero de Rabadon, BÃ¡culo del vacÃ­o, Reloj de arena de Zhonya
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Báculo del arcángel > Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón

@@ -1,5 +1,5 @@
 **Zyra ** *(Normal)*
-**PosiciÃ³n:** *Support*
+**Posición:** *Support*
 **Porcentaje de victorias:** 50.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, PociÃ³n de vida
-**Objetos principales:** CapÃ­tulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > MorellonomicÃ³n
-**Objetos finales:** BÃ¡culo del vacÃ­o, Sombrero mortÃ­fero de Rabadon, Abrazo demonÃ­aco
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
+**Objetos principales:** Capítulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Morellonomicón
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Abrazo demoníaco

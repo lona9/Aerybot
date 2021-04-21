@@ -1,6 +1,6 @@
 **Teemo ** *(Normal)*
-**PosiciÃ³n:** *Top*
-**Porcentaje de victorias:** 48.9%
+**Posición:** *Top*
+**Porcentaje de victorias:** 47.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Anillo de Doran, PociÃ³n de vida
-**Objetos principales:** Arco curvo > Diente de Nashor > Angustia de Liandry > Abrazo demonÃ­aco
-**Objetos finales:** Sombrero mortÃ­fero de Rabadon, BÃ¡culo del vacÃ­o, MorellonomicÃ³n
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
+**Objetos principales:** Arco curvo > Diente de Nashor > Angustia de Liandry > Abrazo demoníaco
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón

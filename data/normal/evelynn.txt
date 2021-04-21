@@ -1,6 +1,6 @@
 **Evelynn ** *(Normal)*
-**PosiciÃ³n:** *Jungler*
-**Porcentaje de victorias:** 50.4%
+**Posición:** *Jungler*
+**Porcentaje de victorias:** 50.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Hoja granizo, PociÃ³n reutilizable
-**Objetos principales:** Alternador hextech > Cosechador nocturno > MaldiciÃ³n del liche > BÃ¡culo del vacÃ­o
-**Objetos finales:** BÃ¡culo del vacÃ­o, Sombrero mortÃ­fero de Rabadon, Velo de la banshee
+**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Maldición del liche > Báculo del vacío
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Velo de la banshee

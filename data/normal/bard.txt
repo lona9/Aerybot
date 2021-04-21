@@ -1,21 +1,21 @@
 **Bardo ** *(Normal)*
-**Posición:** *Support*
-**Porcentaje de victorias:** 52.4%
+**Posici�n:** *Support*
+**Porcentaje de victorias:** 51.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
 
 >   :cd::cd:<:valor13:804449943497605171>
 >   :cd:<:valor22:804449944018223104>:cd:
 >   :cd::cd:<:valor33:804449943603118131>
->   <:valor41:804449944298586143>:cd::cd:
+>   :cd:<:valor42:804449943615438919>:cd:
 
 >   :cd::cd::cd:
 >   <:dom31:804457128914976788>:cd::cd:
 > :cd::cd:<:dom43:804457129183936582>:cd:
->   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
+>   <:5007:804451180164022312> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
-**Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Coraza del muerto > Cañón de fuego rápido
-**Objetos finales:** Cañón de fuego rápido, Impulso cósmico, Putrificador tecnoquímico
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poci�n de vida
+**Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Coraza del muerto > Ca��n de fuego r�pido
+**Objetos finales:** Redenci�n, Putrificador tecnoqu�mico, Bendici�n de Mikael

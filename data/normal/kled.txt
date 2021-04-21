@@ -1,6 +1,6 @@
 **Kled ** *(Normal)*
-**PosiciÃ³n:** *Top*
-**Porcentaje de victorias:** 52.0%
+**Posición:** *Top*
+**Porcentaje de victorias:** 52.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Espada de Doran, PociÃ³n de vida
-**Objetos principales:** Ceniza de Bami > Ã‰gida de fuego solar > Guantelete de Sterak > Armadura pÃ©trea
-**Objetos finales:** Cota de espinas, Armadura pÃ©trea, Danza de la muerte
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Hidra titánica > Guantelete de Sterak
+**Objetos finales:** Cota de espinas, Armadura pétrea, Ángel Guardián

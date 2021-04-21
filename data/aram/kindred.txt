@@ -1,5 +1,5 @@
 **Kindred ** *(ARAM)*
-**Porcentaje de victorias:** 48.8%
+**Porcentaje de victorias:** 48.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -8,13 +8,13 @@
 >   <:precision31:804446921660956702>:cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:
 
->   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd:<:dom23:804457130307485707>
 >   :cd::cd::cd:
 > <:dom41:804457130379182120>:cd::cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj de mediodÃ­a
-**Objetos principales:** Carcaj de mediodÃ­a > Matakrakens > Navaja de asalto > CaÃ±Ã³n de fuego rÃ¡pido
-**Objetos finales:** Filo del infinito, Sanguinaria, Recordatorio mortal
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Huracán de Runaan > Filo del infinito
+**Objetos finales:** Sanguinaria, Filo del infinito, Recordatorio mortal

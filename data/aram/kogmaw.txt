@@ -1,6 +1,6 @@
 **Kog'Maw ** *(ARAM)*
-**Porcentaje de victorias:** 53.3%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Porcentaje de victorias:** 53.2%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj de mediodÃ­a
-**Objetos principales:** CapÃ­tulo perdido > Angustia de Liandry > BÃ¡culo del arcÃ¡ngel > Abrazo demonÃ­aco
-**Objetos finales:** Sanguinaria, Sombrero mortÃ­fero de Rabadon, BÃ¡culo del vacÃ­o
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Huracán de Runaan > Hoja del rey arruinado
+**Objetos finales:** Sanguinaria, Sombrero mortífero de Rabadon, Báculo del vacío

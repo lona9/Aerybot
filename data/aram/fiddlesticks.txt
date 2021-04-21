@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** BÃ¡culo del vacÃ­o
-**Objetos iniciales:** CapÃ­tulo perdido
-**Objetos principales:** Angustia de Liandry > Reloj de arena de Zhonya > Abrazo demonÃ­aco > Botas del hechicero
-**Objetos finales:** BÃ¡culo del vacÃ­o, Sombrero mortÃ­fero de Rabadon, MorellonomicÃ³n
+**Botas:** Báculo del vacío
+**Objetos iniciales:** Capítulo perdido
+**Objetos principales:** Angustia de Liandry > Reloj de arena de Zhonya > Abrazo demoníaco > Botas del hechicero
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

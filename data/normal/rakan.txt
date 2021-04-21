@@ -1,6 +1,6 @@
 **Rakan ** *(Normal)*
-**Posici贸n:** *Support*
-**Porcentaje de victorias:** 49.5%
+**Posici髇:** *Support*
+**Porcentaje de victorias:** 50.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Escudo reliquia, Poci贸n de vida
-**Objetos principales:** Gemaluz > Canci贸n de batalla de Shurelya > Convergencia de Zeke > Redenci贸n
-**Objetos finales:** B谩culo de agua fluyente, Convergencia de Zeke, Redenci贸n
+**Objetos iniciales:** Centinela invisible, Escudo reliquia, Poci髇 de vida
+**Objetos principales:** Gemaluz > Canci髇 de batalla de Shurelya > Convergencia de Zeke > Redenci髇
+**Objetos finales:** Convergencia de Zeke, Bendici髇 de Mikael, Redenci髇

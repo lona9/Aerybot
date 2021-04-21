@@ -1,6 +1,6 @@
 **Rek'Sai ** *(Normal)*
-**PosiciÃ³n:** *Jungler*
-**Porcentaje de victorias:** 51.9%
+**Posición:** *Jungler*
+**Porcentaje de victorias:** 51.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Lente del orÃ¡culo, Hoja granizo, PociÃ³n reutilizable
-**Objetos principales:** PuÃ±al serrado > Garra de merodeador > Filo de la noche > Guantelete de Sterak
-**Objetos finales:** Ãngel GuardiÃ¡n, Sierraespada Quimopunk, Danza de la muerte
+**Objetos iniciales:** Lente del oráculo, Hoja granizo, Poción reutilizable
+**Objetos principales:** Puñal serrado > Garra de merodeador > Filo de la noche > Guantelete de Sterak
+**Objetos finales:** Ángel Guardián, Danza de la muerte, Sierraespada Quimopunk

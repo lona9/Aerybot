@@ -1,6 +1,6 @@
 **Samira ** *(Normal)*
-**PosiciÃ³n:** *AD Carry*
-**Porcentaje de victorias:** 49.8%
+**Posición:** *AD Carry*
+**Porcentaje de victorias:** 50.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Espada de Doran, PociÃ³n de vida
-**Objetos principales:** Carcaj de mediodÃ­a > Arcoescudo inmortal > El Coleccionista > Filo del infinito
-**Objetos finales:** Ãngel GuardiÃ¡n, Sanguinaria, Recuerdos de lord Dominik
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > El Coleccionista > Filo del infinito
+**Objetos finales:** Ángel Guardián, Sanguinaria, Recuerdos de lord Dominik

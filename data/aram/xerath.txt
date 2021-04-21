@@ -1,12 +1,12 @@
 **Xerath ** *(ARAM)*
-**Porcentaje de victorias:** 53.6%
+**Porcentaje de victorias:** 52.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
 >   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd:<:dom33:804457129578332160>
-> <:dom41:804457130379182120>:cd::cd::cd:
+> :cd::cd::cd:<:dom44:804457129732866048>
 
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd::cd::cd:
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** CapÃ­tulo perdido
-**Objetos principales:** CapÃ­tulo perdido > Tempestad de Luden > PrecisiÃ³n infalible > Sombrero mortÃ­fero de Rabadon
-**Objetos finales:** BÃ¡culo del vacÃ­o, MorellonomicÃ³n, Sombrero mortÃ­fero de Rabadon
+**Objetos iniciales:** Capítulo perdido
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Precisión infalible > Sombrero mortífero de Rabadon
+**Objetos finales:** Báculo del vacío, Morellonomicón, Sombrero mortífero de Rabadon

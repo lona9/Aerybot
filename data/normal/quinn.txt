@@ -1,13 +1,13 @@
 **Quinn ** *(Normal)*
-**PosiciÃ³n:** *Top*
-**Porcentaje de victorias:** 51.5%
+**Posición:** *Top*
+**Porcentaje de victorias:** 51.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > <:precision11:804445926906658886>:cd::cd::cd:
 >   <:precision21:804446921363685387>:cd::cd:
 >   <:precision31:804446921660956702>:cd::cd:
->   :cd:<:precision42:804446921636053043>:cd:
+>   <:precision41:804446922151690300>:cd::cd:
 
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Centinela invisible, Espada de Doran, PociÃ³n de vida
-**Objetos principales:** Carcaj de mediodÃ­a > Fuerza del Viento > Navaja de asalto > Filo del infinito
-**Objetos finales:** Ãngel GuardiÃ¡n, Filo del infinito, Recordatorio mortal
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > Navaja de asalto > Filo del infinito
+**Objetos finales:** Ángel Guardián, Filo del infinito, Sanguinaria

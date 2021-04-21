@@ -1,5 +1,5 @@
 **Ezreal ** *(ARAM)*
-**Porcentaje de victorias:** 49.8%
+**Porcentaje de victorias:** 50.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** PociÃ³n reutilizable, Brillo, LÃ¡grima de la diosa
+**Objetos iniciales:** Poción reutilizable, Brillo, Lágrima de la diosa
 **Objetos principales:** Brillo > Saqueador de esencias > Manamune > Filoscuro de Draktharr
 **Objetos finales:** Rencor de Serylda, Hidra voraz, Sierraespada Quimopunk

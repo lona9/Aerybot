@@ -1,6 +1,6 @@
 **Ryze ** *(Normal)*
-**PosiciÃ³n:** *Mid, Top*
-**Porcentaje de victorias:** 45.1%
+**Posición:** *Mid, Top*
+**Porcentaje de victorias:** 44.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, LÃ¡grima de la diosa, PociÃ³n de vida
-**Objetos principales:** CapÃ­tulo perdido > Escarcha eterna > BÃ¡culo del arcÃ¡ngel > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortÃ­fero de Rabadon, BÃ¡culo del vacÃ­o, MorellonomicÃ³n
+**Objetos iniciales:** Centinela invisible, Lágrima de la diosa, Poción de vida
+**Objetos principales:** Capítulo perdido > Escarcha eterna > Báculo del arcángel > Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón

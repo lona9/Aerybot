@@ -1,6 +1,6 @@
 **Janna ** *(Normal)*
-**Posici贸n:** *Support*
-**Porcentaje de victorias:** 51.4%
+**Posici髇:** *Support*
+**Porcentaje de victorias:** 51.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poci贸n de vida
-**Objetos principales:** Espejo de cristal de Bandle > Renovaci贸n de piedra lunar > B谩culo de agua fluyente > Putrificador tecnoqu铆mico
-**Objetos finales:** B谩culo de agua fluyente, Redenci贸n, Pebetero ardiente
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poci髇 de vida
+**Objetos principales:** Espejo de cristal de Bandle > Canci髇 de batalla de Shurelya > B醕ulo de agua fluyente > Putrificador tecnoqu韒ico
+**Objetos finales:** Redenci髇, Putrificador tecnoqu韒ico, Pebetero ardiente

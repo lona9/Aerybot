@@ -1,7 +1,7 @@
 **Sona ** *(Normal)*
-**Posici贸n:** *Support*
-**Porcentaje de victorias:** 50.8%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Posici髇:** *Support*
+**Porcentaje de victorias:** 51.6%
+**Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
 >   <:bruj11:804448796104589323>:cd::cd:
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poci贸n de vida
-**Objetos principales:** Espejo de cristal de Bandle > Renovaci贸n de piedra lunar > B谩culo de agua fluyente > Pebetero ardiente
-**Objetos finales:** Bendici贸n de Mikael, Pebetero ardiente, Redenci贸n
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poci髇 de vida
+**Objetos principales:** Espejo de cristal de Bandle > Renovaci髇 de piedra lunar > B醕ulo de agua fluyente > Putrificador tecnoqu韒ico
+**Objetos finales:** B醕ulo de agua fluyente, Maldici髇 del liche, Redenci髇

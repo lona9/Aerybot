@@ -1,6 +1,6 @@
 **Maokai ** *(Normal)*
-**PosiciÃ³n:** *Support, Top*
-**Porcentaje de victorias:** 52.2%
+**Posición:** *Support, Top*
+**Porcentaje de victorias:** 51.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Escudo reliquia, PociÃ³n de vida
-**Objetos principales:** Ceniza de Bami > Ã‰gida de fuego solar > Cota de espinas > Apariencia espiritual
-**Objetos finales:** Presagio de Randuin, Apariencia espiritual, Armadura pÃ©trea
+**Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Apariencia espiritual
+**Objetos finales:** Presagio de Randuin, Corazón de hielo, Armadura pétrea

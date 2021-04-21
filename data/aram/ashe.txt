@@ -1,5 +1,5 @@
 **Ashe ** *(ARAM)*
-**Porcentaje de victorias:** 54.0%
+**Porcentaje de victorias:** 54.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj de mediodÃ­a
+**Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Manamune > Hidra voraz
 **Objetos finales:** Recordatorio mortal, Filo del infinito, Sanguinaria

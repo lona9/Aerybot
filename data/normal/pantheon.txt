@@ -1,6 +1,6 @@
 **Pantheon ** *(Normal)*
-**Posición:** *Mid, Support*
-**Porcentaje de victorias:** 49.0%
+**Posici�n:** *Mid, Support*
+**Porcentaje de victorias:** 49.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Ángel Guardián
-**Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Eclipse > Cuchilla oscura > Guantelete de Sterak > Punteras de acero revestidas
-**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Danza de la muerte
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Poci�n de corrupci�n
+**Objetos principales:** Pu�al serrado > Eclipse > Cuchilla oscura > Guantelete de Sterak
+**Objetos finales:** �ngel Guardi�n, Sierraespada Quimopunk, Danza de la muerte

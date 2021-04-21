@@ -1,6 +1,6 @@
 **Dr. Mundo ** *(Normal)*
-**PosiciÃ³n:** *Jungler*
-**Porcentaje de victorias:** 51.3%
+**Posición:** *Jungler, Top*
+**Porcentaje de victorias:** 50.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Hoja granizo, PociÃ³n reutilizable
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Cota de espinas > Apariencia espiritual
-**Objetos finales:** Armadura pÃ©trea, Presagio de Randuin, Armadura de Warmog
+**Objetos finales:** Armadura pétrea, Presagio de Randuin, Armadura de Warmog

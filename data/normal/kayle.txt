@@ -1,21 +1,21 @@
 **Kayle ** *(Normal)*
-**Posici贸n:** *Top*
-**Porcentaje de victorias:** 49.4%
+**Posici髇:** *Top*
+**Porcentaje de victorias:** 51.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+**Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
 > <:precision11:804445926906658886>:cd::cd::cd:
 >   <:precision21:804446921363685387>:cd::cd:
 >   <:precision31:804446921660956702>:cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:
 
->   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
-> <:dom41:804457130379182120>:cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd::cd:<:insp43:804450563952869452>
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Sombrero mort铆fero de Rabadon
-**Objetos iniciales:** Centinela invisible, Poci贸n de corrupci贸n
-**Objetos principales:** Diente de Nashor > Agrietador > Maldici贸n del liche > Grebas de berserker
-**Objetos finales:** Sombrero mort铆fero de Rabadon, Reloj de arena de Zhonya, 脕ngel Guardi谩n
+**Botas:** Grebas de berserker
+**Objetos iniciales:** Centinela invisible, Poci髇 de corrupci髇
+**Objetos principales:** Arco curvo > Diente de Nashor > Agrietador > Maldici髇 del liche
+**Objetos finales:** Sombrero mort韋ero de Rabadon, Reloj de arena de Zhonya, 羘gel Guardi醤

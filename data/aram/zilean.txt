@@ -10,11 +10,11 @@
 
 >   :cd::cd::cd:
 >   :cd::cd:<:dom33:804457129578332160>
-> :cd::cd:<:dom43:804457129183936582>:cd:
->   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+> :cd::cd::cd:<:dom44:804457129732866048>
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5001:804451180112642088>
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** CapÃ­tulo perdido
-**Objetos principales:** CapÃ­tulo perdido > Angustia de Liandry > Abrazo demonÃ­aco > MorellonomicÃ³n
-**Objetos finales:** BÃ¡culo del vacÃ­o, MorellonomicÃ³n, Sombrero mortÃ­fero de Rabadon
+**Objetos iniciales:** Capítulo perdido
+**Objetos principales:** Capítulo perdido > Escarcha eterna > Impulso cósmico > Reloj de arena de Zhonya
+**Objetos finales:** Báculo del vacío, Morellonomicón, Sombrero mortífero de Rabadon

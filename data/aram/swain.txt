@@ -1,12 +1,12 @@
 **Swain ** *(ARAM)*
-**Porcentaje de victorias:** 51.5%
+**Porcentaje de victorias:** 51.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
 >   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd:<:dom33:804457129578332160>
-> <:dom41:804457130379182120>:cd::cd::cd:
+> :cd::cd::cd:<:dom44:804457129732866048>
 
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd::cd::cd:
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** CapÃ­tulo perdido
-**Objetos principales:** CapÃ­tulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Abrazo demonÃ­aco
-**Objetos finales:** MorellonomicÃ³n, Apariencia espiritual, Sombrero mortÃ­fero de Rabadon
+**Objetos iniciales:** Capítulo perdido
+**Objetos principales:** Capítulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Abrazo demoníaco
+**Objetos finales:** Morellonomicón, Sombrero mortífero de Rabadon, Apariencia espiritual

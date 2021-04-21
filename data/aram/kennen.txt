@@ -1,14 +1,14 @@
 **Kennen ** *(ARAM)*
-**Porcentaje de victorias:** 46.6%
+**Porcentaje de victorias:** 48.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
->   :cd::cd:<:dom23:804457130307485707>
+>   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd:<:dom33:804457129578332160>
 > :cd::cd::cd:<:dom44:804457129732866048>
 
->   :cd::cd:<:precision23:804446921628057630>
+>   :cd:<:precision22:804446921414541333>:cd:
 >   :cd::cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Botas, Alternador hextech
-**Objetos principales:** Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya > MorellonomicÃ³n
-**Objetos finales:** BÃ¡culo del vacÃ­o, Sombrero mortÃ­fero de Rabadon, MorellonomicÃ³n
+**Objetos principales:** Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya > Impulso cósmico
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

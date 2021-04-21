@@ -1,6 +1,6 @@
 **Rumble ** *(Normal)*
-**Posici贸n:** *Top, Mid*
-**Porcentaje de victorias:** 48.4%
+**Posici髇:** *Top, Mid, Jungler*
+**Porcentaje de victorias:** 49.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poci贸n de vida
-**Objetos principales:** Alternador hextech > Cosechador nocturno > Reloj de arena de Zhonya > Morellonomic贸n
-**Objetos finales:** Sombrero mort铆fero de Rabadon, B谩culo del vac铆o, Morellonomic贸n
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poci髇 de vida
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Reloj de arena de Zhonya > Morellonomic髇
+**Objetos finales:** B醕ulo del vac韔, Sombrero mort韋ero de Rabadon, Morellonomic髇

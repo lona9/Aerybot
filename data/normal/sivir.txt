@@ -1,6 +1,6 @@
 **Sivir ** *(Normal)*
-**PosiciÃ³n:** *AD Carry*
-**Porcentaje de victorias:** 50.8%
+**Posición:** *AD Carry*
+**Porcentaje de victorias:** 51.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, LÃ¡grima de la diosa, PociÃ³n de vida
+**Objetos iniciales:** Centinela invisible, Lágrima de la diosa, Poción de vida
 **Objetos principales:** Martillo de guerra de Caulfield > Manamune > Filoscuro de Draktharr > Rencor de Serylda
-**Objetos finales:** Ãngel GuardiÃ¡n, Filo de la noche, El Coleccionista
+**Objetos finales:** Ángel Guardián, Filo de la noche, El Coleccionista

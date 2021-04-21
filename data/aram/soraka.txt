@@ -1,5 +1,5 @@
 **Soraka ** *(ARAM)*
-**Porcentaje de victorias:** 50.1%
+**Porcentaje de victorias:** 50.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:bruj:804451124236648478> <:valor:804451124245561394>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Cristal de rubÃ­, Espejo de cristal de Bandle
-**Objetos principales:** Espejo de cristal de Bandle > RenovaciÃ³n de piedra lunar > RedenciÃ³n > Armadura de Warmog
-**Objetos finales:** Armadura de Warmog, BÃ¡culo de agua fluyente, Apariencia espiritual
+**Objetos iniciales:** Cristal de rubí, Espejo de cristal de Bandle
+**Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Redención > Armadura de Warmog
+**Objetos finales:** Armadura de Warmog, Apariencia espiritual, Báculo de agua fluyente

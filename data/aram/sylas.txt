@@ -1,5 +1,5 @@
 **Sylas ** *(ARAM)*
-**Porcentaje de victorias:** 46.6%
+**Porcentaje de victorias:** 46.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** CapÃ­tulo perdido
-**Objetos principales:** CapÃ­tulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Impulso cÃ³smico
-**Objetos finales:** Sombrero mortÃ­fero de Rabadon, MorellonomicÃ³n, Apariencia espiritual
+**Objetos iniciales:** Capítulo perdido
+**Objetos principales:** Capítulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Impulso cósmico
+**Objetos finales:** Sombrero mortífero de Rabadon, Morellonomicón, Báculo del vacío

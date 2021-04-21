@@ -1,20 +1,20 @@
 **Leona ** *(ARAM)*
-**Porcentaje de victorias:** 54.8%
+**Porcentaje de victorias:** 52.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
 >   :cd:<:valor12:804449943775084614>:cd:
 >   :cd:<:valor22:804449944018223104>:cd:
->   :cd::cd:<:valor33:804449943603118131>
+>   <:valor31:804449943666425907>:cd::cd:
 >   <:valor41:804449944298586143>:cd::cd:
 
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd:<:precision32:804446921737371648>:cd:
 >   :cd::cd::cd:
->   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
+>   <:5007:804451180164022312> <:5002:804451180104908870> <:5001:804451180112642088>
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** PociÃ³n reutilizable, Ceniza de Bami
-**Objetos principales:** Ceniza de Bami > Ã‰gida de fuego solar > Cota de espinas > MÃ¡scara abisal
-**Objetos finales:** Armadura pÃ©trea, Armadura de Warmog, Presagio de Randuin
+**Objetos iniciales:** Poción reutilizable, Ceniza de Bami
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Máscara abisal
+**Objetos finales:** Armadura pétrea, Armadura de Warmog, Presagio de Randuin

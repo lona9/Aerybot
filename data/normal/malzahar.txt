@@ -1,6 +1,6 @@
 **Malzahar ** *(Normal)*
-**PosiciÃ³n:** *Mid*
-**Porcentaje de victorias:** 51.6%
+**Posición:** *Mid*
+**Porcentaje de victorias:** 51.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Anillo de Doran, PociÃ³n de vida
-**Objetos principales:** CapÃ­tulo perdido > Angustia de Liandry > Cetro de cristal de Rylai > Abrazo demonÃ­aco
-**Objetos finales:** BÃ¡culo del vacÃ­o, MorellonomicÃ³n, Sombrero mortÃ­fero de Rabadon
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
+**Objetos principales:** Capítulo perdido > Angustia de Liandry > Cetro de cristal de Rylai > Abrazo demoníaco
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón
