@@ -1,5 +1,5 @@
 **Sivir ** *(ARAM)*
-**Porcentaje de victorias:** 50.4%
+**Porcentaje de victorias:** 50.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Manamune
 **Objetos iniciales:** Lágrima de la diosa, Poción reutilizable, Espada larga
 **Objetos principales:** Poción reutilizable > Espada larga > Puñal serrado > Filoscuro de Draktharr
-**Objetos finales:** Filo de la noche, Recordatorio mortal, Rencor de Serylda
+**Objetos finales:** Filo de la noche, Rencor de Serylda, Recordatorio mortal

@@ -12,7 +12,7 @@ class Rotacion(Cog):
     channel = self.testchannel
 
     await ctx.channel.send(
-		    "**Los champs en rotación de esta semana son:** Annie, Evelynn, Ivern, Jhin, Lux, Malphite, Miss Fortune, Nautilus, Pyke, Rumble, Sett, Skarner, Tryndamere, Veigar, Xerath")
+		    "**Los champs en rotación de esta semana son:** Anivia, Gnar, Gwen, Hecarim, Heimerdinger, Kai'Sa, Kassadin, Kennen, Kog'Maw, Lillia, Qiyana, Rakan, Sion, Sona, Udyr.")
 
     try:
       eventmsg = str(ctx.message.content) + ", guild: " + str(ctx.guild.name)

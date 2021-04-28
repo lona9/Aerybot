@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Hacha hogareña > Cortasendas > Guantelete de Sterak > Cota de espinas
-**Objetos finales:** Cota de espinas, Presagio de Randuin, Fuerza de la naturaleza
+**Objetos finales:** Presagio de Randuin, Cota de espinas, Fuerza de la naturaleza

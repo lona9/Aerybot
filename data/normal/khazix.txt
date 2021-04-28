@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Puñal serrado > Filoscuro de Draktharr > El Coleccionista > Filo de la noche
-**Objetos finales:** Ángel Guardián, Rencor de Serylda, Sierraespada Quimopunk
+**Objetos finales:** Ángel Guardián, Rencor de Serylda, Filo de la noche

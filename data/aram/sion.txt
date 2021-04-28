@@ -11,10 +11,10 @@
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd:<:precision32:804446921737371648>:cd:
 >   :cd::cd::cd:
->   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Ceniza de Bami
-**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Armadura de Warmog
-**Objetos finales:** Armadura pétrea, Armadura de Warmog, Cota de espinas
+**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Apariencia espiritual
+**Objetos finales:** Armadura pétrea, Armadura de Warmog, Presagio de Randuin

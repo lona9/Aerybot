@@ -1,6 +1,6 @@
 **Jarvan IV ** *(Normal)*
 **Posición:** *Jungler*
-**Porcentaje de victorias:** 49.0%
+**Porcentaje de victorias:** 48.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
 **Objetos principales:** Látigo férreo > Bebedor de sangre > Guantelete de Sterak > Cota de espinas
-**Objetos finales:** Ángel Guardián, Cota de espinas, Armadura pétrea
+**Objetos finales:** Cota de espinas, Ángel Guardián, Armadura pétrea

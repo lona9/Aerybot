@@ -1,6 +1,6 @@
 **Taric ** *(Normal)*
 **Posición:** *Support*
-**Porcentaje de victorias:** 50.9%
+**Porcentaje de victorias:** 51.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas jonias de la lucidez
+**Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Recordatorio mortal, Reloj de arena de Zhonya, Redención
+**Objetos finales:** Convergencia de Zeke, Presagio de Randuin, Promesa del caballero

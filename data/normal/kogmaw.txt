@@ -1,6 +1,6 @@
 **Kog'Maw ** *(Normal)*
 **Posición:** *AD Carry*
-**Porcentaje de victorias:** 50.1%
+**Porcentaje de victorias:** 50.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Carcaj de mediodía > Matakrakens > Hoja de furia de Guinsoo > Huracán de Runaan
-**Objetos finales:** Ángel Guardián, Recordatorio mortal, Sanguinaria
+**Objetos finales:** Ángel Guardián, Sanguinaria, Recordatorio mortal

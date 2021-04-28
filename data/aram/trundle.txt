@@ -1,5 +1,5 @@
 **Trundle ** *(ARAM)*
-**Porcentaje de victorias:** 54.0%
+**Porcentaje de victorias:** 54.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Bacteriófago
+**Objetos iniciales:** Poción reutilizable, Ceniza de Bami
 **Objetos principales:** Bacteriófago > Cercenador divino > Apariencia espiritual > Cota de espinas
-**Objetos finales:** Cota de espinas, Guantelete de Sterak, Hoja del rey arruinado
+**Objetos finales:** Cota de espinas, Hoja del rey arruinado, Guantelete de Sterak

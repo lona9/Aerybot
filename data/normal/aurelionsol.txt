@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Capítulo perdido > Escarcha eterna > Cetro de cristal de Rylai > Reloj de arena de Zhonya
-**Objetos finales:** Morellonomicón, Báculo del vacío, Sombrero mortífero de Rabadon
+**Objetos principales:** Vara explosiva > Cetro de cristal de Rylai > Cosechador nocturno > Reloj de arena de Zhonya
+**Objetos finales:** Báculo del vacío, Morellonomicón, Sombrero mortífero de Rabadon

@@ -1,6 +1,6 @@
 **Warwick ** *(Normal)*
 **Posición:** *Jungler, Top*
-**Porcentaje de victorias:** 51.5%
+**Porcentaje de victorias:** 50.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
 **Objetos principales:** Tiamat > Cercenador divino > Hidra titánica > Cota de espinas
-**Objetos finales:** Cota de espinas, Guantelete de Sterak, Apariencia espiritual
+**Objetos finales:** Guantelete de Sterak, Apariencia espiritual, Cota de espinas

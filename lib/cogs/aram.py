@@ -55,6 +55,7 @@ class Aram(Cog):
                   "gnar": ["gnar"],
                   "gragas": ["gragas"],
                   "graves": ["graves"],
+                  "gwen": ["gwen"],
                   "hecarim": ["hecarim", "hec", "heca"],
                   "heimerdinger": ["heimerdinger", "heim", "heimer"],
                   "illaoi": ["illaoi"],

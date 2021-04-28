@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Puñal serrado
 **Objetos principales:** Látigo férreo > Bebedor de sangre > Guantelete de Sterak > Danza de la muerte
-**Objetos finales:** Cota de espinas, Danza de la muerte, Apariencia espiritual
+**Objetos finales:** Cota de espinas, Apariencia espiritual, Danza de la muerte

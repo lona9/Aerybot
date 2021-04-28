@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Brillo > Saqueador de esencias > Manamune > Filoscuro de Draktharr
-**Objetos finales:** Sierraespada Quimopunk, Ángel Guardián, Hidra voraz
+**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Hidra voraz

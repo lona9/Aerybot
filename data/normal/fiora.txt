@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Brillo > Saqueador de esencias > Arcoescudo inmortal > Hidra voraz
-**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Danza de la muerte
+**Objetos finales:** Ángel Guardián, Danza de la muerte, Sierraespada Quimopunk
