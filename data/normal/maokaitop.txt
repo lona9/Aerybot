@@ -1,0 +1,21 @@
+**Maokai Top** *(Normal)*
+**Posición:** *Support, Top*
+**Porcentaje de victorias:** 53.2%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+
+>   <:valor11:804449943376232509>:cd::cd:
+>   <:valor21:804449943984537690>:cd::cd:
+>   <:valor31:804449943666425907>:cd::cd:
+>   <:valor41:804449944298586143>:cd::cd:
+
+>   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd::cd:<:insp43:804450563952869452>
+>   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Apariencia espiritual
+**Objetos finales:** Presagio de Randuin, Cota de espinas, Coraza del muerto

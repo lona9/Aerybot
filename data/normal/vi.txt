@@ -1,6 +1,6 @@
 **Vi ** *(Normal)*
 **Posición:** *Jungler*
-**Porcentaje de victorias:** 49.4%
+**Porcentaje de victorias:** 50.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Hacha hogareña > Fuerza de la trinidad > Guantelete de Sterak > Danza de la muerte
-**Objetos finales:** Ángel Guardián, Cota de espinas, Danza de la muerte
+**Objetos finales:** Ángel Guardián, Danza de la muerte, Cota de espinas

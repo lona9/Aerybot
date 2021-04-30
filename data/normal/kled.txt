@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Ceniza de Bami > Égida de fuego solar > Hidra titánica > Guantelete de Sterak
-**Objetos finales:** Cota de espinas, Armadura pétrea, Ángel Guardián
+**Objetos finales:** Cota de espinas, Armadura pétrea, Danza de la muerte

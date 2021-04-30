@@ -1,0 +1,21 @@
+**Akali Mid** *(Normal)*
+**Posición:** *Mid, Top*
+**Porcentaje de victorias:** 47.9%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+
+> :cd::cd:<:precision13:804446921619931187>:cd:
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd:<:precision32:804446921737371648>:cd:
+>   <:precision41:804446922151690300>:cd::cd:
+
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd::cd:
+> <:dom41:804457130379182120>:cd::cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
+
+**Build**
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Maldición del liche > Reloj de arena de Zhonya
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

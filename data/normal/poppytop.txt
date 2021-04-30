@@ -1,0 +1,21 @@
+**Poppy Top** *(Normal)*
+**Posición:** *Jungler, Top*
+**Porcentaje de victorias:** 51.4%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+
+>   <:valor11:804449943376232509>:cd::cd:
+>   :cd::cd:<:valor23:804449943876010024>
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd:<:valor42:804449943615438919>:cd:
+
+>   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd::cd:<:insp43:804450563952869452>
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Armadura pétrea
+**Objetos iniciales:** Centinela invisible, Poción de corrupción
+**Objetos principales:** Égida de fuego solar > Cota de espinas > Fuerza de la naturaleza > Punteras de acero revestidas
+**Objetos finales:** Armadura pétrea, Presagio de Randuin, Coraza del muerto

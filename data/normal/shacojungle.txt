@@ -1,0 +1,21 @@
+**Shaco Jungler** *(Normal)*
+**Posición:** *Jungler*
+**Porcentaje de victorias:** 51.9%
+**Hechizos del Invocador:** <:Smite:804555481494061086> <:Ignite:804555481167298570>
+**Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
+
+> :cd::cd::cd:<:dom14:804447179938070569>
+>   :cd::cd:<:dom23:804457130307485707>
+>   :cd::cd:<:dom33:804457129578332160>
+> :cd::cd:<:dom43:804457129183936582>:cd:
+
+>   :cd::cd::cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Grebas de berserker
+**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
+**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > El Coleccionista > Saqueador de esencias
+**Objetos finales:** Ángel Guardián, Filo del infinito, Recuerdos de lord Dominik

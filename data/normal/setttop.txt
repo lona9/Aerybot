@@ -1,0 +1,21 @@
+**Sett Top** *(Normal)*
+**Posición:** *Top*
+**Porcentaje de victorias:** 51.4%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
+
+> :cd::cd:<:precision13:804446921619931187>:cd:
+>   :cd:<:precision22:804446921414541333>:cd:
+>   :cd:<:precision32:804446921737371648>:cd:
+>   :cd::cd:<:precision43:804446921941975080>
+
+>   :cd::cd::cd:
+>   :cd:<:valor32:804449943959765002>:cd:
+>   :cd:<:valor42:804449943615438919>:cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Cetro vampírico > Hoja del rey arruinado > Cortasendas > Guantelete de Sterak
+**Objetos finales:** Cota de espinas, Danza de la muerte, Guantelete de Sterak

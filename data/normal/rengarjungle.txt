@@ -1,0 +1,21 @@
+**Rengar Jungler** *(Normal)*
+**Posición:** *Jungler, Top*
+**Porcentaje de victorias:** 47.8%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
+**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+
+> :cd::cd:<:precision13:804446921619931187>:cd:
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
+
+>   :cd::cd:<:dom23:804457130307485707>
+>   :cd::cd::cd:
+> :cd::cd::cd:<:dom44:804457129732866048>
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas jonias de la lucidez
+**Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
+**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > Saqueador de esencias > Recuerdos de lord Dominik
+**Objetos finales:** Filo del infinito, Ángel Guardián, Recuerdos de lord Dominik

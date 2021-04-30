@@ -1,0 +1,21 @@
+**Neeko Mid** *(Normal)*
+**Posición:** *Mid, Support*
+**Porcentaje de victorias:** 50.3%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
+
+> <:dom11:804447179758239744>:cd::cd::cd:
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd:<:dom33:804457129578332160>
+> <:dom41:804457130379182120>:cd::cd::cd:
+
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   :cd::cd::cd:
+>   <:bruj41:804448797597499402>:cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
+
+**Build**
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
+**Objetos principales:** Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya > Morellonomicón
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

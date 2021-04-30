@@ -1,0 +1,21 @@
+**Ryze Top** *(Normal)*
+**Posición:** *Mid, Top*
+**Porcentaje de victorias:** 46.0%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
+
+>   :cd::cd:<:bruj13:804448796787474433>
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
+>   :cd::cd:<:bruj43:804448797631316069>
+
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd::cd:
+> <:dom41:804457130379182120>:cd::cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas jonias de la lucidez
+**Objetos iniciales:** Centinela invisible, Lágrima de la diosa, Poción de vida
+**Objetos principales:** Capítulo perdido > Escarcha eterna > Báculo del arcángel > Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mortífero de Rabadon, Reloj de arena de Zhonya, Báculo del vacío

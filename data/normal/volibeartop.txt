@@ -1,0 +1,21 @@
+**Volibear Top** *(Normal)*
+**Posición:** *Jungler, Top*
+**Porcentaje de victorias:** 51.2%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
+
+>   <:valor11:804449943376232509>:cd::cd:
+>   :cd::cd:<:valor23:804449943876010024>
+>   :cd:<:valor32:804449943959765002>:cd:
+>   :cd:<:valor42:804449943615438919>:cd:
+
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd:<:precision32:804446921737371648>:cd:
+>   :cd::cd::cd:
+>   <:5007:804451180164022312> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
+**Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Cota de espinas > Apariencia espiritual
+**Objetos finales:** Cota de espinas, Apariencia espiritual, Coraza del muerto

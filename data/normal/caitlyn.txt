@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > Navaja de asalto > Filo del infinito
+**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > Navaja de asalto > Cañón de fuego rápido
 **Objetos finales:** Ángel Guardián, Recuerdos de lord Dominik, Recordatorio mortal

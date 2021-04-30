@@ -1,0 +1,21 @@
+**Swain Support** *(Normal)*
+**Posición:** *Support, AD Carry*
+**Porcentaje de victorias:** 48.3%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
+
+> <:dom11:804447179758239744>:cd::cd::cd:
+>   <:dom21:804457127800078397>:cd::cd:
+>   :cd::cd:<:dom33:804457129578332160>
+> :cd::cd::cd:<:dom44:804457129732866048>
+
+>   :cd::cd:<:insp23:804450563948675112>
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd::cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
+**Objetos principales:** Capítulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Morellonomicón
+**Objetos finales:** Abrazo demoníaco, Morellonomicón, Sombrero mortífero de Rabadon

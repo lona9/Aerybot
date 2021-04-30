@@ -1,0 +1,21 @@
+**Trundle Jungler** *(Normal)*
+**Posición:** *Jungler, Top*
+**Porcentaje de victorias:** 51.1%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
+**Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
+
+> <:precision11:804445926906658886>:cd::cd::cd:
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
+
+>   :cd::cd:<:bruj23:804448797425532928>
+>   :cd::cd::cd:
+>   :cd:<:bruj42:804448797572595813>:cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
+**Objetos principales:** Tiamat > Guantelete de fuego escarchado > Hidra titánica > Cota de espinas
+**Objetos finales:** Guantelete de Sterak, Cota de espinas, Apariencia espiritual

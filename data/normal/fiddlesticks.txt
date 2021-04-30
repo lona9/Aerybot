@@ -18,4 +18,4 @@
 **Botas:** Báculo del vacío
 **Objetos iniciales:** Hoja granizo, Poción reutilizable
 **Objetos principales:** Cintomisil hextech > Reloj de arena de Zhonya > Morellonomicón > Botas del hechicero
-**Objetos finales:** Báculo del vacío, Morellonomicón, Sombrero mortífero de Rabadon
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

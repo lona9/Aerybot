@@ -1,0 +1,21 @@
+**Morgana Support** *(Normal)*
+**Posición:** *Jungler, Support*
+**Porcentaje de victorias:** 50.1%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
+
+>   :cd:<:bruj12:804448797001252864>:cd:
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
+>   <:bruj41:804448797597499402>:cd::cd:
+
+>   :cd::cd:<:insp23:804450563948675112>
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd::cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas jonias de la lucidez
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
+**Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Reloj de arena de Zhonya > Morellonomicón
+**Objetos finales:** Morellonomicón, Redención, Báculo del vacío

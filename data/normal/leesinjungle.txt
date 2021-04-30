@@ -1,0 +1,21 @@
+**Lee Sin Jungler** *(Normal)*
+**Posición:** *Jungler, Top*
+**Porcentaje de victorias:** 49.7%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
+**Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
+
+> :cd::cd:<:precision13:804446921619931187>:cd:
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
+
+>   :cd:<:insp22:804450563793747989>:cd:
+>   :cd::cd::cd:
+>   <:insp41:804450563507879947>:cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
+**Objetos principales:** Puñal serrado > Eclipse > Filo de la noche > Guantelete de Sterak
+**Objetos finales:** Ángel Guardián, Danza de la muerte, Cuchilla oscura

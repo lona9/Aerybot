@@ -1,0 +1,21 @@
+**Gragas Support** *(Normal)*
+**Posición:** *Jungler, Top*
+**Porcentaje de victorias:** 48.2%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+
+>   :cd:<:valor12:804449943775084614>:cd:
+>   :cd:<:valor22:804449944018223104>:cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd::cd:<:valor43:804449944001708043>
+
+>   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   <:insp41:804450563507879947>:cd::cd:
+>   <:5007:804451180164022312> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas jonias de la lucidez
+**Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Reloj de arena de Zhonya > Morellonomicón
+**Objetos finales:** Morellonomicón, Sombrero mortífero de Rabadon, Maldición del liche

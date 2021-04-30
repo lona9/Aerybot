@@ -1,6 +1,6 @@
 **Zoe ** *(Normal)*
 **Posición:** *Mid*
-**Porcentaje de victorias:** 47.9%
+**Porcentaje de victorias:** 48.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Capítulo perdido > Tempestad de Luden > Precisión infalible > Reloj de arena de Zhonya
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Reloj de arena de Zhonya
+**Objetos finales:** Báculo del vacío, Reloj de arena de Zhonya, Sombrero mortífero de Rabadon

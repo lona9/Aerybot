@@ -1,0 +1,21 @@
+**Sett Support** *(Normal)*
+**Posición:** *Top*
+**Porcentaje de victorias:** 45.0%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
+
+>   :cd::cd:<:bruj13:804448796787474433>
+>   :cd::cd:<:bruj23:804448797425532928>
+>   :cd:<:bruj32:804448797346234369>:cd:
+>   :cd:<:bruj42:804448797572595813>:cd:
+
+>   <:insp21:804450563911057458>:cd::cd:
+>   :cd::cd::cd:
+>   <:insp41:804450563507879947>:cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas de rapidez
+**Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
+**Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Coraza del muerto > Cota de espinas
+**Objetos finales:** Presagio de Randuin, Danza de la muerte, Hoja del rey arruinado

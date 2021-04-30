@@ -1,0 +1,21 @@
+**Volibear Jungler** *(Normal)*
+**Posición:** *Jungler, Top*
+**Porcentaje de victorias:** 51.5%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
+**Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
+
+> <:precision11:804445926906658886>:cd::cd::cd:
+>   :cd:<:precision22:804446921414541333>:cd:
+>   :cd:<:precision32:804446921737371648>:cd:
+>   :cd::cd:<:precision43:804446921941975080>
+
+>   :cd::cd:<:bruj23:804448797425532928>
+>   :cd::cd::cd:
+>   :cd:<:bruj42:804448797572595813>:cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas jonias de la lucidez
+**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
+**Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Coraza del muerto > Cota de espinas
+**Objetos finales:** Cota de espinas, Apariencia espiritual, Armadura pétrea

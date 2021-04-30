@@ -1,0 +1,21 @@
+**Dr. Mundo Top** *(Normal)*
+**Posición:** *Jungler, Top*
+**Porcentaje de victorias:** 51.3%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+
+>   <:valor11:804449943376232509>:cd::cd:
+>   <:valor21:804449943984537690>:cd::cd:
+>   :cd:<:valor32:804449943959765002>:cd:
+>   <:valor41:804449944298586143>:cd::cd:
+
+>   :cd:<:insp22:804450563793747989>:cd:
+>   :cd::cd::cd:
+>   :cd:<:insp42:804450563965452369>:cd:
+>   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Apariencia espiritual > Cota de espinas
+**Objetos finales:** Armadura pétrea, Presagio de Randuin, Cota de espinas
