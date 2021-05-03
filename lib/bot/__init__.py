@@ -38,7 +38,7 @@ class Bot(BotBase):
     intents = Intents.default()
 
     super().__init__(
-      command_prefix=PREFIX, 
+      command_prefix=PREFIX,
       owner_ids=OWNER_IDS,
       intents=Intents.default()
       )
@@ -48,7 +48,7 @@ class Bot(BotBase):
       self.load_extension(f"lib.cogs.{cog}")
       print(f" {cog} cog loaded")
 
-    print("setup complete") 
+    print("setup complete")
 
   def run(self, version):
       self.VERSION = version
@@ -68,7 +68,7 @@ class Bot(BotBase):
     if ctx.command is not None:
       if self.ready:
         await self.invoke(ctx)
-    
+
       else:
         await ctx.send("Aún no estoy lista para recibir comandos, por favor espera unos segundos.")
 
@@ -98,7 +98,7 @@ class Bot(BotBase):
 
   async def on_ready(self):
     if not self.ready:
-    
+
       self.testchannel = self.get_channel(827220123299086447)
       channel = self.testchannel
 

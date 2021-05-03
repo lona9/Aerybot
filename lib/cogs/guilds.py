@@ -7,6 +7,11 @@ class Guilds(Cog):
   def __init__(self, bot):
     self.bot = bot
 
+  @command()
+  async def guilds(self, ctx):
+    guilds = len(self.bot.guilds)
+    await ctx.channel.send(f"aery es parte de {guilds} guilds.")
+
   @Cog.listener()
   async def on_guild_join(self, guild):
 
@@ -17,7 +22,7 @@ class Guilds(Cog):
 
   @Cog.listener()
   async def on_guild_remove(self, guild):
-    
+
     self.testchannel = self.bot.get_channel(827220123299086447)
     channel = self.testchannel
 

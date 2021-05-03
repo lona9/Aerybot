@@ -140,7 +140,7 @@ class Normal(Cog):
                   "poppyjungle": ["poppyjg"],
                   "poppytop": ["poppytop"],
                   "pyke": ["pyke", "paik"],
-                  "qiyana": ["quiyana"],
+                  "qiyana": ["qiyana"],
                   "quinn": ["quinn"],
                   "rakan": ["rakan"],
                   "rammus": ["rammus"],
@@ -257,6 +257,7 @@ class Normal(Cog):
             with open(path, encoding="latin-1") as f:
               text = f.read()
               await ctx.channel.send(text)
+              await ctx.channel.send("**NUEVO**: Runas por posición para Normals, revisar *aery info* o *aery comandos* para más información.")
 
               try:
                 eventmsg = str(ctx.message.content) + ", guild: " + str(ctx.guild.name)

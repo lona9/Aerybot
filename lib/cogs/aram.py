@@ -108,7 +108,7 @@ class Aram(Cog):
                   "pantheon": ["pantheon", "pant", "panth"],
                   "poppy": ["poppy"],
                   "pyke": ["pyke", "paik"],
-                  "qiyana": ["quiyana"],
+                  "qiyana": ["qiyana"],
                   "quinn": ["quinn"],
                   "rakan": ["rakan"],
                   "rammus": ["rammus"],
