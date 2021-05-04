@@ -1,6 +1,6 @@
 **Ziggs AD Carry** *(Normal)*
 **Posición:** *Mid, AD Carry*
-**Porcentaje de victorias:** 53.3%
+**Porcentaje de victorias:** 52.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Capítulo perdido > Tempestad de Luden > Báculo del arcángel > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortífero de Rabadon, Morellonomicón, Báculo del vacío
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Precisión infalible > Reloj de arena de Zhonya
+**Objetos finales:** Morellonomicón, Sombrero mortífero de Rabadon, Báculo del vacío

@@ -1,5 +1,5 @@
 **Twitch ** *(ARAM)*
-**Porcentaje de victorias:** 49.4%
+**Porcentaje de victorias:** 49.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Carcaj de mediodía > Matakrakens > Huracán de Runaan > Filo del infinito
-**Objetos finales:** Sanguinaria, Recuerdos de lord Dominik, Recordatorio mortal
+**Objetos finales:** Sanguinaria, Recuerdos de lord Dominik, Filo del infinito

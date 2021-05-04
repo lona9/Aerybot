@@ -1,6 +1,6 @@
 **Irelia Top** *(Normal)*
 **Posición:** *Top, Mid*
-**Porcentaje de victorias:** 46.2%
+**Porcentaje de victorias:** 46.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Ángel Guardián
+**Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Hoja del rey arruinado > Fuerza de la trinidad > Guantelete de Sterak > Punteras de acero revestidas
+**Objetos principales:** Cetro vampírico > Hoja del rey arruinado > Fuerza de la trinidad > Guantelete de Sterak
 **Objetos finales:** Ángel Guardián, Danza de la muerte, Sierraespada Quimopunk

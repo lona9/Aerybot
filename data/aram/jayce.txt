@@ -1,5 +1,5 @@
 **Jayce ** *(ARAM)*
-**Porcentaje de victorias:** 51.7%
+**Porcentaje de victorias:** 51.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas jonias de la lucidez
+**Botas:** Manamune
 **Objetos iniciales:** Lágrima de la diosa, Poción reutilizable, Espada larga
-**Objetos principales:** Puñal serrado > Eclipse > Manamune > El Coleccionista
-**Objetos finales:** Rencor de Serylda, Filo de la noche, Sierraespada Quimopunk
+**Objetos principales:** Poción reutilizable > Espada larga > Puñal serrado > Eclipse
+**Objetos finales:** Filo de la noche, Rencor de Serylda, Sierraespada Quimopunk

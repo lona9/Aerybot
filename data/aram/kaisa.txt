@@ -1,5 +1,5 @@
 **Kai'Sa ** *(ARAM)*
-**Porcentaje de victorias:** 48.2%
+**Porcentaje de victorias:** 47.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Carcaj de mediodía > Matakrakens > El Coleccionista > Huracán de Runaan
-**Objetos finales:** Filo del infinito, Sanguinaria, Recordatorio mortal
+**Objetos finales:** Filo del infinito, Sanguinaria, Recuerdos de lord Dominik

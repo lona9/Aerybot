@@ -1,6 +1,6 @@
 **Maokai ** *(Normal)*
 **Posición:** *Support, Top*
-**Porcentaje de victorias:** 53.0%
+**Porcentaje de victorias:** 51.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
-**Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Abrazo demoníaco > Morellonomicón
-**Objetos finales:** Cota de espinas, Presagio de Randuin, Coraza del muerto
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Apariencia espiritual
+**Objetos finales:** Corazón de hielo, Cota de espinas, Presagio de Randuin

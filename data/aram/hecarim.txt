@@ -1,5 +1,5 @@
 **Hecarim ** *(ARAM)*
-**Porcentaje de victorias:** 46.2%
+**Porcentaje de victorias:** 41.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Ceniza de Bami
 **Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Coraza del muerto > Fuerza de la naturaleza
-**Objetos finales:** Cota de espinas, Apariencia espiritual, Guantelete de Sterak
+**Objetos finales:** Cota de espinas, Guantelete de Sterak, Apariencia espiritual

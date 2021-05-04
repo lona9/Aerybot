@@ -1,5 +1,5 @@
 **Garen ** *(ARAM)*
-**Porcentaje de victorias:** 46.3%
+**Porcentaje de victorias:** 45.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Látigo férreo
 **Objetos principales:** Látigo férreo > Cortasendas > Coraza del muerto > Guantelete de Sterak
-**Objetos finales:** Cota de espinas, Guantelete de Sterak, Cuchilla oscura
+**Objetos finales:** Cota de espinas, Guantelete de Sterak, Fuerza de la naturaleza

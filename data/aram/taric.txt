@@ -14,7 +14,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Ceniza de Bami
-**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Apariencia espiritual > Cota de espinas
-**Objetos finales:** Cota de espinas, Apariencia espiritual, Corazón de hielo
+**Botas:** Cota de espinas
+**Objetos iniciales:** Poción reutilizable, Gemaluz, Lágrima de la diosa
+**Objetos principales:** Lágrima de la diosa > Ceniza de Bami > Égida de fuego solar > Apariencia espiritual
+**Objetos finales:** Cota de espinas, Corazón de hielo, Armadura de Warmog

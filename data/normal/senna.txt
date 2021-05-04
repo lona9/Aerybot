@@ -1,7 +1,7 @@
 **Senna ** *(Normal)*
 **Posición:** *Support*
-**Porcentaje de victorias:** 50.9%
-**Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
+**Porcentaje de victorias:** 51.1%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:insp:804451124207681577> <:pres:804451123825606657>
 
 >   <:insp11:804450563936223283>:cd::cd:
@@ -18,4 +18,4 @@
 **Botas:** Botas de rapidez
 **Objetos iniciales:** Centinela invisible, Hoz espectral, Poción de vida
 **Objetos principales:** Carcaj de mediodía > Matakrakens > Hoja de furia de Guinsoo > Cañón de fuego rápido
-**Objetos finales:** Ángel Guardián, Recordatorio mortal, Recuerdos de lord Dominik
+**Objetos finales:** Ángel Guardián, Recuerdos de lord Dominik, Recordatorio mortal

@@ -1,5 +1,4 @@
 from discord.ext.commands import Cog
-from apscheduler.triggers.cron import CronTrigger
 from discord import Activity, ActivityType
 from discord.ext.commands import command
 

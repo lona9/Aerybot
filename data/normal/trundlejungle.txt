@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Tiamat > Guantelete de fuego escarchado > Hidra titánica > Cota de espinas
-**Objetos finales:** Guantelete de Sterak, Cota de espinas, Apariencia espiritual
+**Objetos finales:** Apariencia espiritual, Cota de espinas, Guantelete de Sterak

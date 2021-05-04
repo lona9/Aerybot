@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Cetro vampírico > Hoja del rey arruinado > Cortasendas > Guantelete de Sterak
-**Objetos finales:** Cota de espinas, Guantelete de Sterak, Danza de la muerte
+**Objetos finales:** Cota de espinas, Coraza del muerto, Guantelete de Sterak

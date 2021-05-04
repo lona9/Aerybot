@@ -1,6 +1,6 @@
 **Irelia Mid** *(Normal)*
 **Posición:** *Top, Mid*
-**Porcentaje de victorias:** 45.9%
+**Porcentaje de victorias:** 45.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Ángel Guardián
+**Botas:** Botas de mercurio
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Hoja del rey arruinado > Fuerza de la trinidad > Guantelete de Sterak > Botas de mercurio
+**Objetos principales:** Cetro vampírico > Hoja del rey arruinado > Arcoescudo inmortal > Danza de la muerte
 **Objetos finales:** Ángel Guardián, Danza de la muerte, Sierraespada Quimopunk
