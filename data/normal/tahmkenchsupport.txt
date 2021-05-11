@@ -1,6 +1,6 @@
 **Tahm Kench Support** *(Normal)*
-**Posición:** *AD Carry, Top, Support*
-**Porcentaje de victorias:** 46.6%
+**Posición:** *Top, AD Carry, Support*
+**Porcentaje de victorias:** 45.5%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Escudo reliquia
+**Objetos iniciales:** 
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Promesa del caballero > Cota de espinas
-**Objetos finales:** Poción de vida, Presagio de Randuin, Promesa del caballero
+**Objetos finales:** Centinela invisible, Escudo reliquia, Poción de vida

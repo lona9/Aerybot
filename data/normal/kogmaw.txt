@@ -18,4 +18,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Carcaj de mediodía > Matakrakens > Hoja de furia de Guinsoo > Huracán de Runaan
-**Objetos finales:** Ángel Guardián, Sanguinaria, Recordatorio mortal
+**Objetos finales:** Ángel Guardián, Hoja del rey arruinado, Sanguinaria

@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Apariencia espiritual
-**Objetos finales:** Corazón de hielo, Presagio de Randuin, Armadura pétrea
+**Objetos finales:** Apariencia espiritual, Corazón de hielo, Armadura pétrea

@@ -1,5 +1,5 @@
 **Maokai ** *(ARAM)*
-**Porcentaje de victorias:** 55.6%
+**Porcentaje de victorias:** 55.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -11,10 +11,10 @@
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd:<:precision32:804446921737371648>:cd:
 >   :cd::cd::cd:
->   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
+>   <:5007:804451180164022312> <:5002:804451180104908870> <:5003:804451180100452403>
 
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Abrazo demoníaco > Morellonomicón
-**Objetos finales:** Sombrero mortífero de Rabadon, Armadura de Warmog, Báculo del vacío
+**Objetos finales:** Armadura de Warmog, Sombrero mortífero de Rabadon, Cota de espinas

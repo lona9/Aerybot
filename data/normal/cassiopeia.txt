@@ -1,6 +1,6 @@
 **Cassiopeia**  *(Normal)*
 **Posición:** *Mid*
-> **% victorias:** 49.5%
+> **% victorias:** 50.5%
 > **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034> 
 > **Runas**: <:pres:804451123825606657> <:dom:804451124085522442>
  
@@ -18,4 +18,4 @@
 *Iniciales:* Centinela invisible, Lágrima de la diosa, Poción de vida
 *Botas:* -
 *Principales:* Capítulo perdido > Angustia de Liandry > Báculo del arcángel > Reloj de arena de Zhonya
-*Finales:* Morellonomicón, Reloj de arena de Zhonya, Báculo del vacío
+*Finales:* Morellonomicón, Báculo del vacío, Reloj de arena de Zhonya

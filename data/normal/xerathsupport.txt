@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
-**Objetos principales:** Capítulo perdido > Tempestad de Luden > Precisión infalible > Reloj de arena de Zhonya
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Enfoque al horizonte > Reloj de arena de Zhonya
 **Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

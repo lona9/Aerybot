@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Punteras de acero revestidas
+**Botas:** Sierraespada Quimopunk
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
-**Objetos principales:** Carcaj de mediodía > Matakrakens > Hoja del rey arruinado > Guantelete de Sterak
+**Objetos principales:** Guantelete de Sterak > Punteras de acero revestidas > Ángel Guardián > Danza de la muerte
 **Objetos finales:** Ángel Guardián, Danza de la muerte, Sierraespada Quimopunk

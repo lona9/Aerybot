@@ -1,6 +1,6 @@
 **Jayce ** *(Normal)*
-**Posición:** *Top*
-**Porcentaje de victorias:** 48.5%
+**Posición:** *Top, Mid*
+**Porcentaje de victorias:** 48.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Puñal serrado > Eclipse > Manamune > Filo de la noche
-**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Rencor de Serylda
+**Objetos principales:** Puñal serrado > Eclipse > Manamune > Rencor de Serylda
+**Objetos finales:** Ángel Guardián, Rencor de Serylda, Filo de la noche
