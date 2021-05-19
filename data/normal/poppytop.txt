@@ -1,6 +1,6 @@
 **Poppy Top** *(Normal)*
-**Posición:** *Top, Jungler*
-**Porcentaje de victorias:** 50.7%
+**Posición:** *Jungler, Top*
+**Porcentaje de victorias:** 51.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 

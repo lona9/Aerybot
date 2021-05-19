@@ -1,6 +1,6 @@
 **Varus ** *(Normal)*
 **Posición:** *AD Carry*
-**Porcentaje de victorias:** 49.1%
+**Porcentaje de victorias:** 49.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 

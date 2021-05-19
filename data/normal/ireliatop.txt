@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Cetro vampírico > Hoja del rey arruinado > Fuerza de la trinidad > Guantelete de Sterak
-**Objetos finales:** Ángel Guardián, Danza de la muerte, Sierraespada Quimopunk
+**Botas:** Hoja de furia de Guinsoo
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Poción de vida > Cetro vampírico > Hoja del rey arruinado > Arcoescudo inmortal
+**Objetos finales:** Ángel Guardián, Danza de la muerte, Al filo de la Cordura

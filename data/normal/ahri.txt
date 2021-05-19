@@ -1,6 +1,6 @@
 **Ahri ** *(Normal)*
 **Posición:** *Mid*
-**Porcentaje de victorias:** 51.8%
+**Porcentaje de victorias:** 51.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 

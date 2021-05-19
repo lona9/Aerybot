@@ -1,6 +1,6 @@
 **Sett Support** *(Normal)*
 **Posición:** *Top*
-**Porcentaje de victorias:** 44.7%
+**Porcentaje de victorias:** 45.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas de rapidez
 **Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
 **Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Coraza del muerto > Cota de espinas
-**Objetos finales:** Al filo de la Cordura, Guantelete de Sterak, El Coleccionista
+**Objetos finales:** Fuerza de la naturaleza, Coraza del muerto, Cota de espinas

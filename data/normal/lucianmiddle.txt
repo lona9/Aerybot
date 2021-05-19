@@ -1,6 +1,6 @@
 **Lucian Mid** *(Normal)*
 **Posición:** *AD Carry, Mid*
-**Porcentaje de victorias:** 45.8%
+**Porcentaje de victorias:** 46.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Carcaj de mediodía > Fuerza del Viento > Saqueador de esencias > Filo del infinito
-**Objetos finales:** Ángel Guardián, Recordatorio mortal, Filo del infinito
+**Objetos finales:** Ángel Guardián, Recuerdos de lord Dominik, Filo del infinito

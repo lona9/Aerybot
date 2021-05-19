@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Cetro vampírico > Hoja del rey arruinado > Arcoescudo inmortal > Danza de la muerte
+**Objetos principales:** Cetro vampírico > Hoja del rey arruinado > Arcoescudo inmortal > Hoja de furia de Guinsoo
 **Objetos finales:** Ángel Guardián, Danza de la muerte, Sierraespada Quimopunk

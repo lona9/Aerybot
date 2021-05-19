@@ -17,4 +17,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Báculo de agua fluyente > Putrificador tecnoquímico
-**Objetos finales:** Reloj de arena de Zhonya, Putrificador tecnoquímico, Redención
+**Objetos finales:** Putrificador tecnoquímico, Reloj de arena de Zhonya, Redención
