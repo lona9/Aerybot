@@ -5,8 +5,9 @@ from discord import Embed
 class Ayuda(Cog):
   def __init__(self, bot):
     self.bot = bot
+    self.bot.remove_command("help")
 
-  @command(name="ayuda", aliases=["info"])
+  @command(name="ayuda", aliases=["info", "help"])
   async def ayuda(self, ctx):
 
     self.testchannel = self.bot.get_channel(827220123299086447)
