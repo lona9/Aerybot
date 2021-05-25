@@ -8,7 +8,7 @@
 >   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd:<:precision43:804446921941975080>
 
->   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd:<:dom23:804457130307485707>
 >   :cd::cd::cd:
 > <:dom41:804457130379182120>:cd::cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
@@ -17,4 +17,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Carcaj de mediodía > Fuerza del Viento > Filoveloz de Navori > Filo del infinito
-**Objetos finales:** Hoja del rey arruinado, Filo del infinito, Bailarín espectral
+**Objetos finales:** Hoja del rey arruinado, Filo del infinito, Sanguinaria

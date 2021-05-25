@@ -6,7 +6,7 @@
 > :cd::cd:<:precision13:804446921619931187>:cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd:<:precision32:804446921737371648>:cd:
->   :cd::cd:<:precision43:804446921941975080>
+>   <:precision41:804446922151690300>:cd::cd:
 
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Látigo férreo
 **Objetos principales:** Látigo férreo > Bebedor de sangre > Hidra voraz > Guantelete de Sterak
-**Objetos finales:** Apariencia espiritual, Danza de la muerte, Sierraespada Quimopunk
+**Objetos finales:** Danza de la muerte, Apariencia espiritual, Sierraespada Quimopunk

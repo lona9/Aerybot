@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Ceniza de Bami
 **Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Armadura de Warmog
-**Objetos finales:** Armadura pétrea, Armadura de Warmog, Máscara abisal
+**Objetos finales:** Armadura pétrea, Armadura de Warmog, Fuerza de la naturaleza

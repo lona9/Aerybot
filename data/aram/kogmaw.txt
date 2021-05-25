@@ -17,4 +17,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Carcaj de mediodía > Matakrakens > Huracán de Runaan > Hoja del rey arruinado
-**Objetos finales:** Sanguinaria, Sombrero mortífero de Rabadon, Báculo del vacío
+**Objetos finales:** Sanguinaria, Sombrero mortífero de Rabadon, Hoja del rey arruinado

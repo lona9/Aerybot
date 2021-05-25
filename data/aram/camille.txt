@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Guantelete de Sterak
-**Objetos iniciales:** Botas, Espada larga, Brillo
-**Objetos principales:** Brillo > Brillo > Fuerza de la trinidad > Hidra voraz
+**Botas:** Botas de mercurio
+**Objetos iniciales:** Poción reutilizable, Hacha hogareña
+**Objetos principales:** Hacha hogareña > Fuerza de la trinidad > Hidra voraz > Guantelete de Sterak
 **Objetos finales:** Apariencia espiritual, Danza de la muerte, Sierraespada Quimopunk

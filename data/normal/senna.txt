@@ -18,4 +18,4 @@
 **Botas:** Botas de rapidez
 **Objetos iniciales:** Centinela invisible, Hoz espectral, Poción de vida
 **Objetos principales:** Carcaj de mediodía > Matakrakens > Hoja de furia de Guinsoo > Cañón de fuego rápido
-**Objetos finales:** Ángel Guardián, Recuerdos de lord Dominik, Recordatorio mortal
+**Objetos finales:** Ángel Guardián, Recordatorio mortal, Recuerdos de lord Dominik

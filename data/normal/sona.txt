@@ -1,6 +1,6 @@
 **Sona ** *(Normal)*
 **Posición:** *Support*
-**Porcentaje de victorias:** 52.1%
+**Porcentaje de victorias:** 51.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
-**Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Báculo de agua fluyente > Putrificador tecnoquímico
-**Objetos finales:** Pebetero ardiente, Putrificador tecnoquímico, Redención
+**Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Putrificador tecnoquímico > Báculo de agua fluyente
+**Objetos finales:** Báculo de agua fluyente, Robaalmas de Mejai, Maldición del liche

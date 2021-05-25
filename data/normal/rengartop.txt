@@ -1,6 +1,6 @@
 **Rengar Top** *(Normal)*
 **Posición:** *Jungler, Top*
-**Porcentaje de victorias:** 49.8%
+**Porcentaje de victorias:** 50.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -12,10 +12,10 @@
 >   :cd::cd::cd:
 >   :cd::cd:<:valor33:804449943603118131>
 >   :cd:<:valor42:804449943615438919>:cd:
->   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas jonias de la lucidez
+**Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Puñal serrado > Eclipse > Saqueador de esencias > El Coleccionista
+**Objetos principales:** Puñal serrado > Eclipse > Saqueador de esencias > Recuerdos de lord Dominik
 **Objetos finales:** Ángel Guardián, Filo del infinito, Recuerdos de lord Dominik
