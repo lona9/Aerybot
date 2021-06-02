@@ -1,6 +1,6 @@
 **Ezreal ** *(Normal)*
 **Posición:** *AD Carry*
-**Porcentaje de victorias:** 47.1%
+**Porcentaje de victorias:** 50.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Brillo > Saqueador de esencias > Manamune > Filoscuro de Draktharr
-**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Hidra voraz
+**Objetos finales:** Ángel Guardián, Hidra voraz, Sierraespada Quimopunk

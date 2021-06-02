@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Putrificador tecnoquímico > Reloj de arena de Zhonya
-**Objetos finales:** Reloj de arena de Zhonya, Impulso cósmico, Velo de la banshee
+**Objetos finales:** Impulso cósmico, Reloj de arena de Zhonya, Sombrero mortífero de Rabadon

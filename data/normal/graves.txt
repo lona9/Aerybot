@@ -1,6 +1,6 @@
 **Graves ** *(Normal)*
 **Posición:** *Jungler*
-**Porcentaje de victorias:** 45.4%
+**Porcentaje de victorias:** 49.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Grebas de berserker
+**Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
 **Objetos principales:** Carcaj de mediodía > Fuerza del Viento > El Coleccionista > Filo del infinito
-**Objetos finales:** Ángel Guardián, Recuerdos de lord Dominik, Sanguinaria
+**Objetos finales:** Ángel Guardián, Recuerdos de lord Dominik, Filo del infinito

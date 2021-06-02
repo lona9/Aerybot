@@ -1,5 +1,5 @@
 **Heimerdinger ** *(ARAM)*
-**Porcentaje de victorias:** 51.7%
+**Porcentaje de victorias:** 51.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -10,11 +10,11 @@
 
 >   :cd::cd::cd:
 >   :cd::cd:<:dom33:804457129578332160>
-> :cd::cd::cd:<:dom44:804457129732866048>
+> :cd::cd:<:dom43:804457129183936582>:cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5001:804451180112642088>
 
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Abrazo demoníaco > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

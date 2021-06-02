@@ -1,20 +1,20 @@
 **Zyra ** *(ARAM)*
-**Porcentaje de victorias:** 55.1%
+**Porcentaje de victorias:** 55.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
-**Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
+**Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
->   :cd:<:bruj12:804448797001252864>:cd:
->   :cd:<:bruj22:804448796553117707>:cd:
->   <:bruj31:804448797395910716>:cd::cd:
->   :cd::cd:<:bruj43:804448797631316069>
-
->   :cd::cd::cd:
+> :cd::cd:<:dom13:804447179828625438>:cd:
+>   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd:<:dom33:804457129578332160>
-> <:dom41:804457130379182120>:cd::cd::cd:
->   <:5008:804451180172279808> <:5008:804451180172279808> <:5001:804451180112642088>
+> :cd::cd::cd:<:dom44:804457129732866048>
+
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd::cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Abrazo demoníaco > Cetro de cristal de Rylai
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

@@ -1,6 +1,6 @@
 **Sett Support** *(Normal)*
 **Posición:** *Top*
-**Porcentaje de victorias:** 44.5%
+**Porcentaje de victorias:** 45.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de rapidez
+**Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
 **Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Coraza del muerto > Cota de espinas
-**Objetos finales:** Fuerza de la naturaleza, Coraza del muerto, Hoja del rey arruinado
+**Objetos finales:** Armadura de Warmog, Cota de espinas, Fuerza de la naturaleza

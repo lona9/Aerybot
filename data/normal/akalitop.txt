@@ -1,6 +1,6 @@
 **Akali Top** *(Normal)*
 **Posición:** *Mid, Top*
-**Porcentaje de victorias:** 47.2%
+**Porcentaje de victorias:** 47.6%
 **Hechizos del Invocador:** <:Teleport:804555481699713034> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 

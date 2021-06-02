@@ -1,6 +1,6 @@
 **Zed ** *(Normal)*
 **Posición:** *Mid*
-**Porcentaje de victorias:** 50.3%
+**Porcentaje de victorias:** 50.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Espada larga, Poción reutilizable
-**Objetos principales:** Puñal serrado > Garra de merodeador > El Coleccionista > Recuerdos de lord Dominik
+**Objetos principales:** Puñal serrado > Garra de merodeador > Colmillo de serpiente > Rencor de Serylda
 **Objetos finales:** Filo de la noche, Ángel Guardián, Sierraespada Quimopunk

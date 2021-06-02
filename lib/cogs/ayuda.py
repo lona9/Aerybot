@@ -16,7 +16,7 @@ class Ayuda(Cog):
     embed = Embed(title="Información de Aery")
 
     fields = [("\u200B", "**Aerybot** quiere hacer más fácil y rápida la búsqueda de builds y runas para jugar League of Legends. Se actualiza una vez por semana, y toda la información es obtenida de las runas y builds más populares y con mejor winrate de acuerdo a League of Graphs.", False),
-    ("\u200B", "Escribe *aery comandos* para ver qué puede hacer Aerybot.\n\nEste bot fue actualizado por ultima vez el **25/05/21 a las 17:38**.\n\nLos datos y builds fueron obtenidos de League of Graphs, para Todas las regiones, Platino+, **parche 11.10**.\n\nSi quieres invitar a este bot a otro server, puedes hacerlo con este link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot\n\nSi te gustó este bot, considera comprar un kofi a la creadora: https://www.ko-fi.com/lona9", False)]
+    ("\u200B", "Escribe *aery comandos* para ver qué puede hacer Aerybot.\n\nEste bot fue actualizado por ultima vez el **01/06/21 a las 17:54**.\n\nLos datos y builds fueron obtenidos de League of Graphs, para Todas las regiones, Platino+, **parche 11.11**.\n\nSi quieres invitar a este bot a otro server, puedes hacerlo con este link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot\n\nSi te gustó este bot, considera comprar un kofi a la creadora: https://www.ko-fi.com/lona9", False)]
 
     for name, value, inline in fields:
       embed.add_field(name=name, value=value, inline=inline)

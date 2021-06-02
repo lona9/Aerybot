@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
 **Objetos principales:** Capítulo perdido > Escarcha eterna > Impulso cósmico > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón
+**Objetos finales:** Morellonomicón, Reloj de arena de Zhonya, Sombrero mortífero de Rabadon

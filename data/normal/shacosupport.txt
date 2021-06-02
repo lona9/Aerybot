@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón
+**Objetos finales:** Báculo del vacío, Abrazo demoníaco, Sombrero mortífero de Rabadon

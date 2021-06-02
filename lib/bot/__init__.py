@@ -8,6 +8,8 @@ from discord.ext.commands import Bot as BotBase
 from discord.ext.commands import Context
 from discord.ext.commands import CommandNotFound
 
+from ..db import db
+
 PREFIX = "aery "
 
 OWNER_IDS = [485054727755792410]
@@ -37,6 +39,8 @@ class Bot(BotBase):
 
     intents = Intents.default()
 
+    db.autosave(self.scheduler)
+
     super().__init__(
       command_prefix=PREFIX,
       owner_ids=OWNER_IDS,
@@ -49,6 +53,21 @@ class Bot(BotBase):
       print(f" {cog} cog loaded")
 
     print("setup complete")
+
+  def update_db(self):
+    db.multiexec("INSERT OR IGNORE INTO languages (GuildID) VALUES (?)",
+					 ((guild.id,) for guild in self.guilds))
+
+    to_remove = []
+    stored_guilds = db.column("SELECT GuildID FROM languages")
+    for id_ in stored_guilds:
+      if not self.guilds:
+        to_remove.append(id_)
+
+    db.multiexec("DELETE FROM languages WHERE GuildID = ?",
+					 ((id_,) for id_ in to_remove))
+
+    db.commit()
 
   def run(self, version):
       self.VERSION = version
@@ -101,6 +120,9 @@ class Bot(BotBase):
 
       self.testchannel = self.get_channel(827220123299086447)
       channel = self.testchannel
+
+      self.scheduler.start()
+      self.update_db()
 
       await self.testchannel.send("Estoy lista, estoy lista, estoy lista, estoy lista!")
       self.ready = True

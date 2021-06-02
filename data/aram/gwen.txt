@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Mirada absorbente
-**Objetos principales:** Mirada absorbente > Agrietador > Diente de Nashor > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortífero de Rabadon, Morellonomicón, Reloj de arena de Zhonya
+**Objetos principales:** Mirada absorbente > Agrietador > Diente de Nashor > Impulso cósmico
+**Objetos finales:** Morellonomicón, Sombrero mortífero de Rabadon, Reloj de arena de Zhonya

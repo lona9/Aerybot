@@ -1,7 +1,7 @@
 **Poppy ** *(Normal)*
-**Posición:** *Top, Jungler*
-**Porcentaje de victorias:** 49.3%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Posición:** *Jungler, Top*
+**Porcentaje de victorias:** 50.8%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
 >   <:valor11:804449943376232509>:cd::cd:
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Fuerza de la naturaleza
-**Objetos finales:** Presagio de Randuin, Máscara abisal, Fuerza de la naturaleza
+**Objetos principales:** Brillo > Cercenador divino > Coraza del muerto > Cota de espinas
+**Objetos finales:** Presagio de Randuin, Cota de espinas, Guantelete de Sterak

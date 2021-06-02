@@ -1,11 +1,11 @@
 **Volibear ** *(ARAM)*
-**Porcentaje de victorias:** 49.6%
+**Porcentaje de victorias:** 49.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
 >   <:valor11:804449943376232509>:cd::cd:
 >   :cd::cd:<:valor23:804449943876010024>
->   :cd:<:valor32:804449943959765002>:cd:
+>   <:valor31:804449943666425907>:cd::cd:
 >   <:valor41:804449944298586143>:cd::cd:
 
 >   :cd:<:precision22:804446921414541333>:cd:

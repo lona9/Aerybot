@@ -1,5 +1,5 @@
 **Zilean ** *(ARAM)*
-**Porcentaje de victorias:** 47.2%
+**Porcentaje de victorias:** 46.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Tempestad de Luden > Enfoque al horizonte > Sombrero mortífero de Rabadon
-**Objetos finales:** Báculo del vacío, Morellonomicón, Sombrero mortífero de Rabadon
+**Objetos finales:** Morellonomicón, Báculo del vacío, Sombrero mortífero de Rabadon

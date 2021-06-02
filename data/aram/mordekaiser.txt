@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Mirada absorbente
-**Objetos principales:** Mirada absorbente > Agrietador > Abrazo demoníaco > Apariencia espiritual
-**Objetos finales:** Cota de espinas, Apariencia espiritual, Reloj de arena de Zhonya
+**Objetos principales:** Mirada absorbente > Agrietador > Diente de Nashor > Abrazo demoníaco
+**Objetos finales:** Apariencia espiritual, Cota de espinas, Reloj de arena de Zhonya

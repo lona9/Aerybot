@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Ceniza de Bami
 **Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Apariencia espiritual
-**Objetos finales:** Armadura de Warmog, Armadura pétrea, Presagio de Randuin
+**Objetos finales:** Armadura de Warmog, Armadura pétrea, Cota de espinas

@@ -1,5 +1,5 @@
 **Kalista ** *(ARAM)*
-**Porcentaje de victorias:** 47.0%
+**Porcentaje de victorias:** 47.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Sanguinaria
-**Objetos iniciales:** Poción reutilizable, Grebas de berserker
-**Objetos principales:** Grebas de berserker > Carcaj de mediodía > Arcoescudo inmortal > Huracán de Runaan
-**Objetos finales:** Sanguinaria, Recordatorio mortal, Recuerdos de lord Dominik
+**Botas:** Grebas de berserker
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Huracán de Runaan > Sanguinaria
+**Objetos finales:** Recordatorio mortal, Sanguinaria, Recuerdos de lord Dominik

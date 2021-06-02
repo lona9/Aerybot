@@ -1,20 +1,20 @@
 **Ashe ** *(ARAM)*
-**Porcentaje de victorias:** 54.6%
+**Porcentaje de victorias:** 55.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
-**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+**Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
-> :cd:<:precision12:804446921522675733>:cd::cd:
->   :cd:<:precision22:804446921414541333>:cd:
->   <:precision31:804446921660956702>:cd::cd:
->   <:precision41:804446922151690300>:cd::cd:
+>   :cd:<:bruj12:804448797001252864>:cd:
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
+>   <:bruj41:804448797597499402>:cd::cd:
 
->   :cd:<:dom22:804457129394176020>:cd:
+>   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd::cd:
-> <:dom41:804457130379182120>:cd::cd::cd:
->   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+> :cd::cd::cd:<:dom44:804457129732866048>
+>   <:5007:804451180164022312> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Hidra voraz
-**Objetos iniciales:** Lágrima de la diosa, Espejo de cristal de Bandle
-**Objetos principales:** Espejo de cristal de Bandle > Espejo de cristal de Bandle > Mandato imperial > Manamune
-**Objetos finales:** Recordatorio mortal, Filo del infinito, Sierraespada Quimopunk
+**Botas:** Grebas de berserker
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Manamune > Hidra voraz
+**Objetos finales:** Sierraespada Quimopunk, Recordatorio mortal, Filo del infinito
