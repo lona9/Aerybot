@@ -37,7 +37,6 @@ class Guilds(Cog):
         else:
             await ctx.channel.send("Debes escoger una opción válida / Você deve escolher uma opção válida")
 
-
   @Cog.listener()
   async def on_guild_join(self, guild):
 

@@ -41,7 +41,7 @@ class Ayuda(Cog):
     embed = Embed(title="Lista de comandos", colour=0xFF0000)
 
     fields = [("\u200B", "Estos son los comandos que puedes utilizar y sus funciones:", False),
-      ("\u200B", ":small_blue_diamond: **aery info**: Información general del bot.\n:small_blue_diamond: **aery rotacion:** Rotación semanal actual.\n:small_blue_diamond: **aery normal**: Escribir comando + nombre del champ para ver sus stats y builds para partidas normales (ej: aery normal ashe). \nSi el champ tiene más de una posición, puedes escribir la posición después del nombre para ver las stats específicas. Usar los nombres abreviados (mid, top, adc, supp, jg). Por ejemplo, escribir: *aery normal ekko jg*. El comando sin posición al final mostrará la información promedio para el champ considerando todas las posiciones.\n:small_blue_diamond: **aery aram:** Escribir comando + nombre del champ para ver sus stats y builds para partidas ARAM (ej: aery aram ashe)\n:small_blue_diamond: **aery invitacion:** Envía un DM con un link de invitación al server.", False),
+      ("\u200B", ":small_blue_diamond: **aery info**: Información general del bot.\n:small_blue_diamond: **aery rotacion:** Rotación semanal actual.\n:small_blue_diamond: **aery normal**: Escribir comando + nombre del champ para ver sus stats y builds para partidas normales (ej: aery normal ashe). \nSi el champ tiene más de una posición, puedes escribir la posición después del nombre para ver las stats específicas. Usar los nombres abreviados (mid, top, adc, supp, jg). Por ejemplo, escribir: *aery normal ekko jg*. El comando sin posición al final mostrará la información promedio para el champ considerando todas las posiciones.\n:small_blue_diamond: **aery aram:** Escribir comando + nombre del champ para ver sus stats y builds para partidas ARAM (ej: aery aram ashe)\n:small_blue_diamond: **aery invitacion:** Envía el link para invitar a Aery a otros servers.", False),
       ("\u200B", "Comandos deben ser escritos en minúsculas. Los nombres de champs se pueden con o sin mayúsculas, con o sin espacios, y con o sin caracteres especiales. Cada champ tiene un set de nombres aceptados, que incluye las abreviaciones más comunes.", False)]
 
     for name, value, inline in fields:
@@ -59,11 +59,18 @@ class Ayuda(Cog):
       await self.testchannel.send(eventmsg)
 
   @command(name='invitacion', aliases=["invite"])
-  async def invitacion(self, ctx, *argument):
-    invitelink = await ctx.channel.create_invite(max_age=86400,unique=True)
+  async def invitacion(self, ctx):
+    self.testchannel = self.bot.get_channel(827220123299086447)
+    channel = self.testchannel
 
-    await ctx.author.send('¡Aquí está el link de invitación al servidor que pediste! Debes usarlo en las siguientes 24 horas antes de que expire. ')
-    await ctx.author.send(invitelink)
+    await ctx.channel.send("Puedes invitar a Aery a otros servers con el siguiente link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot")
+
+    try:
+      eventmsg = str(ctx.message.content) + ", guild: " + str(ctx.guild.name)
+      await self.testchannel.send(eventmsg)
+    except AttributeError:
+      eventmsg = str(ctx.message.content) + ", guild: None"
+      await self.testchannel.send(eventmsg)
 
   @Cog.listener()
   async def on_ready(self):
