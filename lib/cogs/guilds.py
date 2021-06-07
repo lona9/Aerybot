@@ -20,15 +20,15 @@ class Guilds(Cog):
     except:
         await channel.send("Se acabó el tiempo / Acabou o tempo")
     else:
-        if message.content.lower() == "sp" or "español":
-            db.execute("UPDATE languages SET GuildLang = ?", "SP")
+        if message.content.lower() == "sp" or message.content.lower() == "español":
+            db.execute("UPDATE languages SET GuildLang = ? WHERE GuildID = ?", "SP", ctx.guild.id)
 
             await ctx.channel.send("Aery ahora está en español.")
 
             db.commit()
 
         elif message.content.lower() == "pt" or message.content.lower() == "portugués" or message.content.lower() == "português":
-            db.execute("UPDATE languages SET GuildLang = ?", "PT")
+            db.execute("UPDATE languages SET GuildLang = ? WHERE GuildID = ?", "PT", ctx.guild.id)
 
             await ctx.channel.send("Aery esta agora em portugues.")
 

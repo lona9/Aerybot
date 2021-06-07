@@ -1,6 +1,7 @@
 from discord.ext.commands import Cog
 from discord.ext.commands import command
 from discord import Embed
+from ..db import db
 
 class Ayuda(Cog):
   def __init__(self, bot):
@@ -10,21 +11,42 @@ class Ayuda(Cog):
   @command(name="ayuda", aliases=["info", "help"])
   async def ayuda(self, ctx):
 
+    language = db.record("SELECT GuildLang FROM languages WHERE GuildID = ?", ctx.guild.id)
+
+    language = str(language[0])
+
     self.testchannel = self.bot.get_channel(827220123299086447)
     channel = self.testchannel
 
-    embed = Embed(title="Información de Aery")
+    if language == "SP":
 
-    fields = [("\u200B", "**Aerybot** quiere hacer más fácil y rápida la búsqueda de builds y runas para jugar League of Legends. Se actualiza una vez por semana, y toda la información es obtenida de las runas y builds más populares y con mejor winrate de acuerdo a League of Graphs.", False),
-    ("\u200B", "Escribe *aery comandos* para ver qué puede hacer Aerybot.\n\nEste bot fue actualizado por ultima vez el **01/06/21 a las 17:54**.\n\nLos datos y builds fueron obtenidos de League of Graphs, para Todas las regiones, Platino+, **parche 11.11**.\n\nSi quieres invitar a este bot a otro server, puedes hacerlo con este link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot\n\nSi te gustó este bot, considera comprar un kofi a la creadora: https://www.ko-fi.com/lona9", False)]
+        embed = Embed(title="Información de Aery")
 
-    for name, value, inline in fields:
-      embed.add_field(name=name, value=value, inline=inline)
+        fields = [("\u200B", "**Aerybot** quiere hacer más fácil y rápida la búsqueda de builds y runas para jugar League of Legends. Se actualiza una vez por semana, y toda la información es obtenida de las runas y builds más populares y con mejor winrate de acuerdo a League of Graphs.", False),
+        ("\u200B", "Escribe *aery comandos* para ver qué puede hacer Aerybot.\n\nEste bot fue actualizado por ultima vez el **01/06/21 a las 17:54**.\n\nLos datos y builds fueron obtenidos de League of Graphs, para Todas las regiones, Platino+, **parche 11.11**.\n\nSi quieres invitar a este bot a otro server, puedes hacerlo con este link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot\n\nSi te gustó este bot, considera comprar un kofi a la creadora: https://www.ko-fi.com/lona9", False)]
 
-    embed.set_author(name='Aerybot', icon_url="https://cdn.discordapp.com/attachments/827220123299086447/827222701349404771/Summon_Aery_rune.png")
-    embed.set_footer(text="Si presento problemas o necesitas más ayuda, envía un mensaje a lona#4817")
+        for name, value, inline in fields:
+          embed.add_field(name=name, value=value, inline=inline)
 
-    await ctx.channel.send(embed=embed)
+        embed.set_author(name='Aerybot', icon_url="https://cdn.discordapp.com/attachments/827220123299086447/827222701349404771/Summon_Aery_rune.png")
+        embed.set_footer(text="Si presento problemas o necesitas más ayuda, envía un mensaje a lona#4817")
+
+        await ctx.channel.send(embed=embed)
+
+    else:
+        embed = Embed(title="Informação de Aery")
+
+        fields = [("\u200B", "**Aerybot** quer fazer mais fácil e rápida a busca de builds e runas para jogar League of Legends. Se atualiza uma vez por semana, e toda a informação é obtida das runas e builds mais populares e com melhor winrate de acordo com League of Graphs.", False),
+        ("\u200B", "Escribe *aery comandos* para ver qué puede hacer Escreva aery comandos para ver o que pode fazer Aerybot.\n\nEsse bot foi atualizado pela última vez no **01/06/21 às 17:54**.\n\nOs dados e builds foram obtidos de League of Graphs, para Todas as regiões, Platino+, **parche 11.11**.\n\nSe você quiser convidar o bot para outro server, pode fazê-lo com esse link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot\n\nSe você curtiu esse bot, considere comprar um kofi para a criadora: https://www.ko-fi.com/lona9", False)]
+
+        for name, value, inline in fields:
+          embed.add_field(name=name, value=value, inline=inline)
+
+        embed.set_author(name='Aerybot', icon_url="https://cdn.discordapp.com/attachments/827220123299086447/827222701349404771/Summon_Aery_rune.png")
+        embed.set_footer(text="Se eu apresentar problemas ou você precisa de mais ajuda, envie uma mensagem a lona#4817")
+
+        await ctx.channel.send(embed=embed)
+
     try:
       eventmsg = str(ctx.message.content) + ", guild: " + str(ctx.guild.name)
       await self.testchannel.send(eventmsg)
@@ -35,21 +57,41 @@ class Ayuda(Cog):
   @command(name="comandos", aliases=["comando"])
   async def comandos(self, ctx):
 
+    language = db.record("SELECT GuildLang FROM languages WHERE GuildID = ?", ctx.guild.id)
+
+    language = str(language[0])
+
     self.testchannel = self.bot.get_channel(827220123299086447)
     channel = self.testchannel
 
-    embed = Embed(title="Lista de comandos", colour=0xFF0000)
+    if language == "SP":
 
-    fields = [("\u200B", "Estos son los comandos que puedes utilizar y sus funciones:", False),
-      ("\u200B", ":small_blue_diamond: **aery info**: Información general del bot.\n:small_blue_diamond: **aery rotacion:** Rotación semanal actual.\n:small_blue_diamond: **aery normal**: Escribir comando + nombre del champ para ver sus stats y builds para partidas normales (ej: aery normal ashe). \nSi el champ tiene más de una posición, puedes escribir la posición después del nombre para ver las stats específicas. Usar los nombres abreviados (mid, top, adc, supp, jg). Por ejemplo, escribir: *aery normal ekko jg*. El comando sin posición al final mostrará la información promedio para el champ considerando todas las posiciones.\n:small_blue_diamond: **aery aram:** Escribir comando + nombre del champ para ver sus stats y builds para partidas ARAM (ej: aery aram ashe)\n:small_blue_diamond: **aery invitacion:** Envía el link para invitar a Aery a otros servers.", False),
-      ("\u200B", "Comandos deben ser escritos en minúsculas. Los nombres de champs se pueden con o sin mayúsculas, con o sin espacios, y con o sin caracteres especiales. Cada champ tiene un set de nombres aceptados, que incluye las abreviaciones más comunes.", False)]
+        embed = Embed(title="Lista de comandos", colour=0xFF0000)
 
-    for name, value, inline in fields:
-      embed.add_field(name=name, value=value, inline=inline)
-    embed.set_author(name='Aerybot', icon_url="https://cdn.discordapp.com/attachments/827220123299086447/827222701349404771/Summon_Aery_rune.png")
-    embed.set_footer(text="Si presento problemas o necesitas más ayuda, menciona o envía un mensaje a lona#4817")
+        fields = [("\u200B", "Estos son los comandos que puedes utilizar y sus funciones:", False),
+          ("\u200B", ":small_blue_diamond: **aery info**: Información general del bot.\n:small_blue_diamond: **aery rotacion:** Rotación semanal actual.\n:small_blue_diamond: **aery normal**: Escribir comando + nombre del champ para ver sus stats y builds para partidas normales (ej: aery normal ashe). \nSi el champ tiene más de una posición, puedes escribir la posición después del nombre para ver las stats específicas. Usar los nombres abreviados (mid, top, adc, supp, jg). Por ejemplo, escribir: *aery normal ekko jg*. El comando sin posición al final mostrará la información promedio para el champ considerando todas las posiciones.\n:small_blue_diamond: **aery aram:** Escribir comando + nombre del champ para ver sus stats y builds para partidas ARAM (ej: aery aram ashe)\n:small_blue_diamond: **aery invitacion:** Envía el link para invitar a Aery a otros servers.", False),
+          ("\u200B", "Comandos deben ser escritos en minúsculas. Los nombres de champs se pueden con o sin mayúsculas, con o sin espacios, y con o sin caracteres especiales. Cada champ tiene un set de nombres aceptados, que incluye las abreviaciones más comunes.", False)]
 
-    await ctx.channel.send(embed=embed)
+        for name, value, inline in fields:
+          embed.add_field(name=name, value=value, inline=inline)
+        embed.set_author(name='Aerybot', icon_url="https://cdn.discordapp.com/attachments/827220123299086447/827222701349404771/Summon_Aery_rune.png")
+        embed.set_footer(text="Si presento problemas o necesitas más ayuda, menciona o envía un mensaje a lona#4817")
+
+        await ctx.channel.send(embed=embed)
+
+    else:
+        embed = Embed(title="Lista de comandos", colour=0xFF0000)
+
+        fields = [("\u200B", "Esses são os comandos que você pode usar e suas funções:", False),
+          ("\u200B", ":small_blue_diamond: **aery info**: Informação geral do bot.\n:small_blue_diamond: **aery rotacion:** Rotação semanal atual.\n:small_blue_diamond: **aery normal**: Escrever comando + nome do champ para ver suas stats e builds para partidas normais (ej: aery normal ashe).\nSe o champ tiver mais de uma posição, você pode escrever a posição depois do nome para ver as stats específicas. Usar os nomes abreviados (mid, top, adc, supp, jg). Por exemplo, escrever: aery normal ekko jg. O comando sem posição no final vai mostrar a informação média para o champ considerando todas as posições.\n:small_blue_diamond: **aery aram:** Escrever comando + nome do champ para ver suas stats e builds para partidas ARAM (ej: aery aram ashe)\n:small_blue_diamond: **aery invitacion:** Envia o link para convidar a Aery a outros servers.", False),
+          ("\u200B", "Comandos devem ser escritos com letras minúsculas. Os nomes dos champs se podem escrever com ou sem maiúsculas, com ou sem espaços, e com ou sem caráteres especiais. Cada champ tem um set de nomes aceitos, que inclui as abreviações mais comuns.", False)]
+
+        for name, value, inline in fields:
+          embed.add_field(name=name, value=value, inline=inline)
+        embed.set_author(name='Aerybot', icon_url="https://cdn.discordapp.com/attachments/827220123299086447/827222701349404771/Summon_Aery_rune.png")
+        embed.set_footer(text="Se eu apresentar problemas ou você precisa de mais ajuda, envie uma mensagem a lona#4817")
+
+        await ctx.channel.send(embed=embed)
 
     try:
       eventmsg = str(ctx.message.content) + ", guild: " + str(ctx.guild.name)
@@ -60,10 +102,18 @@ class Ayuda(Cog):
 
   @command(name='invitacion', aliases=["invite"])
   async def invitacion(self, ctx):
+    language = db.record("SELECT GuildLang FROM languages WHERE GuildID = ?", ctx.guild.id)
+
+    language = str(language[0])
+
     self.testchannel = self.bot.get_channel(827220123299086447)
     channel = self.testchannel
 
-    await ctx.channel.send("Puedes invitar a Aery a otros servers con el siguiente link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot")
+    if language == "SP":
+
+        await ctx.channel.send("Puedes invitar a Aery a otros servers con el siguiente link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot")
+    else:
+        await ctx.channel.send("Você pode convidar Aery para outros servidores com o seguinte link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot")
 
     try:
       eventmsg = str(ctx.message.content) + ", guild: " + str(ctx.guild.name)

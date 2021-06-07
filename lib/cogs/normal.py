@@ -1,6 +1,7 @@
 from discord.ext.commands import Cog
 from discord.ext.commands import command
 import os
+from ..db import db
 
 class Normal(Cog):
   def __init__(self, bot):
@@ -12,8 +13,15 @@ class Normal(Cog):
     self.testchannel = self.bot.get_channel(827220123299086447)
     channel = self.testchannel
 
+    language = db.record("SELECT GuildLang FROM languages WHERE GuildID = ?", ctx.guild.id)
+
+    language = str(language[0])
+
     if args == ():
-      await ctx.channel.send('¡Debes escribir el nombre de un champ después de *aery aram*!')
+        if language == "SP":
+            await ctx.channel.send('¡Debes escribir el nombre de un champ después de *aery normal*!')
+        else:
+            await ctx.channel.send('Você deve escrever o nome de um champ após *aery normal*!')
 
     else:
       charsearch = "".join(args).lower().replace("'", "").replace(".", "")
@@ -242,10 +250,17 @@ class Normal(Cog):
 
 
       def filename(x):
-        arampath = '/root/aery/data/normal/'
-        extension = '.txt'
-        file = arampath + x + extension
-        return file
+        if language == "SP":
+            arampath = '/root/aery/data/normal/sp/'
+            extension = '.txt'
+            file = arampath + x + extension
+            return file
+
+        else:
+            arampath = '/root/aery/data/normal/pt/'
+            extension = '.txt'
+            file = arampath + x + extension
+            return file
 
       counter = 0
 
@@ -268,7 +283,10 @@ class Normal(Cog):
           pass
 
       if counter == 0:
-        await ctx.channel.send("¡No existe información para este champ! ¿Escribiste bien el nombre?")
+          if language == "SP":
+              await ctx.channel.send("¡No existe información para este champ! ¿Escribiste bien el nombre?")
+          else:
+              await ctx.channel.send("Não há informações para esse champ. Você soletrou o nome corretamente?")
 
   @Cog.listener()
   async def on_ready(self):
