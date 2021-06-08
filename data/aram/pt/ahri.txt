@@ -1,0 +1,20 @@
+**Ahri** *(ARAM)*
+**Porcentagem de vitorias:** 50.3%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
+
+> <:dom11:804447179758239744>:cd::cd::cd:
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd:<:dom33:804457129578332160>
+> <:dom41:804457130379182120>:cd::cd::cd:
+
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
+>   :cd::cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Sapatos do Feiticeiro
+**Itens Iniciais:** Capítulo Perdido
+**Itens Core:** Capítulo Perdido > Tormenta de Luden > Foco do Horizonte > Ampulheta de Zhonya
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

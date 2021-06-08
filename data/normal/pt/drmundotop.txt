@@ -1,0 +1,21 @@
+**Dr. Mundo Build Rota Topo** *(Normal)*
+**Rota: Selva, Rota Topo
+**Porcentagem de vitorias:** 48.9%
+**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+
+>   <:valor11:804449943376232509>:cd::cd:
+>   <:valor21:804449943984537690>:cd::cd:
+>   :cd:<:valor32:804449943959765002>:cd:
+>   <:valor41:804449944298586143>:cd::cd:
+
+>   :cd:<:insp22:804450563793747989>:cd:
+>   :cd::cd::cd:
+>   :cd:<:insp42:804450563965452369>:cd:
+>   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas Galvanizadas de Aço
+**Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
+**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Semblante Espiritual > Armadura de Espinhos
+**Itens End:** Placa Gargolítica, Presságio de Randuin, Armadura de Warmog

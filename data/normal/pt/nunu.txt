@@ -1,0 +1,21 @@
+**Nunu e Willump Build ** *(Normal)*
+**Rota: Selva
+**Porcentagem de vitorias:** 49.6%
+**Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
+**Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
+
+>   :cd::cd:<:bruj13:804448796787474433>
+>   :cd::cd:<:bruj23:804448797425532928>
+>   :cd:<:bruj32:804448797346234369>:cd:
+>   :cd:<:bruj42:804448797572595813>:cd:
+
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   :cd::cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas Galvanizadas de Aço
+**Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
+**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Couraça do Defunto > Armadura de Espinhos
+**Itens End:** Ladrão de Almas de Mejai, Armadura de Espinhos, Semblante Espiritual

@@ -1,0 +1,21 @@
+**Tahm Kench Build ** *(Normal)*
+**Rota: Rota Topo, Atirador, Suporte
+**Porcentagem de vitorias:** 46.2%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+
+>   :cd::cd:<:valor13:804449943497605171>
+>   :cd:<:valor22:804449944018223104>:cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd::cd:<:valor43:804449944001708043>
+
+>   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd:<:insp42:804450563965452369>:cd:
+>   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas Galvanizadas de Aço
+**Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
+**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Armadura de Espinhos > Semblante Espiritual
+**Itens End:** Armadura de Warmog, Placa Gargolítica, Força da Natureza

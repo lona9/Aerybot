@@ -1,6 +1,6 @@
-**Braum ** *(Normal)*
-**Posición:** *Support*
-**Porcentaje de victorias:** 50.7%
+**Braum ** *(ARAM)*
+**Posición:** Support
+**Porcentaje de victorias:** 50.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Cota de espinas, Corazón de hielo, Convergencia de Zeke
+**Objetos finales:** Convergencia de Zeke, Promesa del caballero, Bendición de Mikael

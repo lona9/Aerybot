@@ -1,0 +1,20 @@
+**Ivern** *(ARAM)*
+**Porcentagem de vitorias:** 52.5%
+**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
+**Runas:** <:bruj:804451124236648478> <:valor:804451124245561394>
+
+>   <:bruj11:804448796104589323>:cd::cd:
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
+>   :cd::cd:<:bruj43:804448797631316069>
+
+>   :cd:<:valor22:804449944018223104>:cd:
+>   :cd::cd::cd:
+>   :cd:<:valor42:804449943615438919>:cd:
+>   <:5007:804451180164022312> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas Ionianas da Lucidez
+**Itens Iniciais:** Cristal de Rubi, Espelho de Bandópolis
+**Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Cajado Aquafluxo > Turíbulo Ardente
+**Itens End:** Redenção, Putrificador Quimtec, Bênção de Mikael

@@ -1,7 +1,7 @@
-**Camille ** *(Normal)*
-**Posición:** *Top*
-**Porcentaje de victorias:** 51.1%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Camille ** *(ARAM)*
+**Posición:** Top
+**Porcentaje de victorias:** 51.4%
+**Hechizos del Invocador:** <:Teleport:804555481699713034> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
 >   <:valor11:804449943376232509>:cd::cd:

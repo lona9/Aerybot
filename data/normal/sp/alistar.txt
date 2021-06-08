@@ -1,5 +1,5 @@
-**Alistar ** *(Normal)*
-**Posición:** *Support*
+**Alistar ** *(ARAM)*
+**Posición:** Support
 **Porcentaje de victorias:** 49.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
@@ -18,4 +18,4 @@
 **Botas:** Botas de movilidad
 **Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Promesa del caballero, Fuerza de la naturaleza, Convergencia de Zeke
+**Objetos finales:** Cota de espinas, Promesa del caballero, Coraza del muerto

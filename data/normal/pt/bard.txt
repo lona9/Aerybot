@@ -1,0 +1,21 @@
+**Bardo Build ** *(Normal)*
+**Rota: Suporte
+**Porcentagem de vitorias:** 50.3%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
+
+>   :cd::cd:<:valor13:804449943497605171>
+>   :cd:<:valor22:804449944018223104>:cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd:<:valor42:804449943615438919>:cd:
+
+>   :cd::cd::cd:
+>   <:dom31:804457128914976788>:cd::cd:
+> :cd::cd:<:dom43:804457129183936582>:cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas Ionianas da Lucidez
+**Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
+**Itens Core:** Espelho de Bandópolis > Mandato Imperial > Couraça do Defunto > Canhão Fumegante
+**Itens End:** Canhão Fumegante, Coração Congelado, Ampulheta de Zhonya

@@ -1,0 +1,21 @@
+**Vi Build ** *(Normal)*
+**Rota: Selva
+**Porcentagem de vitorias:** 50.9%
+**Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
+**Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
+
+> :cd::cd::cd:<:dom14:804447179938070569>
+>   :cd::cd:<:dom23:804457130307485707>
+>   :cd::cd:<:dom33:804457129578332160>
+> :cd::cd:<:dom43:804457129183936582>:cd:
+
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   :cd::cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas Galvanizadas de Aço
+**Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
+**Itens Core:** Machado Termestre > Força da Trindade > Sinal de Sterak > Dança da Morte
+**Itens End:** Anjo Guardião, Dança da Morte, Armadura de Espinhos

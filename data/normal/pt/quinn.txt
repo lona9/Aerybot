@@ -1,0 +1,21 @@
+**Quinn Build ** *(Normal)*
+**Rota: Rota Topo
+**Porcentagem de vitorias:** 51.6%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+
+> <:precision11:804445926906658886>:cd::cd::cd:
+>   <:precision21:804446921363685387>:cd::cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   :cd:<:precision42:804446921636053043>:cd:
+
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd::cd:
+> <:dom41:804457130379182120>:cd::cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Grevas do Berserker
+**Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Itens Core:** Aljava Vespertina > Força do Vendaval > Chuva de Canivete > Gume do Infinito
+**Itens End:** Anjo Guardião, Gume do Infinito, Lembranças do Lorde Dominik

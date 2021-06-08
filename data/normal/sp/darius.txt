@@ -1,6 +1,6 @@
-**Darius ** *(Normal)*
-**Posición:** *Top*
-**Porcentaje de victorias:** 50.4%
+**Darius ** *(ARAM)*
+**Posición:** Top
+**Porcentaje de victorias:** 50.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 

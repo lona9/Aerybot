@@ -1,6 +1,6 @@
-**Heimerdinger Top** *(Normal)*
-**Posición:** *Top, Mid*
-**Porcentaje de victorias:** 50.3%
+**Heimerdinger Top** *(ARAM)*
+**Posición:** Mid, Top
+**Porcentaje de victorias:** 49.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 

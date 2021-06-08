@@ -1,6 +1,6 @@
-**Vladimir Mid** *(Normal)*
-**Posición:** *Mid, Top*
-**Porcentaje de victorias:** 51.0%
+**Vladimir Mid** *(ARAM)*
+**Posición:** Mid, Top
+**Porcentaje de victorias:** 51.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 

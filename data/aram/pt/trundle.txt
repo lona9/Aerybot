@@ -1,0 +1,20 @@
+**Trundle** *(ARAM)*
+**Porcentagem de vitorias:** 56.0%
+**Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
+**Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
+
+>   <:valor11:804449943376232509>:cd::cd:
+>   :cd:<:valor22:804449944018223104>:cd:
+>   <:valor31:804449943666425907>:cd::cd:
+>   <:valor41:804449944298586143>:cd::cd:
+
+>   :cd:<:precision22:804446921414541333>:cd:
+>   :cd:<:precision32:804446921737371648>:cd:
+>   :cd::cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Passos de Mercúrio
+**Itens Iniciais:** Poção com Refil, Fago
+**Itens Core:** Fago > Ruptor Divino > Semblante Espiritual > Armadura de Espinhos
+**Itens End:** Armadura de Espinhos, Sinal de Sterak, Espada do Rei Destruído

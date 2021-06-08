@@ -1,6 +1,6 @@
-**Sett Top** *(Normal)*
-**Posición:** *Top*
-**Porcentaje de victorias:** 50.8%
+**Sett Top** *(ARAM)*
+**Posición:** Top
+**Porcentaje de victorias:** 51.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Cetro vampírico > Hoja del rey arruinado > Cortasendas > Guantelete de Sterak
-**Objetos finales:** Cota de espinas, Coraza del muerto, Hidra titánica
+**Objetos finales:** Cota de espinas, Hidra titánica, Coraza del muerto

@@ -1,0 +1,21 @@
+**Sejuani Build ** *(Normal)*
+**Rota: Selva
+**Porcentagem de vitorias:** 50.0%
+**Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
+**Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
+
+>   :cd:<:valor12:804449943775084614>:cd:
+>   :cd:<:valor22:804449944018223104>:cd:
+>   <:valor31:804449943666425907>:cd::cd:
+>   <:valor41:804449944298586143>:cd::cd:
+
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   :cd::cd::cd:
+>   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas Galvanizadas de Aço
+**Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
+**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Armadura de Espinhos > Máscara Abissal
+**Itens End:** Presságio de Randuin, Placa Gargolítica, Armadura de Espinhos

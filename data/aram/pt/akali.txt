@@ -1,0 +1,20 @@
+**Akali** *(ARAM)*
+**Porcentagem de vitorias:** 39.6%
+**Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
+**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+
+> :cd::cd:<:precision13:804446921619931187>:cd:
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd:<:precision32:804446921737371648>:cd:
+>   <:precision41:804446922151690300>:cd::cd:
+
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd::cd:
+> <:dom41:804457130379182120>:cd::cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Cajado do Vazio
+**Itens Iniciais:** Olhar Sanguessuga
+**Itens Core:** Colhedor Noturno > Perdição de Lich > Ampulheta de Zhonya > Sapatos do Feiticeiro
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

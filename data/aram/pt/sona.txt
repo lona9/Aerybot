@@ -1,0 +1,20 @@
+**Sona** *(ARAM)*
+**Porcentagem de vitorias:** 55.5%
+**Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
+**Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
+
+>   <:bruj11:804448796104589323>:cd::cd:
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
+>   <:bruj41:804448797597499402>:cd::cd:
+
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd::cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Cajado Aquafluxo
+**Itens Iniciais:** Amuleto da Fada, Tomo Amplificador, Lágrima da Deusa, Poção de Vida
+**Itens Core:** Lágrima da Deusa > Poção de Vida > Espelho de Bandópolis > Regenerador de Pedra Lunar
+**Itens End:** Putrificador Quimtec, Redenção, Turíbulo Ardente

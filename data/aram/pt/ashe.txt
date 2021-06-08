@@ -1,0 +1,20 @@
+**Ashe** *(ARAM)*
+**Porcentagem de vitorias:** 55.3%
+**Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
+
+>   :cd:<:bruj12:804448797001252864>:cd:
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
+>   <:bruj41:804448797597499402>:cd::cd:
+
+>   <:dom21:804457127800078397>:cd::cd:
+>   :cd::cd::cd:
+> :cd::cd::cd:<:dom44:804457129732866048>
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Grevas do Berserker
+**Itens Iniciais:** Aljava Vespertina
+**Itens Core:** Espelho de Bandópolis > Mandato Imperial > Manamune > Hidra Raivosa
+**Itens End:** Serrespada Quimiopunk, Lembrete Mortal, Gume do Infinito

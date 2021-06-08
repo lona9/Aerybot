@@ -1,0 +1,20 @@
+**Udyr** *(ARAM)*
+**Porcentagem de vitorias:** 44.8%
+**Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
+**Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
+
+>   :cd::cd:<:bruj13:804448796787474433>
+>   :cd::cd:<:bruj23:804448797425532928>
+>   :cd:<:bruj32:804448797346234369>:cd:
+>   <:bruj41:804448797597499402>:cd::cd:
+
+>   :cd:<:precision22:804446921414541333>:cd:
+>   :cd:<:precision32:804446921737371648>:cd:
+>   :cd::cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Passos de Mercúrio
+**Itens Iniciais:** Poção com Refil, Brasa de Bami
+**Itens Core:** Brasa de Bami > Quimiotanque Turbo > Couraça do Defunto > Força da Natureza
+**Itens End:** Armadura de Espinhos, Armadura de Warmog, Força da Natureza

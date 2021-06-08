@@ -1,0 +1,20 @@
+**Cho'Gath** *(ARAM)*
+**Porcentagem de vitorias:** 50.4%
+**Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
+**Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
+
+>   <:valor11:804449943376232509>:cd::cd:
+>   <:valor21:804449943984537690>:cd::cd:
+>   <:valor31:804449943666425907>:cd::cd:
+>   <:valor41:804449944298586143>:cd::cd:
+
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd:<:precision32:804446921737371648>:cd:
+>   :cd::cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Passos de Mercúrio
+**Itens Iniciais:** Poção com Refil, Brasa de Bami
+**Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Armadura de Espinhos > Armadura de Warmog
+**Itens End:** Placa Gargolítica, Armadura de Espinhos, Presságio de Randuin

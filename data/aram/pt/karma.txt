@@ -1,0 +1,20 @@
+**Karma** *(ARAM)*
+**Porcentagem de vitorias:** 49.9%
+**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
+**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
+
+> :cd::cd:<:dom13:804447179828625438>:cd:
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd:<:dom33:804457129578332160>
+> :cd::cd::cd:<:dom44:804457129732866048>
+
+>   :cd::cd::cd:
+>   <:bruj31:804448797395910716>:cd::cd:
+>   <:bruj41:804448797597499402>:cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Sapatos do Feiticeiro
+**Itens Iniciais:** Capítulo Perdido
+**Itens Core:** Capítulo Perdido > Tormenta de Luden > Morellonomicon > Ampulheta de Zhonya
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Ampulheta de Zhonya

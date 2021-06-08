@@ -1,0 +1,21 @@
+**Zyra Build ** *(Normal)*
+**Rota: Suporte
+**Porcentagem de vitorias:** 51.5%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
+
+>   :cd:<:bruj12:804448797001252864>:cd:
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
+>   <:bruj41:804448797597499402>:cd::cd:
+
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd::cd:
+> :cd::cd:<:dom43:804457129183936582>:cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Sapatos do Feiticeiro
+**Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
+**Itens Core:** Capítulo Perdido > Angústia de Liandry > Ampulheta de Zhonya > Morellonomicon
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Cetro de Cristal de Rylai

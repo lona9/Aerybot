@@ -1,7 +1,7 @@
-**Ziggs AD Carry** *(Normal)*
-**Posición:** *Mid, AD Carry*
-**Porcentaje de victorias:** 50.9%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Ziggs AD Carry** *(ARAM)*
+**Posición:** Mid, AD Carry
+**Porcentaje de victorias:** 50.2%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
 >   :cd:<:bruj12:804448797001252864>:cd:
@@ -9,13 +9,13 @@
 >   <:bruj31:804448797395910716>:cd::cd:
 >   <:bruj41:804448797597499402>:cd::cd:
 
->   :cd::cd::cd:
+>   :cd:<:insp22:804450563793747989>:cd:
 >   :cd::cd:<:insp33:804450564049731594>
->   <:insp41:804450563507879947>:cd::cd:
+>   :cd::cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Capítulo perdido > Tempestad de Luden > Báculo del arcángel > Reloj de arena de Zhonya
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Báculo del arcángel > Enfoque al horizonte
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Reloj de arena de Zhonya

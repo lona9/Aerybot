@@ -1,13 +1,13 @@
-**Shen ** *(Normal)*
-**Posición:** *Top*
-**Porcentaje de victorias:** 51.2%
+**Shen ** *(ARAM)*
+**Posición:** Top
+**Porcentaje de victorias:** 51.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
 
 >   <:valor11:804449943376232509>:cd::cd:
 >   :cd::cd:<:valor23:804449943876010024>
 >   :cd:<:valor32:804449943959765002>:cd:
->   <:valor41:804449944298586143>:cd::cd:
+>   :cd:<:valor42:804449943615438919>:cd:
 
 >   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd::cd:

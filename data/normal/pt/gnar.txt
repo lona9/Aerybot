@@ -1,0 +1,21 @@
+**Gnar Build ** *(Normal)*
+**Rota: Rota Topo
+**Porcentagem de vitorias:** 49.9%
+**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
+
+>   <:valor11:804449943376232509>:cd::cd:
+>   <:valor21:804449943984537690>:cd::cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   <:valor41:804449944298586143>:cd::cd:
+
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd::cd:
+> <:dom41:804457130379182120>:cd::cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas Galvanizadas de Aço
+**Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Itens Core:** Machado Termestre > Quebrapassos > Sinal de Sterak > Armadura de Espinhos
+**Itens End:** Presságio de Randuin, Armadura de Espinhos, Força da Natureza

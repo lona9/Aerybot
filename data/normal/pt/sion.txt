@@ -1,0 +1,21 @@
+**Sion Build ** *(Normal)*
+**Rota: Rota Topo
+**Porcentagem de vitorias:** 50.0%
+**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+
+>   <:valor11:804449943376232509>:cd::cd:
+>   <:valor21:804449943984537690>:cd::cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   <:valor41:804449944298586143>:cd::cd:
+
+>   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd::cd:<:insp43:804450563952869452>
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas Galvanizadas de Aço
+**Itens Iniciais:** Sentinela Invisível, Poção Corrupta
+**Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Armadura de Espinhos > Placa Gargolítica
+**Itens End:** Placa Gargolítica, Armadura de Espinhos, Presságio de Randuin

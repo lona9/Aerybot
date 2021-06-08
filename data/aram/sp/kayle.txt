@@ -17,4 +17,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Carcaj de mediodía > Matakrakens > Hoja del rey arruinado > Hoja de furia de Guinsoo
-**Objetos finales:** Hoja de furia de Guinsoo, Sanguinaria, Sombrero mortífero de Rabadon
+**Objetos finales:** Hoja de furia de Guinsoo, Sanguinaria, Cañón de fuego rápido

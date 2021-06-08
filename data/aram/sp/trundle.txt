@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Bacteriófago
-**Objetos principales:** Cuerno del guardián > Guantelete de fuego escarchado > Apariencia espiritual > Cota de espinas
+**Objetos principales:** Bacteriófago > Cercenador divino > Apariencia espiritual > Cota de espinas
 **Objetos finales:** Cota de espinas, Guantelete de Sterak, Hoja del rey arruinado

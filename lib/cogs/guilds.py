@@ -14,11 +14,17 @@ class Guilds(Cog):
 
   @command()
   async def lang(self, ctx):
-    await ctx.channel.send("Escoge el lenguaje de Aery / Escolha o idioma do Aery:\n*sp*: español\n*pt*: português.")
+
+    self.testchannel = self.bot.get_channel(827220123299086447)
+    channel = self.testchannel
+
+    await ctx.channel.send("Escoge el lenguaje de Aery / Escolha o idioma do Aery:\n**sp**: español\n**pt**: português.")
+
     try:
         message = await self.bot.wait_for('message', timeout = 45.0, check=lambda message: message.author == ctx.author)
     except:
         await channel.send("Se acabó el tiempo / Acabou o tempo")
+
     else:
         if message.content.lower() == "sp" or message.content.lower() == "español":
             db.execute("UPDATE languages SET GuildLang = ? WHERE GuildID = ?", "SP", ctx.guild.id)
@@ -36,6 +42,13 @@ class Guilds(Cog):
 
         else:
             await ctx.channel.send("Debes escoger una opción válida / Você deve escolher uma opção válida")
+
+    try:
+        eventmsg = str(ctx.message.content) + ", guild: " + str(ctx.guild.name)
+        await self.testchannel.send(eventmsg)
+    except AttributeError:
+        eventmsg = str(ctx.message.content) + ", guild: None"
+        await self.testchannel.send(eventmsg)
 
   @Cog.listener()
   async def on_guild_join(self, guild):

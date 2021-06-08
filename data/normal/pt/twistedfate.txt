@@ -1,0 +1,21 @@
+**Twisted Fate Build ** *(Normal)*
+**Rota: Rota do Meio
+**Porcentagem de vitorias:** 48.6%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
+
+> <:dom11:804447179758239744>:cd::cd::cd:
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd:<:dom33:804457129578332160>
+> <:dom41:804457130379182120>:cd::cd::cd:
+
+>   :cd::cd::cd:
+>   :cd:<:insp32:804450563915645008>:cd:
+>   :cd::cd:<:insp43:804450563952869452>
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
+
+**Build**
+**Botas:** Botas Ionianas da Lucidez
+**Itens Iniciais:** Sentinela Invisível, Poção Corrupta
+**Itens Core:** Capítulo Perdido > Glacieterno > Perdição de Lich > Canhão Fumegante
+**Itens End:** Capuz da Morte de Rabadon, Canhão Fumegante, Ampulheta de Zhonya

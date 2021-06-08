@@ -1,6 +1,6 @@
-**Rakan ** *(Normal)*
-**Posición:** *Support*
-**Porcentaje de victorias:** 50.4%
+**Rakan ** *(ARAM)*
+**Posición:** Support
+**Porcentaje de victorias:** 50.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
 **Objetos principales:** Gemaluz > Canción de batalla de Shurelya > Convergencia de Zeke > Redención
-**Objetos finales:** Báculo del vacío, Redención, Putrificador tecnoquímico
+**Objetos finales:** Velo de la banshee, Promesa del caballero, Redención

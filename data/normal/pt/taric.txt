@@ -1,0 +1,21 @@
+**Taric Build ** *(Normal)*
+**Rota: Suporte
+**Porcentagem de vitorias:** 49.8%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
+
+>   :cd::cd:<:valor13:804449943497605171>
+>   :cd:<:valor22:804449944018223104>:cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd:<:valor42:804449943615438919>:cd:
+
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd:<:precision32:804446921737371648>:cd:
+>   :cd::cd::cd:
+>   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas Galvanizadas de Aço
+**Itens Iniciais:** Sentinela Invisível, Escudo Relicário, Poção de Vida
+**Itens Core:** Gema Ardente > Medalhão dos Solari de Ferro > Convergência de Zeke > Juramento do Cavaleiro
+**Itens End:** Juramento do Cavaleiro, Armadura de Espinhos, Convergência de Zeke

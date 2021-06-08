@@ -1,11 +1,11 @@
-**Sion ** *(Normal)*
-**Posición:** *Top*
-**Porcentaje de victorias:** 50.3%
+**Sion ** *(ARAM)*
+**Posición:** Top
+**Porcentaje de victorias:** 50.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
 >   <:valor11:804449943376232509>:cd::cd:
->   :cd::cd:<:valor23:804449943876010024>
+>   <:valor21:804449943984537690>:cd::cd:
 >   :cd::cd:<:valor33:804449943603118131>
 >   <:valor41:804449944298586143>:cd::cd:
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Armadura pétrea
-**Objetos finales:** Cota de espinas, Presagio de Randuin, Armadura pétrea
+**Objetos finales:** Armadura pétrea, Cota de espinas, Presagio de Randuin

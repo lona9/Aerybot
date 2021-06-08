@@ -1,0 +1,20 @@
+**Azir** *(ARAM)*
+**Porcentagem de vitorias:** 47.9%
+**Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
+**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+
+> :cd:<:precision12:804446921522675733>:cd::cd:
+>   :cd::cd:<:precision23:804446921628057630>
+>   <:precision31:804446921660956702>:cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
+
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd::cd:
+> <:dom41:804457130379182120>:cd::cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Sapatos do Feiticeiro
+**Itens Iniciais:** Capítulo Perdido
+**Itens Core:** Capítulo Perdido > Angústia de Liandry > Dente de Na'Shor > Ampulheta de Zhonya
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon

@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Espada larga
-**Objetos iniciales:** Lágrima de la diosa, Poción reutilizable, Espada larga
-**Objetos principales:** Salto > Saborea su miedo > Lágrima de la diosa > Poción reutilizable
+**Botas:** Puñal serrado
+**Objetos iniciales:** Poción reutilizable, Puñal serrado
+**Objetos principales:** Salto > Saborea su miedo > Poción reutilizable > Puñal serrado
 **Objetos finales:** Rencor de Serylda, Filo de la noche, Filo fantasmal de Youmuu

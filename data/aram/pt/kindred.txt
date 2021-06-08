@@ -1,0 +1,20 @@
+**Kindred** *(ARAM)*
+**Porcentagem de vitorias:** 50.9%
+**Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+
+> <:precision11:804445926906658886>:cd::cd::cd:
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
+
+>   :cd::cd:<:dom23:804457130307485707>
+>   :cd::cd::cd:
+> <:dom41:804457130379182120>:cd::cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Grevas do Berserker
+**Itens Iniciais:** Aljava Vespertina
+**Itens Core:** Aljava Vespertina > Mata-Cráquens > Furacão de Runaan > Gume do Infinito
+**Itens End:** Sedenta por Sangue, Gume do Infinito, Lembrete Mortal
