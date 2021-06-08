@@ -44,7 +44,7 @@ class Guilds(Cog):
             await ctx.channel.send("Debes escoger una opción válida / Você deve escolher uma opção válida")
 
     try:
-        eventmsg = str(ctx.message.content) + ", guild: " + str(ctx.guild.name)
+        eventmsg = str(ctx.message.content) + " " + str(message.content)+ ", guild: " + str(ctx.guild.name)
         await self.testchannel.send(eventmsg)
     except AttributeError:
         eventmsg = str(ctx.message.content) + ", guild: None"
