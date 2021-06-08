@@ -11,9 +11,13 @@ class Ayuda(Cog):
   @command(name="ayuda", aliases=["info", "help"])
   async def ayuda(self, ctx):
 
-    language = db.record("SELECT GuildLang FROM languages WHERE GuildID = ?", ctx.guild.id)
+    try:
+        language = db.record("SELECT GuildLang FROM languages WHERE GuildID = ?", ctx.guild.id)
 
-    language = str(language[0])
+        language = str(language[0])
+
+    except:
+        language = "SP"
 
     self.testchannel = self.bot.get_channel(827220123299086447)
     channel = self.testchannel
@@ -57,9 +61,13 @@ class Ayuda(Cog):
   @command(name="comandos", aliases=["comando"])
   async def comandos(self, ctx):
 
-    language = db.record("SELECT GuildLang FROM languages WHERE GuildID = ?", ctx.guild.id)
+    try:
+        language = db.record("SELECT GuildLang FROM languages WHERE GuildID = ?", ctx.guild.id)
 
-    language = str(language[0])
+        language = str(language[0])
+
+    except:
+        language = "SP"
 
     self.testchannel = self.bot.get_channel(827220123299086447)
     channel = self.testchannel
@@ -102,9 +110,13 @@ class Ayuda(Cog):
 
   @command(name='invitacion', aliases=["invite"])
   async def invitacion(self, ctx):
-    language = db.record("SELECT GuildLang FROM languages WHERE GuildID = ?", ctx.guild.id)
+    try:
+        language = db.record("SELECT GuildLang FROM languages WHERE GuildID = ?", ctx.guild.id)
 
-    language = str(language[0])
+        language = str(language[0])
+
+    except:
+        language = "SP"
 
     self.testchannel = self.bot.get_channel(827220123299086447)
     channel = self.testchannel
