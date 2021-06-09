@@ -26,8 +26,10 @@ class Ayuda(Cog):
 
         embed = Embed(title="Información de Aery")
 
+        fecha = "08/06/21, 9:30"
+
         fields = [("\u200B", "**Aerybot** quiere hacer más fácil y rápida la búsqueda de builds y runas para jugar League of Legends. Se actualiza una vez por semana, y toda la información es obtenida de las runas y builds más populares y con mejor winrate de acuerdo a League of Graphs.", False),
-        ("\u200B", "**NUEVO** Si quieres cambiarle el idioma al bot, escribe *aery lang* para cambiarlo a español/portugués.\n\nEscribe *aery comandos* para ver qué puede hacer Aerybot.\n\nEste bot fue actualizado por ultima vez el **02/06/21 a las 9:30**.\n\nLos datos y builds fueron obtenidos de League of Graphs, para Todas las regiones, Platino+, **parche 11.11**.\n\nSi quieres invitar a este bot a otro server, puedes hacerlo con este link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot\n\nSi te gustó este bot, considera comprar un kofi a la creadora: https://www.ko-fi.com/lona9", False)]
+        ("\u200B", f"**NUEVO** Si quieres cambiarle el idioma al bot, escribe *aery lang* para cambiarlo a español/portugués.\n\nEscribe *aery comandos* para ver qué puede hacer Aerybot.\n\nEste bot fue actualizado por ultima vez el **{fecha}**.\n\nLos datos y builds fueron obtenidos de League of Graphs, para Todas las regiones, Platino+, **parche 11.11**.\n\nSi quieres invitar a este bot a otro server, puedes hacerlo con este link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot\n\nSi te gustó este bot, considera comprar un kofi a la creadora: https://www.ko-fi.com/lona9", False)]
 
         for name, value, inline in fields:
           embed.add_field(name=name, value=value, inline=inline)
@@ -41,7 +43,7 @@ class Ayuda(Cog):
         embed = Embed(title="Informação de Aery")
 
         fields = [("\u200B", "**Aerybot** quer fazer mais fácil e rápida a busca de builds e runas para jogar League of Legends. Se atualiza uma vez por semana, e toda a informação é obtida das runas e builds mais populares e com melhor winrate de acordo com League of Graphs.", False),
-        ("\u200B", "Escribe *aery comandos* para ver qué puede hacer Escreva aery comandos para ver o que pode fazer Aerybot.\n\nEsse bot foi atualizado pela última vez no **01/06/21 às 17:54**.\n\nOs dados e builds foram obtidos de League of Graphs, para Todas as regiões, Platino+, **parche 11.11**.\n**NUEVO** Se você quiser mudar o idioma do bot, escreva *aery lang* para mudar para espanhol/português.\n\nSe você quiser convidar o bot para outro server, pode fazê-lo com esse link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot\n\nSe você curtiu esse bot, considere comprar um kofi para a criadora: https://www.ko-fi.com/lona9", False)]
+        ("\u200B", f"Escribe *aery comandos* para ver qué puede hacer Escreva aery comandos para ver o que pode fazer Aerybot.\n\nEsse bot foi atualizado pela última vez no **{fecha}**.\n\nOs dados e builds foram obtidos de League of Graphs, para Todas as regiões, Platino+, **parche 11.11**.\n**NUEVO** Se você quiser mudar o idioma do bot, escreva *aery lang* para mudar para espanhol/português.\n\nSe você quiser convidar o bot para outro server, pode fazê-lo com esse link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot\n\nSe você curtiu esse bot, considere comprar um kofi para a criadora: https://www.ko-fi.com/lona9", False)]
 
         for name, value, inline in fields:
           embed.add_field(name=name, value=value, inline=inline)
