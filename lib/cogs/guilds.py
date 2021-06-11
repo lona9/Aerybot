@@ -26,15 +26,16 @@ class Guilds(Cog):
         await ctx.channel.send("Escoge el lenguaje de Aery / Escolha o idioma do Aery:\n**sp**: español\n**pt**: português.")
 
         try:
-            message = await self.bot.wait_for('message', timeout = 45.0, check=lambda message: message.author == ctx.author)
-        except:
-            await channel.send("Se acabó el tiempo / Acabou o tempo")
+            message = await self.bot.wait_for('message', timeout = 15.0, check=lambda message: message.author == ctx.author)
 
-        else:
             if message.content.lower() == "sp" or message.content.lower() == "español":
                 db.execute("UPDATE languages SET GuildLang = ? WHERE GuildID = ?", "SP", ctx.guild.id)
 
                 await ctx.channel.send("Aery ahora está en español.")
+
+                eventmsg = str(ctx.message.content) + " " + str(message.content) + ", guild: " + str(ctx.guild.name)
+
+                await self.testchannel.send(eventmsg)
 
                 db.commit()
 
@@ -43,20 +44,31 @@ class Guilds(Cog):
 
                 await ctx.channel.send("Aery esta agora em portugues.")
 
+                eventmsg = str(ctx.message.content) + " " + str(message.content) + ", guild: " + str(ctx.guild.name)
+
+                await self.testchannel.send(eventmsg)
+
                 db.commit()
 
             else:
                 await ctx.channel.send("Debes escoger una opción válida / Você deve escolher uma opção válida")
 
+                eventmsg = str(ctx.message.content) + " " + "sin opción válida" + ", guild: " + str(ctx.guild.name)
+
+                await self.testchannel.send(eventmsg)
+
+        except:
+            await ctx.channel.send("Se acabó el tiempo / Acabou o tempo")
+            eventmsg = str(ctx.message.content) + " " + "timeout" + ", guild: " + str(ctx.guild.name)
+
+            await self.testchannel.send(eventmsg)
+
     except:
         await ctx.channel.send("Este comando solo puede ocuparse dentro de un servidor.")
 
-    try:
-        eventmsg = str(ctx.message.content) + " " + str(message.content)+ ", guild: " + str(ctx.guild.name)
+        eventmsg = str(ctx.message.content) + " " + "dm"
         await self.testchannel.send(eventmsg)
-    except AttributeError:
-        eventmsg = str(ctx.message.content) + ", guild: None"
-        await self.testchannel.send(eventmsg)
+
 
   @Cog.listener()
   async def on_guild_join(self, guild):
