@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Brasa de Bami
-**Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Semblante Espiritual > Armadura de Espinhos
+**Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Armadura de Espinhos > Semblante Espiritual
 **Itens End:** Placa Gargolítica, Armadura de Warmog, Armadura de Espinhos

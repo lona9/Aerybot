@@ -17,4 +17,4 @@
 **Botas:** Manamune
 **Objetos iniciales:** Lágrima de la diosa, Poción reutilizable, Espada larga
 **Objetos principales:** Poción reutilizable > Espada larga > Puñal serrado > Filoscuro de Draktharr
-**Objetos finales:** Rencor de Serylda, Filo de la noche, Sierraespada Quimopunk
+**Objetos finales:** Rencor de Serylda, Sierraespada Quimopunk, Filo de la noche

@@ -1,5 +1,5 @@
 **Taric** *(ARAM)*
-**Porcentagem de vitorias:** 52.3%
+**Porcentagem de vitorias:** 50.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Passos de Mercúrio
-**Itens Iniciais:** Berrante do Guardião, Lágrima da Deusa
-**Itens Core:** Gema Ardente > Medalhão dos Solari de Ferro > Semblante Espiritual > Armadura de Espinhos
-**Itens End:** Armadura de Espinhos, Coração Congelado, Armadura de Warmog
+**Itens Iniciais:** Poção com Refil, Brasa de Bami
+**Itens Core:** Berrante do Guardião > Medalhão dos Solari de Ferro > Semblante Espiritual > Armadura de Espinhos
+**Itens End:** Armadura de Warmog, Armadura de Espinhos, Coração Congelado

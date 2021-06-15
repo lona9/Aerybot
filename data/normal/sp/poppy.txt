@@ -1,6 +1,6 @@
-**Poppy ** *(ARAM)*
+**Poppy ** *(Normal)*
 **Posición:** Jungler, Top
-**Porcentaje de victorias:** 50.3%
+**Porcentaje de victorias:** 50.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 

@@ -1,6 +1,6 @@
-**Akali ** *(ARAM)*
+**Akali ** *(Normal)*
 **Posición:** Mid, Top
-**Porcentaje de victorias:** 47.9%
+**Porcentaje de victorias:** 47.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 

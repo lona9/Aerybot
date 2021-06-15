@@ -1,20 +1,20 @@
 **Rakan ** *(ARAM)*
-**Porcentaje de victorias:** 48.9%
+**Porcentaje de victorias:** 48.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
-**Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
+**Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
 >   :cd::cd:<:valor13:804449943497605171>
 >   :cd:<:valor22:804449944018223104>:cd:
 >   :cd::cd:<:valor33:804449943603118131>
 >   :cd::cd:<:valor43:804449944001708043>
 
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd:<:precision32:804446921737371648>:cd:
 >   :cd::cd::cd:
->   :cd::cd:<:dom33:804457129578332160>
-> :cd::cd::cd:<:dom44:804457129732866048>
->   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5001:804451180112642088>
 
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Cristal de rubí, Espejo de cristal de Bandle
 **Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Cota de espinas, Fuerza de la naturaleza, Redención
+**Objetos finales:** Cota de espinas, Fuerza de la naturaleza, Armadura de Warmog

@@ -1,4 +1,4 @@
-**Aatrox ** *(ARAM)*
+**Aatrox ** *(Normal)*
 **Posición:** Top
 **Porcentaje de victorias:** 50.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>

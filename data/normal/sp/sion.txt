@@ -1,6 +1,6 @@
-**Sion ** *(ARAM)*
+**Sion ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 50.0%
+**Porcentaje de victorias:** 50.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Armadura pétrea
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Hidra titánica > Cota de espinas
 **Objetos finales:** Armadura pétrea, Cota de espinas, Presagio de Randuin

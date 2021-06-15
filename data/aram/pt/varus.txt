@@ -17,4 +17,4 @@
 **Botas:** Manamune
 **Itens Iniciais:** Lágrima da Deusa, Poção com Refil, Espada Longa
 **Itens Core:** Poção com Refil > Espada Longa > Punhal Serrilhado > Crepúsculo de Draktharr
-**Itens End:** Rancor de Serylda, Limiar da Noite, Serrespada Quimiopunk
+**Itens End:** Rancor de Serylda, Serrespada Quimiopunk, Limiar da Noite

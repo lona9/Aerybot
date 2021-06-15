@@ -1,6 +1,6 @@
-**Zac ** *(ARAM)*
+**Zac ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 51.2%
+**Porcentaje de victorias:** 51.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Apariencia espiritual
-**Objetos finales:** Presagio de Randuin, Armadura pétrea, Armadura de Warmog
+**Objetos finales:** Presagio de Randuin, Abrazo demoníaco, Armadura de Warmog

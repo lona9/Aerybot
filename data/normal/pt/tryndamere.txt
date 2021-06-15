@@ -1,6 +1,6 @@
 **Tryndamere Build ** *(Normal)*
-**Rota: Rota Topo
-**Porcentagem de vitorias:** 49.6%
+**Rota:** Rota Topo
+**Porcentagem de vitorias:** 49.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Aljava Vespertina > Mata-Cráquens > Dançarina Fantasma > Adagas Rápidas Navori
+**Itens Core:** Aljava Vespertina > Mata-Cráquens > Adagas Rápidas Navori > Gume do Infinito
 **Itens End:** Rancor de Serylda, Gume do Infinito, Lembrete Mortal

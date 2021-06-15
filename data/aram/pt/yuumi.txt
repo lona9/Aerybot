@@ -1,5 +1,5 @@
 **Yuumi** *(ARAM)*
-**Porcentagem de vitorias:** 50.1%
+**Porcentagem de vitorias:** 49.8%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Cristal de Rubi, Espelho de Bandópolis
-**Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Cajado Aquafluxo > Turíbulo Ardente
-**Itens End:** Redenção, Putrificador Quimtec, Bênção de Mikael
+**Botas:** Putrificador Quimtec
+**Itens Iniciais:** Capítulo Perdido
+**Itens Core:** Regenerador de Pedra Lunar > Cajado Aquafluxo > Turíbulo Ardente > Botas Ionianas da Lucidez
+**Itens End:** Putrificador Quimtec, Redenção, Bênção de Mikael

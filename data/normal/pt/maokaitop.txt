@@ -1,6 +1,6 @@
 **Maokai Build Rota Topo** *(Normal)*
-**Rota: Suporte, Rota Topo
-**Porcentagem de vitorias:** 49.7%
+**Rota:** Suporte
+**Porcentagem de vitorias:** 51.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
 **Itens Core:** Brasa de Bami > Égide de Fogo Solar > Armadura de Espinhos > Semblante Espiritual
-**Itens End:** Presságio de Randuin, Máscara Abissal, Armadura de Espinhos
+**Itens End:** Armadura de Espinhos, Presságio de Randuin, Semblante Espiritual

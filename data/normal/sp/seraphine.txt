@@ -1,6 +1,6 @@
-**Seraphine ** *(ARAM)*
+**Seraphine ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 49.5%
+**Porcentaje de victorias:** 49.6%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
-**Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Báculo de agua fluyente > Putrificador tecnoquímico
-**Objetos finales:** Reloj de arena de Zhonya, Putrificador tecnoquímico, Sombrero mortífero de Rabadon
+**Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Putrificador tecnoquímico > Báculo de agua fluyente
+**Objetos finales:** Putrificador tecnoquímico, Reloj de arena de Zhonya, Sombrero mortífero de Rabadon

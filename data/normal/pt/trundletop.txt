@@ -1,21 +1,21 @@
 **Trundle Build Rota Topo** *(Normal)*
-**Rota: Selva, Rota Topo
-**Porcentagem de vitorias:** 50.2%
+**Rota:** Selva, Rota Topo
+**Porcentagem de vitorias:** 51.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > <:precision11:804445926906658886>:cd::cd::cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
->   :cd::cd:<:precision43:804446921941975080>
+>   <:precision41:804446922151690300>:cd::cd:
 
->   :cd::cd::cd:
+>   <:valor21:804449943984537690>:cd::cd:
 >   :cd::cd:<:valor33:804449943603118131>
->   :cd:<:valor42:804449943615438919>:cd:
+>   :cd::cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Fulgor > Colhedor de Essência > Quebrapassos > Sinal de Sterak
-**Itens End:** Semblante Espiritual, Armadura de Espinhos, Sinal de Sterak
+**Itens Core:** Fulgor > Ruptor Divino > Hidra Titânica > Sinal de Sterak
+**Itens End:** Semblante Espiritual, Armadura de Espinhos, Presságio de Randuin

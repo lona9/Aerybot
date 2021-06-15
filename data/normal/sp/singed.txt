@@ -1,6 +1,6 @@
-**Singed ** *(ARAM)*
+**Singed ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 50.9%
+**Porcentaje de victorias:** 51.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Vara explosiva > Cetro de cristal de Rylai > Agrietador > Abrazo demoníaco
-**Objetos finales:** Morellonomicón, Abrazo demoníaco, Reloj de arena de Zhonya
+**Objetos principales:** Mirada absorbente > Agrietador > Cetro de cristal de Rylai > Abrazo demoníaco
+**Objetos finales:** Morellonomicón, Abrazo demoníaco, Coraza del muerto

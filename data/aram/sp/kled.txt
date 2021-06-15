@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Látigo férreo
 **Objetos principales:** Látigo férreo > Bebedor de sangre > Hidra titánica > Guantelete de Sterak
-**Objetos finales:** Cota de espinas, Danza de la muerte, Armadura pétrea
+**Objetos finales:** Cota de espinas, Armadura pétrea, Apariencia espiritual

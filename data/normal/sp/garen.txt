@@ -1,6 +1,6 @@
-**Garen ** *(ARAM)*
+**Garen ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 50.5%
+**Porcentaje de victorias:** 50.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Látigo férreo > Cortasendas > Coraza del muerto > Guantelete de Sterak
-**Objetos finales:** Guantelete de Sterak, Fuerza de la naturaleza, Cota de espinas
+**Objetos finales:** Guantelete de Sterak, Cuchilla oscura, Danza de la muerte

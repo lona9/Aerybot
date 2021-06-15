@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Botas, Alternador hextech
-**Objetos principales:** Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya > Morellonomicón
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Máscara abisal
 **Objetos finales:** Armadura pétrea, Armadura de Warmog, Cota de espinas
