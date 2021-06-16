@@ -21,7 +21,7 @@ class Rotacion(Cog):
     self.testchannel = self.bot.get_channel(827220123299086447)
     channel = self.testchannel
 
-    champs = "Caitlyn, Ezreal, Fizz, Jayce, Kha'Zix, Lulu, Mordekaiser, Nasus, Nidalee, Rengar, Seraphine, Singed, Taric, Xin Zhao, Zed"
+    champs = "Azir, Fiora, Jinx, Kai'Sa, Leona, Lissandra, Neeko, Olaf, Orianna, Pantheon, Rumble, Shaco, Skarner, Thresh, Wukong"
 
     if language == "SP":
 
