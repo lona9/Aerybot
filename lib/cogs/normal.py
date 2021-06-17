@@ -1,6 +1,9 @@
 from discord.ext.commands import Cog
 from discord.ext.commands import command
 import os
+import pendulum
+import datetime
+from datetime import datetime
 from ..db import db
 
 class Normal(Cog):
@@ -277,12 +280,28 @@ class Normal(Cog):
               text = f.read()
               await ctx.channel.send(text)
 
-              try:
+            try:
                 eventmsg = str(ctx.message.content) + ", guild: " + str(ctx.guild.name)
                 await self.testchannel.send(eventmsg)
-              except AttributeError:
+
+                with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
+                    tz = pendulum.timezone('America/Lima')
+                    datetime_cl = datetime.now(tz)
+                    timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
+                    log_msg = timestamp + " " + eventmsg + "\n"
+                    file.write(log_msg)
+
+            except AttributeError:
                 eventmsg = str(ctx.message.content) + ", guild: None"
                 await self.testchannel.send(eventmsg)
+
+                with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
+                    tz = pendulum.timezone('America/Lima')
+                    datetime_cl = datetime.now(tz)
+                    timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
+                    log_msg = timestamp + " " + eventmsg + "\n"
+                    file.write(log_msg)
+
         else:
           pass
 

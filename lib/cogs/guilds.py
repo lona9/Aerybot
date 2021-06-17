@@ -1,6 +1,9 @@
 from discord.ext.commands import Cog
 from discord.ext.commands import command
-
+import os
+import pendulum
+import datetime
+from datetime import datetime
 from ..db import db
 
 class Guilds(Cog):
@@ -31,16 +34,26 @@ class Guilds(Cog):
             if message.content.lower() == "sp" or message.content.lower() == "español":
                 db.execute("UPDATE languages SET GuildLang = ? WHERE GuildID = ?", "SP", ctx.guild.id)
 
+                db.commit()
+
                 await ctx.channel.send("Aery ahora está en español.")
 
                 eventmsg = str(ctx.message.content) + " " + str(message.content) + ", guild: " + str(ctx.guild.name)
 
                 await self.testchannel.send(eventmsg)
 
-                db.commit()
+                with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
+                    tz = pendulum.timezone('America/Lima')
+                    datetime_cl = datetime.now(tz)
+                    timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
+                    log_msg = timestamp + " " + eventmsg + "\n"
+                    file.write(log_msg)
+
 
             elif message.content.lower() == "pt" or message.content.lower() == "portugués" or message.content.lower() == "português":
                 db.execute("UPDATE languages SET GuildLang = ? WHERE GuildID = ?", "PT", ctx.guild.id)
+
+                db.commit()
 
                 await ctx.channel.send("Aery esta agora em portugues.")
 
@@ -48,7 +61,12 @@ class Guilds(Cog):
 
                 await self.testchannel.send(eventmsg)
 
-                db.commit()
+                with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
+                    tz = pendulum.timezone('America/Lima')
+                    datetime_cl = datetime.now(tz)
+                    timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
+                    log_msg = timestamp + " " + eventmsg + "\n"
+                    file.write(log_msg)
 
             else:
                 await ctx.channel.send("Debes escoger una opción válida / Você deve escolher uma opção válida")
@@ -57,17 +75,38 @@ class Guilds(Cog):
 
                 await self.testchannel.send(eventmsg)
 
+                with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
+                    tz = pendulum.timezone('America/Lima')
+                    datetime_cl = datetime.now(tz)
+                    timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
+                    log_msg = timestamp + " " + eventmsg + "\n"
+                    file.write(log_msg)
+
         except:
             await ctx.channel.send("Se acabó el tiempo / Acabou o tempo")
             eventmsg = str(ctx.message.content) + " " + "timeout" + ", guild: " + str(ctx.guild.name)
 
             await self.testchannel.send(eventmsg)
 
+            with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
+                tz = pendulum.timezone('America/Lima')
+                datetime_cl = datetime.now(tz)
+                timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
+                log_msg = timestamp + " " + eventmsg + "\n"
+                file.write(log_msg)
+
     except:
         await ctx.channel.send("Este comando solo puede ocuparse dentro de un servidor.")
 
         eventmsg = str(ctx.message.content) + " " + "dm"
         await self.testchannel.send(eventmsg)
+
+        with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
+            tz = pendulum.timezone('America/Lima')
+            datetime_cl = datetime.now(tz)
+            timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
+            log_msg = timestamp + " " + eventmsg + "\n"
+            file.write(log_msg)
 
 
   @Cog.listener()
@@ -76,7 +115,16 @@ class Guilds(Cog):
     self.testchannel = self.bot.get_channel(827220123299086447)
     channel = self.testchannel
 
-    await self.testchannel.send('aery se unió a {} ({} miembros)'.format(guild.name, guild.member_count))
+    eventmsg = f'aery se unió a {guild.name} ({guild.member_count} miembros)'
+
+    await self.testchannel.send(eventmsg)
+
+    with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
+        tz = pendulum.timezone('America/Lima')
+        datetime_cl = datetime.now(tz)
+        timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
+        log_msg = timestamp + " " + eventmsg + "\n"
+        file.write(log_msg)
 
   @Cog.listener()
   async def on_guild_remove(self, guild):
@@ -84,7 +132,16 @@ class Guilds(Cog):
     self.testchannel = self.bot.get_channel(827220123299086447)
     channel = self.testchannel
 
-    await self.testchannel.send('aery fue expulsada de {} ({} miembros)'.format(guild.name, guild.member_count))
+    eventmsg = f"aery fue expulsada de {guild.name} ({guild.member_count})"
+
+    await self.testchannel.send(eventmsg)
+
+    with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
+        tz = pendulum.timezone('America/Lima')
+        datetime_cl = datetime.now(tz)
+        timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
+        log_msg = timestamp + " " + eventmsg + "\n"
+        file.write(log_msg)
 
   @Cog.listener()
   async def on_ready(self):
