@@ -43,7 +43,7 @@ class Guilds(Cog):
                 await self.testchannel.send(eventmsg)
 
                 with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
-                    tz = pendulum.timezone('America/Lima')
+                    tz = pendulum.timezone('America/La_Paz')
                     datetime_cl = datetime.now(tz)
                     timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
                     log_msg = timestamp + " " + eventmsg + "\n"
@@ -62,7 +62,7 @@ class Guilds(Cog):
                 await self.testchannel.send(eventmsg)
 
                 with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
-                    tz = pendulum.timezone('America/Lima')
+                    tz = pendulum.timezone('America/La_Paz')
                     datetime_cl = datetime.now(tz)
                     timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
                     log_msg = timestamp + " " + eventmsg + "\n"
@@ -76,7 +76,7 @@ class Guilds(Cog):
                 await self.testchannel.send(eventmsg)
 
                 with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
-                    tz = pendulum.timezone('America/Lima')
+                    tz = pendulum.timezone('America/La_Paz')
                     datetime_cl = datetime.now(tz)
                     timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
                     log_msg = timestamp + " " + eventmsg + "\n"
@@ -89,20 +89,20 @@ class Guilds(Cog):
             await self.testchannel.send(eventmsg)
 
             with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
-                tz = pendulum.timezone('America/Lima')
+                tz = pendulum.timezone('America/La_Paz')
                 datetime_cl = datetime.now(tz)
                 timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
                 log_msg = timestamp + " " + eventmsg + "\n"
                 file.write(log_msg)
 
     except:
-        await ctx.channel.send("Este comando solo puede ocuparse dentro de un servidor.")
+        await ctx.channel.send("Este comando solo puede ocuparse dentro de un servidor // Este comando só pode ser usado em um servidor.")
 
         eventmsg = str(ctx.message.content) + " " + "dm"
         await self.testchannel.send(eventmsg)
 
         with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
-            tz = pendulum.timezone('America/Lima')
+            tz = pendulum.timezone('America/La_Paz')
             datetime_cl = datetime.now(tz)
             timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
             log_msg = timestamp + " " + eventmsg + "\n"
@@ -120,7 +120,7 @@ class Guilds(Cog):
     await self.testchannel.send(eventmsg)
 
     with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
-        tz = pendulum.timezone('America/Lima')
+        tz = pendulum.timezone('America/La_Paz')
         datetime_cl = datetime.now(tz)
         timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
         log_msg = timestamp + " " + eventmsg + "\n"
@@ -137,7 +137,7 @@ class Guilds(Cog):
     await self.testchannel.send(eventmsg)
 
     with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
-        tz = pendulum.timezone('America/Lima')
+        tz = pendulum.timezone('America/La_Paz')
         datetime_cl = datetime.now(tz)
         timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
         log_msg = timestamp + " " + eventmsg + "\n"

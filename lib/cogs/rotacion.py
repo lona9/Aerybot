@@ -41,7 +41,7 @@ class Rotacion(Cog):
       await self.testchannel.send(eventmsg)
 
       with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
-          tz = pendulum.timezone('America/Lima')
+          tz = pendulum.timezone('America/La_Paz')
           datetime_cl = datetime.now(tz)
           timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
           log_msg = timestamp + " " + eventmsg + "\n"
@@ -52,7 +52,7 @@ class Rotacion(Cog):
       await self.testchannel.send(eventmsg)
 
       with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
-          tz = pendulum.timezone('America/Lima')
+          tz = pendulum.timezone('America/La_Paz')
           datetime_cl = datetime.now(tz)
           timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
           log_msg = timestamp + " " + eventmsg + "\n"
