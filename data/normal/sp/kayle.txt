@@ -18,4 +18,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Arco curvo > Diente de Nashor > Agrietador > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortífero de Rabadon, Reloj de arena de Zhonya, Maldición del liche
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Reloj de arena de Zhonya

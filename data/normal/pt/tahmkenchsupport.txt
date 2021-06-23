@@ -1,6 +1,6 @@
 **Tahm Kench Build Suporte** *(Normal)*
 **Rota:** Rota Topo, Atirador, Suporte
-**Porcentagem de vitorias:** 44.1%
+**Porcentagem de vitorias:** 43.0%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Escudo Relicário
+**Itens Iniciais:** 
 **Itens Core:** Gema Ardente > Medalhão dos Solari de Ferro > Juramento do Cavaleiro > Armadura de Espinhos
-**Itens End:** Poção de Vida, Presságio de Randuin, Placa Gargolítica
+**Itens End:** Sentinela Invisível, Escudo Relicário, Poção de Vida

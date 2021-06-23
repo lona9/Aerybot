@@ -18,4 +18,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
 **Itens Core:** Arco Recurvo > Dente de Na'Shor > Criafendas > Ampulheta de Zhonya
-**Itens End:** Capuz da Morte de Rabadon, Ampulheta de Zhonya, Perdição de Lich
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ampulheta de Zhonya

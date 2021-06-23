@@ -1,6 +1,6 @@
 **Tahm Kench AD Carry** *(Normal)*
 **Posición:** Top, AD Carry, Support
-**Porcentaje de victorias:** 53.0%
+**Porcentaje de victorias:** 50.8%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Coraza del muerto > Cota de espinas
-**Objetos finales:** Fuerza de la naturaleza, Hidra titánica, Promesa del caballero
+**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Coraza del muerto
+**Objetos finales:** Armadura de Warmog, Promesa del caballero, Al filo de la Cordura

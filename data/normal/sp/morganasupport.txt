@@ -1,6 +1,6 @@
 **Morgana Support** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 49.6%
+**Porcentaje de victorias:** 49.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Morellonomicón, Sombrero mortífero de Rabadon, Enfoque al horizonte
+**Objetos finales:** Abrazo demoníaco, Morellonomicón, Sombrero mortífero de Rabadon

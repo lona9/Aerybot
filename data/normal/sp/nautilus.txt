@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Cota de espinas, Promesa del caballero, Fuerza de la naturaleza
+**Objetos finales:** Armadura de Warmog, Cota de espinas, Reloj de arena de Zhonya

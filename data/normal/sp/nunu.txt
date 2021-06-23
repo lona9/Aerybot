@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Ceniza de Bami > Égida de fuego solar > Coraza del muerto > Cota de espinas
-**Objetos finales:** Reloj de arena de Zhonya, Apariencia espiritual, Presagio de Randuin
+**Objetos finales:** Presagio de Randuin, Cota de espinas, Robaalmas de Mejai

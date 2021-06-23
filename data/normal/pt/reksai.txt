@@ -1,6 +1,6 @@
 **Rek'Sai Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 49.7%
+**Porcentagem de vitorias:** 50.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Lente do Oráculo, Lâmina Álgida, Poção com Refil
 **Itens Core:** Punhal Serrilhado > Garra do Espreitador > Limiar da Noite > Sinal de Sterak
-**Itens End:** Anjo Guardião, Serrespada Quimiopunk, Cutelo Negro
+**Itens End:** Anjo Guardião, Serrespada Quimiopunk, Dança da Morte

@@ -1,6 +1,6 @@
 **Dr. Mundo Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 48.7%
+**Porcentagem de vitorias:** 49.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
-**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Semblante Espiritual > Armadura de Espinhos
+**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Armadura de Espinhos > Semblante Espiritual
 **Itens End:** Presságio de Randuin, Armadura de Warmog, Armadura de Espinhos

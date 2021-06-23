@@ -1,8 +1,8 @@
 **Singed ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 51.1%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
+**Porcentaje de victorias:** 50.5%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd::cd:<:precision13:804446921619931187>:cd:
 >   :cd:<:precision22:804446921414541333>:cd:
@@ -10,12 +10,12 @@
 >   :cd::cd:<:precision43:804446921941975080>
 
 >   :cd::cd::cd:
->   <:insp31:804450564188536842>:cd::cd:
->   :cd::cd:<:insp43:804450563952869452>
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd::cd:<:valor43:804449944001708043>
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Mirada absorbente > Agrietador > Cetro de cristal de Rylai > Abrazo demoníaco
-**Objetos finales:** Morellonomicón, Abrazo demoníaco, Coraza del muerto
+**Objetos finales:** Morellonomicón, Coraza del muerto, Reloj de arena de Zhonya
