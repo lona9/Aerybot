@@ -126,6 +126,9 @@ class Guilds(Cog):
         log_msg = timestamp + " " + eventmsg + "\n"
         file.write(log_msg)
 
+    db.execute("INSERT OR IGNORE INTO languages (GuildID) VALUES (?)", guild.id)
+    db.commit()
+
   @Cog.listener()
   async def on_guild_remove(self, guild):
 
