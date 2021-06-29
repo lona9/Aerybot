@@ -1,12 +1,12 @@
 **Veigar** *(ARAM)*
-**Porcentagem de vitorias:** 51.0%
+**Porcentagem de vitorias:** 51.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
 >   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd:<:dom33:804457129578332160>
-> :cd::cd::cd:<:dom44:804457129732866048>
+> <:dom41:804457130379182120>:cd::cd::cd:
 
 >   :cd:<:bruj22:804448796553117707>:cd:
 >   <:bruj31:804448797395910716>:cd::cd:
@@ -17,4 +17,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Capítulo Perdido > Tormenta de Luden > Capuz da Morte de Rabadon > Cajado do Vazio
-**Itens End:** Cajado do Vazio, Morellonomicon, Véu da Banshee
+**Itens End:** Cajado do Vazio, Véu da Banshee, Morellonomicon

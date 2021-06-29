@@ -1,5 +1,5 @@
 **Fiora ** *(ARAM)*
-**Porcentaje de victorias:** 49.8%
+**Porcentaje de victorias:** 51.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Látigo férreo
 **Objetos principales:** Látigo férreo > Bebedor de sangre > Hidra voraz > Guantelete de Sterak
-**Objetos finales:** Danza de la muerte, Apariencia espiritual, Sierraespada Quimopunk
+**Objetos finales:** Apariencia espiritual, Danza de la muerte, Sierraespada Quimopunk

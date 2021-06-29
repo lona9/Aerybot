@@ -17,4 +17,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Abrazo demoníaco > Reloj de arena de Zhonya
-**Objetos finales:** Morellonomicón, Sombrero mortífero de Rabadon, Báculo del vacío
+**Objetos finales:** Morellonomicón, Báculo del vacío, Sombrero mortífero de Rabadon

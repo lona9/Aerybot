@@ -17,4 +17,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Filo del infinito > Sanguinaria
-**Objetos finales:** Danza de la muerte, Recordatorio mortal, Apariencia espiritual
+**Objetos finales:** Recordatorio mortal, Danza de la muerte, Apariencia espiritual

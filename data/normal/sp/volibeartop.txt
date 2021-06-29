@@ -1,6 +1,6 @@
 **Volibear Top** *(Normal)*
 **Posición:** Jungler, Top
-**Porcentaje de victorias:** 50.0%
+**Porcentaje de victorias:** 49.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -10,7 +10,7 @@
 >   :cd::cd:<:precision43:804446921941975080>
 
 >   :cd::cd::cd:
->   :cd:<:valor32:804449943959765002>:cd:
+>   :cd::cd:<:valor33:804449943603118131>
 >   :cd:<:valor42:804449943615438919>:cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
 **Objetos principales:** Brillo > Cercenador divino > Guantelete de Sterak > Cota de espinas
-**Objetos finales:** Apariencia espiritual, Cota de espinas, Reloj de arena de Zhonya
+**Objetos finales:** Cota de espinas, Apariencia espiritual, Reloj de arena de Zhonya

@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Espada larga, Poción reutilizable
-**Objetos principales:** Puñal serrado > Garra de merodeador > Colmillo de serpiente > Rencor de Serylda
+**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > Colmillo de serpiente > Rencor de Serylda
 **Objetos finales:** Ángel Guardián, Filo de la noche, Sierraespada Quimopunk

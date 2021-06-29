@@ -1,6 +1,6 @@
 **Viego Build Rota do Meio** *(Normal)*
 **Rota:** Selva, Rota do Meio
-**Porcentagem de vitorias:** 51.3%
+**Porcentagem de vitorias:** 50.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Cetro Vampírico > Espada do Rei Destruído > Mata-Cráquens > Sinal de Sterak
-**Itens End:** Anjo Guardião, Dança da Morte, Serrespada Quimiopunk
+**Itens Core:** Cetro Vampírico > Espada do Rei Destruído > Ruptor Divino > Sinal de Sterak
+**Itens End:** Anjo Guardião, Dança da Morte, Limite da Razão

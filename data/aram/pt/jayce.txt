@@ -1,5 +1,5 @@
 **Jayce** *(ARAM)*
-**Porcentagem de vitorias:** 50.1%
+**Porcentagem de vitorias:** 50.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Manamune
 **Itens Iniciais:** Lágrima da Deusa, Poção com Refil, Espada Longa
 **Itens Core:** Poção com Refil > Espada Longa > Punhal Serrilhado > Eclipse
-**Itens End:** Limiar da Noite, Rancor de Serylda, Serrespada Quimiopunk
+**Itens End:** Rancor de Serylda, Limiar da Noite, Serrespada Quimiopunk

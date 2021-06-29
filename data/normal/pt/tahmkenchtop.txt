@@ -1,6 +1,6 @@
 **Tahm Kench Build Rota Topo** *(Normal)*
-**Rota:** Rota Topo, Atirador, Suporte
-**Porcentagem de vitorias:** 47.0%
+**Rota:** Rota Topo, Suporte
+**Porcentagem de vitorias:** 46.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
-**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Armadura de Espinhos > Semblante Espiritual
-**Itens End:** Armadura de Warmog, Presságio de Randuin, Placa Gargolítica
+**Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Armadura de Espinhos > Semblante Espiritual
+**Itens End:** Presságio de Randuin, Armadura de Espinhos, Placa Gargolítica

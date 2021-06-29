@@ -1,6 +1,6 @@
 **Gwen ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 48.3%
+**Porcentaje de victorias:** 48.6%
 **Hechizos del Invocador:** <:Teleport:804555481699713034> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 

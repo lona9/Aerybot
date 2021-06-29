@@ -1,5 +1,5 @@
 **Garen** *(ARAM)*
-**Porcentagem de vitorias:** 45.0%
+**Porcentagem de vitorias:** 45.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Chicote Ferrifarpo
 **Itens Core:** Chicote Ferrifarpo > Quebrapassos > Sinal de Sterak > Couraça do Defunto
-**Itens End:** Armadura de Espinhos, Cutelo Negro, Armadura de Warmog
+**Itens End:** Armadura de Espinhos, Semblante Espiritual, Couraça do Defunto

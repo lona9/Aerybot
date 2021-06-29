@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Látigo férreo > Bebedor de sangre > Guantelete de Sterak > Danza de la muerte
-**Objetos finales:** Ángel Guardián, Danza de la muerte, Apariencia espiritual
+**Objetos finales:** Ángel Guardián, Apariencia espiritual, Cota de espinas

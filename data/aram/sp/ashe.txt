@@ -1,5 +1,5 @@
 **Ashe ** *(ARAM)*
-**Porcentaje de victorias:** 55.0%
+**Porcentaje de victorias:** 55.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Hidra voraz
-**Objetos iniciales:** Lágrima de la diosa, Espejo de cristal de Bandle
-**Objetos principales:** Espejo de cristal de Bandle > Espejo de cristal de Bandle > Mandato imperial > Manamune
-**Objetos finales:** Sierraespada Quimopunk, Rencor de Serylda, Filo del infinito
+**Botas:** Botas jonias de la lucidez
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Manamune > Rencor de Serylda
+**Objetos finales:** Sierraespada Quimopunk, Hidra voraz, Rencor de Serylda

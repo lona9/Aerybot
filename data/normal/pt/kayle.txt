@@ -1,6 +1,6 @@
 **Kayle Build ** *(Normal)*
 **Rota:** Rota Topo, Rota do Meio
-**Porcentagem de vitorias:** 52.4%
+**Porcentagem de vitorias:** 52.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Grevas do Berserker
-**Itens Iniciais:** Sentinela Invisível, Poção Corrupta
-**Itens Core:** Arco Recurvo > Dente de Na'Shor > Criafendas > Ampulheta de Zhonya
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ampulheta de Zhonya
+**Botas:** Ampulheta de Zhonya
+**Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
+**Itens Core:** Poção de Vida > Arco Recurvo > Dente de Na'Shor > Criafendas
+**Itens End:** Capuz da Morte de Rabadon, Ampulheta de Zhonya, Cajado do Vazio

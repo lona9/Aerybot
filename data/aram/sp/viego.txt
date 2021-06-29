@@ -1,5 +1,5 @@
 **Viego ** *(ARAM)*
-**Porcentaje de victorias:** 51.5%
+**Porcentaje de victorias:** 52.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Matakrakens
+**Botas:** Botas de mercurio
 **Objetos iniciales:** Carcaj de mediodía
-**Objetos principales:** Hoja del rey arruinado > Hoja del rey arruinado > Carcaj de mediodía > Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Hoja del rey arruinado > Guantelete de Sterak
 **Objetos finales:** Apariencia espiritual, Danza de la muerte, Al filo de la Cordura

@@ -1,6 +1,6 @@
 **Diana Build Rota do Meio** *(Normal)*
 **Rota:** Selva, Rota do Meio
-**Porcentagem de vitorias:** 50.9%
+**Porcentagem de vitorias:** 50.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Itens Core:** Alternador Hextec > Colhedor Noturno > Ampulheta de Zhonya > Morellonomicon
+**Itens Core:** Alternador Hextec > Explocinturão Hextec > Ampulheta de Zhonya > Morellonomicon
 **Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

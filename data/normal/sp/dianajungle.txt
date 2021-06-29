@@ -1,6 +1,6 @@
 **Diana Jungler** *(Normal)*
 **Posición:** Jungler, Mid
-**Porcentaje de victorias:** 49.8%
+**Porcentaje de victorias:** 49.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
-**Objetos principales:** Alternador hextech > Cosechador nocturno > Diente de Nashor > Reloj de arena de Zhonya
+**Objetos principales:** Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya > Morellonomicón
 **Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

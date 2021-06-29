@@ -1,12 +1,12 @@
 **Tahm Kench Support** *(Normal)*
-**Posición:** Top, AD Carry, Support
-**Porcentaje de victorias:** 43.0%
-**Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
+**Posición:** Top, Support
+**Porcentaje de victorias:** 42.3%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
 >   :cd::cd:<:valor13:804449943497605171>
 >   :cd:<:valor22:804449944018223104>:cd:
->   :cd::cd:<:valor33:804449943603118131>
+>   :cd:<:valor32:804449943959765002>:cd:
 >   :cd::cd:<:valor43:804449944001708043>
 
 >   :cd::cd::cd:
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** 
+**Objetos iniciales:** Centinela invisible, Escudo reliquia
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Promesa del caballero > Cota de espinas
-**Objetos finales:** Centinela invisible, Escudo reliquia, Poción de vida
+**Objetos finales:** Poción de vida, Armadura de Warmog, Máscara abisal

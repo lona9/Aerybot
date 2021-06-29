@@ -17,4 +17,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Capítulo Perdido > Angústia de Liandry > Abraço Demoníaco > Ampulheta de Zhonya
-**Itens End:** Morellonomicon, Capuz da Morte de Rabadon, Cajado do Vazio
+**Itens End:** Morellonomicon, Cajado do Vazio, Capuz da Morte de Rabadon
