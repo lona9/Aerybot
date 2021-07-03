@@ -1,12 +1,15 @@
 import discord
 from asyncio import sleep
 from discord import Intents
+import pendulum
+import datetime
 from datetime import datetime
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from apscheduler.triggers.cron import CronTrigger
 from discord.ext.commands import Bot as BotBase
 from discord.ext.commands import Context
 from discord.ext.commands import CommandNotFound
+
 
 from ..db import db
 
@@ -92,16 +95,27 @@ class Bot(BotBase):
         await ctx.send("Aún no estoy lista para recibir comandos, por favor espera unos segundos.")
 
   async def on_connect(self):
-    print('bot connected')
+
+    tz = pendulum.timezone('America/La_Paz')
+    datetime_cl = datetime.now(tz)
+    timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
+
+    print(f'{timestamp} - bot connected')
+
 
   async def on_disconnect(self):
-    print('bot offline')
+    tz = pendulum.timezone('America/La_Paz')
+    datetime_cl = datetime.now(tz)
+    timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
+
+    print(f'{timestamp} - offline')
+
 
   async def on_error(self, err, *args, **kwargs):
     if err == "on_command_error":
       pass
 
-    await self.testchannel.send("Bot en actualización.")
+    await self.testchannel.send("Ocurrió un error.")
 
     raise
 
@@ -132,7 +146,11 @@ class Bot(BotBase):
       await meta.set()
 
     else:
-      print("bot reconnected")
+      tz = pendulum.timezone('America/La_Paz')
+      datetime_cl = datetime.now(tz)
+      timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
+
+      print(f"{timestamp} - reconnected")
 
   async def on_message(self, message):
     if not message.author.bot:
