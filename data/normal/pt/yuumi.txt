@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
 **Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Cajado Aquafluxo > Turíbulo Ardente
-**Itens End:** Putrificador Quimtec, Ladrão de Almas de Mejai, Turíbulo Ardente
+**Itens End:** Putrificador Quimtec, Cajado Aquafluxo, Ladrão de Almas de Mejai

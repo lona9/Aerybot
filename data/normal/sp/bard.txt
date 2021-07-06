@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Coraza del muerto > Cañón de fuego rápido
-**Objetos finales:** Coraza del muerto, Putrificador tecnoquímico, Robaalmas de Mejai
+**Objetos finales:** Putrificador tecnoquímico, Cañón de fuego rápido, Redención

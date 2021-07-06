@@ -17,4 +17,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Cetro de cristal de Rylai > Abrazo demoníaco
-**Objetos finales:** Sombrero mortífero de Rabadon, Morellonomicón, Báculo del vacío
+**Objetos finales:** Morellonomicón, Sombrero mortífero de Rabadon, Báculo del vacío

@@ -1,5 +1,5 @@
 **Gangplank** *(ARAM)*
-**Porcentagem de vitorias:** 50.5%
+**Porcentagem de vitorias:** 50.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Crepúsculo de Draktharr
 **Itens Iniciais:** Botas, Espada Longa, Fulgor
 **Itens Core:** Espada Longa > Fulgor > Fulgor > Colhedor de Essência
-**Itens End:** Lembranças do Lorde Dominik, Gume do Infinito, Lembrete Mortal
+**Itens End:** Gume do Infinito, Lembranças do Lorde Dominik, Lembrete Mortal

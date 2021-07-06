@@ -1,5 +1,5 @@
 **Darius** *(ARAM)*
-**Porcentagem de vitorias:** 44.4%
+**Porcentagem de vitorias:** 44.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Chicote Ferrifarpo
 **Itens Core:** Chicote Ferrifarpo > Quebrapassos > Sinal de Sterak > Semblante Espiritual
-**Itens End:** Armadura de Espinhos, Força da Natureza, Dança da Morte
+**Itens End:** Armadura de Espinhos, Dança da Morte, Couraça do Defunto

@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Punhal Serrilhado
 **Itens Core:** Punhal Serrilhado > Crepúsculo de Draktharr > A Coletora > Limiar da Noite
-**Itens End:** Gume do Infinito, Hidra Raivosa, Lembranças do Lorde Dominik
+**Itens End:** Gume do Infinito, Hidra Raivosa, Limiar da Noite

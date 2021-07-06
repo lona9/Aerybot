@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
-**Itens Core:** Alternador Hextec > Colhedor Noturno > Perdição de Lich > Cajado do Vazio
+**Itens Core:** Alternador Hextec > Explocinturão Hextec > Ladrão de Almas de Mejai > Capuz da Morte de Rabadon
 **Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Véu da Banshee

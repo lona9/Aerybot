@@ -1,6 +1,6 @@
 **Skarner ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 51.7%
+**Porcentaje de victorias:** 51.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Coraza del muerto > Fuerza de la naturaleza
-**Objetos finales:** Presagio de Randuin, Guantelete de Sterak, Cota de espinas
+**Objetos finales:** Coraza del muerto, Presagio de Randuin, Cota de espinas

@@ -1,6 +1,6 @@
 **Gragas Support** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 48.0%
+**Porcentaje de victorias:** 47.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
 **Objetos principales:** Alternador hextech > Cosechador nocturno > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Báculo del vacío, Impulso cósmico, Reloj de arena de Zhonya
+**Objetos finales:** Báculo del vacío, Morellonomicón, Enfoque al horizonte

@@ -1,5 +1,5 @@
 **Samira** *(ARAM)*
-**Porcentagem de vitorias:** 53.2%
+**Porcentagem de vitorias:** 52.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
 **Itens Core:** Aljava Vespertina > Arco-escudo Imortal > A Coletora > Sedenta por Sangue
-**Itens End:** Gume do Infinito, Lembranças do Lorde Dominik, Lembrete Mortal
+**Itens End:** Lembranças do Lorde Dominik, Gume do Infinito, Lembrete Mortal

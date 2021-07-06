@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Puñal serrado
 **Objetos principales:** Puñal serrado > Filoscuro de Draktharr > El Coleccionista > Filo de la noche
-**Objetos finales:** Filo del infinito, Hidra voraz, Recuerdos de lord Dominik
+**Objetos finales:** Filo del infinito, Hidra voraz, Filo de la noche

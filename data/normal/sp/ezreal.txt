@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Brillo > Cercenador divino > Manamune > Corazón de hielo
-**Objetos finales:** Sierraespada Quimopunk, Hidra voraz, Ángel Guardián
+**Objetos finales:** Sierraespada Quimopunk, Ángel Guardián, Hidra voraz

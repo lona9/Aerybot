@@ -26,7 +26,7 @@ class Ayuda(Cog):
     self.testchannel = self.bot.get_channel(827220123299086447)
     channel = self.testchannel
 
-    fecha = "29/06/21, 11:47"
+    fecha = "05/07/21, 20:51"
     parche = "11.13"
 
     if language == "SP":

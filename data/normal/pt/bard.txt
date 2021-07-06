@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
 **Itens Core:** Espelho de Bandópolis > Mandato Imperial > Couraça do Defunto > Canhão Fumegante
-**Itens End:** Couraça do Defunto, Putrificador Quimtec, Ladrão de Almas de Mejai
+**Itens End:** Putrificador Quimtec, Canhão Fumegante, Redenção

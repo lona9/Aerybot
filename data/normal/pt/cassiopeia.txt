@@ -1,6 +1,6 @@
 **Cassiopeia Build ** *(Normal)*
 **Rota**: Rota do Meio
-**Porcentagem de vitorias:** 50.7%
+**Porcentagem de vitorias:** 50.5%
 > **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034> 
 > **Runas**: <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Botas:** -
 **Itens Iniciais:** Sentinela Invisível, Lágrima da Deusa, Poção de Vida
 **Itens Core:** Capítulo Perdido > Angústia de Liandry > Cajado do Arcanjo > Ampulheta de Zhonya
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon
+**Itens End:** Morellonomicon, Cetro de Cristal de Rylai, Cajado do Vazio

@@ -18,4 +18,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
 **Itens Core:** Capítulo Perdido > Angústia de Liandry > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Cajado do Vazio, Morellonomicon, Capuz da Morte de Rabadon
+**Itens End:** Morellonomicon, Cajado do Vazio, Capuz da Morte de Rabadon

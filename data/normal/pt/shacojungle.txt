@@ -1,6 +1,6 @@
 **Shaco Build Selva** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 52.6%
+**Porcentagem de vitorias:** 52.1%
 **Summoner Spells:** <:Smite:804555481494061086> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
-**Itens Core:** Punhal Serrilhado > Crepúsculo de Draktharr > Colhedor de Essência > A Coletora
+**Itens Core:** Chicote Ferrifarpo > Quebrapassos > Colhedor de Essência > A Coletora
 **Itens End:** Anjo Guardião, Gume do Infinito, Lembranças do Lorde Dominik
