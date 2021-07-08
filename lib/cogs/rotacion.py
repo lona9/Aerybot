@@ -25,7 +25,7 @@ class Rotacion(Cog):
     self.testchannel = self.bot.get_channel(827220123299086447)
     channel = self.testchannel
 
-    champs = "Gnar, Illaoi, Kalista, Lucian, Malzahar, Nautilus, Nocturne, Qiyana, Rek'Sai, Riven, Sejuani, Senna, Sion, Talon, Xerath"
+    champs = "Anivia, Annie, Brand, Hecarim, Ivern, Jhin, Kennen, Kindred, Lux, Poppy, Pyke, Renekton, Sett, Sylas, Vayne"
 
     if language == "SP":
 
