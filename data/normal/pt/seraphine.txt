@@ -1,13 +1,13 @@
 **Seraphine Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 50.0%
+**Porcentagem de vitorias:** 50.1%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
-**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+**Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
->   :cd::cd:<:valor13:804449943497605171>
->   :cd::cd:<:valor23:804449943876010024>
->   :cd::cd:<:valor33:804449943603118131>
->   :cd:<:valor42:804449943615438919>:cd:
+>   <:bruj11:804448796104589323>:cd::cd:
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
+>   <:bruj41:804448797597499402>:cd::cd:
 
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
 **Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Putrificador Quimtec > Cajado Aquafluxo
-**Itens End:** Capuz da Morte de Rabadon, Ampulheta de Zhonya, Cetro de Cristal de Rylai
+**Itens End:** Ampulheta de Zhonya, Capuz da Morte de Rabadon, Cajado Aquafluxo

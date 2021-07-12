@@ -1,5 +1,5 @@
 **Wukong ** *(ARAM)*
-**Porcentaje de victorias:** 52.1%
+**Porcentaje de victorias:** 51.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Bacteriófago
 **Objetos principales:** Bacteriófago > Cercenador divino > Guantelete de Sterak > Cuchilla oscura
-**Objetos finales:** Danza de la muerte, Apariencia espiritual, Cuchilla oscura
+**Objetos finales:** Apariencia espiritual, Danza de la muerte, Cuchilla oscura

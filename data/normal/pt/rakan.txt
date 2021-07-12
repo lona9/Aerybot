@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Escudo Relicário, Poção de Vida
 **Itens Core:** Gema Ardente > Hino Bélico de Shurelya > Convergência de Zeke > Redenção
-**Itens End:** Redenção, Putrificador Quimtec, Cajado Aquafluxo
+**Itens End:** Turíbulo Ardente, Juramento do Cavaleiro, Semblante Espiritual

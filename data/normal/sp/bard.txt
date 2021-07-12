@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
-**Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Coraza del muerto > Cañón de fuego rápido
-**Objetos finales:** Putrificador tecnoquímico, Cañón de fuego rápido, Redención
+**Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Cadenas de Anatema > Corazón de hielo
+**Objetos finales:** Cañón de fuego rápido, Cadenas de Anatema, Putrificador tecnoquímico

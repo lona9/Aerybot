@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Brillo > Fuerza de la trinidad > Sierraespada Quimopunk > Colmillo de serpiente
+**Objetos principales:** Brillo > Fuerza de la trinidad > El Coleccionista > Guantelete de Sterak
 **Objetos finales:** Filo del infinito, Recuerdos de lord Dominik, Ángel Guardián

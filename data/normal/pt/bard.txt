@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
-**Itens Core:** Espelho de Bandópolis > Mandato Imperial > Couraça do Defunto > Canhão Fumegante
-**Itens End:** Putrificador Quimtec, Canhão Fumegante, Redenção
+**Itens Core:** Gema Ardente > Medalhão dos Solari de Ferro > Correntes de Anátema > Coração Congelado
+**Itens End:** Canhão Fumegante, Correntes de Anátema, Putrificador Quimtec

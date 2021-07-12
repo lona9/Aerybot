@@ -1,6 +1,6 @@
 **Ivern ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 49.1%
+**Porcentaje de victorias:** 51.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
-**Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Putrificador tecnoquímico > Báculo de agua fluyente
-**Objetos finales:** Redención, Báculo de agua fluyente, Robaalmas de Mejai
+**Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Putrificador tecnoquímico > Báculo de agua fluyente
+**Objetos finales:** Redención, Báculo de agua fluyente, Pebetero ardiente

@@ -1,6 +1,6 @@
 **Vel'Koz ** *(Normal)*
 **Posición:** Support, Mid
-**Porcentaje de victorias:** 50.7%
+**Porcentaje de victorias:** 50.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Capítulo perdido > Tempestad de Luden > Reloj de arena de Zhonya > Enfoque al horizonte
-**Objetos finales:** Sombrero mortífero de Rabadon, Morellonomicón, Velo de la banshee
+**Objetos finales:** Sombrero mortífero de Rabadon, Morellonomicón, Báculo del vacío

@@ -1,5 +1,5 @@
 **Camille ** *(ARAM)*
-**Porcentaje de victorias:** 55.1%
+**Porcentaje de victorias:** 55.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Bacteriófago
-**Objetos principales:** Brillo > Cercenador divino > Hidra voraz > Guantelete de Sterak
-**Objetos finales:** Apariencia espiritual, Danza de la muerte, Sierraespada Quimopunk
+**Botas:** Hidra voraz
+**Objetos iniciales:** Perla de rejuvenecimiento, Espada larga, Poción reutilizable, Brillo
+**Objetos principales:** Poción reutilizable > Brillo > Brillo > Cercenador divino
+**Objetos finales:** Danza de la muerte, Apariencia espiritual, Sierraespada Quimopunk

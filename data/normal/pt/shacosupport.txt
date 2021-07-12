@@ -1,6 +1,6 @@
 **Shaco Build Suporte** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 50.9%
+**Porcentagem de vitorias:** 48.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
-**Itens Core:** Capítulo Perdido > Angústia de Liandry > Ímpeto Cósmico > Ampulheta de Zhonya
-**Itens End:** Ampulheta de Zhonya, Capuz da Morte de Rabadon, Morellonomicon
+**Itens Core:** Capítulo Perdido > Angústia de Liandry > Ampulheta de Zhonya > Morellonomicon
+**Itens End:** Morellonomicon, Capuz da Morte de Rabadon, Ampulheta de Zhonya

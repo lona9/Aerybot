@@ -1,21 +1,21 @@
 **Tahm Kench ** *(Normal)*
 **Posición:** Top, Support
-**Porcentaje de victorias:** 45.0%
+**Porcentaje de victorias:** 50.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+**Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
->   :cd::cd:<:valor13:804449943497605171>
->   :cd:<:valor22:804449944018223104>:cd:
+>   <:valor11:804449943376232509>:cd::cd:
+>   :cd::cd:<:valor23:804449943876010024>
 >   :cd:<:valor32:804449943959765002>:cd:
->   :cd::cd:<:valor43:804449944001708043>
+>   <:valor41:804449944298586143>:cd::cd:
 
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd::cd:
->   :cd::cd:<:insp33:804450564049731594>
->   :cd:<:insp42:804450563965452369>:cd:
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Apariencia espiritual
-**Objetos finales:** Presagio de Randuin, Cota de espinas, Armadura de Warmog
+**Objetos finales:** Apariencia espiritual, Cota de espinas, Armadura de Warmog

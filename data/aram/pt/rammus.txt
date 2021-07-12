@@ -1,5 +1,5 @@
 **Rammus** *(ARAM)*
-**Porcentagem de vitorias:** 48.4%
+**Porcentagem de vitorias:** 47.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -9,7 +9,7 @@
 >   :cd::cd:<:valor43:804449944001708043>
 
 >   :cd:<:precision22:804446921414541333>:cd:
->   :cd:<:precision32:804446921737371648>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd::cd:
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Brasa de Bami
 **Itens Core:** Brasa de Bami > Quimiotanque Turbo > Armadura de Espinhos > Força da Natureza
-**Itens End:** Armadura de Warmog, Placa Gargolítica, Máscara Abissal
+**Itens End:** Placa Gargolítica, Armadura de Warmog, Couraça do Defunto

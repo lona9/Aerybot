@@ -18,4 +18,4 @@
 **Botas:** Botas da Rapidez
 **Itens Iniciais:** Sentinela Invisível, Foice Espectral, Poção de Vida
 **Itens Core:** Aljava Vespertina > Mata-Cráquens > Lâmina da Fúria de Guinsoo > Canhão Fumegante
-**Itens End:** Lembrete Mortal, Anjo Guardião, Lembranças do Lorde Dominik
+**Itens End:** Lembrete Mortal, Lembranças do Lorde Dominik, Anjo Guardião
