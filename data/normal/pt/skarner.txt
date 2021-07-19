@@ -1,6 +1,6 @@
 **Skarner Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 51.8%
+**Porcentagem de vitorias:** 50.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
 **Itens Core:** Brasa de Bami > Quimiotanque Turbo > Couraça do Defunto > Armadura de Espinhos
-**Itens End:** Armadura de Espinhos, Presságio de Randuin, Força da Natureza
+**Itens End:** Armadura de Espinhos, Presságio de Randuin, Coração Congelado

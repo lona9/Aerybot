@@ -1,6 +1,6 @@
 **Neeko Build ** *(Normal)*
 **Rota:** Rota do Meio, Suporte
-**Porcentagem de vitorias:** 49.9%
+**Porcentagem de vitorias:** 50.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -12,10 +12,10 @@
 >   :cd:<:bruj22:804448796553117707>:cd:
 >   :cd::cd::cd:
 >   <:bruj41:804448797597499402>:cd::cd:
->   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
 **Itens Core:** Alternador Hextec > Explocinturão Hextec > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Capuz da Morte de Rabadon, Morellonomicon, Cajado do Vazio
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

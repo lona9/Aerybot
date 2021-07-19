@@ -1,6 +1,6 @@
 **Pyke Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 49.2%
+**Porcentagem de vitorias:** 49.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:valor:804451124245561394>
 

@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Bacteriófago
 **Objetos principales:** Bacteriófago > Cercenador divino > Apariencia espiritual > Cota de espinas
-**Objetos finales:** Cota de espinas, Guantelete de Sterak, Hidra titánica
+**Objetos finales:** Cota de espinas, Guantelete de Sterak, Hoja del rey arruinado

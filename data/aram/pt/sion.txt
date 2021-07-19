@@ -1,5 +1,5 @@
 **Sion** *(ARAM)*
-**Porcentagem de vitorias:** 53.3%
+**Porcentagem de vitorias:** 53.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Brasa de Bami
 **Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Armadura de Warmog > Armadura de Espinhos
-**Itens End:** Placa Gargolítica, Armadura de Espinhos, Hidra Titânica
+**Itens End:** Placa Gargolítica, Hidra Titânica, Armadura de Espinhos

@@ -6,7 +6,7 @@
 
 >   <:valor11:804449943376232509>:cd::cd:
 >   <:valor21:804449943984537690>:cd::cd:
->   :cd::cd:<:valor33:804449943603118131>
+>   <:valor31:804449943666425907>:cd::cd:
 >   <:valor41:804449944298586143>:cd::cd:
 
 >   :cd::cd::cd:
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
 **Itens Core:** Fago > Quebracascos > Manopla do Raio de Gelo > Hidra Titânica
-**Itens End:** Armadura de Espinhos, Placa Gargolítica, Correntes de Anátema
+**Itens End:** Armadura de Espinhos, Correntes de Anátema, Placa Gargolítica

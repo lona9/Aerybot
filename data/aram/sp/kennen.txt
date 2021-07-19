@@ -1,5 +1,5 @@
 **Kennen ** *(ARAM)*
-**Porcentaje de victorias:** 44.8%
+**Porcentaje de victorias:** 45.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Botas, Alternador hextech
 **Objetos principales:** Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya > Impulso cósmico
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Velo de la banshee
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

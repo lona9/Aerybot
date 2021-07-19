@@ -1,6 +1,6 @@
 **Ashe ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 51.5%
+**Porcentaje de victorias:** 51.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj de mediodía > Matakrakens > Bailarín espectral > Filo del infinito
-**Objetos finales:** Ángel Guardián, Recuerdos de lord Dominik, Recordatorio mortal
+**Objetos principales:** Hacha hogareña > Al filo de la Cordura > Arcoescudo inmortal > Hoja de furia de Guinsoo
+**Objetos finales:** Ángel Guardián, Recordatorio mortal, Recuerdos de lord Dominik

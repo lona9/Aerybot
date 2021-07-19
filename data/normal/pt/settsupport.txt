@@ -1,6 +1,6 @@
 **Sett Build Suporte** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 44.2%
+**Porcentagem de vitorias:** 44.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Guarda-ombros de Aço, Poção de Vida
 **Itens Core:** Brasa de Bami > Quimiotanque Turbo > Couraça do Defunto > Armadura de Espinhos
-**Itens End:** Armadura de Espinhos, Armadura de Warmog, Hidra Titânica
+**Itens End:** Armadura de Espinhos, Força da Natureza, Correntes de Anátema

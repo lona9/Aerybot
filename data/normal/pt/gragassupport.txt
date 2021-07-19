@@ -1,6 +1,6 @@
 **Gragas Build Suporte** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 45.8%
+**Porcentagem de vitorias:** 47.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Escudo Relicário, Poção de Vida
-**Itens Core:** Alternador Hextec > Colhedor Noturno > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Capuz da Morte de Rabadon, Ampulheta de Zhonya, Lâmina Fantasma de Youmuu
+**Itens Core:** Espelho de Bandópolis > Hino Bélico de Shurelya > Ampulheta de Zhonya > Morellonomicon
+**Itens End:** Capuz da Morte de Rabadon, Véu da Banshee, Ampulheta de Zhonya

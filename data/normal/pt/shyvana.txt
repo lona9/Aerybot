@@ -18,4 +18,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
 **Itens Core:** Arco Recurvo > Dente de Na'Shor > Colhedor Noturno > Ampulheta de Zhonya
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Ampulheta de Zhonya
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

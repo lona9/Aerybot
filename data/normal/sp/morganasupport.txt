@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Morellonomicón, Cetro de cristal de Rylai, Sombrero mortífero de Rabadon
+**Objetos finales:** Morellonomicón, Sombrero mortífero de Rabadon, Abrazo demoníaco

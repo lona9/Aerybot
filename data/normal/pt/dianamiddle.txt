@@ -1,6 +1,6 @@
 **Diana Build Rota do Meio** *(Normal)*
-**Rota:** Selva, Rota do Meio
-**Porcentagem de vitorias:** 50.5%
+**Rota:** Selva
+**Porcentagem de vitorias:** 50.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:valor:804451124245561394>
 

@@ -1,6 +1,6 @@
 **Irelia Build ** *(Normal)*
 **Rota:** Rota Topo, Rota do Meio
-**Porcentagem de vitorias:** 51.1%
+**Porcentagem de vitorias:** 51.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Lâmina da Fúria de Guinsoo
+**Botas:** Limite da Razão
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
 **Itens Core:** Poção de Vida > Cetro Vampírico > Espada do Rei Destruído > Arco-escudo Imortal
 **Itens End:** Anjo Guardião, Dança da Morte, Serrespada Quimiopunk

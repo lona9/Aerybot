@@ -1,6 +1,6 @@
 **Bardo ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 51.1%
+**Porcentaje de victorias:** 50.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Cadenas de Anatema > Corazón de hielo
-**Objetos finales:** Cañón de fuego rápido, Cadenas de Anatema, Putrificador tecnoquímico
+**Objetos finales:** Coraza del muerto, Cañón de fuego rápido, Putrificador tecnoquímico

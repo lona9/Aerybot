@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Cristal de Rubi, Espelho de Bandópolis
+**Itens Iniciais:** Lágrima da Deusa, Espelho de Bandópolis
 **Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Cajado Aquafluxo > Turíbulo Ardente
 **Itens End:** Putrificador Quimtec, Redenção, Turíbulo Ardente

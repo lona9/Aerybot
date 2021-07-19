@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Cristal de rubí, Espejo de cristal de Bandle
+**Objetos iniciales:** Lágrima de la diosa, Espejo de cristal de Bandle
 **Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Báculo de agua fluyente > Pebetero ardiente
 **Objetos finales:** Putrificador tecnoquímico, Redención, Pebetero ardiente

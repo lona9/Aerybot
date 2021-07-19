@@ -1,6 +1,6 @@
 **Yasuo Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 49.8%
+**Porcentagem de vitorias:** 49.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Gume do Infinito > Sedenta por Sangue
+**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Lembrete Mortal > Gume do Infinito
 **Itens End:** Anjo Guardião, Dança da Morte, Sedenta por Sangue

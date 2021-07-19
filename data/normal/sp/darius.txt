@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Látigo férreo > Cortasendas > Guantelete de Sterak > Coraza del muerto
-**Objetos finales:** Cota de espinas, Apariencia espiritual, Armadura pétrea
+**Objetos finales:** Cota de espinas, Armadura pétrea, Apariencia espiritual

@@ -1,5 +1,5 @@
 **Karma** *(ARAM)*
-**Porcentagem de vitorias:** 49.5%
+**Porcentagem de vitorias:** 49.4%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Capítulo Perdido > Tormenta de Luden > Morellonomicon > Ampulheta de Zhonya
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Ímpeto Cósmico
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Ampulheta de Zhonya

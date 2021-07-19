@@ -1,6 +1,6 @@
 **Ziggs Mid** *(Normal)*
 **Posición:** AD Carry, Mid
-**Porcentaje de victorias:** 50.2%
+**Porcentaje de victorias:** 50.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -9,9 +9,9 @@
 >   <:bruj31:804448797395910716>:cd::cd:
 >   <:bruj41:804448797597499402>:cd::cd:
 
->   :cd::cd::cd:
+>   :cd:<:insp22:804450563793747989>:cd:
 >   :cd::cd:<:insp33:804450564049731594>
->   <:insp41:804450563507879947>:cd::cd:
+>   :cd::cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**

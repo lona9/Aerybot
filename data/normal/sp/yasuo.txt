@@ -1,6 +1,6 @@
 **Yasuo ** *(Normal)*
 **Posición:** Mid
-**Porcentaje de victorias:** 49.8%
+**Porcentaje de victorias:** 49.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Filo del infinito > Sanguinaria
+**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Recordatorio mortal > Filo del infinito
 **Objetos finales:** Ángel Guardián, Danza de la muerte, Sanguinaria

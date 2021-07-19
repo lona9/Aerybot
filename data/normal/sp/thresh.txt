@@ -18,4 +18,4 @@
 **Botas:** Botas de movilidad
 **Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Redención, Convergencia de Zeke, Cota de espinas
+**Objetos finales:** Promesa del caballero, Redención, Cota de espinas

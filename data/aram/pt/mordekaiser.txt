@@ -1,5 +1,5 @@
 **Mordekaiser** *(ARAM)*
-**Porcentagem de vitorias:** 45.3%
+**Porcentagem de vitorias:** 45.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Olhar Sanguessuga
 **Itens Core:** Olhar Sanguessuga > Criafendas > Dente de Na'Shor > Abraço Demoníaco
-**Itens End:** Armadura de Espinhos, Semblante Espiritual, Cetro de Cristal de Rylai
+**Itens End:** Armadura de Espinhos, Semblante Espiritual, Ampulheta de Zhonya

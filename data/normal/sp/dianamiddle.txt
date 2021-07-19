@@ -1,6 +1,6 @@
 **Diana Mid** *(Normal)*
-**Posición:** Jungler, Mid
-**Porcentaje de victorias:** 50.5%
+**Posición:** Jungler
+**Porcentaje de victorias:** 50.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:valor:804451124245561394>
 

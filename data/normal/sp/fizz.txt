@@ -1,6 +1,6 @@
 **Fizz ** *(Normal)*
 **Posición:** Mid
-**Porcentaje de victorias:** 49.1%
+**Porcentaje de victorias:** 49.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Botas jonias de la lucidez
+**Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Alternador hextech > Cosechador nocturno > Maldición del liche > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Maldición del liche

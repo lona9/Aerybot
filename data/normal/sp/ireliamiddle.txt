@@ -1,6 +1,6 @@
 **Irelia Mid** *(Normal)*
 **Posición:** Top, Mid
-**Porcentaje de victorias:** 50.5%
+**Porcentaje de victorias:** 51.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Hoja de furia de Guinsoo
+**Botas:** Al filo de la Cordura
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Poción de vida > Cetro vampírico > Hoja del rey arruinado > Arcoescudo inmortal
 **Objetos finales:** Ángel Guardián, Danza de la muerte, Sierraespada Quimopunk

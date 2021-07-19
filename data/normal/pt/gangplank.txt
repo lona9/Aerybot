@@ -1,6 +1,6 @@
 **Gangplank Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 47.2%
+**Porcentagem de vitorias:** 47.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
-**Itens Core:** Fulgor > Força da Trindade > A Coletora > Sinal de Sterak
+**Itens Core:** Fulgor > Força da Trindade > Serrespada Quimiopunk > Presa da Serpente
 **Itens End:** Gume do Infinito, Lembranças do Lorde Dominik, Anjo Guardião

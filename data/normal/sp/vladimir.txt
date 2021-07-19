@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Sello oscuro, Poción reutilizable
 **Objetos principales:** Alternador hextech > Cintomisil hextech > Impulso cósmico > Reloj de arena de Zhonya
-**Objetos finales:** Báculo del vacío, Reloj de arena de Zhonya, Sombrero mortífero de Rabadon
+**Objetos finales:** Báculo del vacío, Reloj de arena de Zhonya, Robaalmas de Mejai

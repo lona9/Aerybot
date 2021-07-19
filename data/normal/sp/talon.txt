@@ -1,6 +1,6 @@
 **Talon ** *(Normal)*
 **Posición:** Mid
-**Porcentaje de victorias:** 51.1%
+**Porcentaje de victorias:** 51.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos iniciales:** Centinela invisible, Espada larga, Poción reutilizable
 **Objetos principales:** Látigo férreo > Bebedor de sangre > Cuchilla oscura > Guantelete de Sterak
 **Objetos finales:** Ángel Guardián, Rencor de Serylda, Filo de la noche

@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
 **Itens Core:** Fulgor > Ruptor Divino > Sinal de Sterak > Armadura de Espinhos
-**Itens End:** Armadura de Espinhos, Semblante Espiritual, Couraça do Defunto
+**Itens End:** Armadura de Espinhos, Semblante Espiritual, Presságio de Randuin
