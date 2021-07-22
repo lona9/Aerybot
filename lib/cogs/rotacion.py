@@ -25,7 +25,7 @@ class Rotacion(Cog):
     self.testchannel = self.bot.get_channel(827220123299086447)
     channel = self.testchannel
 
-    champs = "Ashe, Evelynn, Garen, Kled, Lillia, Malphite, Maokai, Miss Fortune, Rell, Sona, Veigar, Vi, Yasuo, Ziggs, Zoe"
+    champs = "Blitzcrank, Camille, Corki, Graves, Irelia, Katarina, LeBlanc, Mordekaiser, Neeko, Rakan, Shen, Twitch, Warwick, Xayah, Yorick"
 
     if language == "SP":
 
