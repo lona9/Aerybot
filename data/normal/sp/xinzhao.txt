@@ -1,6 +1,6 @@
 **Xin Zhao ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 51.3%
+**Porcentaje de victorias:** 52.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
 **Objetos principales:** Látigo férreo > Bebedor de sangre > Saqueador de esencias > Guantelete de Sterak
-**Objetos finales:** Ángel Guardián, Danza de la muerte, Al filo de la Cordura
+**Objetos finales:** Ángel Guardián, Danza de la muerte, Cota de espinas

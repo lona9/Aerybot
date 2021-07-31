@@ -1,6 +1,6 @@
 **LeBlanc Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 49.5%
+**Porcentagem de vitorias:** 49.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
-**Itens Core:** Capítulo Perdido > Tormenta de Luden > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon
+**Itens Core:** Capítulo Perdido > Tormenta de Luden > Ímpeto Cósmico > Ampulheta de Zhonya
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ampulheta de Zhonya

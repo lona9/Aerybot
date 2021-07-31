@@ -1,6 +1,6 @@
 **Soraka ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 51.5%
+**Porcentaje de victorias:** 51.4%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Pebetero ardiente > Redención
-**Objetos finales:** Redención, Pebetero ardiente, Báculo de agua fluyente
+**Objetos finales:** Redención, Pebetero ardiente, Putrificador tecnoquímico

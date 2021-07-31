@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Látigo férreo
 **Objetos principales:** Látigo férreo > Bebedor de sangre > Hidra voraz > Guantelete de Sterak
-**Objetos finales:** Apariencia espiritual, Danza de la muerte, Sierraespada Quimopunk
+**Objetos finales:** Danza de la muerte, Apariencia espiritual, Sierraespada Quimopunk

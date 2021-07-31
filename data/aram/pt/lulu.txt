@@ -1,5 +1,5 @@
 **Lulu** *(ARAM)*
-**Porcentagem de vitorias:** 50.5%
+**Porcentagem de vitorias:** 50.1%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Cajado Aquafluxo
-**Itens Iniciais:** Amuleto da Fada, Poção com Refil, Espelho de Bandópolis
-**Itens Core:** Espelho de Bandópolis > Espelho de Bandópolis > Regenerador de Pedra Lunar > Turíbulo Ardente
-**Itens End:** Redenção, Putrificador Quimtec, Bênção de Mikael
+**Botas:** Botas Ionianas da Lucidez
+**Itens Iniciais:** Cristal de Rubi, Espelho de Bandópolis
+**Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Turíbulo Ardente > Cajado Aquafluxo
+**Itens End:** Redenção, Putrificador Quimtec, Cajado Aquafluxo

@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
-**Objetos principales:** Látigo férreo > Bebedor de sangre > Guantelete de Sterak > Cota de espinas
+**Objetos principales:** Látigo férreo > Bebedor de sangre > Guantelete de Sterak > Ángel Guardián
 **Objetos finales:** Ángel Guardián, Cota de espinas, Armadura pétrea

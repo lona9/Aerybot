@@ -12,9 +12,7 @@ class Aram(Cog):
 
   @command(name="aram")
   async def aram(self, ctx, *args):
-
     self.testchannel = self.bot.get_channel(827220123299086447)
-    channel = self.testchannel
 
     try:
         language = db.record("SELECT GuildLang FROM languages WHERE GuildID = ?", ctx.guild.id)
@@ -37,6 +35,7 @@ class Aram(Cog):
       champions = {"aatrox": ["aatrox"],
                   "ahri": ["ahri"],
                   "akali": ["akali"],
+                  "akshan": ["akshan"],
                   "alistar": ["alistar"],
                   "amumu": ["amumu"],
                   "anivia": ["anivia"],

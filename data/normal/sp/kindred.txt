@@ -18,4 +18,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
 **Objetos principales:** Carcaj de mediodía > Matakrakens > El Coleccionista > Cañón de fuego rápido
-**Objetos finales:** Ángel Guardián, Filo del infinito, Recuerdos de lord Dominik
+**Objetos finales:** Ángel Guardián, Filo del infinito, Recordatorio mortal

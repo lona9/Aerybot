@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Brillo > Cercenador divino > Coraza del muerto > Cota de espinas
-**Objetos finales:** Presagio de Randuin, Máscara abisal, Cota de espinas
+**Objetos finales:** Cota de espinas, Guantelete de Sterak, Máscara abisal

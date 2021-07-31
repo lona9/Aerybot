@@ -1,5 +1,5 @@
 **Kalista** *(ARAM)*
-**Porcentagem de vitorias:** 47.5%
+**Porcentagem de vitorias:** 47.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Sedenta por Sangue
-**Itens Iniciais:** Poção com Refil, Grevas do Berserker
-**Itens Core:** Grevas do Berserker > Aljava Vespertina > Arco-escudo Imortal > Furacão de Runaan
+**Botas:** Grevas do Berserker
+**Itens Iniciais:** Aljava Vespertina
+**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Furacão de Runaan > Sedenta por Sangue
 **Itens End:** Sedenta por Sangue, Lembranças do Lorde Dominik, Lembrete Mortal

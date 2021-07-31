@@ -9,12 +9,11 @@ from ..db import db
 class Normal(Cog):
   def __init__(self, bot):
     self.bot = bot
+    self.testchannel = self.bot.get_channel(827220123299086447)
 
   @command(name="normal")
   async def normal(self, ctx, *args):
-
     self.testchannel = self.bot.get_channel(827220123299086447)
-    channel = self.testchannel
 
     try:
         language = db.record("SELECT GuildLang FROM languages WHERE GuildID = ?", ctx.guild.id)
@@ -38,6 +37,9 @@ class Normal(Cog):
                   "akali": ["akali"],
                   "akalimiddle": ["akalimid"],
                   "akalitop": ["akalitop"],
+                  "akshan": ["akshan"],
+                  "akshanmiddle": ["akshanmid"],
+                  "akshanadc": ["akshanadc"],
                   "alistar": ["alistar"],
                   "amumu": ["amumu"],
                   "anivia": ["anivia"],

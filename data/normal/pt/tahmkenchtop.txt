@@ -1,13 +1,13 @@
 **Tahm Kench Build Rota Topo** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 52.8%
+**Porcentagem de vitorias:** 52.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
 >   <:valor11:804449943376232509>:cd::cd:
 >   :cd::cd:<:valor23:804449943876010024>
 >   :cd:<:valor32:804449943959765002>:cd:
->   <:valor41:804449944298586143>:cd::cd:
+>   :cd::cd:<:valor43:804449944001708043>
 
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
 **Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Armadura de Espinhos > Semblante Espiritual
-**Itens End:** Semblante Espiritual, Presságio de Randuin, Correntes de Anátema
+**Itens End:** Presságio de Randuin, Correntes de Anátema, Semblante Espiritual

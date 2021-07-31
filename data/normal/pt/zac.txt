@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
 **Itens Core:** Brasa de Bami > Égide de Fogo Solar > Armadura de Espinhos > Semblante Espiritual
-**Itens End:** Presságio de Randuin, Armadura de Warmog, Semblante Espiritual
+**Itens End:** Presságio de Randuin, Correntes de Anátema, Armadura de Espinhos

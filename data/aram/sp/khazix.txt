@@ -1,5 +1,5 @@
 **Kha'Zix ** *(ARAM)*
-**Porcentaje de victorias:** 47.9%
+**Porcentaje de victorias:** 48.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Espada larga
-**Objetos iniciales:** Botas, Perla de rejuvenecimiento, Espada larga, Poción reutilizable, Lágrima de la diosa
-**Objetos principales:** Salto > Saborea su miedo > Botas > Perla de rejuvenecimiento
-**Objetos finales:** Rencor de Serylda, Filo de la noche, Filo fantasmal de Youmuu
+**Objetos iniciales:** Lágrima de la diosa, Poción reutilizable, Espada larga
+**Objetos principales:** Salto > Saborea su miedo > Lágrima de la diosa > Poción reutilizable
+**Objetos finales:** Rencor de Serylda, Filo de la noche, Sierraespada Quimopunk

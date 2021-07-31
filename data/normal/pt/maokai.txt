@@ -1,6 +1,6 @@
 **Maokai Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 52.0%
+**Porcentagem de vitorias:** 52.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Escudo Relicário, Poção de Vida
 **Itens Core:** Espelho de Bandópolis > Mandato Imperial > Abraço Demoníaco > Morellonomicon
-**Itens End:** Máscara Abissal, Coração Congelado, Semblante Espiritual
+**Itens End:** Correntes de Anátema, Presságio de Randuin, Coração Congelado

@@ -1,5 +1,5 @@
 **Ryze** *(ARAM)*
-**Porcentagem de vitorias:** 48.3%
+**Porcentagem de vitorias:** 48.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Glacieterno
 **Itens Iniciais:** Cristal de Safira, Tomo Amplificador, Poção com Refil, Lágrima da Deusa
 **Itens Core:** Tomo Amplificador > Poção com Refil > Lágrima da Deusa > Capítulo Perdido
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ampulheta de Zhonya
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

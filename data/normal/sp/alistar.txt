@@ -18,4 +18,4 @@
 **Botas:** Botas de movilidad
 **Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Promesa del caballero, Cota de espinas, Presagio de Randuin
+**Objetos finales:** Corazón de hielo, Presagio de Randuin, Fuerza de la naturaleza

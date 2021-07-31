@@ -1,6 +1,6 @@
 **Ziggs Build Rota do Meio** *(Normal)*
-**Rota:** Atirador, Rota do Meio
-**Porcentagem de vitorias:** 50.8%
+**Rota:** Atirador
+**Porcentagem de vitorias:** 49.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Itens Core:** Capítulo Perdido > Tormenta de Luden > Cajado do Arcanjo > Foco do Horizonte
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon
+**Itens Core:** Capítulo Perdido > Tormenta de Luden > Cajado do Arcanjo > Ampulheta de Zhonya
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

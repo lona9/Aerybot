@@ -1,6 +1,6 @@
 **Rengar Jungler** *(Normal)*
 **Posición:** Jungler, Top
-**Porcentaje de victorias:** 46.3%
+**Porcentaje de victorias:** 47.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 

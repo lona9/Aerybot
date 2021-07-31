@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
-**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Sinal de Sterak > Armadura de Espinhos
+**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Sinal de Sterak > Anjo Guardião
 **Itens End:** Anjo Guardião, Armadura de Espinhos, Placa Gargolítica

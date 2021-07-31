@@ -1,6 +1,6 @@
 **Swain Build Atirador** *(Normal)*
 **Rota:** Suporte, Atirador
-**Porcentagem de vitorias:** 54.1%
+**Porcentagem de vitorias:** 54.6%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
 **Itens Core:** Capítulo Perdido > Angústia de Liandry > Ampulheta de Zhonya > Abraço Demoníaco
-**Itens End:** Cajado do Vazio, Morellonomicon, Capuz da Morte de Rabadon
+**Itens End:** Capuz da Morte de Rabadon, Morellonomicon, Cajado do Vazio

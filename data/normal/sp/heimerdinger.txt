@@ -1,13 +1,13 @@
 **Heimerdinger ** *(Normal)*
 **Posición:** Top, Mid
-**Porcentaje de victorias:** 51.3%
+**Porcentaje de victorias:** 52.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
 >   :cd:<:bruj12:804448797001252864>:cd:
 >   :cd:<:bruj22:804448796553117707>:cd:
 >   <:bruj31:804448797395910716>:cd::cd:
->   <:bruj41:804448797597499402>:cd::cd:
+>   :cd::cd:<:bruj43:804448797631316069>
 
 >   :cd::cd:<:insp23:804450563948675112>
 >   :cd::cd:<:insp33:804450564049731594>

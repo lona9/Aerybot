@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Sombrero mortífero de Rabadon
+**Botas:** Báculo del vacío
 **Objetos iniciales:** Mirada absorbente
 **Objetos principales:** Agrietador > Reloj de arena de Zhonya > Maldición del liche > Botas del hechicero
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

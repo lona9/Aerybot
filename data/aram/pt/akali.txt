@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Capuz da Morte de Rabadon
+**Botas:** Cajado do Vazio
 **Itens Iniciais:** Olhar Sanguessuga
 **Itens Core:** Criafendas > Ampulheta de Zhonya > Perdição de Lich > Sapatos do Feiticeiro
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

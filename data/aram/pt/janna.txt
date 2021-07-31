@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Redenção
 **Itens Iniciais:** Capítulo Perdido
-**Itens Core:** Tormenta de Luden > Foco do Horizonte > Morellonomicon > Botas Ionianas da Lucidez
+**Itens Core:** Regenerador de Pedra Lunar > Cajado Aquafluxo > Turíbulo Ardente > Botas Ionianas da Lucidez
 **Itens End:** Redenção, Putrificador Quimtec, Cajado Aquafluxo

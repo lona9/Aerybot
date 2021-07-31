@@ -1,21 +1,21 @@
 **Wukong Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 52.2%
+**Porcentagem de vitorias:** 52.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
+**Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd::cd:<:precision13:804446921619931187>:cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd:<:precision43:804446921941975080>
 
->   :cd:<:insp22:804450563793747989>:cd:
->   :cd::cd:<:insp33:804450564049731594>
 >   :cd::cd::cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   <:valor41:804449944298586143>:cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
 **Itens Core:** Fulgor > Ruptor Divino > Cutelo Negro > Sinal de Sterak
 **Itens End:** Anjo Guardião, Serrespada Quimiopunk, Dança da Morte

@@ -13,6 +13,7 @@ class Rotacion(Cog):
 
   @command(name="rotacion", aliases=["rota"])
   async def rotacion(self, ctx):
+    self.testchannel = self.bot.get_channel(827220123299086447)
 
     try:
         language = db.record("SELECT GuildLang FROM languages WHERE GuildID = ?", ctx.guild.id)
@@ -22,10 +23,7 @@ class Rotacion(Cog):
     except:
         language = "SP"
 
-    self.testchannel = self.bot.get_channel(827220123299086447)
-    channel = self.testchannel
-
-    champs = "Blitzcrank, Camille, Corki, Graves, Irelia, Katarina, LeBlanc, Mordekaiser, Neeko, Rakan, Shen, Twitch, Warwick, Xayah, Yorick"
+    champs = "Ahri, Aphelios, Dr. Mundo, Fiddlesticks, Gragas, Kassadin, Kayle, Nami, Nunu, Syndra, Teemo, Udyr, Varus, Volibear, Zilean"
 
     if language == "SP":
 

@@ -18,4 +18,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
 **Itens Core:** Aljava Vespertina > Mata-Cráquens > A Coletora > Canhão Fumegante
-**Itens End:** Anjo Guardião, Gume do Infinito, Lembranças do Lorde Dominik
+**Itens End:** Anjo Guardião, Gume do Infinito, Lembrete Mortal

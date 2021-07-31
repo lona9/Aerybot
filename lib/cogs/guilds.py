@@ -9,6 +9,7 @@ from ..db import db
 class Guilds(Cog):
   def __init__(self, bot):
     self.bot = bot
+    self.testchannel = self.bot.get_channel(827220123299086447)
 
   @command()
   async def guilds(self, ctx):
@@ -17,9 +18,7 @@ class Guilds(Cog):
 
   @command()
   async def lang(self, ctx):
-
     self.testchannel = self.bot.get_channel(827220123299086447)
-    channel = self.testchannel
 
     try:
         language = db.record("SELECT GuildLang FROM languages WHERE GuildID = ?", ctx.guild.id)
@@ -111,9 +110,7 @@ class Guilds(Cog):
 
   @Cog.listener()
   async def on_guild_join(self, guild):
-
     self.testchannel = self.bot.get_channel(827220123299086447)
-    channel = self.testchannel
 
     eventmsg = f'aery se unió a {guild.name} ({guild.member_count} miembros)'
 
@@ -131,9 +128,7 @@ class Guilds(Cog):
 
   @Cog.listener()
   async def on_guild_remove(self, guild):
-
     self.testchannel = self.bot.get_channel(827220123299086447)
-    channel = self.testchannel
 
     eventmsg = f"aery fue expulsada de {guild.name} ({guild.member_count})"
 

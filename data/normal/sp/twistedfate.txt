@@ -1,6 +1,6 @@
 **Twisted Fate ** *(Normal)*
 **Posición:** Mid
-**Porcentaje de victorias:** 48.6%
+**Porcentaje de victorias:** 48.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 

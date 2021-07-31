@@ -1,5 +1,5 @@
 **Senna ** *(ARAM)*
-**Porcentaje de victorias:** 53.0%
+**Porcentaje de victorias:** 52.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -9,12 +9,12 @@
 > <:dom41:804457130379182120>:cd::cd::cd:
 
 >   :cd::cd:<:precision23:804446921628057630>
->   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Carcaj de mediodía > Matakrakens > Manamune > Cañón de fuego rápido
-**Objetos finales:** Recordatorio mortal, Recuerdos de lord Dominik, El Coleccionista
+**Objetos finales:** Recuerdos de lord Dominik, Recordatorio mortal, El Coleccionista

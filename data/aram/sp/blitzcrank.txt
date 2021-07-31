@@ -1,5 +1,5 @@
 **Blitzcrank ** *(ARAM)*
-**Porcentaje de victorias:** 49.7%
+**Porcentaje de victorias:** 50.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -14,7 +14,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5001:804451180112642088>
 
 **Build**
-**Botas:** Botas jonias de la lucidez
+**Botas:** Botas de mercurio
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Escarcha eterna > Impulso cósmico > Reloj de arena de Zhonya
 **Objetos finales:** Armadura de Warmog, Cota de espinas, Corazón de hielo
