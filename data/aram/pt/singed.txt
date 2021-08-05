@@ -1,5 +1,5 @@
 **Singed** *(ARAM)*
-**Porcentagem de vitorias:** 49.8%
+**Porcentagem de vitorias:** 48.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Passos de Merc˙rio
+**Botas:** Passos de Merc√∫rio
 **Itens Iniciais:** Olhar Sanguessuga
-**Itens Core:** Olhar Sanguessuga > Criafendas > Cetro de Cristal de Rylai > AbraÁo DemonÌaco
-**Itens End:** ForÁa da Natureza, CouraÁa do Defunto, Armadura de Espinhos
+**Itens Core:** Olhar Sanguessuga > Criafendas > Cetro de Cristal de Rylai > Abra√ßo Demon√≠aco
+**Itens End:** For√ßa da Natureza, Coura√ßa do Defunto, Armadura de Warmog

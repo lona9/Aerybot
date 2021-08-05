@@ -1,5 +1,5 @@
 **Sivir ** *(ARAM)*
-**Porcentaje de victorias:** 49.5%
+**Porcentaje de victorias:** 49.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Puñal serrado
-**Objetos iniciales:** Botas, Perla de rejuvenecimiento, Espada larga, Poción reutilizable, Lágrima de la diosa
-**Objetos principales:** Perla de rejuvenecimiento > Espada larga > Poción reutilizable > Lágrima de la diosa
+**Botas:** PuÃ±al serrado
+**Objetos iniciales:** Botas, Perla de rejuvenecimiento, Espada larga, PociÃ³n reutilizable, LÃ¡grima de la diosa
+**Objetos principales:** Perla de rejuvenecimiento > Espada larga > PociÃ³n reutilizable > LÃ¡grima de la diosa
 **Objetos finales:** Filo de la noche, Recordatorio mortal, Rencor de Serylda

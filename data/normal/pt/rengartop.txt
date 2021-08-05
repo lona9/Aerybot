@@ -1,6 +1,6 @@
 **Rengar Build Rota Topo** *(Normal)*
 **Rota:** Selva, Rota Topo
-**Porcentagem de vitorias:** 49.4%
+**Porcentagem de vitorias:** 49.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Galvanizadas de AÁo
-**Itens Iniciais:** Sentinela InvisÌvel, L‚mina de Doran, PoÁ„o de Vida
-**Itens Core:** Punhal Serrilhado > Eclipse > Colhedor de EssÍncia > A Coletora
-**Itens End:** Anjo Guardi„o, Gume do Infinito, LembranÁas do Lorde Dominik
+**Botas:** Botas Ionianas da Lucidez
+**Itens Iniciais:** Sentinela Invis√≠vel, L√¢mina de Doran, Po√ß√£o de Vida
+**Itens Core:** Punhal Serrilhado > Eclipse > Colhedor de Ess√™ncia > A Coletora
+**Itens End:** Anjo Guardi√£o, Gume do Infinito, Lembran√ßas do Lorde Dominik

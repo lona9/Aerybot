@@ -8,13 +8,13 @@
 >   :cd::cd:<:dom33:804457129578332160>
 > :cd::cd::cd:<:dom44:804457129732866048>
 
->   :cd::cd:<:precision23:804446921628057630>
+>   :cd:<:precision22:804446921414541333>:cd:
 >   :cd::cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Poción reutilizable, Puñal serrado
-**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > El Coleccionista > Filo de la noche
+**Objetos iniciales:** PociÃ³n reutilizable, PuÃ±al serrado
+**Objetos principales:** PuÃ±al serrado > Filoscuro de Draktharr > El Coleccionista > Filo de la noche
 **Objetos finales:** Sierraespada Quimopunk, Rencor de Serylda, Filo de la noche

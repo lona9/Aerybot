@@ -1,6 +1,6 @@
 **Miss Fortune Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 49.6%
+**Porcentagem de vitorias:** 49.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grevas do Berserker
-**Itens Iniciais:** Sentinela InvisÌvel, L‚mina de Doran, PoÁ„o de Vida
-**Itens Core:** Aljava Vespertina > Mata-Cr·quens > A Coletora > Gume do Infinito
-**Itens End:** Anjo Guardi„o, Lembrete Mortal, LembranÁas do Lorde Dominik
+**Itens Iniciais:** Sentinela Invis√≠vel, L√¢mina de Doran, Po√ß√£o de Vida
+**Itens Core:** Aljava Vespertina > Mata-Cr√°quens > A Coletora > Gume do Infinito
+**Itens End:** Anjo Guardi√£o, Lembran√ßas do Lorde Dominik, Gume do Infinito

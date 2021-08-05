@@ -1,6 +1,6 @@
 **Gangplank ** *(Normal)*
-**Posición:** Top
-**Porcentaje de victorias:** 46.3%
+**PosiciÃ³n:** Top
+**Porcentaje de victorias:** 45.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Brillo > Saqueador de esencias > Filoscuro de Draktharr > El Coleccionista
-**Objetos finales:** Filo del infinito, Recuerdos de lord Dominik, Ángel Guardián
+**Objetos iniciales:** Centinela invisible, PociÃ³n de corrupciÃ³n
+**Objetos principales:** Brillo > Fuerza de la trinidad > El Coleccionista > Guantelete de Sterak
+**Objetos finales:** Filo del infinito, Recuerdos de lord Dominik, Ãngel GuardiÃ¡n

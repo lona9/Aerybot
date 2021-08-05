@@ -1,5 +1,5 @@
 **Sylas** *(ARAM)*
-**Porcentagem de vitorias:** 45.0%
+**Porcentagem de vitorias:** 44.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** CapÌtulo Perdido
-**Itens Core:** CapÌtulo Perdido > Glacieterno > Ampulheta de Zhonya > Õmpeto CÛsmico
+**Itens Iniciais:** Cap√≠tulo Perdido
+**Itens Core:** Cap√≠tulo Perdido > Glacieterno > Ampulheta de Zhonya > √çmpeto C√≥smico
 **Itens End:** Capuz da Morte de Rabadon, Morellonomicon, Semblante Espiritual

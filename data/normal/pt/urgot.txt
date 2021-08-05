@@ -1,6 +1,6 @@
 **Urgot Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 50.9%
+**Porcentagem de vitorias:** 50.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Galvanizadas de AÁo
-**Itens Iniciais:** Sentinela InvisÌvel, L‚mina de Doran, PoÁ„o de Vida
-**Itens Core:** Tiamat > Hidra Tit‚nica > Cutelo Negro > Manopla do Raio de Gelo
-**Itens End:** Sinal de Sterak, Armadura de Espinhos, Serrespada Quimiopunk
+**Botas:** Botas Galvanizadas de A√ßo
+**Itens Iniciais:** Sentinela Invis√≠vel, L√¢mina de Doran, Po√ß√£o de Vida
+**Itens Core:** Tiamat > Hidra Tit√¢nica > Cutelo Negro > Manopla do Raio de Gelo
+**Itens End:** Sinal de Sterak, Armadura de Espinhos, Anjo Guardi√£o

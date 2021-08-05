@@ -1,5 +1,5 @@
 **Cassiopeia**  *(Normal)*
-**Posición:** *Mid*
+**PosiciÃ³n:** *Mid*
 > **% victorias:** 50.5%
 > **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034> 
 > **Runas**: <:pres:804451123825606657> <:dom:804451124085522442>
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808><:5008:804451180172279808><:5003:804451180100452403>
  
 > **Build**:
-*Iniciales:* Centinela invisible, Lágrima de la diosa, Poción de vida
+*Iniciales:* Centinela invisible, LÃ¡grima de la diosa, PociÃ³n de vida
 *Botas:* -
-*Principales:* Capítulo perdido > Angustia de Liandry > Báculo del arcángel > Reloj de arena de Zhonya
-*Finales:* Morellonomicón, Cetro de Cristal de Rylai, Báculo del vacío
+*Principales:* CapÃ­tulo perdido > Angustia de Liandry > BÃ¡culo del arcÃ¡ngel > Reloj de arena de Zhonya
+*Finales:* MorellonomicÃ³n, Cetro de Cristal de Rylai, BÃ¡culo del vacÃ­o

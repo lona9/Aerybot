@@ -1,5 +1,5 @@
 **Rek'Sai** *(ARAM)*
-**Porcentagem de vitorias:** 48.0%
+**Porcentagem de vitorias:** 48.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Passos de Mercúrio
-**Itens Iniciais:** Poção com Refil, Punhal Serrilhado
+**Botas:** Passos de MercÃºrio
+**Itens Iniciais:** PoÃ§Ã£o com Refil, Punhal Serrilhado
 **Itens Core:** Punhal Serrilhado > Garra do Espreitador > A Coletora > Sinal de Sterak
-**Itens End:** Hidra Raivosa, Dança da Morte, Semblante Espiritual
+**Itens End:** Hidra Raivosa, DanÃ§a da Morte, Semblante Espiritual

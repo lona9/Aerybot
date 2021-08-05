@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela Invisível, Lágrima da Deusa, Poção de Vida
-**Itens Core:** Capítulo Perdido > Glacieterno > Cajado do Arcanjo > Ampulheta de Zhonya
+**Itens Iniciais:** Sentinela InvisÃ­vel, LÃ¡grima da Deusa, PoÃ§Ã£o de Vida
+**Itens Core:** CapÃ­tulo Perdido > Glacieterno > Cajado do Arcanjo > Ampulheta de Zhonya
 **Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon

@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Cota de espinas
-**Objetos iniciales:** PociÛn reutilizable, Ceniza de Bami
-**Objetos principales:** Ceniza de Bami > Cuerno del guardi·n > Relicario de los Solari de Hierro > Armadura de Warmog
-**Objetos finales:** Armadura pÈtrea, Cota de espinas, M·scara abisal
+**Objetos iniciales:** Poci√≥n reutilizable, Ceniza de Bami
+**Objetos principales:** Ceniza de Bami > Cuerno del guardi√°n > Relicario de los Solari de Hierro > Armadura de Warmog
+**Objetos finales:** Armadura p√©trea, M√°scara abisal, Armadura de Warmog

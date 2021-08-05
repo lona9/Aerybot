@@ -1,6 +1,6 @@
 **Gwen Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 45.7%
+**Porcentagem de vitorias:** 46.3%
 **Summoner Spells:** <:Teleport:804555481699713034> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Galvanizadas de AÁo
-**Itens Iniciais:** Sentinela InvisÌvel, L‚mina de Doran, PoÁ„o de Vida
+**Botas:** Botas Galvanizadas de A√ßo
+**Itens Iniciais:** Sentinela Invis√≠vel, L√¢mina de Doran, Po√ß√£o de Vida
 **Itens Core:** Olhar Sanguessuga > Criafendas > Dente de Na'Shor > Ampulheta de Zhonya
-**Itens End:** Capuz da Morte de Rabadon, Morellonomicon, Õmpeto CÛsmico
+**Itens End:** Capuz da Morte de Rabadon, Morellonomicon, √çmpeto C√≥smico

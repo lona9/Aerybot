@@ -1,6 +1,6 @@
 **Akali ** *(Normal)*
-**Posici髇:** Mid, Top
-**Porcentaje de victorias:** 46.4%
+**Posici贸n:** Mid, Top
+**Porcentaje de victorias:** 46.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poci髇 de vida
-**Objetos principales:** Mirada absorbente > Agrietador > Reloj de arena de Zhonya > Morellonomic髇
-**Objetos finales:** Sombrero mort韋ero de Rabadon, B醕ulo del vac韔, Morellonomic髇
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poci贸n de vida
+**Objetos principales:** Mirada absorbente > Agrietador > Reloj de arena de Zhonya > Morellonomic贸n
+**Objetos finales:** B谩culo del vac铆o, Sombrero mort铆fero de Rabadon, Morellonomic贸n

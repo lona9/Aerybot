@@ -1,6 +1,6 @@
 **Galio Build Suporte** *(Normal)*
 **Rota:** Rota do Meio, Suporte
-**Porcentagem de vitorias:** 48.4%
+**Porcentagem de vitorias:** 48.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:bruj:804451124236648478>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Escudo Relicário
-**Itens Core:** Gema Ardente > Hino Bélico de Shurelya > Ampulheta de Zhonya > Armadura de Espinhos
-**Itens End:** Poção de Vida, Armadura de Espinhos, Bênção de Mikael
+**Botas:** Botas Galvanizadas de AÃ§o
+**Itens Iniciais:** Sentinela InvisÃ­vel, Escudo RelicÃ¡rio, PoÃ§Ã£o de Vida
+**Itens Core:** Gema Ardente > Hino BÃ©lico de Shurelya > Ampulheta de Zhonya > Armadura de Espinhos
+**Itens End:** Armadura de Espinhos, Juramento do Cavaleiro, Ampulheta de Zhonya

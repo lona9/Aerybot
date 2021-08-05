@@ -1,5 +1,5 @@
 **Sion** *(ARAM)*
-**Porcentagem de vitorias:** 52.7%
+**Porcentagem de vitorias:** 52.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Passos de Merc˙rio
-**Itens Iniciais:** PoÁ„o com Refil, Brasa de Bami
+**Botas:** Passos de Merc√∫rio
+**Itens Iniciais:** Po√ß√£o com Refil, Brasa de Bami
 **Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Armadura de Warmog > Armadura de Espinhos
-**Itens End:** Placa GargolÌtica, Hidra Tit‚nica, Armadura de Espinhos
+**Itens End:** Placa Gargol√≠tica, Hidra Tit√¢nica, Armadura de Espinhos

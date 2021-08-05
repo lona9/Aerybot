@@ -1,6 +1,6 @@
 **Udyr ** *(Normal)*
-**Posición:** Jungler
-**Porcentaje de victorias:** 48.8%
+**PosiciÃ³n:** Jungler
+**Porcentaje de victorias:** 48.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
-**Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Coraza del muerto > Cota de espinas
-**Objetos finales:** Cota de espinas, Presagio de Randuin, Fuerza de la naturaleza
+**Objetos iniciales:** Centinela invisible, Hoja granizo, PociÃ³n reutilizable
+**Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Coraza del muerto > Fuerza de la naturaleza
+**Objetos finales:** Cota de espinas, Hoja del rey arruinado, Coraza del muerto

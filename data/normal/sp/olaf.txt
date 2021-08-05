@@ -1,6 +1,6 @@
 **Olaf ** *(Normal)*
-**Posición:** Jungler
-**Porcentaje de victorias:** 48.9%
+**PosiciÃ³n:** Jungler
+**Porcentaje de victorias:** 50.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
-**Objetos principales:** Látigo férreo > Bebedor de sangre > Guantelete de Sterak > Danza de la muerte
-**Objetos finales:** Ángel Guardián, Apariencia espiritual, Cota de espinas
+**Objetos iniciales:** Centinela invisible, Hoja granizo, PociÃ³n reutilizable
+**Objetos principales:** LÃ¡tigo fÃ©rreo > Bebedor de sangre > Guantelete de Sterak > Danza de la muerte
+**Objetos finales:** Cota de espinas, Ãngel GuardiÃ¡n, Apariencia espiritual

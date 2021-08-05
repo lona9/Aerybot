@@ -1,6 +1,6 @@
 **Poppy ** *(Normal)*
-**Posición:** Jungler, Top
-**Porcentaje de victorias:** 51.4%
+**PosiciÃ³n:** Jungler, Top
+**Porcentaje de victorias:** 50.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Cota de espinas
-**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
-**Objetos principales:** Poción reutilizable > Brillo > Cercenador divino > Coraza del muerto
-**Objetos finales:** Cota de espinas, Máscara abisal, Guantelete de Sterak
+**Objetos iniciales:** Centinela invisible, Hoja granizo, PociÃ³n reutilizable
+**Objetos principales:** PociÃ³n reutilizable > Brillo > Cercenador divino > Coraza del muerto
+**Objetos finales:** Cota de espinas, Presagio de Randuin, MÃ¡scara abisal

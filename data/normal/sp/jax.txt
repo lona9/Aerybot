@@ -1,6 +1,6 @@
 **Jax ** *(Normal)*
-**Posición:** Top
-**Porcentaje de victorias:** 50.5%
+**PosiciÃ³n:** Top
+**Porcentaje de victorias:** 50.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Poción de corrupción
+**Objetos iniciales:** Centinela invisible, PociÃ³n de corrupciÃ³n
 **Objetos principales:** Brillo > Cercenador divino > Hoja del rey arruinado > Guantelete de Sterak
-**Objetos finales:** Ángel Guardián, Danza de la muerte, Guantelete de Sterak
+**Objetos finales:** Ãngel GuardiÃ¡n, Danza de la muerte, Guantelete de Sterak

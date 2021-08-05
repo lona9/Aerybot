@@ -1,5 +1,5 @@
 **Lulu ** *(ARAM)*
-**Porcentaje de victorias:** 50.1%
+**Porcentaje de victorias:** 50.2%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Cristal de rubÌ, Espejo de cristal de Bandle
-**Objetos principales:** Espejo de cristal de Bandle > RenovaciÛn de piedra lunar > Pebetero ardiente > B·culo de agua fluyente
-**Objetos finales:** RedenciÛn, Putrificador tecnoquÌmico, B·culo de agua fluyente
+**Objetos iniciales:** Cristal de rub√≠, Espejo de cristal de Bandle
+**Objetos principales:** Espejo de cristal de Bandle > Renovaci√≥n de piedra lunar > Pebetero ardiente > B√°culo de agua fluyente
+**Objetos finales:** Redenci√≥n, Putrificador tecnoqu√≠mico, Bendici√≥n de Mikael

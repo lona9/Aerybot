@@ -1,5 +1,5 @@
 **Varus** *(ARAM)*
-**Porcentagem de vitorias:** 53.3%
+**Porcentagem de vitorias:** 53.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Manamune
-**Itens Iniciais:** L·grima da Deusa, PoÁ„o com Refil, Espada Longa
-**Itens Core:** PoÁ„o com Refil > Espada Longa > Punhal Serrilhado > Crep˙sculo de Draktharr
-**Itens End:** Rancor de Serylda, Limiar da Noite, Serrespada Quimiopunk
+**Itens Iniciais:** L√°grima da Deusa, Po√ß√£o com Refil, Espada Longa
+**Itens Core:** Po√ß√£o com Refil > Espada Longa > Punhal Serrilhado > Crep√∫sculo de Draktharr
+**Itens End:** Rancor de Serylda, Serrespada Quimiopunk, Limiar da Noite

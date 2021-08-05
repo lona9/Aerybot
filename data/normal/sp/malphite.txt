@@ -1,6 +1,6 @@
 **Malphite ** *(Normal)*
-**Posici髇:** Top
-**Porcentaje de victorias:** 50.7%
+**Posici贸n:** Top
+**Porcentaje de victorias:** 50.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Poci髇 de corrupci髇
-**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Coraz髇 de hielo
-**Objetos finales:** Presagio de Randuin, Coraz髇 de hielo, Armadura p閠rea
+**Objetos iniciales:** Centinela invisible, Poci贸n de corrupci贸n
+**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Coraz贸n de hielo
+**Objetos finales:** Presagio de Randuin, Coraz贸n de hielo, M谩scara abisal

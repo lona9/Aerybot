@@ -1,6 +1,6 @@
 **Shen Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 51.0%
+**Porcentagem de vitorias:** 51.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Galvanizadas de AÁo
-**Itens Iniciais:** Sentinela InvisÌvel, Escudo de Doran, PoÁ„o de Vida
-**Itens Core:** Brasa de Bami > …gide de Fogo Solar > Hidra Tit‚nica > Armadura de Espinhos
-**Itens End:** Press·gio de Randuin, M·scara Abissal, Correntes de An·tema
+**Botas:** Botas Galvanizadas de A√ßo
+**Itens Iniciais:** Sentinela Invis√≠vel, Escudo de Doran, Po√ß√£o de Vida
+**Itens Core:** Brasa de Bami > √âgide de Fogo Solar > Hidra Tit√¢nica > Armadura de Espinhos
+**Itens End:** Press√°gio de Randuin, Armadura de Espinhos, Correntes de An√°tema

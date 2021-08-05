@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
+**Itens Iniciais:** Sentinela InvisÃ­vel, Escudo de Doran, PoÃ§Ã£o de Vida
 **Itens Core:** Olhar Sanguessuga > Criafendas > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

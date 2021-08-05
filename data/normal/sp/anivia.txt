@@ -1,6 +1,6 @@
 **Anivia ** *(Normal)*
-**Posición:** Mid
-**Porcentaje de victorias:** 51.2%
+**PosiciÃ³n:** Mid
+**Porcentaje de victorias:** 52.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Capítulo perdido > Angustia de Liandry > Báculo del arcángel > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, PociÃ³n de vida
+**Objetos principales:** CapÃ­tulo perdido > Angustia de Liandry > BÃ¡culo del arcÃ¡ngel > Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mortÃ­fero de Rabadon, BÃ¡culo del vacÃ­o, MorellonomicÃ³n

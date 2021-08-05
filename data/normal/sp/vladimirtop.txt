@@ -1,6 +1,6 @@
 **Vladimir Top** *(Normal)*
-**Posición:** Mid, Top
-**Porcentaje de victorias:** 47.7%
+**PosiciÃ³n:** Mid, Top
+**Porcentaje de victorias:** 48.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Alternador hextech > Cintomisil hextech > Impulso cósmico > Reloj de arena de Zhonya
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Robaalmas de Mejai
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, PociÃ³n de vida
+**Objetos principales:** Alternador hextech > Cintomisil hextech > Impulso cÃ³smico > Reloj de arena de Zhonya
+**Objetos finales:** BÃ¡culo del vacÃ­o, Sombrero mortÃ­fero de Rabadon, Reloj de arena de Zhonya

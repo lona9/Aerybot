@@ -1,6 +1,6 @@
 **Poppy Build Rota Topo** *(Normal)*
 **Rota:** Selva, Rota Topo
-**Porcentagem de vitorias:** 51.9%
+**Porcentagem de vitorias:** 51.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Galvanizadas de AÁo
-**Itens Iniciais:** Sentinela InvisÌvel, PoÁ„o Corrupta
-**Itens Core:** Brasa de Bami > …gide de Fogo Solar > Armadura de Espinhos > Press·gio de Randuin
-**Itens End:** Correntes de An·tema, Armadura de Espinhos, M·scara Abissal
+**Botas:** Botas Galvanizadas de A√ßo
+**Itens Iniciais:** Sentinela Invis√≠vel, Po√ß√£o Corrupta
+**Itens Core:** Brasa de Bami > √âgide de Fogo Solar > Armadura de Espinhos > For√ßa da Natureza
+**Itens End:** Armadura de Espinhos, Coura√ßa do Defunto, For√ßa da Natureza

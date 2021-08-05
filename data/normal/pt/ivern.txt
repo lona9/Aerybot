@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela InvisÌvel, L‚mina ¡lgida, PoÁ„o com Refil
-**Itens Core:** Espelho de BandÛpolis > Regenerador de Pedra Lunar > Putrificador Quimtec > Cajado Aquafluxo
-**Itens End:** Cajado Aquafluxo, TurÌbulo Ardente, RedenÁ„o
+**Itens Iniciais:** Sentinela Invis√≠vel, L√¢mina √Ålgida, Po√ß√£o com Refil
+**Itens Core:** Espelho de Band√≥polis > Regenerador de Pedra Lunar > Putrificador Quimtec > Cajado Aquafluxo
+**Itens End:** Ampulheta de Zhonya, Tur√≠bulo Ardente, Cajado Aquafluxo

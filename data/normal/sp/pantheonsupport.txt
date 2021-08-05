@@ -1,6 +1,6 @@
 **Pantheon Support** *(Normal)*
-**Posición:** Support, Mid
-**Porcentaje de victorias:** 47.7%
+**PosiciÃ³n:** Support, Mid
+**Porcentaje de victorias:** 47.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas de movilidad
-**Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
-**Objetos principales:** Puñal serrado > Eclipse > Guja sombría > Sierraespada Quimopunk
-**Objetos finales:** Guantelete de Sterak, Sierraespada Quimopunk, El Coleccionista
+**Objetos iniciales:** Centinela invisible, Hombreras de acero, PociÃ³n de vida
+**Objetos principales:** PuÃ±al serrado > Eclipse > Guja sombrÃ­a > Sierraespada Quimopunk
+**Objetos finales:** Sierraespada Quimopunk, Guantelete de Sterak, El Coleccionista

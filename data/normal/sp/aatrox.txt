@@ -1,6 +1,6 @@
 **Aatrox ** *(Normal)*
-**Posición:** Top
-**Porcentaje de victorias:** 50.7%
+**PosiciÃ³n:** Top
+**Porcentaje de victorias:** 49.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Látigo férreo > Bebedor de sangre > Guantelete de Sterak > Danza de la muerte
-**Objetos finales:** Ángel Guardián, Apariencia espiritual, Danza de la muerte
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, PociÃ³n de vida
+**Objetos principales:** LÃ¡tigo fÃ©rreo > Bebedor de sangre > Guantelete de Sterak > Danza de la muerte
+**Objetos finales:** Ãngel GuardiÃ¡n, Apariencia espiritual, Danza de la muerte

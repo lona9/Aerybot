@@ -1,6 +1,6 @@
 **Nasus ** *(Normal)*
-**PosiciÛn:** Top
-**Porcentaje de victorias:** 49.5%
+**Posici√≥n:** Top
+**Porcentaje de victorias:** 50.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Escudo de Doran, PociÛn de vida
-**Objetos principales:** Brillo > Cercenador divino > CorazÛn de hielo > Apariencia espiritual
-**Objetos finales:** Armadura pÈtrea, Cota de espinas, Apariencia espiritual
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poci√≥n de vida
+**Objetos principales:** Brillo > Cercenador divino > Coraz√≥n de hielo > Apariencia espiritual
+**Objetos finales:** Cota de espinas, Armadura p√©trea, Apariencia espiritual

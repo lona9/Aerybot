@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Passos de Merc˙rio
+**Botas:** Passos de Merc√∫rio
 **Itens Iniciais:** Olhar Sanguessuga
-**Itens Core:** Olhar Sanguessuga > Criafendas > Dente de Na'Shor > AbraÁo DemonÌaco
-**Itens End:** Armadura de Espinhos, Semblante Espiritual, Cetro de Cristal de Rylai
+**Itens Core:** Olhar Sanguessuga > Criafendas > Dente de Na'Shor > Abra√ßo Demon√≠aco
+**Itens End:** Armadura de Espinhos, Semblante Espiritual, Ampulheta de Zhonya

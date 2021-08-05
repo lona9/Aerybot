@@ -1,6 +1,6 @@
 **Kai'Sa ** *(Normal)*
-**PosiciÛn:** AD Carry
-**Porcentaje de victorias:** 49.1%
+**Posici√≥n:** AD Carry
+**Porcentaje de victorias:** 48.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Centinela invisible, Espada de Doran, PociÛn de vida
-**Objetos principales:** Carcaj de mediodÌa > Matakrakens > El Coleccionista > BailarÌn espectral
-**Objetos finales:** ¡ngel Guardi·n, Filo del infinito, Recuerdos de lord Dominik
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poci√≥n de vida
+**Objetos principales:** Carcaj de mediod√≠a > Matakrakens > El Coleccionista > Bailar√≠n espectral
+**Objetos finales:** √Ångel Guardi√°n, Filo del infinito, Recuerdos de lord Dominik

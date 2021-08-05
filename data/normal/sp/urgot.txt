@@ -1,6 +1,6 @@
 **Urgot ** *(Normal)*
-**Posici�n:** Top
-**Porcentaje de victorias:** 50.9%
+**Posición:** Top
+**Porcentaje de victorias:** 50.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Espada de Doran, Poci�n de vida
-**Objetos principales:** Tiamat > Hidra tit�nica > Cuchilla oscura > Guantelete de fuego escarchado
-**Objetos finales:** Guantelete de Sterak, Cota de espinas, Sierraespada Quimopunk
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Tiamat > Hidra titánica > Cuchilla oscura > Guantelete de fuego escarchado
+**Objetos finales:** Guantelete de Sterak, Cota de espinas, Ángel Guardián

@@ -1,6 +1,6 @@
 **Galio Build ** *(Normal)*
 **Rota:** Rota do Meio, Suporte
-**Porcentagem de vitorias:** 50.3%
+**Porcentagem de vitorias:** 50.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:bruj:804451124236648478>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Galvanizadas de AÁo
-**Itens Iniciais:** Sentinela InvisÌvel, Anel de Doran, PoÁ„o de Vida
-**Itens Core:** Alternador Hextec > Explocintur„o Hextec > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ladr„o de Almas de Mejai
+**Botas:** Botas Galvanizadas de A√ßo
+**Itens Iniciais:** Sentinela Invis√≠vel, Anel de Doran, Po√ß√£o de Vida
+**Itens Core:** Alternador Hextec > Explocintur√£o Hextec > Ampulheta de Zhonya > Morellonomicon
+**Itens End:** Ladr√£o de Almas de Mejai, Capuz da Morte de Rabadon, Cajado do Vazio

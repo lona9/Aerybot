@@ -1,5 +1,5 @@
 **Seraphine ** *(ARAM)*
-**Porcentaje de victorias:** 54.7%
+**Porcentaje de victorias:** 53.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** CapÌtulo perdido
-**Objetos principales:** Espejo de cristal de Bandle > RenovaciÛn de piedra lunar > B·culo de agua fluyente > Putrificador tecnoquÌmico
-**Objetos finales:** Sombrero mortÌfero de Rabadon, Putrificador tecnoquÌmico, Reloj de arena de Zhonya
+**Objetos iniciales:** Cap√≠tulo perdido
+**Objetos principales:** Espejo de cristal de Bandle > Renovaci√≥n de piedra lunar > B√°culo de agua fluyente > Putrificador tecnoqu√≠mico
+**Objetos finales:** Sombrero mort√≠fero de Rabadon, Reloj de arena de Zhonya, Putrificador tecnoqu√≠mico

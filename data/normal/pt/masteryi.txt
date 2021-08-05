@@ -1,6 +1,6 @@
 **Master Yi Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 49.4%
+**Porcentagem de vitorias:** 49.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grevas do Berserker
-**Itens Iniciais:** Sentinela InvisÌvel, L‚mina C·lida, PoÁ„o com Refil
-**Itens Core:** Aljava Vespertina > Mata-Cr·quens > L‚mina da F˙ria de Guinsoo > Limite da Raz„o
-**Itens End:** Anjo Guardi„o, Sinal de Sterak, DanÁa da Morte
+**Itens Iniciais:** Sentinela Invis√≠vel, L√¢mina C√°lida, Po√ß√£o com Refil
+**Itens Core:** Aljava Vespertina > Mata-Cr√°quens > L√¢mina da F√∫ria de Guinsoo > Limite da Raz√£o
+**Itens End:** Anjo Guardi√£o, Dan√ßa da Morte, Sinal de Sterak

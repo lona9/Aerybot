@@ -1,5 +1,5 @@
 **Jhin ** *(Normal)*
-**Posición:** AD Carry
+**PosiciÃ³n:** AD Carry
 **Porcentaje de victorias:** 50.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas de rapidez
-**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > El Coleccionista > Cañón de fuego rápido
-**Objetos finales:** Ángel Guardián, Recuerdos de lord Dominik, Filo del infinito
+**Objetos iniciales:** Centinela invisible, Espada de Doran, PociÃ³n de vida
+**Objetos principales:** Carcaj de mediodÃ­a > Fuerza del Viento > El Coleccionista > CaÃ±Ã³n de fuego rÃ¡pido
+**Objetos finales:** Ãngel GuardiÃ¡n, Filo del infinito, Recuerdos de lord Dominik

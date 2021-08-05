@@ -1,6 +1,6 @@
 **Poppy Build Selva** *(Normal)*
 **Rota:** Selva, Rota Topo
-**Porcentagem de vitorias:** 51.0%
+**Porcentagem de vitorias:** 49.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Galvanizadas de AÁo
-**Itens Iniciais:** Sentinela InvisÌvel, L‚mina ¡lgida, PoÁ„o com Refil
-**Itens Core:** Fulgor > Ruptor Divino > CouraÁa do Defunto > Armadura de Espinhos
-**Itens End:** Armadura de Espinhos, Sinal de Sterak, M·scara Abissal
+**Botas:** Botas Galvanizadas de A√ßo
+**Itens Iniciais:** Sentinela Invis√≠vel, L√¢mina √Ålgida, Po√ß√£o com Refil
+**Itens Core:** Fulgor > Ruptor Divino > Coura√ßa do Defunto > Armadura de Espinhos
+**Itens End:** Armadura de Espinhos, Press√°gio de Randuin, M√°scara Abissal

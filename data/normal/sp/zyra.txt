@@ -1,6 +1,6 @@
 **Zyra ** *(Normal)*
-**Posici髇:** Support
-**Porcentaje de victorias:** 52.4%
+**Posici贸n:** Support
+**Porcentaje de victorias:** 52.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poci髇 de vida
-**Objetos principales:** Cap韙ulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Morellonomic髇
-**Objetos finales:** Sombrero mort韋ero de Rabadon, Morellonomic髇, Cetro de cristal de Rylai
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poci贸n de vida
+**Objetos principales:** Cap铆tulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Morellonomic贸n
+**Objetos finales:** Cetro de cristal de Rylai, B谩culo del vac铆o, Morellonomic贸n

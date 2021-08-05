@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Armadura de Espinhos
-**Itens Iniciais:** PoÁ„o com Refil, Brasa de Bami
-**Itens Core:** Brasa de Bami > Berrante do Guardi„o > Medalh„o dos Solari de Ferro > Armadura de Warmog
-**Itens End:** Placa GargolÌtica, Armadura de Espinhos, M·scara Abissal
+**Itens Iniciais:** Po√ß√£o com Refil, Brasa de Bami
+**Itens Core:** Brasa de Bami > Berrante do Guardi√£o > Medalh√£o dos Solari de Ferro > Armadura de Warmog
+**Itens End:** Placa Gargol√≠tica, M√°scara Abissal, Armadura de Warmog

@@ -1,7 +1,7 @@
 **Xerath Support** *(Normal)*
-**PosiciÛn:** Support, Mid
+**Posici√≥n:** Support, Mid
 **Porcentaje de victorias:** 50.1%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
 >   :cd:<:bruj12:804448797001252864>:cd:
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, PociÛn de vida
-**Objetos principales:** CapÌtulo perdido > Tempestad de Luden > Enfoque al horizonte > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortÌfero de Rabadon, B·culo del vacÌo, MorellonomicÛn
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poci√≥n de vida
+**Objetos principales:** Cap√≠tulo perdido > Tempestad de Luden > Enfoque al horizonte > Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mort√≠fero de Rabadon, B√°culo del vac√≠o, Reloj de arena de Zhonya

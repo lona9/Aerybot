@@ -1,6 +1,6 @@
 **Twisted Fate ** *(Normal)*
-**Posición:** Mid
-**Porcentaje de victorias:** 48.2%
+**PosiciÃ³n:** Mid
+**Porcentaje de victorias:** 48.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Capítulo perdido > Escarcha eterna > Maldición del liche > Cañón de fuego rápido
-**Objetos finales:** Sombrero mortífero de Rabadon, Morellonomicón, Reloj de arena de Zhonya
+**Objetos iniciales:** Centinela invisible, PociÃ³n de corrupciÃ³n
+**Objetos principales:** CapÃ­tulo perdido > Escarcha eterna > Reloj de arena de Zhonya > CaÃ±Ã³n de fuego rÃ¡pido
+**Objetos finales:** Sombrero mortÃ­fero de Rabadon, Reloj de arena de Zhonya, BÃ¡culo del vacÃ­o

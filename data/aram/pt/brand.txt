@@ -1,5 +1,5 @@
 **Brand** *(ARAM)*
-**Porcentagem de vitorias:** 52.9%
+**Porcentagem de vitorias:** 52.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Capítulo Perdido
-**Itens Core:** Capítulo Perdido > Angústia de Liandry > Abraço Demoníaco > Morellonomicon
+**Itens Iniciais:** CapÃ­tulo Perdido
+**Itens Core:** CapÃ­tulo Perdido > AngÃºstia de Liandry > AbraÃ§o DemonÃ­aco > Morellonomicon
 **Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ampulheta de Zhonya

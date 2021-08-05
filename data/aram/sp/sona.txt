@@ -1,5 +1,5 @@
 **Sona ** *(ARAM)*
-**Porcentaje de victorias:** 55.9%
+**Porcentaje de victorias:** 56.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Lágrima de la diosa, Espejo de cristal de Bandle
-**Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Báculo del arcángel > Báculo de agua fluyente
-**Objetos finales:** Putrificador tecnoquímico, Redención, Pebetero ardiente
+**Objetos iniciales:** LÃ¡grima de la diosa, Espejo de cristal de Bandle
+**Objetos principales:** Espejo de cristal de Bandle > RenovaciÃ³n de piedra lunar > BÃ¡culo del arcÃ¡ngel > BÃ¡culo de agua fluyente
+**Objetos finales:** Putrificador tecnoquÃ­mico, RedenciÃ³n, Pebetero ardiente

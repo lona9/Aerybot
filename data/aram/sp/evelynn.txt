@@ -1,5 +1,5 @@
 **Evelynn ** *(ARAM)*
-**Porcentaje de victorias:** 46.1%
+**Porcentaje de victorias:** 46.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Botas, Alternador hextech
-**Objetos principales:** Alternador hextech > Cosechador nocturno > MaldiciÛn del liche > Sombrero mortÌfero de Rabadon
-**Objetos finales:** B·culo del vacÌo, Velo de la banshee, Sombrero mortÌfero de Rabadon
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Maldici√≥n del liche > Sombrero mort√≠fero de Rabadon
+**Objetos finales:** B√°culo del vac√≠o, Velo de la banshee, Reloj de arena de Zhonya

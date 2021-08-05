@@ -1,6 +1,6 @@
 **Viego Mid** *(Normal)*
-**PosiciÛn:** Jungler
-**Porcentaje de victorias:** 49.7%
+**Posici√≥n:** Jungler
+**Porcentaje de victorias:** 49.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Espada de Doran, PociÛn de vida
-**Objetos principales:** Cetro vampÌrico > Hoja del rey arruinado > Cercenador divino > Guantelete de Sterak
-**Objetos finales:** ¡ngel Guardi·n, Danza de la muerte, Guantelete de Sterak
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poci√≥n de vida
+**Objetos principales:** Cetro vamp√≠rico > Hoja del rey arruinado > Cercenador divino > Guantelete de Sterak
+**Objetos finales:** √Ångel Guardi√°n, Sierraespada Quimopunk, Danza de la muerte

@@ -1,7 +1,7 @@
 **Lux Build Rota do Meio** *(Normal)*
 **Rota:** Suporte, Rota do Meio
 **Porcentagem de vitorias:** 51.7%
-**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
 >   :cd:<:bruj12:804448797001252864>:cd:
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Itens Core:** Capítulo Perdido > Tormenta de Luden > Foco do Horizonte > Ampulheta de Zhonya
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Ampulheta de Zhonya
+**Itens Iniciais:** Sentinela InvisÃ­vel, Anel de Doran, PoÃ§Ã£o de Vida
+**Itens Core:** CapÃ­tulo Perdido > Tormenta de Luden > Foco do Horizonte > Ampulheta de Zhonya
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon

@@ -1,6 +1,6 @@
 **Vladimir Mid** *(Normal)*
-**Posición:** Mid, Top
-**Porcentaje de victorias:** 50.9%
+**PosiciÃ³n:** Mid, Top
+**Porcentaje de victorias:** 50.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Sello oscuro, Poción reutilizable
-**Objetos principales:** Alternador hextech > Cintomisil hextech > Impulso cósmico > Reloj de arena de Zhonya
-**Objetos finales:** Báculo del vacío, Robaalmas de Mejai, Reloj de arena de Zhonya
+**Objetos iniciales:** Centinela invisible, Sello oscuro, PociÃ³n reutilizable
+**Objetos principales:** Alternador hextech > Cintomisil hextech > Impulso cÃ³smico > Reloj de arena de Zhonya
+**Objetos finales:** BÃ¡culo del vacÃ­o, Reloj de arena de Zhonya, Robaalmas de Mejai

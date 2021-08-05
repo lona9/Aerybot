@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela InvisÌvel, L‚mina ¡lgida, PoÁ„o com Refil
-**Itens Core:** CapÌtulo Perdido > Tormenta de Luden > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon
+**Itens Iniciais:** Sentinela Invis√≠vel, L√¢mina √Ålgida, Po√ß√£o com Refil
+**Itens Core:** Cap√≠tulo Perdido > Tormenta de Luden > Ampulheta de Zhonya > Morellonomicon
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Ladr√£o de Almas de Mejai

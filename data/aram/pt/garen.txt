@@ -1,5 +1,5 @@
 **Garen** *(ARAM)*
-**Porcentagem de vitorias:** 46.2%
+**Porcentagem de vitorias:** 46.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Passos de Merc˙rio
-**Itens Iniciais:** PoÁ„o com Refil, Chicote Ferrifarpo
-**Itens Core:** Chicote Ferrifarpo > Quebrapassos > Sinal de Sterak > CouraÁa do Defunto
-**Itens End:** Armadura de Espinhos, CouraÁa do Defunto, Cutelo Negro
+**Botas:** Passos de Merc√∫rio
+**Itens Iniciais:** Po√ß√£o com Refil, Chicote Ferrifarpo
+**Itens Core:** Chicote Ferrifarpo > Quebrapassos > Sinal de Sterak > Coura√ßa do Defunto
+**Itens End:** Armadura de Espinhos, Coura√ßa do Defunto, Cutelo Negro

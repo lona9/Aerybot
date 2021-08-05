@@ -1,6 +1,6 @@
 **Twitch ** *(Normal)*
-**Posición:** AD Carry
-**Porcentaje de victorias:** 49.3%
+**PosiciÃ³n:** AD Carry
+**Porcentaje de victorias:** 48.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Hacha hogareña > Al filo de la Cordura > Huracán de Runaan > Hidra titánica
-**Objetos finales:** Filo del infinito, Recuerdos de lord Dominik, Ángel Guardián
+**Objetos iniciales:** Centinela invisible, Espada de Doran, PociÃ³n de vida
+**Objetos principales:** Hacha hogareÃ±a > Al filo de la Cordura > HuracÃ¡n de Runaan > Hidra titÃ¡nica
+**Objetos finales:** Recuerdos de lord Dominik, Ãngel GuardiÃ¡n, Filo del infinito

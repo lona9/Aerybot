@@ -1,6 +1,6 @@
 **Vayne ** *(Normal)*
-**PosiciÛn:** AD Carry
-**Porcentaje de victorias:** 51.8%
+**Posici√≥n:** AD Carry
+**Porcentaje de victorias:** 51.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Centinela invisible, Espada de Doran, PociÛn de vida
-**Objetos principales:** Carcaj de mediodÌa > Matakrakens > BailarÌn espectral > Hoja de furia de Guinsoo
-**Objetos finales:** ¡ngel Guardi·n, Cimitarra mercurial, Sanguinaria
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poci√≥n de vida
+**Objetos principales:** Carcaj de mediod√≠a > Matakrakens > Bailar√≠n espectral > Hoja de furia de Guinsoo
+**Objetos finales:** √Ångel Guardi√°n, Cimitarra mercurial, Sanguinaria

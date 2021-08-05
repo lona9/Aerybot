@@ -1,6 +1,6 @@
 **Nasus Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 49.5%
+**Porcentagem de vitorias:** 50.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela InvisÌvel, Escudo de Doran, PoÁ„o de Vida
-**Itens Core:** Fulgor > Ruptor Divino > CoraÁ„o Congelado > Semblante Espiritual
-**Itens End:** Placa GargolÌtica, Armadura de Espinhos, Semblante Espiritual
+**Itens Iniciais:** Sentinela Invis√≠vel, Escudo de Doran, Po√ß√£o de Vida
+**Itens Core:** Fulgor > Ruptor Divino > Cora√ß√£o Congelado > Semblante Espiritual
+**Itens End:** Armadura de Espinhos, Placa Gargol√≠tica, Semblante Espiritual

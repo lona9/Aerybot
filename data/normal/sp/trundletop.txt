@@ -1,6 +1,6 @@
 **Trundle Top** *(Normal)*
-**PosiciÛn:** Jungler, Top
-**Porcentaje de victorias:** 50.7%
+**Posici√≥n:** Jungler, Top
+**Porcentaje de victorias:** 50.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Espada de Doran, PociÛn de vida
-**Objetos principales:** Brillo > Cercenador divino > Rompecascos > Hidra tit·nica
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poci√≥n de vida
+**Objetos principales:** Brillo > Cercenador divino > Rompecascos > Hidra tit√°nica
 **Objetos finales:** Cota de espinas, Guantelete de Sterak, Apariencia espiritual

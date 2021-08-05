@@ -4,7 +4,7 @@
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
->   <:dom21:804457127800078397>:cd::cd:
+>   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd:<:dom33:804457129578332160>
 > :cd::cd::cd:<:dom44:804457129732866048>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grevas do Berserker
-**Itens Iniciais:** Capítulo Perdido
-**Itens Core:** Capítulo Perdido > Angústia de Liandry > Abraço Demoníaco > Morellonomicon
+**Itens Iniciais:** CapÃ­tulo Perdido
+**Itens Core:** CapÃ­tulo Perdido > AngÃºstia de Liandry > AbraÃ§o DemonÃ­aco > Morellonomicon
 **Itens End:** Gume do Infinito, Sedenta por Sangue, Lembrete Mortal

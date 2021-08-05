@@ -1,5 +1,5 @@
 **Gragas ** *(ARAM)*
-**Porcentaje de victorias:** 45.5%
+**Porcentaje de victorias:** 46.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Botas, Alternador hextech
-**Objetos principales:** Alternador hextech > Cosechador nocturno > Impulso cÛsmico > Reloj de arena de Zhonya
-**Objetos finales:** B·culo del vacÌo, Sombrero mortÌfero de Rabadon, MorellonomicÛn
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Impulso c√≥smico > Reloj de arena de Zhonya
+**Objetos finales:** B√°culo del vac√≠o, Sombrero mort√≠fero de Rabadon, Morellonomic√≥n

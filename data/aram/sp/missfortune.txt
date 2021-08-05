@@ -4,7 +4,7 @@
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
->   <:dom21:804457127800078397>:cd::cd:
+>   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd:<:dom33:804457129578332160>
 > :cd::cd::cd:<:dom44:804457129732866048>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** CapÌtulo perdido
-**Objetos principales:** CapÌtulo perdido > Angustia de Liandry > Abrazo demonÌaco > MorellonomicÛn
+**Objetos iniciales:** Cap√≠tulo perdido
+**Objetos principales:** Cap√≠tulo perdido > Angustia de Liandry > Abrazo demon√≠aco > Morellonomic√≥n
 **Objetos finales:** Filo del infinito, Sanguinaria, Recordatorio mortal

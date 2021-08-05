@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Ceniza de Bami
+**Objetos iniciales:** PociÃ³n reutilizable, Ceniza de Bami
 **Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Apariencia espiritual
-**Objetos finales:** Armadura pétrea, Armadura de Warmog, Cota de espinas
+**Objetos finales:** Armadura pÃ©trea, Armadura de Warmog, Cota de espinas

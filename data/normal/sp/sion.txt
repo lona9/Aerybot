@@ -1,6 +1,6 @@
 **Sion ** *(Normal)*
-**Posición:** Top
-**Porcentaje de victorias:** 49.5%
+**PosiciÃ³n:** Top
+**Porcentaje de victorias:** 49.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Bacteriófago > Rompecascos > Guantelete de fuego escarchado > Hidra titánica
-**Objetos finales:** Cota de espinas, Cadenas de Anatema, Armadura pétrea
+**Objetos iniciales:** Centinela invisible, PociÃ³n de corrupciÃ³n
+**Objetos principales:** Ceniza de Bami > Ã‰gida de fuego solar > Cota de espinas > Presagio de Randuin
+**Objetos finales:** Cota de espinas, Presagio de Randuin, Cadenas de Anatema

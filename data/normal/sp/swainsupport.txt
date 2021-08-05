@@ -1,6 +1,6 @@
 **Swain Support** *(Normal)*
-**PosiciÛn:** Support, AD Carry
-**Porcentaje de victorias:** 49.6%
+**Posici√≥n:** Support, AD Carry
+**Porcentaje de victorias:** 50.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, PociÛn de vida
-**Objetos principales:** CapÌtulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > MorellonomicÛn
-**Objetos finales:** MorellonomicÛn, Abrazo demonÌaco, Cetro de cristal de Rylai
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poci√≥n de vida
+**Objetos principales:** Cap√≠tulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Morellonomic√≥n
+**Objetos finales:** Sombrero mort√≠fero de Rabadon, Abrazo demon√≠aco, Apariencia espiritual

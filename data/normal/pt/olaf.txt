@@ -1,6 +1,6 @@
 **Olaf Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 48.9%
+**Porcentagem de vitorias:** 50.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Galvanizadas de AÁo
-**Itens Iniciais:** Sentinela InvisÌvel, L‚mina ¡lgida, PoÁ„o com Refil
-**Itens Core:** Chicote Ferrifarpo > Hemodren·rio > Sinal de Sterak > DanÁa da Morte
-**Itens End:** Anjo Guardi„o, Semblante Espiritual, Armadura de Espinhos
+**Botas:** Botas Galvanizadas de A√ßo
+**Itens Iniciais:** Sentinela Invis√≠vel, L√¢mina √Ålgida, Po√ß√£o com Refil
+**Itens Core:** Chicote Ferrifarpo > Hemodren√°rio > Sinal de Sterak > Dan√ßa da Morte
+**Itens End:** Armadura de Espinhos, Anjo Guardi√£o, Semblante Espiritual

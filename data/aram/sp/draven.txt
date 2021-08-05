@@ -1,5 +1,5 @@
 **Draven ** *(ARAM)*
-**Porcentaje de victorias:** 49.0%
+**Porcentaje de victorias:** 49.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj de mediodÌa
-**Objetos principales:** Carcaj de mediodÌa > Arcoescudo inmortal > El Coleccionista > Sanguinaria
-**Objetos finales:** Filo del infinito, Recuerdos de lord Dominik, CaÒÛn de fuego r·pido
+**Objetos iniciales:** Carcaj de mediod√≠a
+**Objetos principales:** Carcaj de mediod√≠a > Arcoescudo inmortal > El Coleccionista > Sanguinaria
+**Objetos finales:** Filo del infinito, Recuerdos de lord Dominik, Ca√±√≥n de fuego r√°pido

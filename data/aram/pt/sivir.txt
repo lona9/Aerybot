@@ -1,5 +1,5 @@
 **Sivir** *(ARAM)*
-**Porcentagem de vitorias:** 49.5%
+**Porcentagem de vitorias:** 49.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Punhal Serrilhado
-**Itens Iniciais:** Botas, Pérola do Rejuvenescimento, Espada Longa, Poção com Refil, Lágrima da Deusa
-**Itens Core:** Pérola do Rejuvenescimento > Espada Longa > Poção com Refil > Lágrima da Deusa
+**Itens Iniciais:** Botas, PÃ©rola do Rejuvenescimento, Espada Longa, PoÃ§Ã£o com Refil, LÃ¡grima da Deusa
+**Itens Core:** PÃ©rola do Rejuvenescimento > Espada Longa > PoÃ§Ã£o com Refil > LÃ¡grima da Deusa
 **Itens End:** Limiar da Noite, Lembrete Mortal, Rancor de Serylda

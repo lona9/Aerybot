@@ -1,6 +1,6 @@
 **Blitzcrank Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 52.0%
+**Porcentagem de vitorias:** 51.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas da Mobilidade
-**Itens Iniciais:** Sentinela Invisível, Escudo Relicário, Poção de Vida
-**Itens Core:** Gema Ardente > Medalhão dos Solari de Ferro > Convergência de Zeke > Juramento do Cavaleiro
-**Itens End:** Ampulheta de Zhonya, Juramento do Cavaleiro, Coração Congelado
+**Itens Iniciais:** Sentinela InvisÃ­vel, Escudo RelicÃ¡rio, PoÃ§Ã£o de Vida
+**Itens Core:** Gema Ardente > MedalhÃ£o dos Solari de Ferro > ConvergÃªncia de Zeke > Juramento do Cavaleiro
+**Itens End:** Capuz da Morte de Rabadon, ConvergÃªncia de Zeke, Foco do Horizonte

@@ -1,5 +1,5 @@
 **Caitlyn** *(ARAM)*
-**Porcentagem de vitorias:** 51.5%
+**Porcentagem de vitorias:** 51.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
-**Itens Core:** Aljava Vespertina > Mata-Cr·quens > Canh„o Fumegante > Gume do Infinito
-**Itens End:** LembranÁas do Lorde Dominik, Sedenta por Sangue, Gume do Infinito
+**Itens Core:** Aljava Vespertina > Mata-Cr√°quens > Canh√£o Fumegante > Gume do Infinito
+**Itens End:** Lembran√ßas do Lorde Dominik, Sedenta por Sangue, Gume do Infinito

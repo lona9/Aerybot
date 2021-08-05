@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
-**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Cutelo Negro > Sinal de Sterak
-**Itens End:** Anjo Guardião, Rancor de Serylda, Limiar da Noite
+**Itens Iniciais:** Sentinela InvisÃ­vel, LÃ¢mina Ãlgida, PoÃ§Ã£o com Refil
+**Itens Core:** Chicote Ferrifarpo > HemodrenÃ¡rio > Presa da Serpente > Manamune
+**Itens End:** Anjo GuardiÃ£o, Rancor de Serylda, Limiar da Noite

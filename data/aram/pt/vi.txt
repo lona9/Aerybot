@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Passos de Mercúrio
-**Itens Iniciais:** Poção com Refil, Punhal Serrilhado
+**Botas:** Passos de MercÃºrio
+**Itens Iniciais:** PoÃ§Ã£o com Refil, Punhal Serrilhado
 **Itens Core:** Punhal Serrilhado > Eclipse > A Coletora > Sinal de Sterak
-**Itens End:** Dança da Morte, Semblante Espiritual, Armadura de Espinhos
+**Itens End:** DanÃ§a da Morte, Armadura de Espinhos, Semblante Espiritual

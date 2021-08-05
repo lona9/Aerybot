@@ -1,12 +1,12 @@
 **Tahm Kench AD Carry** *(Normal)*
-**PosiciÛn:** Top
-**Porcentaje de victorias:** 52.8%
+**Posici√≥n:** Top
+**Porcentaje de victorias:** 52.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
 >   :cd::cd:<:valor13:804449943497605171>
->   :cd:<:valor22:804449944018223104>:cd:
->   :cd::cd:<:valor33:804449943603118131>
+>   :cd::cd:<:valor23:804449943876010024>
+>   :cd:<:valor32:804449943959765002>:cd:
 >   :cd::cd:<:valor43:804449944001708043>
 
 >   :cd::cd::cd:
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Escudo de Doran, PociÛn de vida
-**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cadenas de Anatema > Cota de espinas
-**Objetos finales:** Cadenas de Anatema, Cota de espinas, Hidra tit·nica
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poci√≥n de vida
+**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Apariencia espiritual
+**Objetos finales:** Hidra tit√°nica, Armadura p√©trea, Armadura de Warmog

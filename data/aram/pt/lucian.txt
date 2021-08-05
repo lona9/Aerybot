@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
-**Itens Core:** Aljava Vespertina > Mata-Cráquens > Colhedor de Essência > Adagas Rápidas Navori
+**Itens Core:** Aljava Vespertina > Mata-CrÃ¡quens > Colhedor de EssÃªncia > Adagas RÃ¡pidas Navori
 **Itens End:** Gume do Infinito, Sedenta por Sangue, Lembrete Mortal

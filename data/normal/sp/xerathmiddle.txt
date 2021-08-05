@@ -1,6 +1,6 @@
 **Xerath Mid** *(Normal)*
-**Posición:** Support, Mid
-**Porcentaje de victorias:** 50.8%
+**PosiciÃ³n:** Support, Mid
+**Porcentaje de victorias:** 50.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Capítulo perdido > Tempestad de Luden > Enfoque al horizonte > Sombrero mortífero de Rabadon
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, PociÃ³n de vida
+**Objetos principales:** CapÃ­tulo perdido > Tempestad de Luden > Enfoque al horizonte > Sombrero mortÃ­fero de Rabadon
+**Objetos finales:** BÃ¡culo del vacÃ­o, Sombrero mortÃ­fero de Rabadon, MorellonomicÃ³n

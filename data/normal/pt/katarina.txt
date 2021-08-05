@@ -1,6 +1,6 @@
 **Katarina Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 49.9%
+**Porcentagem de vitorias:** 49.7%
 **Summoner Spells:** <:Teleport:804555481699713034> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela InvisÌvel, Lacre Sombrio, PoÁ„o com Refil
-**Itens Core:** Alternador Hextec > Explocintur„o Hextec > Dente de Na'Shor > Ampulheta de Zhonya
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ladr„o de Almas de Mejai
+**Itens Iniciais:** Sentinela Invis√≠vel, Lacre Sombrio, Po√ß√£o com Refil
+**Itens Core:** Alternador Hextec > Explocintur√£o Hextec > Dente de Na'Shor > Ampulheta de Zhonya
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ladr√£o de Almas de Mejai

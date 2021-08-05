@@ -1,5 +1,5 @@
 **Kled** *(ARAM)*
-**Porcentagem de vitorias:** 53.6%
+**Porcentagem de vitorias:** 54.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Passos de Merc˙rio
-**Itens Iniciais:** PoÁ„o com Refil, Chicote Ferrifarpo
-**Itens Core:** Chicote Ferrifarpo > Hemodren·rio > Hidra Tit‚nica > Sinal de Sterak
-**Itens End:** Armadura de Espinhos, Semblante Espiritual, Placa GargolÌtica
+**Botas:** Passos de Merc√∫rio
+**Itens Iniciais:** Po√ß√£o com Refil, Chicote Ferrifarpo
+**Itens Core:** Chicote Ferrifarpo > Hemodren√°rio > Hidra Tit√¢nica > Sinal de Sterak
+**Itens End:** Armadura de Espinhos, Semblante Espiritual, Placa Gargol√≠tica

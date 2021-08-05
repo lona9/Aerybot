@@ -1,5 +1,5 @@
 **Brand ** *(ARAM)*
-**Porcentaje de victorias:** 52.9%
+**Porcentaje de victorias:** 52.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** CapÌtulo perdido
-**Objetos principales:** CapÌtulo perdido > Angustia de Liandry > Abrazo demonÌaco > MorellonomicÛn
-**Objetos finales:** Sombrero mortÌfero de Rabadon, B·culo del vacÌo, Reloj de arena de Zhonya
+**Objetos iniciales:** Cap√≠tulo perdido
+**Objetos principales:** Cap√≠tulo perdido > Angustia de Liandry > Abrazo demon√≠aco > Morellonomic√≥n
+**Objetos finales:** Sombrero mort√≠fero de Rabadon, B√°culo del vac√≠o, Reloj de arena de Zhonya

@@ -1,6 +1,6 @@
 **Kindred Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 50.6%
+**Porcentagem de vitorias:** 50.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grevas do Berserker
-**Itens Iniciais:** Sentinela InvisÌvel, L‚mina C·lida, PoÁ„o com Refil
-**Itens Core:** Aljava Vespertina > Mata-Cr·quens > A Coletora > Canh„o Fumegante
-**Itens End:** Anjo Guardi„o, Gume do Infinito, Lembrete Mortal
+**Itens Iniciais:** Sentinela Invis√≠vel, L√¢mina C√°lida, Po√ß√£o com Refil
+**Itens Core:** Aljava Vespertina > Mata-Cr√°quens > A Coletora > Canh√£o Fumegante
+**Itens End:** Anjo Guardi√£o, Gume do Infinito, Canh√£o Fumegante

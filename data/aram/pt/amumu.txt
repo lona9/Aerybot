@@ -1,5 +1,5 @@
 **Amumu** *(ARAM)*
-**Porcentagem de vitorias:** 51.9%
+**Porcentagem de vitorias:** 51.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Passos de Merc˙rio
-**Itens Iniciais:** PoÁ„o com Refil, Brasa de Bami
-**Itens Core:** Brasa de Bami > …gide de Fogo Solar > Armadura de Espinhos > M·scara Abissal
-**Itens End:** Placa GargolÌtica, Armadura de Warmog, Armadura de Espinhos
+**Botas:** Passos de Merc√∫rio
+**Itens Iniciais:** Po√ß√£o com Refil, Brasa de Bami
+**Itens Core:** Brasa de Bami > √âgide de Fogo Solar > Armadura de Espinhos > M√°scara Abissal
+**Itens End:** Placa Gargol√≠tica, Armadura de Warmog, M√°scara Abissal

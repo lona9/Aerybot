@@ -1,5 +1,5 @@
 **Xerath ** *(ARAM)*
-**Porcentaje de victorias:** 54.4%
+**Porcentaje de victorias:** 54.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** CapÌtulo perdido
-**Objetos principales:** CapÌtulo perdido > Tempestad de Luden > Enfoque al horizonte > Sombrero mortÌfero de Rabadon
-**Objetos finales:** B·culo del vacÌo, MorellonomicÛn, Sombrero mortÌfero de Rabadon
+**Objetos iniciales:** Cap√≠tulo perdido
+**Objetos principales:** Cap√≠tulo perdido > Tempestad de Luden > Enfoque al horizonte > Sombrero mort√≠fero de Rabadon
+**Objetos finales:** B√°culo del vac√≠o, Morellonomic√≥n, Sombrero mort√≠fero de Rabadon

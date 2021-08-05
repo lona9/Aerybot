@@ -1,5 +1,5 @@
 **Kha'Zix** *(ARAM)*
-**Porcentagem de vitorias:** 48.4%
+**Porcentagem de vitorias:** 48.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Espada Longa
-**Itens Iniciais:** L·grima da Deusa, PoÁ„o com Refil, Espada Longa
-**Itens Core:** Salto > Sabor de Medo > L·grima da Deusa > PoÁ„o com Refil
-**Itens End:** Rancor de Serylda, Limiar da Noite, Serrespada Quimiopunk
+**Itens Iniciais:** L√°grima da Deusa, Po√ß√£o com Refil, Espada Longa
+**Itens Core:** Salto > Sabor de Medo > L√°grima da Deusa > Po√ß√£o com Refil
+**Itens End:** Rancor de Serylda, Limiar da Noite, Presa da Serpente

@@ -1,5 +1,5 @@
 **Kayn ** *(Normal)*
-**Posición:** Jungler
+**PosiciÃ³n:** Jungler
 **Porcentaje de victorias:** 50.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
-**Objetos principales:** Látigo férreo > Bebedor de sangre > Cuchilla oscura > Guantelete de Sterak
-**Objetos finales:** Ángel Guardián, Rencor de Serylda, Filo de la noche
+**Objetos iniciales:** Centinela invisible, Hoja granizo, PociÃ³n reutilizable
+**Objetos principales:** LÃ¡tigo fÃ©rreo > Bebedor de sangre > Colmillo de serpiente > Manamune
+**Objetos finales:** Ãngel GuardiÃ¡n, Rencor de Serylda, Filo de la noche

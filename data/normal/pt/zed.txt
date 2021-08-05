@@ -1,6 +1,6 @@
 **Zed Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 50.3%
+**Porcentagem de vitorias:** 49.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela InvisÌvel, Espada Longa, PoÁ„o com Refil
-**Itens Core:** Punhal Serrilhado > Crep˙sculo de Draktharr > Presa da Serpente > Rancor de Serylda
-**Itens End:** Anjo Guardi„o, Limiar da Noite, Serrespada Quimiopunk
+**Itens Iniciais:** Sentinela Invis√≠vel, Espada Longa, Po√ß√£o com Refil
+**Itens Core:** Punhal Serrilhado > Crep√∫sculo de Draktharr > Presa da Serpente > Rancor de Serylda
+**Itens End:** Anjo Guardi√£o, Limiar da Noite, Cutelo Negro

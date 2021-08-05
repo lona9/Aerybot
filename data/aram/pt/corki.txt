@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Manamune
-**Itens Iniciais:** Poção com Refil, Fulgor, Lágrima da Deusa
-**Itens Core:** Fulgor > Lágrima da Deusa > Fulgor > Ruptor Divino
+**Itens Iniciais:** PoÃ§Ã£o com Refil, Fulgor, LÃ¡grima da Deusa
+**Itens Core:** Fulgor > LÃ¡grima da Deusa > Fulgor > Ruptor Divino
 **Itens End:** Gume do Infinito, Sedenta por Sangue, Lembrete Mortal

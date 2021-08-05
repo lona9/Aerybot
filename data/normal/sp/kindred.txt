@@ -1,6 +1,6 @@
 **Kindred ** *(Normal)*
-**Posici�n:** Jungler
-**Porcentaje de victorias:** 50.6%
+**Posición:** Jungler
+**Porcentaje de victorias:** 50.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Centinela invisible, Cuchillo �mbar, Poci�n reutilizable
-**Objetos principales:** Carcaj de mediod�a > Matakrakens > El Coleccionista > Ca��n de fuego r�pido
-**Objetos finales:** �ngel Guardi�n, Filo del infinito, Recordatorio mortal
+**Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
+**Objetos principales:** Carcaj de mediodía > Matakrakens > El Coleccionista > Cañón de fuego rápido
+**Objetos finales:** Ángel Guardián, Filo del infinito, Cañón de fuego rápido

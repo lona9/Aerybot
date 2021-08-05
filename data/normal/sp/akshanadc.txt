@@ -1,6 +1,6 @@
 **Akshan AD Carry** *(Normal)*
-**PosiciÛn:** Mid, AD Carry
-**Porcentaje de victorias:** 44.8%
+**Posici√≥n:** Mid, AD Carry
+**Porcentaje de victorias:** 46.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Centinela invisible, Espada de Doran, PociÛn de vida
-**Objetos principales:** Carcaj de mediodÌa > Matakrakens > El Coleccionista > Filo del infinito
-**Objetos finales:** ¡ngel Guardi·n, Recuerdos de lord Dominik, Sanguinaria
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poci√≥n de vida
+**Objetos principales:** Carcaj de mediod√≠a > Matakrakens > El Coleccionista > Filo del infinito
+**Objetos finales:** √Ångel Guardi√°n, Recuerdos de lord Dominik, Sanguinaria

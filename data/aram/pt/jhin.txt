@@ -1,5 +1,5 @@
 **Jhin** *(ARAM)*
-**Porcentagem de vitorias:** 50.5%
+**Porcentagem de vitorias:** 50.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas da Rapidez
 **Itens Iniciais:** Aljava Vespertina
-**Itens Core:** Aljava Vespertina > ForÁa do Vendaval > A Coletora > Canh„o Fumegante
-**Itens End:** LembranÁas do Lorde Dominik, Gume do Infinito, Sedenta por Sangue
+**Itens Core:** Aljava Vespertina > For√ßa do Vendaval > A Coletora > Canh√£o Fumegante
+**Itens End:** Lembran√ßas do Lorde Dominik, Gume do Infinito, Sedenta por Sangue

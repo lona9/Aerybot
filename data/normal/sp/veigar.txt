@@ -1,6 +1,6 @@
 **Veigar ** *(Normal)*
-**PosiciÛn:** Mid, AD Carry
-**Porcentaje de victorias:** 50.8%
+**Posici√≥n:** Mid, AD Carry
+**Porcentaje de victorias:** 50.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Anillo de Doran, PociÛn de vida
-**Objetos principales:** CapÌtulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Sombrero mortÌfero de Rabadon
-**Objetos finales:** B·culo del vacÌo, Sombrero mortÌfero de Rabadon, Velo de la banshee
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poci√≥n de vida
+**Objetos principales:** Cap√≠tulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Sombrero mort√≠fero de Rabadon
+**Objetos finales:** B√°culo del vac√≠o, Sombrero mort√≠fero de Rabadon, Velo de la banshee

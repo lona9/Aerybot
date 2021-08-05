@@ -1,6 +1,6 @@
 **Seraphine Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 50.0%
+**Porcentagem de vitorias:** 49.7%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
-**Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Putrificador Quimtec > Cajado Aquafluxo
-**Itens End:** Capuz da Morte de Rabadon, Ampulheta de Zhonya, Putrificador Quimtec
+**Itens Iniciais:** Sentinela InvisÃ­vel, Gume do LadrÃ£o Arcano, PoÃ§Ã£o de Vida
+**Itens Core:** Espelho de BandÃ³polis > Regenerador de Pedra Lunar > Putrificador Quimtec > Cajado Aquafluxo
+**Itens End:** Ampulheta de Zhonya, Capuz da Morte de Rabadon, Cetro de Cristal de Rylai

@@ -1,6 +1,6 @@
 **Kled ** *(Normal)*
-**PosiciÛn:** Top
-**Porcentaje de victorias:** 50.8%
+**Posici√≥n:** Top
+**Porcentaje de victorias:** 51.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Espada de Doran, PociÛn de vida
-**Objetos principales:** L·tigo fÈrreo > Bebedor de sangre > Hidra tit·nica > Guantelete de Sterak
-**Objetos finales:** Cota de espinas, Armadura pÈtrea, Guantelete de Sterak
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poci√≥n de vida
+**Objetos principales:** L√°tigo f√©rreo > Bebedor de sangre > Hidra tit√°nica > Guantelete de Sterak
+**Objetos finales:** Armadura p√©trea, Cota de espinas, Cuchilla oscura

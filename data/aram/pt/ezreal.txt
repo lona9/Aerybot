@@ -1,5 +1,5 @@
 **Ezreal** *(ARAM)*
-**Porcentagem de vitorias:** 52.3%
+**Porcentagem de vitorias:** 52.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Manamune
-**Itens Iniciais:** Poção com Refil, Fulgor, Lágrima da Deusa
-**Itens Core:** Fulgor > Lágrima da Deusa > Fulgor > Ruptor Divino
+**Itens Iniciais:** PoÃ§Ã£o com Refil, Fulgor, LÃ¡grima da Deusa
+**Itens Core:** Fulgor > LÃ¡grima da Deusa > Fulgor > Ruptor Divino
 **Itens End:** Hidra Raivosa, Rancor de Serylda, Serrespada Quimiopunk

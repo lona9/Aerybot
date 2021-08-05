@@ -1,6 +1,6 @@
 **Elise ** *(Normal)*
-**Posici髇:** Jungler
-**Porcentaje de victorias:** 49.2%
+**Posici贸n:** Jungler
+**Porcentaje de victorias:** 50.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Hoja granizo, Poci髇 reutilizable
-**Objetos principales:** Alternador hextech > Cosechador nocturno > Reloj de arena de Zhonya > Morellonomic髇
-**Objetos finales:** B醕ulo del vac韔, Morellonomic髇, Velo de la banshee
+**Objetos iniciales:** Centinela invisible, Hoja granizo, Poci贸n reutilizable
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Reloj de arena de Zhonya > Morellonomic贸n
+**Objetos finales:** B谩culo del vac铆o, Morellonomic贸n, Sombrero mort铆fero de Rabadon

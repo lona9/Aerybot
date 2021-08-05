@@ -1,5 +1,5 @@
 **Maokai ** *(ARAM)*
-**Porcentaje de victorias:** 54.6%
+**Porcentaje de victorias:** 54.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** CapÌtulo perdido
-**Objetos principales:** CapÌtulo perdido > Angustia de Liandry > Abrazo demonÌaco > MorellonomicÛn
-**Objetos finales:** Sombrero mortÌfero de Rabadon, B·culo del vacÌo, MorellonomicÛn
+**Objetos iniciales:** Cap√≠tulo perdido
+**Objetos principales:** Cap√≠tulo perdido > Angustia de Liandry > Abrazo demon√≠aco > Morellonomic√≥n
+**Objetos finales:** Sombrero mort√≠fero de Rabadon, B√°culo del vac√≠o, Morellonomic√≥n

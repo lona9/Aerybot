@@ -1,5 +1,5 @@
 **Ornn ** *(Normal)*
-**PosiciÛn:** Top
+**Posici√≥n:** Top
 **Porcentaje de victorias:** 51.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Escudo de Doran, PociÛn de vida
-**Objetos principales:** Ceniza de Bami > …gida de fuego solar > Cota de espinas > M·scara abisal
-**Objetos finales:** Armadura pÈtrea, Presagio de Randuin, Cadenas de Anatema
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poci√≥n de vida
+**Objetos principales:** Ceniza de Bami > √âgida de fuego solar > Cota de espinas > M√°scara abisal
+**Objetos finales:** Armadura p√©trea, Presagio de Randuin, Cota de espinas

@@ -11,11 +11,11 @@
 
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd::cd::cd:
->   <:precision41:804446922151690300>:cd::cd:
+>   :cd::cd:<:precision43:804446921941975080>
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela InvisÌvel, Espada Longa, PoÁ„o com Refil
+**Itens Iniciais:** Sentinela Invis√≠vel, Espada Longa, Po√ß√£o com Refil
 **Itens Core:** Punhal Serrilhado > Garra do Espreitador > Presa da Serpente > Rancor de Serylda
-**Itens End:** Anjo Guardi„o, Limiar da Noite, Rancor de Serylda
+**Itens End:** Anjo Guardi√£o, Limiar da Noite, Rancor de Serylda

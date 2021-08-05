@@ -1,6 +1,6 @@
 **Gnar Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 49.0%
+**Porcentagem de vitorias:** 49.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Galvanizadas de AÁo
-**Itens Iniciais:** Sentinela InvisÌvel, L‚mina de Doran, PoÁ„o de Vida
+**Botas:** Botas Galvanizadas de A√ßo
+**Itens Iniciais:** Sentinela Invis√≠vel, L√¢mina de Doran, Po√ß√£o de Vida
 **Itens Core:** Fago > Ruptor Divino > Sinal de Sterak > Armadura de Espinhos
-**Itens End:** Press·gio de Randuin, Armadura de Espinhos, ForÁa da Natureza
+**Itens End:** Press√°gio de Randuin, Armadura de Espinhos, Coura√ßa do Defunto

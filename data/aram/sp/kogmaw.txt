@@ -1,5 +1,5 @@
 **Kog'Maw ** *(ARAM)*
-**Porcentaje de victorias:** 55.2%
+**Porcentaje de victorias:** 54.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj de mediodía
-**Objetos principales:** Hacha hogareña > Al filo de la Cordura > Huracán de Runaan > Arcoescudo inmortal
+**Objetos iniciales:** Carcaj de mediodÃ­a
+**Objetos principales:** Hacha hogareÃ±a > Al filo de la Cordura > HuracÃ¡n de Runaan > Arcoescudo inmortal
 **Objetos finales:** Hoja de furia de Guinsoo, Hoja del rey arruinado, Sanguinaria

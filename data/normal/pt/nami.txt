@@ -1,6 +1,6 @@
 **Nami Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 51.0%
+**Porcentagem de vitorias:** 51.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela InvisÌvel, Gume do Ladr„o Arcano, PoÁ„o de Vida
-**Itens Core:** Espelho de BandÛpolis > Mandato Imperial > Putrificador Quimtec > Cajado Aquafluxo
-**Itens End:** RedenÁ„o, Cajado Aquafluxo, Putrificador Quimtec
+**Itens Iniciais:** Sentinela Invis√≠vel, Gume do Ladr√£o Arcano, Po√ß√£o de Vida
+**Itens Core:** Espelho de Band√≥polis > Mandato Imperial > Putrificador Quimtec > Tur√≠bulo Ardente
+**Itens End:** Reden√ß√£o, Tur√≠bulo Ardente, B√™n√ß√£o de Mikael

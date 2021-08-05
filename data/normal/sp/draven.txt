@@ -1,6 +1,6 @@
 **Draven ** *(Normal)*
-**PosiciÛn:** AD Carry
-**Porcentaje de victorias:** 50.4%
+**Posici√≥n:** AD Carry
+**Porcentaje de victorias:** 49.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Centinela invisible, Espada de Doran, PociÛn de vida
-**Objetos principales:** Cetro vampÌrico > Arcoescudo inmortal > El Coleccionista > Filo del infinito
-**Objetos finales:** ¡ngel Guardi·n, Recuerdos de lord Dominik, Filo del infinito
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poci√≥n de vida
+**Objetos principales:** Cetro vamp√≠rico > Arcoescudo inmortal > El Coleccionista > Filo del infinito
+**Objetos finales:** √Ångel Guardi√°n, Recuerdos de lord Dominik, Filo del infinito

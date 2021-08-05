@@ -1,6 +1,6 @@
 **Tristana Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 50.5%
+**Porcentagem de vitorias:** 50.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grevas do Berserker
-**Itens Iniciais:** Sentinela InvisÌvel, L‚mina de Doran, PoÁ„o de Vida
-**Itens Core:** Aljava Vespertina > Mata-Cr·quens > DanÁarina Fantasma > Gume do Infinito
-**Itens End:** Anjo Guardi„o, Sedenta por Sangue, LembranÁas do Lorde Dominik
+**Itens Iniciais:** Sentinela Invis√≠vel, L√¢mina de Doran, Po√ß√£o de Vida
+**Itens Core:** Aljava Vespertina > Mata-Cr√°quens > Dan√ßarina Fantasma > Gume do Infinito
+**Itens End:** Anjo Guardi√£o, Sedenta por Sangue, Lembran√ßas do Lorde Dominik

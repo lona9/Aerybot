@@ -1,6 +1,6 @@
 **Vladimir Build Rota do Meio** *(Normal)*
 **Rota:** Rota do Meio, Rota Topo
-**Porcentagem de vitorias:** 50.9%
+**Porcentagem de vitorias:** 50.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela InvisÌvel, Lacre Sombrio, PoÁ„o com Refil
-**Itens Core:** Alternador Hextec > Explocintur„o Hextec > Õmpeto CÛsmico > Ampulheta de Zhonya
-**Itens End:** Cajado do Vazio, Ladr„o de Almas de Mejai, Ampulheta de Zhonya
+**Itens Iniciais:** Sentinela Invis√≠vel, Lacre Sombrio, Po√ß√£o com Refil
+**Itens Core:** Alternador Hextec > Explocintur√£o Hextec > √çmpeto C√≥smico > Ampulheta de Zhonya
+**Itens End:** Cajado do Vazio, Ampulheta de Zhonya, Ladr√£o de Almas de Mejai

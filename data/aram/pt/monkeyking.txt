@@ -1,5 +1,5 @@
 **Wukong** *(ARAM)*
-**Porcentagem de vitorias:** 51.7%
+**Porcentagem de vitorias:** 51.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Passos de Mercúrio
-**Itens Iniciais:** Poção com Refil, Fago
+**Botas:** Passos de MercÃºrio
+**Itens Iniciais:** PoÃ§Ã£o com Refil, Fago
 **Itens Core:** Fago > Ruptor Divino > Sinal de Sterak > Cutelo Negro
-**Itens End:** Semblante Espiritual, Dança da Morte, Cutelo Negro
+**Itens End:** Semblante Espiritual, DanÃ§a da Morte, Cutelo Negro

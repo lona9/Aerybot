@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas da Mobilidade
-**Itens Iniciais:** Sentinela Invisível, Guarda-ombros de Aço, Poção de Vida
-**Itens Core:** Punhal Serrilhado > Crepúsculo de Draktharr > Glaive Sombria > Limiar da Noite
-**Itens End:** Anjo Guardião, Limiar da Noite, Lâmina Fantasma de Youmuu
+**Itens Iniciais:** Sentinela InvisÃ­vel, Guarda-ombros de AÃ§o, PoÃ§Ã£o de Vida
+**Itens Core:** Punhal Serrilhado > CrepÃºsculo de Draktharr > Glaive Sombria > Limiar da Noite
+**Itens End:** Anjo GuardiÃ£o, Limiar da Noite, LÃ¢mina Fantasma de Youmuu

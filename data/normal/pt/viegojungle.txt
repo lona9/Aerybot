@@ -1,6 +1,6 @@
 **Viego Build Selva** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 50.4%
+**Porcentagem de vitorias:** 50.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Galvanizadas de AÁo
-**Itens Iniciais:** Sentinela InvisÌvel, L‚mina C·lida, PoÁ„o com Refil
-**Itens Core:** Fulgor > Ruptor Divino > Espada do Rei DestruÌdo > Sinal de Sterak
-**Itens End:** Anjo Guardi„o, DanÁa da Morte, Serrespada Quimiopunk
+**Botas:** Botas Galvanizadas de A√ßo
+**Itens Iniciais:** Sentinela Invis√≠vel, L√¢mina C√°lida, Po√ß√£o com Refil
+**Itens Core:** Fulgor > Ruptor Divino > Espada do Rei Destru√≠do > Sinal de Sterak
+**Itens End:** Anjo Guardi√£o, Dan√ßa da Morte, Serrespada Quimiopunk

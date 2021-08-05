@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Passos de Mercúrio
-**Itens Iniciais:** Poção com Refil, Brasa de Bami
+**Botas:** Passos de MercÃºrio
+**Itens Iniciais:** PoÃ§Ã£o com Refil, Brasa de Bami
 **Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Armadura de Espinhos > Semblante Espiritual
-**Itens End:** Placa Gargolítica, Armadura de Warmog, Armadura de Espinhos
+**Itens End:** Placa GargolÃ­tica, Armadura de Warmog, Armadura de Espinhos

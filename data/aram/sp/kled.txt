@@ -1,5 +1,5 @@
 **Kled ** *(ARAM)*
-**Porcentaje de victorias:** 53.6%
+**Porcentaje de victorias:** 54.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** PociÛn reutilizable, L·tigo fÈrreo
-**Objetos principales:** L·tigo fÈrreo > Bebedor de sangre > Hidra tit·nica > Guantelete de Sterak
-**Objetos finales:** Cota de espinas, Apariencia espiritual, Armadura pÈtrea
+**Objetos iniciales:** Poci√≥n reutilizable, L√°tigo f√©rreo
+**Objetos principales:** L√°tigo f√©rreo > Bebedor de sangre > Hidra tit√°nica > Guantelete de Sterak
+**Objetos finales:** Cota de espinas, Apariencia espiritual, Armadura p√©trea

@@ -1,6 +1,6 @@
 **Miss Fortune ** *(Normal)*
-**PosiciÛn:** AD Carry
-**Porcentaje de victorias:** 49.6%
+**Posici√≥n:** AD Carry
+**Porcentaje de victorias:** 49.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Centinela invisible, Espada de Doran, PociÛn de vida
-**Objetos principales:** Carcaj de mediodÌa > Matakrakens > El Coleccionista > Filo del infinito
-**Objetos finales:** ¡ngel Guardi·n, Recordatorio mortal, Recuerdos de lord Dominik
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poci√≥n de vida
+**Objetos principales:** Carcaj de mediod√≠a > Matakrakens > El Coleccionista > Filo del infinito
+**Objetos finales:** √Ångel Guardi√°n, Recuerdos de lord Dominik, Filo del infinito

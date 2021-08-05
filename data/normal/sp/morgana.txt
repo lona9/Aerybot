@@ -1,6 +1,6 @@
 **Morgana ** *(Normal)*
-**Posici髇:** Support
-**Porcentaje de victorias:** 50.0%
+**Posici贸n:** Support
+**Porcentaje de victorias:** 49.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poci髇 de vida
-**Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Reloj de arena de Zhonya > Morellonomic髇
-**Objetos finales:** Morellonomic髇, Sombrero mort韋ero de Rabadon, B醕ulo del vac韔
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poci贸n de vida
+**Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Reloj de arena de Zhonya > Morellonomic贸n
+**Objetos finales:** Morellonomic贸n, Sombrero mort铆fero de Rabadon, B谩culo del vac铆o

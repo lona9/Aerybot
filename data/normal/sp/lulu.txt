@@ -1,5 +1,5 @@
 **Lulu ** *(Normal)*
-**Posición:** Support
+**PosiciÃ³n:** Support
 **Porcentaje de victorias:** 51.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
-**Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Pebetero ardiente > Putrificador tecnoquímico
-**Objetos finales:** Redención, Putrificador tecnoquímico, Pebetero ardiente
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, PociÃ³n de vida
+**Objetos principales:** Espejo de cristal de Bandle > CanciÃ³n de batalla de Shurelya > Pebetero ardiente > Putrificador tecnoquÃ­mico
+**Objetos finales:** Pebetero ardiente, BÃ¡culo de agua fluyente, Putrificador tecnoquÃ­mico

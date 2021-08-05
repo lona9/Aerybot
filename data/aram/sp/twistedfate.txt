@@ -1,5 +1,5 @@
 **Twisted Fate ** *(ARAM)*
-**Porcentaje de victorias:** 49.5%
+**Porcentaje de victorias:** 50.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Capítulo perdido
-**Objetos principales:** Capítulo perdido > Tempestad de Luden > Cañón de fuego rápido > Maldición del liche
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón
+**Objetos iniciales:** CapÃ­tulo perdido
+**Objetos principales:** CapÃ­tulo perdido > Tempestad de Luden > CaÃ±Ã³n de fuego rÃ¡pido > MaldiciÃ³n del liche
+**Objetos finales:** Sombrero mortÃ­fero de Rabadon, BÃ¡culo del vacÃ­o, MorellonomicÃ³n

@@ -1,5 +1,5 @@
 **Sylas ** *(ARAM)*
-**Porcentaje de victorias:** 45.0%
+**Porcentaje de victorias:** 44.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** CapÌtulo perdido
-**Objetos principales:** CapÌtulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Impulso cÛsmico
-**Objetos finales:** Sombrero mortÌfero de Rabadon, MorellonomicÛn, Apariencia espiritual
+**Objetos iniciales:** Cap√≠tulo perdido
+**Objetos principales:** Cap√≠tulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Impulso c√≥smico
+**Objetos finales:** Sombrero mort√≠fero de Rabadon, Morellonomic√≥n, Apariencia espiritual

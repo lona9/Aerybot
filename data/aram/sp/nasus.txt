@@ -1,5 +1,5 @@
 **Nasus ** *(ARAM)*
-**Porcentaje de victorias:** 52.7%
+**Porcentaje de victorias:** 52.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** CapÌtulo perdido
-**Objetos principales:** CapÌtulo perdido > Angustia de Liandry > Abrazo demonÌaco > MorellonomicÛn
-**Objetos finales:** Fuerza de la naturaleza, Cota de espinas, Armadura pÈtrea
+**Objetos iniciales:** Cap√≠tulo perdido
+**Objetos principales:** Cap√≠tulo perdido > Angustia de Liandry > Abrazo demon√≠aco > Morellonomic√≥n
+**Objetos finales:** Fuerza de la naturaleza, Cota de espinas, Armadura p√©trea

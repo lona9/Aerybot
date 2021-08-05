@@ -1,5 +1,5 @@
 **Kalista ** *(Normal)*
-**Posición:** AD Carry
+**PosiciÃ³n:** AD Carry
 **Porcentaje de victorias:** 47.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Huracán de Runaan > Hoja de furia de Guinsoo
-**Objetos finales:** Ángel Guardián, Sanguinaria, Recordatorio mortal
+**Objetos iniciales:** Centinela invisible, Espada de Doran, PociÃ³n de vida
+**Objetos principales:** Carcaj de mediodÃ­a > Arcoescudo inmortal > HuracÃ¡n de Runaan > Hoja de furia de Guinsoo
+**Objetos finales:** Ãngel GuardiÃ¡n, Sanguinaria, Recordatorio mortal

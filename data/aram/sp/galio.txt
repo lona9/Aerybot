@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** PociÛn reutilizable, Ceniza de Bami
-**Objetos principales:** Ceniza de Bami > …gida de fuego solar > Cota de espinas > Armadura de Warmog
-**Objetos finales:** Armadura pÈtrea, Armadura de Warmog, Cota de espinas
+**Objetos iniciales:** Poci√≥n reutilizable, Ceniza de Bami
+**Objetos principales:** Ceniza de Bami > √âgida de fuego solar > Cota de espinas > Armadura de Warmog
+**Objetos finales:** Armadura p√©trea, Armadura de Warmog, M√°scara abisal

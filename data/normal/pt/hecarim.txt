@@ -1,6 +1,6 @@
 **Hecarim Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 49.9%
+**Porcentagem de vitorias:** 48.7%
 **Summoner Spells:** <:Ghost:804555480856002610> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela InvisÌvel, L‚mina C·lida, PoÁ„o com Refil
-**Itens Core:** Fulgor > Ruptor Divino > Sinal de Sterak > DanÁa da Morte
-**Itens End:** Armadura de Espinhos, Semblante Espiritual, DanÁa da Morte
+**Itens Iniciais:** Sentinela Invis√≠vel, L√¢mina C√°lida, Po√ß√£o com Refil
+**Itens Core:** Fulgor > Ruptor Divino > Sinal de Sterak > Dan√ßa da Morte
+**Itens End:** Armadura de Espinhos, Semblante Espiritual, Dan√ßa da Morte

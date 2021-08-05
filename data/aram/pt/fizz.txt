@@ -1,5 +1,5 @@
 **Fizz** *(ARAM)*
-**Porcentagem de vitorias:** 45.6%
+**Porcentagem de vitorias:** 45.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Botas, Alternador Hextec
-**Itens Core:** Alternador Hextec > Colhedor Noturno > Perdição de Lich > Ampulheta de Zhonya
+**Itens Core:** Alternador Hextec > Colhedor Noturno > PerdiÃ§Ã£o de Lich > Ampulheta de Zhonya
 **Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

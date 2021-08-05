@@ -1,6 +1,6 @@
 **Morgana Build Suporte** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 49.9%
+**Porcentagem de vitorias:** 49.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela InvisÌvel, Gume do Ladr„o Arcano, PoÁ„o de Vida
-**Itens Core:** Espelho de BandÛpolis > Mandato Imperial > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Morellonomicon, Capuz da Morte de Rabadon, Cetro de Cristal de Rylai
+**Itens Iniciais:** Sentinela Invis√≠vel, Gume do Ladr√£o Arcano, Po√ß√£o de Vida
+**Itens Core:** Espelho de Band√≥polis > Mandato Imperial > Ampulheta de Zhonya > Morellonomicon
+**Itens End:** Morellonomicon, Abra√ßo Demon√≠aco, Capuz da Morte de Rabadon

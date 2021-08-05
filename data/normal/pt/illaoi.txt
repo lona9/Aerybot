@@ -1,6 +1,6 @@
 **Illaoi Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 49.4%
+**Porcentagem de vitorias:** 50.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Galvanizadas de AÁo
-**Itens Iniciais:** Sentinela InvisÌvel, PoÁ„o Corrupta
-**Itens Core:** Fago > Ruptor Divino > Sinal de Sterak > DanÁa da Morte
-**Itens End:** Semblante Espiritual, DanÁa da Morte, Armadura de Espinhos
+**Botas:** Botas Galvanizadas de A√ßo
+**Itens Iniciais:** Sentinela Invis√≠vel, Po√ß√£o Corrupta
+**Itens Core:** Fulgor > Ruptor Divino > Sinal de Sterak > Dan√ßa da Morte
+**Itens End:** Semblante Espiritual, Armadura de Espinhos, Dan√ßa da Morte

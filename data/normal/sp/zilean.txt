@@ -1,6 +1,6 @@
 **Zilean ** *(Normal)*
-**Posici髇:** Support
-**Porcentaje de victorias:** 52.4%
+**Posici贸n:** Support
+**Porcentaje de victorias:** 52.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poci髇 de vida
-**Objetos principales:** Espejo de cristal de Bandle > Canci髇 de batalla de Shurelya > Putrificador tecnoqu韒ico > Reloj de arena de Zhonya
-**Objetos finales:** Reloj de arena de Zhonya, Sombrero mort韋ero de Rabadon, B醕ulo del vac韔
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poci贸n de vida
+**Objetos principales:** Espejo de cristal de Bandle > Canci贸n de batalla de Shurelya > Putrificador tecnoqu铆mico > Reloj de arena de Zhonya
+**Objetos finales:** Reloj de arena de Zhonya, Sombrero mort铆fero de Rabadon, Impulso c贸smico

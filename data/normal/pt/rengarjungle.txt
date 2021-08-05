@@ -1,6 +1,6 @@
 **Rengar Build Selva** *(Normal)*
 **Rota:** Selva, Rota Topo
-**Porcentagem de vitorias:** 47.3%
+**Porcentagem de vitorias:** 46.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela InvisÌvel, L‚mina C·lida, PoÁ„o com Refil
-**Itens Core:** Punhal Serrilhado > Crep˙sculo de Draktharr > Colhedor de EssÍncia > LembranÁas do Lorde Dominik
-**Itens End:** Gume do Infinito, LembranÁas do Lorde Dominik, Anjo Guardi„o
+**Itens Iniciais:** Sentinela Invis√≠vel, L√¢mina C√°lida, Po√ß√£o com Refil
+**Itens Core:** Punhal Serrilhado > Crep√∫sculo de Draktharr > Colhedor de Ess√™ncia > Lembran√ßas do Lorde Dominik
+**Itens End:** Gume do Infinito, A Coletora, Lembran√ßas do Lorde Dominik

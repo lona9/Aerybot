@@ -1,6 +1,6 @@
 **Heimerdinger Build Rota Topo** *(Normal)*
 **Rota:** Rota Topo, Rota do Meio
-**Porcentagem de vitorias:** 51.6%
+**Porcentagem de vitorias:** 51.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -9,13 +9,13 @@
 >   :cd:<:precision32:804446921737371648>:cd:
 >   :cd:<:precision42:804446921636053043>:cd:
 
->   :cd:<:bruj22:804448796553117707>:cd:
 >   :cd::cd::cd:
+>   :cd::cd:<:bruj33:804448797509419098>
 >   :cd::cd:<:bruj43:804448797631316069>
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Itens Core:** Capítulo Perdido > Angústia de Liandry > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Cajado do Vazio, Morellonomicon, Capuz da Morte de Rabadon
+**Itens Iniciais:** Sentinela InvisÃ­vel, Anel de Doran, PoÃ§Ã£o de Vida
+**Itens Core:** CapÃ­tulo Perdido > AngÃºstia de Liandry > Ampulheta de Zhonya > Morellonomicon
+**Itens End:** Cajado do Vazio, Morellonomicon, Cetro de Cristal de Rylai

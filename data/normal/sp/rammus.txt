@@ -1,6 +1,6 @@
 **Rammus ** *(Normal)*
-**Posici�n:** Jungler
-**Porcentaje de victorias:** 49.9%
+**Posición:** Jungler
+**Porcentaje de victorias:** 50.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Hoja granizo, Poci�n reutilizable
-**Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Cota de espinas > Coraza del muerto
-**Objetos finales:** Armadura p�trea, Presagio de Randuin, Coraz�n de hielo
+**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
+**Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Cota de espinas > Máscara abisal
+**Objetos finales:** Presagio de Randuin, Armadura pétrea, Corazón de hielo

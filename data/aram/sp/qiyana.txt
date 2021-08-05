@@ -1,5 +1,5 @@
 **Qiyana ** *(ARAM)*
-**Porcentaje de victorias:** 47.0%
+**Porcentaje de victorias:** 46.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Poción reutilizable, Puñal serrado
-**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > El Coleccionista > Filo de la noche
+**Objetos iniciales:** PociÃ³n reutilizable, PuÃ±al serrado
+**Objetos principales:** PuÃ±al serrado > Filoscuro de Draktharr > El Coleccionista > Filo de la noche
 **Objetos finales:** Rencor de Serylda, Filo de la noche, Sierraespada Quimopunk

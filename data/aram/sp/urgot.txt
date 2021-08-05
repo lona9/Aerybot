@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Tiamat
-**Objetos principales:** Látigo férreo > Bebedor de sangre > Hidra titánica > Guantelete de Sterak
+**Objetos iniciales:** PociÃ³n reutilizable, LÃ¡tigo fÃ©rreo
+**Objetos principales:** LÃ¡tigo fÃ©rreo > Bebedor de sangre > Hidra titÃ¡nica > Guantelete de Sterak
 **Objetos finales:** Cota de espinas, Apariencia espiritual, Danza de la muerte

@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela InvisÌvel, Anel de Doran, PoÁ„o de Vida
-**Itens Core:** CapÌtulo Perdido > Ang˙stia de Liandry > Cetro de Cristal de Rylai > AbraÁo DemonÌaco
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon
+**Itens Iniciais:** Sentinela Invis√≠vel, Anel de Doran, Po√ß√£o de Vida
+**Itens Core:** Cap√≠tulo Perdido > Ang√∫stia de Liandry > Cetro de Cristal de Rylai > Abra√ßo Demon√≠aco
+**Itens End:** Cajado do Vazio, Morellonomicon, Capuz da Morte de Rabadon

@@ -1,6 +1,6 @@
 **Sivir Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 50.6%
+**Porcentagem de vitorias:** 50.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela InvisÌvel, L·grima da Deusa, PoÁ„o de Vida
-**Itens Core:** Martelo de Guerra de Caulfield > Manamune > Crep˙sculo de Draktharr > Rancor de Serylda
-**Itens End:** Limiar da Noite, Anjo Guardi„o, A Coletora
+**Itens Iniciais:** Sentinela Invis√≠vel, L√°grima da Deusa, Po√ß√£o de Vida
+**Itens Core:** Martelo de Guerra de Caulfield > Manamune > Crep√∫sculo de Draktharr > Rancor de Serylda
+**Itens End:** Limiar da Noite, Anjo Guardi√£o, A Coletora

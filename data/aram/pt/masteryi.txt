@@ -1,5 +1,5 @@
 **Master Yi** *(ARAM)*
-**Porcentagem de vitorias:** 45.9%
+**Porcentagem de vitorias:** 46.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grevas do Berserker
-**Itens Iniciais:** PoÁ„o com Refil, Punhal Serrilhado
-**Itens Core:** Punhal Serrilhado > Crep˙sculo de Draktharr > A Coletora > Adagas R·pidas Navori
-**Itens End:** Gume do Infinito, Espada do Rei DestruÌdo, Sedenta por Sangue
+**Itens Iniciais:** Po√ß√£o com Refil, Punhal Serrilhado
+**Itens Core:** Punhal Serrilhado > Crep√∫sculo de Draktharr > A Coletora > Adagas R√°pidas Navori
+**Itens End:** Gume do Infinito, Sedenta por Sangue, Espada do Rei Destru√≠do

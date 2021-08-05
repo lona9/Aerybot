@@ -1,5 +1,5 @@
 **Ivern** *(ARAM)*
-**Porcentagem de vitorias:** 52.2%
+**Porcentagem de vitorias:** 51.6%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:valor:804451124245561394>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Cristal de Rubi, Espelho de BandÛpolis
-**Itens Core:** Espelho de BandÛpolis > Regenerador de Pedra Lunar > Cajado Aquafluxo > TurÌbulo Ardente
-**Itens End:** RedenÁ„o, Putrificador Quimtec, TurÌbulo Ardente
+**Itens Iniciais:** Cristal de Rubi, Espelho de Band√≥polis
+**Itens Core:** Espelho de Band√≥polis > Regenerador de Pedra Lunar > Cajado Aquafluxo > Tur√≠bulo Ardente
+**Itens End:** Reden√ß√£o, Putrificador Quimtec, Tur√≠bulo Ardente

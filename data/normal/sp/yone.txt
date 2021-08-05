@@ -1,6 +1,6 @@
 **Yone ** *(Normal)*
-**PosiciÛn:** Mid, Top
-**Porcentaje de victorias:** 48.8%
+**Posici√≥n:** Mid, Top
+**Porcentaje de victorias:** 48.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Centinela invisible, Espada de Doran, PociÛn de vida
-**Objetos principales:** Carcaj de mediodÌa > Arcoescudo inmortal > Filo del infinito > Sanguinaria
-**Objetos finales:** ¡ngel Guardi·n, Danza de la muerte, Recordatorio mortal
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poci√≥n de vida
+**Objetos principales:** Carcaj de mediod√≠a > Arcoescudo inmortal > Filo del infinito > Sanguinaria
+**Objetos finales:** √Ångel Guardi√°n, Danza de la muerte, Sanguinaria

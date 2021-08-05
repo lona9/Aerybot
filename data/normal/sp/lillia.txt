@@ -1,6 +1,6 @@
 **Lillia ** *(Normal)*
-**Posici髇:** Jungler
-**Porcentaje de victorias:** 49.4%
+**Posici贸n:** Jungler, Top
+**Porcentaje de victorias:** 49.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Hoja granizo, Poci髇 reutilizable
-**Objetos principales:** Cap韙ulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Abrazo demon韆co
-**Objetos finales:** Morellonomic髇, Sombrero mort韋ero de Rabadon, Impulso c髎mico
+**Objetos iniciales:** Centinela invisible, Hoja granizo, Poci贸n reutilizable
+**Objetos principales:** Cap铆tulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Abrazo demon铆aco
+**Objetos finales:** Morellonomic贸n, Sombrero mort铆fero de Rabadon, Impulso c贸smico

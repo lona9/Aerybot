@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Mirada absorbente
-**Objetos principales:** Mirada absorbente > Agrietador > Diente de Nashor > Abrazo demonÌaco
-**Objetos finales:** Cota de espinas, Apariencia espiritual, Cetro de cristal de Rylai
+**Objetos principales:** Mirada absorbente > Agrietador > Diente de Nashor > Abrazo demon√≠aco
+**Objetos finales:** Cota de espinas, Apariencia espiritual, Reloj de arena de Zhonya

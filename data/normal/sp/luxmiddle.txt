@@ -1,7 +1,7 @@
 **Lux Mid** *(Normal)*
-**Posici�n:** Support, Mid
+**Posición:** Support, Mid
 **Porcentaje de victorias:** 51.7%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
 >   :cd:<:bruj12:804448797001252864>:cd:
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poci�n de vida
-**Objetos principales:** Cap�tulo perdido > Tempestad de Luden > Enfoque al horizonte > Reloj de arena de Zhonya
-**Objetos finales:** B�culo del vac�o, Sombrero mort�fero de Rabadon, Reloj de arena de Zhonya
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Enfoque al horizonte > Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón

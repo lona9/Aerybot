@@ -1,6 +1,6 @@
 **Trundle Build Selva** *(Normal)*
 **Rota:** Selva, Rota Topo
-**Porcentagem de vitorias:** 52.5%
+**Porcentagem de vitorias:** 52.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
-**Itens Core:** Tiamat > Ruptor Divino > Hidra Titânica > Armadura de Espinhos
+**Botas:** Botas Galvanizadas de AÃ§o
+**Itens Iniciais:** Sentinela InvisÃ­vel, LÃ¢mina CÃ¡lida, PoÃ§Ã£o com Refil
+**Itens Core:** Tiamat > Ruptor Divino > Hidra TitÃ¢nica > Armadura de Espinhos
 **Itens End:** Armadura de Espinhos, Semblante Espiritual, Sinal de Sterak

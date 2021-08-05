@@ -1,6 +1,6 @@
 **Karma ** *(Normal)*
-**Posici髇:** Support
-**Porcentaje de victorias:** 48.2%
+**Posici贸n:** Support
+**Porcentaje de victorias:** 47.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poci髇 de vida
-**Objetos principales:** Espejo de cristal de Bandle > Canci髇 de batalla de Shurelya > Putrificador tecnoqu韒ico > B醕ulo de agua fluyente
-**Objetos finales:** Pebetero ardiente, B醕ulo de agua fluyente, Redenci髇
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poci贸n de vida
+**Objetos principales:** Espejo de cristal de Bandle > Canci贸n de batalla de Shurelya > Putrificador tecnoqu铆mico > B谩culo de agua fluyente
+**Objetos finales:** Redenci贸n, Pebetero ardiente, B谩culo de agua fluyente

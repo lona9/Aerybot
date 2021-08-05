@@ -1,5 +1,5 @@
 **Qiyana ** *(Normal)*
-**Posición:** Mid
+**PosiciÃ³n:** Mid
 **Porcentaje de victorias:** 48.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
@@ -11,11 +11,11 @@
 
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd::cd::cd:
->   <:precision41:804446922151690300>:cd::cd:
+>   :cd::cd:<:precision43:804446921941975080>
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Espada larga, Poción reutilizable
-**Objetos principales:** Puñal serrado > Garra de merodeador > Colmillo de serpiente > Rencor de Serylda
-**Objetos finales:** Ángel Guardián, Filo de la noche, Rencor de Serylda
+**Objetos iniciales:** Centinela invisible, Espada larga, PociÃ³n reutilizable
+**Objetos principales:** PuÃ±al serrado > Garra de merodeador > Colmillo de serpiente > Rencor de Serylda
+**Objetos finales:** Ãngel GuardiÃ¡n, Filo de la noche, Rencor de Serylda

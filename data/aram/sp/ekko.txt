@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Botas, Alternador hextech
-**Objetos principales:** Alternador hextech > Cintomisil hextech > MaldiciÛn del liche > Reloj de arena de Zhonya
-**Objetos finales:** B·culo del vacÌo, Sombrero mortÌfero de Rabadon, MorellonomicÛn
+**Objetos principales:** Alternador hextech > Cintomisil hextech > Maldici√≥n del liche > Reloj de arena de Zhonya
+**Objetos finales:** B√°culo del vac√≠o, Sombrero mort√≠fero de Rabadon, Morellonomic√≥n

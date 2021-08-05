@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela InvisÌvel, Gume do Ladr„o Arcano, PoÁ„o de Vida
-**Itens Core:** Espelho de BandÛpolis > Hino BÈlico de Shurelya > TurÌbulo Ardente > Putrificador Quimtec
-**Itens End:** RedenÁ„o, Putrificador Quimtec, TurÌbulo Ardente
+**Itens Iniciais:** Sentinela Invis√≠vel, Gume do Ladr√£o Arcano, Po√ß√£o de Vida
+**Itens Core:** Espelho de Band√≥polis > Hino B√©lico de Shurelya > Tur√≠bulo Ardente > Putrificador Quimtec
+**Itens End:** Tur√≠bulo Ardente, Cajado Aquafluxo, Putrificador Quimtec

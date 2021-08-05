@@ -1,6 +1,6 @@
 **Lux Support** *(Normal)*
-**Posición:** Support, Mid
-**Porcentaje de victorias:** 49.1%
+**PosiciÃ³n:** Support, Mid
+**Porcentaje de victorias:** 48.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
-**Objetos principales:** Capítulo perdido > Tempestad de Luden > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Sombrero mortífero de Rabadon, Morellonomicón, Báculo del vacío
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, PociÃ³n de vida
+**Objetos principales:** CapÃ­tulo perdido > Tempestad de Luden > Reloj de arena de Zhonya > MorellonomicÃ³n
+**Objetos finales:** Sombrero mortÃ­fero de Rabadon, BÃ¡culo del vacÃ­o, Reloj de arena de Zhonya
