@@ -210,7 +210,7 @@ class Aram(Cog):
           counter += 1
           path = filename(key)
           if os.path.exists(path):
-            with open(path, encoding="latin-1") as f:
+            with open(path, encoding="utf-8") as f:
               text = f.read()
               await ctx.channel.send(text)
 
