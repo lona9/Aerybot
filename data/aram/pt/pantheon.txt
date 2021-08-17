@@ -1,9 +1,9 @@
 **Pantheon** *(ARAM)*
-**Porcentagem de vitorias:** 49.6%
+**Porcentagem de vitorias:** 49.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
-> :cd::cd:<:precision13:804446921619931187>:cd:
+> :cd::cd::cd:<:precision14:804446921631596585>
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd:<:precision32:804446921737371648>:cd:
 >   <:precision41:804446922151690300>:cd::cd:
@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Punhal Serrilhado
 **Itens Core:** Punhal Serrilhado > Eclipse > A Coletora > Sinal de Sterak
-**Itens End:** Dança da Morte, Serrespada Quimiopunk, Cutelo Negro
+**Itens End:** Serrespada Quimiopunk, Dança da Morte, Cutelo Negro

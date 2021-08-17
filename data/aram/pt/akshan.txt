@@ -1,5 +1,5 @@
 **Akshan** *(ARAM)*
-**Porcentagem de vitorias:** 40.5%
+**Porcentagem de vitorias:** 44.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
 **Itens Core:** Aljava Vespertina > Mata-Cráquens > A Coletora > Gume do Infinito
-**Itens End:** Sedenta por Sangue, Lembranças do Lorde Dominik, Lembrete Mortal
+**Itens End:** Sedenta por Sangue, Lembranças do Lorde Dominik, Gume do Infinito

@@ -1,5 +1,5 @@
 **Volibear Build ** *(Normal)*
-**Rota:** Selva, Rota Topo
+**Rota:** Rota Topo, Selva
 **Porcentagem de vitorias:** 49.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
 **Itens Core:** Fulgor > Ruptor Divino > Sinal de Sterak > Armadura de Espinhos
-**Itens End:** Armadura de Espinhos, Semblante Espiritual, Ampulheta de Zhonya
+**Itens End:** Semblante Espiritual, Armadura de Espinhos, Ampulheta de Zhonya

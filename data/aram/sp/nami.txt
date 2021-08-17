@@ -1,5 +1,5 @@
 **Nami ** *(ARAM)*
-**Porcentaje de victorias:** 53.3%
+**Porcentaje de victorias:** 53.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Lágrima de la diosa, Espejo de cristal de Bandle
-**Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Báculo de agua fluyente > Pebetero ardiente
-**Objetos finales:** Putrificador tecnoquímico, Redención, Pebetero ardiente
+**Botas:** Báculo de agua fluyente
+**Objetos iniciales:** Amuleto de las hadas, Tomo amplificador, Lágrima de la diosa, Poción de vida
+**Objetos principales:** Lágrima de la diosa > Poción de vida > Espejo de cristal de Bandle > Renovación de piedra lunar
+**Objetos finales:** Redención, Putrificador tecnoquímico, Pebetero ardiente

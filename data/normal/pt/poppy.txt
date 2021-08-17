@@ -1,6 +1,6 @@
 **Poppy Build ** *(Normal)*
 **Rota:** Selva, Rota Topo
-**Porcentagem de vitorias:** 50.4%
+**Porcentagem de vitorias:** 50.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -18,4 +18,4 @@
 **Botas:** Armadura de Espinhos
 **Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
 **Itens Core:** Poção com Refil > Fulgor > Ruptor Divino > Couraça do Defunto
-**Itens End:** Armadura de Espinhos, Presságio de Randuin, Máscara Abissal
+**Itens End:** Presságio de Randuin, Armadura de Espinhos, Correntes de Anátema

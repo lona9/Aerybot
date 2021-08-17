@@ -17,4 +17,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Carcaj de mediodía > Fuerza del Viento > Filoveloz de Navori > Filo del infinito
-**Objetos finales:** Filo del infinito, Hoja del rey arruinado, Sanguinaria
+**Objetos finales:** Filo del infinito, Hoja del rey arruinado, Bailarín espectral

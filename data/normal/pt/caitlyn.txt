@@ -1,6 +1,6 @@
 **Caitlyn Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 49.9%
+**Porcentagem de vitorias:** 49.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Aljava Vespertina > Força do Vendaval > Chuva de Canivete > Canhão Fumegante
+**Itens Core:** Punhal Serrilhado > Crepúsculo de Draktharr > A Coletora > Canhão Fumegante
 **Itens End:** Anjo Guardião, Lembranças do Lorde Dominik, Gume do Infinito

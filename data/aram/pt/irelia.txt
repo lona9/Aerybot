@@ -1,9 +1,9 @@
 **Irelia** *(ARAM)*
-**Porcentagem de vitorias:** 54.7%
+**Porcentagem de vitorias:** 54.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
-> :cd::cd:<:precision13:804446921619931187>:cd:
+> :cd::cd::cd:<:precision14:804446921631596585>
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd::cd:<:precision33:804446921644179516>
 >   :cd::cd:<:precision43:804446921941975080>
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Arco-escudo Imortal
-**Itens Iniciais:** Botas, Cetro Vampírico, Poção com Refil
+**Itens Iniciais:** Adaga, Cetro Vampírico, Poção com Refil
 **Itens Core:** Cetro Vampírico > Poção com Refil > Cetro Vampírico > Espada do Rei Destruído
 **Itens End:** Dança da Morte, Semblante Espiritual, Limite da Razão

@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Alternador hextech > Cosechador nocturno > Maldición del liche > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Reloj de arena de Zhonya > Maldición del liche
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

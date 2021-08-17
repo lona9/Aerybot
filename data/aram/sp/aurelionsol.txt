@@ -1,5 +1,5 @@
 **Aurelion Sol ** *(ARAM)*
-**Porcentaje de victorias:** 45.9%
+**Porcentaje de victorias:** 47.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Cetro de cristal de Rylai > Abrazo demoníaco
-**Objetos finales:** Morellonomicón, Sombrero mortífero de Rabadon, Báculo del vacío
+**Objetos finales:** Sombrero mortífero de Rabadon, Morellonomicón, Báculo del vacío

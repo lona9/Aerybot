@@ -1,5 +1,5 @@
 **Karma ** *(ARAM)*
-**Porcentaje de victorias:** 49.4%
+**Porcentaje de victorias:** 49.8%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
-**Objetos principales:** Capítulo perdido > Tempestad de Luden > Morellonomicón > Reloj de arena de Zhonya
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Impulso cósmico > Morellonomicón
 **Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Reloj de arena de Zhonya

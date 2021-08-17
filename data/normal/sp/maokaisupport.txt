@@ -1,6 +1,6 @@
 **Maokai Support** *(Normal)*
-**Posición:** Support
-**Porcentaje de victorias:** 52.7%
+**Posición:** Support, Top
+**Porcentaje de victorias:** 51.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
 **Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Abrazo demoníaco > Morellonomicón
-**Objetos finales:** Cota de espinas, Morellonomicón, Apariencia espiritual
+**Objetos finales:** Manamune, Bailarín espectral, Rencor de Serylda

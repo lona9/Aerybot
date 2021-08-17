@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
-**Itens Core:** Alternador Hextec > Colhedor Noturno > Perdição de Lich > Ampulheta de Zhonya
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon
+**Itens Core:** Capítulo Perdido > Tormenta de Luden > Ampulheta de Zhonya > Perdição de Lich
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

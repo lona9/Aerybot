@@ -1,10 +1,10 @@
 **Talon Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 51.6%
+**Porcentagem de vitorias:** 51.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
-> :cd::cd:<:precision13:804446921619931187>:cd:
+> :cd::cd::cd:<:precision14:804446921631596585>
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd:<:precision32:804446921737371648>:cd:
 >   :cd::cd:<:precision43:804446921941975080>
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Itens Iniciais:** Sentinela Invisível, Espada Longa, Poção com Refil
 **Itens Core:** Chicote Ferrifarpo > Hemodrenário > Cutelo Negro > Sinal de Sterak
-**Itens End:** Anjo Guardião, Rancor de Serylda, Limiar da Noite
+**Itens End:** Rancor de Serylda, Anjo Guardião, Limiar da Noite

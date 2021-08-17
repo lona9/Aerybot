@@ -1,5 +1,5 @@
 **Taric ** *(ARAM)*
-**Porcentaje de victorias:** 51.8%
+**Porcentaje de victorias:** 50.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Cota de espinas
 **Objetos iniciales:** Botas, Poción reutilizable, Gemaluz
 **Objetos principales:** Gemaluz > Cuerno del guardián > Relicario de los Solari de Hierro > Apariencia espiritual
-**Objetos finales:** Cota de espinas, Corazón de hielo, Armadura de Warmog
+**Objetos finales:** Armadura de Warmog, Corazón de hielo, Cota de espinas

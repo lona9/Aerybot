@@ -17,4 +17,4 @@
 **Botas:** Glacieterno
 **Itens Iniciais:** Cristal de Safira, Tomo Amplificador, Poção com Refil, Lágrima da Deusa
 **Itens Core:** Tomo Amplificador > Poção com Refil > Lágrima da Deusa > Capítulo Perdido
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ampulheta de Zhonya
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Ampulheta de Zhonya
