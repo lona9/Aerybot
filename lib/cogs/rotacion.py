@@ -23,7 +23,7 @@ class Rotacion(Cog):
     except:
         language = "SP"
 
-    champs = "Ahri, Aphelios, Dr. Mundo, Fiddlesticks, Gragas, Kassadin, Kayle, Nami, Nunu, Syndra, Teemo, Udyr, Varus, Volibear, Zilean"
+    champs = "Akali, Braum, Caitlyn, Diana, Ekko, Fiora, Jayce, Jinx, Lissandra, Master Yi, Olaf, Rammus, Ryze, Shyvanna, Thresh"
 
     if language == "SP":
 
