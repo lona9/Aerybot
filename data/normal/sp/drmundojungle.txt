@@ -1,6 +1,6 @@
 **Dr. Mundo Jungler** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 47.0%
+**Porcentaje de victorias:** 47.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
-**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Apariencia espiritual > Cota de espinas
-**Objetos finales:** Armadura de Warmog, Presagio de Randuin, Apariencia espiritual
+**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Apariencia espiritual
+**Objetos finales:** Presagio de Randuin, Armadura de Warmog, Apariencia espiritual

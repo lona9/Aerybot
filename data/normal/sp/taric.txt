@@ -1,6 +1,6 @@
 **Taric ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 49.6%
+**Porcentaje de victorias:** 50.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Promesa del caballero, Máscara abisal, Apariencia espiritual
+**Objetos finales:** Promesa del caballero, Cota de espinas, Corazón de hielo

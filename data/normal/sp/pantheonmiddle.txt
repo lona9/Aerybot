@@ -1,6 +1,6 @@
 **Pantheon Mid** *(Normal)*
-**Posición:** Mid, Support
-**Porcentaje de victorias:** 52.0%
+**Posición:** Support, Mid
+**Porcentaje de victorias:** 51.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Puñal serrado > Eclipse > Cuchilla oscura > Guantelete de Sterak
-**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Guantelete de Sterak
+**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Danza de la muerte

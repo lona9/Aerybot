@@ -1,6 +1,6 @@
 **Tahm Kench Top** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 51.3%
+**Porcentaje de victorias:** 52.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Apariencia espiritual
-**Objetos finales:** Presagio de Randuin, Cadenas de Anatema, Apariencia espiritual
+**Objetos finales:** Presagio de Randuin, Cadenas de Anatema, Cota de espinas

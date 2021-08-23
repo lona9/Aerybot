@@ -1,5 +1,5 @@
 **Vayne** *(ARAM)*
-**Porcentagem de vitorias:** 49.5%
+**Porcentagem de vitorias:** 49.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
 **Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Dançarina Fantasma > Lâmina da Fúria de Guinsoo
-**Itens End:** Sedenta por Sangue, Lembrete Mortal, Limite da Razão
+**Itens End:** Sedenta por Sangue, Lembrete Mortal, Espada do Rei Destruído

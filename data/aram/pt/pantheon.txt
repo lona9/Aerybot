@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Punhal Serrilhado
 **Itens Core:** Punhal Serrilhado > Eclipse > A Coletora > Sinal de Sterak
-**Itens End:** Serrespada Quimiopunk, Dança da Morte, Cutelo Negro
+**Itens End:** Dança da Morte, Serrespada Quimiopunk, Cutelo Negro

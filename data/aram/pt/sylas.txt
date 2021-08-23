@@ -17,4 +17,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Capítulo Perdido > Glacieterno > Ampulheta de Zhonya > Ímpeto Cósmico
-**Itens End:** Capuz da Morte de Rabadon, Morellonomicon, Semblante Espiritual
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon

@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Capítulo perdido > Tempestad de Luden > Reloj de arena de Zhonya > Enfoque al horizonte
-**Objetos finales:** Sombrero mortífero de Rabadon, Morellonomicón, Velo de la banshee
+**Objetos finales:** Sombrero mortífero de Rabadon, Morellonomicón, Báculo del vacío

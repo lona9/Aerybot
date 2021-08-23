@@ -1,21 +1,21 @@
 **Yone Build ** *(Normal)*
 **Rota:** Rota do Meio, Rota Topo
-**Porcentagem de vitorias:** 49.1%
+**Porcentagem de vitorias:** 49.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+**Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd::cd::cd:<:precision14:804446921631596585>
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:
 
->   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
-> <:dom41:804457130379182120>:cd::cd::cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd:<:valor42:804449943615438919>:cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
 **Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Gume do Infinito > Sedenta por Sangue
-**Itens End:** Anjo Guardião, Dança da Morte, Lembrete Mortal
+**Itens End:** Anjo Guardião, Dança da Morte, Sedenta por Sangue

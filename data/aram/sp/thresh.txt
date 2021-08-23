@@ -17,4 +17,4 @@
 **Botas:** Cota de espinas
 **Objetos iniciales:** Poción reutilizable, Ceniza de Bami
 **Objetos principales:** Ceniza de Bami > Cuerno del guardián > Relicario de los Solari de Hierro > Armadura de Warmog
-**Objetos finales:** Máscara abisal, Armadura de Warmog, Cota de espinas
+**Objetos finales:** Máscara abisal, Armadura pétrea, Cota de espinas

@@ -1,6 +1,6 @@
 **Tahm Kench AD Carry** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 51.0%
+**Porcentaje de victorias:** 48.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Apariencia espiritual
-**Objetos finales:** Armadura de Warmog, Presagio de Randuin, Armadura pétrea
+**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cadenas de Anatema > Cota de espinas
+**Objetos finales:** Cadenas de Anatema, Guantelete de Sterak, Filo fantasmal de Youmuu

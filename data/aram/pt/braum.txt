@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Brasa de Bami
 **Itens Core:** Berrante do Guardião > Medalhão dos Solari de Ferro > Armadura de Warmog > Armadura de Espinhos
-**Itens End:** Placa Gargolítica, Força da Natureza, Armadura de Espinhos
+**Itens End:** Placa Gargolítica, Armadura de Espinhos, Armadura de Warmog

@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Ceniza de Bami
 **Objetos principales:** Cuerno del guardián > Relicario de los Solari de Hierro > Armadura de Warmog > Cota de espinas
-**Objetos finales:** Armadura pétrea, Fuerza de la naturaleza, Cota de espinas
+**Objetos finales:** Armadura pétrea, Cota de espinas, Armadura de Warmog

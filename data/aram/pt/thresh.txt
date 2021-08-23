@@ -17,4 +17,4 @@
 **Botas:** Armadura de Espinhos
 **Itens Iniciais:** Poção com Refil, Brasa de Bami
 **Itens Core:** Brasa de Bami > Berrante do Guardião > Medalhão dos Solari de Ferro > Armadura de Warmog
-**Itens End:** Máscara Abissal, Armadura de Warmog, Armadura de Espinhos
+**Itens End:** Máscara Abissal, Placa Gargolítica, Armadura de Espinhos

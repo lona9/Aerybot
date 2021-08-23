@@ -1,6 +1,6 @@
 **Akshan Build Rota do Meio** *(Normal)*
 **Rota:** Rota do Meio, Atirador
-**Porcentagem de vitorias:** 50.0%
+**Porcentagem de vitorias:** 49.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 

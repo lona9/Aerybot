@@ -1,6 +1,6 @@
 **Akali Build Rota do Meio** *(Normal)*
 **Rota:** Rota do Meio, Rota Topo
-**Porcentagem de vitorias:** 46.5%
+**Porcentagem de vitorias:** 46.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 

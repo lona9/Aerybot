@@ -1,5 +1,5 @@
 **Vayne ** *(ARAM)*
-**Porcentaje de victorias:** 49.5%
+**Porcentaje de victorias:** 49.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Bailarín espectral > Hoja de furia de Guinsoo
-**Objetos finales:** Sanguinaria, Recordatorio mortal, Al filo de la Cordura
+**Objetos finales:** Sanguinaria, Recordatorio mortal, Hoja del rey arruinado

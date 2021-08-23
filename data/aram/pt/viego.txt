@@ -1,5 +1,5 @@
 **Viego** *(ARAM)*
-**Porcentagem de vitorias:** 53.3%
+**Porcentagem de vitorias:** 53.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Fago
+**Botas:** Sinal de Sterak
 **Itens Iniciais:** Poção com Refil, Fago
-**Itens Core:** Domínio Atormentado > Domínio Atormentado > Poção com Refil > Fago
+**Itens Core:** Fago > Fago > Ruptor Divino > Espada do Rei Destruído
 **Itens End:** Dança da Morte, Semblante Espiritual, Limite da Razão
