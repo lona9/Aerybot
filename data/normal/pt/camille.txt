@@ -1,6 +1,6 @@
 **Camille Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 51.8%
+**Porcentagem de vitorias:** 51.2%
 **Summoner Spells:** <:Teleport:804555481699713034> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 

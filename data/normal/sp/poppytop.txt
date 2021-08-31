@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Fuerza de la naturaleza
-**Objetos finales:** Coraza del muerto, Presagio de Randuin, Cadenas de Anatema
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Presagio de Randuin
+**Objetos finales:** Cota de espinas, Cadenas de Anatema, Presagio de Randuin

@@ -1,5 +1,5 @@
 **Nami** *(ARAM)*
-**Porcentagem de vitorias:** 53.8%
+**Porcentagem de vitorias:** 55.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Cajado Aquafluxo
-**Itens Iniciais:** Amuleto da Fada, Tomo Amplificador, Lágrima da Deusa, Poção de Vida
-**Itens Core:** Lágrima da Deusa > Poção de Vida > Espelho de Bandópolis > Regenerador de Pedra Lunar
+**Botas:** Botas Ionianas da Lucidez
+**Itens Iniciais:** Lágrima da Deusa, Espelho de Bandópolis
+**Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Cajado Aquafluxo > Turíbulo Ardente
 **Itens End:** Redenção, Putrificador Quimtec, Turíbulo Ardente

@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Máscara abisal, Cadenas de Anatema, Promesa del caballero
+**Objetos finales:** Máscara abisal, Cota de espinas, Cadenas de Anatema

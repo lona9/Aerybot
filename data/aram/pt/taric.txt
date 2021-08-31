@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Berrante do Guardião, Lágrima da Deusa
 **Itens Core:** Berrante do Guardião > Medalhão dos Solari de Ferro > Semblante Espiritual > Armadura de Espinhos
-**Itens End:** Coração Congelado, Armadura de Warmog, Armadura de Espinhos
+**Itens End:** Armadura de Espinhos, Armadura de Warmog, Coração Congelado

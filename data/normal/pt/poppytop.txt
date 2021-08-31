@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
-**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Armadura de Espinhos > Força da Natureza
-**Itens End:** Couraça do Defunto, Presságio de Randuin, Correntes de Anátema
+**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Armadura de Espinhos > Presságio de Randuin
+**Itens End:** Armadura de Espinhos, Correntes de Anátema, Presságio de Randuin

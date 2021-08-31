@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
 **Itens Core:** Varinha Explosiva > Cetro de Cristal de Rylai > Criafendas > Abraço Demoníaco
-**Itens End:** Morellonomicon, Couraça do Defunto, Abraço Demoníaco
+**Itens End:** Abraço Demoníaco, Morellonomicon, Couraça do Defunto

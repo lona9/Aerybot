@@ -18,4 +18,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
 **Itens Core:** Alternador Hextec > Colhedor Noturno > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ampulheta de Zhonya
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

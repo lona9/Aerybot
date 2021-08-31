@@ -17,4 +17,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Poción reutilizable, Puñal serrado
 **Objetos principales:** Puñal serrado > Filoscuro de Draktharr > El Coleccionista > Filo de la noche
-**Objetos finales:** Rencor de Serylda, Filo fantasmal de Youmuu, Colmillo de serpiente
+**Objetos finales:** Rencor de Serylda, Colmillo de serpiente, Filo de la noche

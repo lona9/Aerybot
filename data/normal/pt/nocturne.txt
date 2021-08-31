@@ -9,8 +9,8 @@
 >   <:precision31:804446921660956702>:cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:
 
->   :cd::cd:<:dom23:804457130307485707>
 >   :cd::cd::cd:
+>   :cd::cd:<:dom33:804457129578332160>
 > :cd::cd::cd:<:dom44:804457129732866048>
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
 **Itens Core:** Chicote Ferrifarpo > Quebrapassos > Sinal de Sterak > Anjo Guardião
-**Itens End:** Anjo Guardião, Serrespada Quimiopunk, Presságio de Randuin
+**Itens End:** Anjo Guardião, Serrespada Quimiopunk, Cutelo Negro

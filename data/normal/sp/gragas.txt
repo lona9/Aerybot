@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Alternador hextech > Cosechador nocturno > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Reloj de arena de Zhonya
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

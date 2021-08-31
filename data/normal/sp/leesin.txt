@@ -1,6 +1,6 @@
 **Lee Sin ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 48.8%
+**Porcentaje de victorias:** 49.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
-**Objetos principales:** Látigo férreo > Bebedor de sangre > Cuchilla oscura > Guantelete de Sterak
+**Objetos principales:** Látigo férreo > Bebedor de sangre > Guantelete de Sterak > Cuchilla oscura
 **Objetos finales:** Ángel Guardián, Danza de la muerte, Sierraespada Quimopunk

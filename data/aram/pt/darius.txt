@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Chicote Ferrifarpo
 **Itens Core:** Chicote Ferrifarpo > Hemodrenário > Sinal de Sterak > Semblante Espiritual
-**Itens End:** Armadura de Espinhos, Dança da Morte, Força da Natureza
+**Itens End:** Armadura de Espinhos, Força da Natureza, Dança da Morte

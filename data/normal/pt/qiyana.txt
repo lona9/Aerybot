@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Espada Longa, Poção com Refil
 **Itens Core:** Punhal Serrilhado > Garra do Espreitador > Presa da Serpente > Rancor de Serylda
-**Itens End:** Anjo Guardião, Limiar da Noite, Rancor de Serylda
+**Itens End:** Limiar da Noite, Anjo Guardião, Rancor de Serylda

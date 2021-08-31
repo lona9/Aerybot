@@ -1,5 +1,5 @@
 **Lucian Build Rota do Meio** *(Normal)*
-**Rota:** Atirador, Rota do Meio
+**Rota:** Atirador
 **Porcentagem de vitorias:** 45.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>

@@ -17,4 +17,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Poção com Refil, Punhal Serrilhado
 **Itens Core:** Punhal Serrilhado > Crepúsculo de Draktharr > A Coletora > Limiar da Noite
-**Itens End:** Rancor de Serylda, Lâmina Fantasma de Youmuu, Presa da Serpente
+**Itens End:** Rancor de Serylda, Presa da Serpente, Limiar da Noite

@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Cuerno del guardián, Lágrima de la diosa
 **Objetos principales:** Cuerno del guardián > Relicario de los Solari de Hierro > Apariencia espiritual > Cota de espinas
-**Objetos finales:** Corazón de hielo, Armadura de Warmog, Cota de espinas
+**Objetos finales:** Cota de espinas, Armadura de Warmog, Corazón de hielo

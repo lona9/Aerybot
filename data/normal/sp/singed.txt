@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Vara explosiva > Cetro de cristal de Rylai > Agrietador > Abrazo demoníaco
-**Objetos finales:** Morellonomicón, Coraza del muerto, Abrazo demoníaco
+**Objetos finales:** Abrazo demoníaco, Morellonomicón, Coraza del muerto

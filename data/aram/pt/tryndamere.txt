@@ -17,4 +17,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
 **Itens Core:** Aljava Vespertina > Força do Vendaval > Adagas Rápidas Navori > Gume do Infinito
-**Itens End:** Gume do Infinito, Espada do Rei Destruído, Sedenta por Sangue
+**Itens End:** Gume do Infinito, Espada do Rei Destruído, Dançarina Fantasma

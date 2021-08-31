@@ -10,12 +10,12 @@
 > <:dom41:804457130379182120>:cd::cd::cd:
 
 >   :cd:<:insp22:804450563793747989>:cd:
->   <:insp31:804450564188536842>:cd::cd:
 >   :cd::cd::cd:
+>   <:insp41:804450563507879947>:cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
 **Itens Core:** Alternador Hextec > Explocinturão Hextec > Perdição de Lich > Ampulheta de Zhonya
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ampulheta de Zhonya
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon

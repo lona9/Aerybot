@@ -18,4 +18,4 @@
 **Botas:** Reloj de arena de Zhonya
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
 **Objetos principales:** Poción de vida > Arco curvo > Diente de Nashor > Agrietador
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mortífero de Rabadon, Reloj de arena de Zhonya, Báculo del vacío

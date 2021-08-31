@@ -1,6 +1,6 @@
 **Lucian Build ** *(Normal)*
-**Rota:** Atirador, Rota do Meio
-**Porcentagem de vitorias:** 46.1%
+**Rota:** Atirador
+**Porcentagem de vitorias:** 48.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Aljava Vespertina > Força do Vendaval > Colhedor de Essência > Rancor de Serylda
+**Itens Core:** Aljava Vespertina > Força do Vendaval > Colhedor de Essência > Gume do Infinito
 **Itens End:** Anjo Guardião, Gume do Infinito, Lembrete Mortal

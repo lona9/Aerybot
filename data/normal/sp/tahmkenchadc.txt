@@ -1,21 +1,21 @@
 **Tahm Kench AD Carry** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 48.4%
+**Porcentaje de victorias:** 51.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
+**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
->   <:valor11:804449943376232509>:cd::cd:
->   :cd::cd:<:valor23:804449943876010024>
->   :cd:<:valor32:804449943959765002>:cd:
+>   :cd::cd:<:valor13:804449943497605171>
+>   :cd:<:valor22:804449944018223104>:cd:
+>   :cd::cd:<:valor33:804449943603118131>
 >   :cd::cd:<:valor43:804449944001708043>
 
->   :cd:<:precision22:804446921414541333>:cd:
->   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd:<:insp42:804450563965452369>:cd:
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cadenas de Anatema > Cota de espinas
-**Objetos finales:** Cadenas de Anatema, Guantelete de Sterak, Filo fantasmal de Youmuu
+**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Apariencia espiritual
+**Objetos finales:** Cota de espinas, Armadura de Warmog, Apariencia espiritual

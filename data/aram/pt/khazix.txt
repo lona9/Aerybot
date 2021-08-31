@@ -1,5 +1,5 @@
 **Kha'Zix** *(ARAM)*
-**Porcentagem de vitorias:** 48.3%
+**Porcentagem de vitorias:** 47.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Espada Longa
 **Itens Iniciais:** Lágrima da Deusa, Poção com Refil, Espada Longa
 **Itens Core:** Salto > Sabor de Medo > Lágrima da Deusa > Poção com Refil
-**Itens End:** Rancor de Serylda, Limiar da Noite, Presa da Serpente
+**Itens End:** Rancor de Serylda, Limiar da Noite, Lâmina Fantasma de Youmuu

@@ -1,5 +1,5 @@
 **Urgot** *(ARAM)*
-**Porcentagem de vitorias:** 50.3%
+**Porcentagem de vitorias:** 50.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Passos de Mercúrio
-**Itens Iniciais:** Poção com Refil, Chicote Ferrifarpo
+**Itens Iniciais:** Poção com Refil, Tiamat
 **Itens Core:** Chicote Ferrifarpo > Hemodrenário > Hidra Titânica > Sinal de Sterak
 **Itens End:** Armadura de Espinhos, Semblante Espiritual, Dança da Morte

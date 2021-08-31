@@ -1,5 +1,5 @@
 **Ryze ** *(ARAM)*
-**Porcentaje de victorias:** 48.1%
+**Porcentaje de victorias:** 48.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Escarcha eterna
 **Objetos iniciales:** Cristal de zafiro, Tomo amplificador, Poción reutilizable, Lágrima de la diosa
 **Objetos principales:** Tomo amplificador > Poción reutilizable > Lágrima de la diosa > Capítulo perdido
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Reloj de arena de Zhonya
