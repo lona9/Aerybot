@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Bacteriófago > Cercenador divino > Guantelete de Sterak > Danza de la muerte
+**Objetos principales:** Brillo > Cercenador divino > Guantelete de Sterak > Danza de la muerte
 **Objetos finales:** Cota de espinas, Apariencia espiritual, Danza de la muerte

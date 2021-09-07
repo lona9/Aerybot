@@ -17,4 +17,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Carcaj de mediodía > Matakrakens > El Coleccionista > Filo del infinito
-**Objetos finales:** Recuerdos de lord Dominik, Sanguinaria, Filo del infinito
+**Objetos finales:** Sanguinaria, Recuerdos de lord Dominik, Filo del infinito

@@ -1,6 +1,6 @@
 **Gragas Build Suporte** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 47.1%
+**Porcentagem de vitorias:** 48.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Escudo Relicário, Poção de Vida
 **Itens Core:** Alternador Hextec > Colhedor Noturno > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Foco do Horizonte
+**Itens End:** Capuz da Morte de Rabadon, Correntes de Anátema, Véu da Banshee

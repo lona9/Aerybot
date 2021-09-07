@@ -1,6 +1,6 @@
 **Gangplank Build ** *(Normal)*
 **Rota:** Rota Topo, Rota do Meio
-**Porcentagem de vitorias:** 42.4%
+**Porcentagem de vitorias:** 42.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
 **Itens Core:** Fulgor > Colhedor de Essência > Arco-escudo Imortal > Gume do Infinito
-**Itens End:** Gume do Infinito, Lembranças do Lorde Dominik, Lembrete Mortal
+**Itens End:** Gume do Infinito, Lembranças do Lorde Dominik, A Coletora

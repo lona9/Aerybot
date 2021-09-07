@@ -1,5 +1,5 @@
 **Zilean** *(ARAM)*
-**Porcentagem de vitorias:** 47.0%
+**Porcentagem de vitorias:** 46.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Capítulo Perdido > Tormenta de Luden > Ímpeto Cósmico > Ampulheta de Zhonya
-**Itens End:** Morellonomicon, Capuz da Morte de Rabadon, Cajado do Vazio
+**Itens End:** Capuz da Morte de Rabadon, Morellonomicon, Cajado do Vazio

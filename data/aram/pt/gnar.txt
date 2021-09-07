@@ -1,5 +1,5 @@
 **Gnar** *(ARAM)*
-**Porcentagem de vitorias:** 48.9%
+**Porcentagem de vitorias:** 49.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Fago
 **Itens Core:** Fago > Ruptor Divino > Sinal de Sterak > Armadura de Espinhos
-**Itens End:** Armadura de Espinhos, Cutelo Negro, Semblante Espiritual
+**Itens End:** Armadura de Espinhos, Semblante Espiritual, Cutelo Negro

@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
-**Objetos principales:** Brillo > Cercenador divino > Guantelete de Sterak > Cota de espinas
+**Objetos principales:** Tiamat > Cercenador divino > Hidra titánica > Cota de espinas
 **Objetos finales:** Cota de espinas, Apariencia espiritual, Guantelete de Sterak

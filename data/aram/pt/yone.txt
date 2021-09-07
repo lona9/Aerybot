@@ -17,4 +17,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
 **Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Gume do Infinito > Sedenta por Sangue
-**Itens End:** Dança da Morte, Lembrete Mortal, Semblante Espiritual
+**Itens End:** Dança da Morte, Semblante Espiritual, Lembrete Mortal

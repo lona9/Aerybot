@@ -7,7 +7,7 @@
 >   :cd:<:valor12:804449943775084614>:cd:
 >   :cd:<:valor22:804449944018223104>:cd:
 >   :cd::cd:<:valor33:804449943603118131>
->   :cd::cd:<:valor43:804449944001708043>
+>   <:valor41:804449944298586143>:cd::cd:
 
 >   <:insp21:804450563911057458>:cd::cd:
 >   :cd::cd::cd:
@@ -18,4 +18,4 @@
 **Botas:** Botas da Mobilidade
 **Itens Iniciais:** Sentinela Invisível, Escudo Relicário, Poção de Vida
 **Itens Core:** Gema Ardente > Medalhão dos Solari de Ferro > Convergência de Zeke > Juramento do Cavaleiro
-**Itens End:** Armadura de Espinhos, Juramento do Cavaleiro, Máscara Abissal
+**Itens End:** Presságio de Randuin, Redenção, Semblante Espiritual

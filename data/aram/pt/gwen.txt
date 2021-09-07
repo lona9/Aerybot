@@ -1,5 +1,5 @@
 **Gwen** *(ARAM)*
-**Porcentagem de vitorias:** 48.4%
+**Porcentagem de vitorias:** 49.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Olhar Sanguessuga
 **Itens Core:** Olhar Sanguessuga > Criafendas > Dente de Na'Shor > Ímpeto Cósmico
-**Itens End:** Morellonomicon, Semblante Espiritual, Capuz da Morte de Rabadon
+**Itens End:** Capuz da Morte de Rabadon, Semblante Espiritual, Morellonomicon

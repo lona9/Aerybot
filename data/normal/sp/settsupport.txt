@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
 **Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Coraza del muerto > Cota de espinas
-**Objetos finales:** Máscara abisal, Hidra titánica, Ángel Guardián
+**Objetos finales:** Guantelete de Sterak, Cota de espinas, Danza de la muerte

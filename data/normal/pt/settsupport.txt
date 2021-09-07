@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Guarda-ombros de Aço, Poção de Vida
 **Itens Core:** Brasa de Bami > Quimiotanque Turbo > Couraça do Defunto > Armadura de Espinhos
-**Itens End:** Máscara Abissal, Hidra Titânica, Anjo Guardião
+**Itens End:** Sinal de Sterak, Armadura de Espinhos, Dança da Morte
