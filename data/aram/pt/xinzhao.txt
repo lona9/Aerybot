@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Chicote Ferrifarpo
 **Itens Core:** Chicote Ferrifarpo > Hemodrenário > Sinal de Sterak > Limite da Razão
-**Itens End:** Semblante Espiritual, Espada do Rei Destruído, Dança da Morte
+**Itens End:** Semblante Espiritual, Armadura de Espinhos, Espada do Rei Destruído

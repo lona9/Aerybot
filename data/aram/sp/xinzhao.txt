@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Látigo férreo
 **Objetos principales:** Látigo férreo > Bebedor de sangre > Guantelete de Sterak > Al filo de la Cordura
-**Objetos finales:** Apariencia espiritual, Hoja del rey arruinado, Danza de la muerte
+**Objetos finales:** Apariencia espiritual, Cota de espinas, Hoja del rey arruinado

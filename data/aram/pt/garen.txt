@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Chicote Ferrifarpo
 **Itens Core:** Chicote Ferrifarpo > Quebrapassos > Sinal de Sterak > Couraça do Defunto
-**Itens End:** Armadura de Espinhos, Couraça do Defunto, Cutelo Negro
+**Itens End:** Armadura de Espinhos, Cutelo Negro, Semblante Espiritual

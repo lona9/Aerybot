@@ -1,6 +1,6 @@
 **Aurelion Sol ** *(Normal)*
 **Posición:** Mid
-**Porcentaje de victorias:** 51.3%
+**Porcentaje de victorias:** 50.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Alternador hextech > Cosechador nocturno > Morellonomicón > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Reloj de arena de Zhonya > Morellonomicón
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Abrazo demoníaco

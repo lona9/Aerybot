@@ -1,5 +1,5 @@
 **Kha'Zix ** *(ARAM)*
-**Porcentaje de victorias:** 48.4%
+**Porcentaje de victorias:** 48.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Puñal serrado
-**Objetos iniciales:** Poción reutilizable, Puñal serrado
-**Objetos principales:** Salto > Saborea su miedo > Poción reutilizable > Puñal serrado
+**Botas:** Espada larga
+**Objetos iniciales:** Poción reutilizable, Lágrima de la diosa, Espada larga
+**Objetos principales:** Salto > Saborea su miedo > Poción reutilizable > Lágrima de la diosa
 **Objetos finales:** Rencor de Serylda, Filo de la noche, Filo fantasmal de Youmuu

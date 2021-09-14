@@ -1,6 +1,6 @@
 **Yuumi ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 50.0%
+**Porcentaje de victorias:** 49.9%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
-**Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Báculo de agua fluyente > Pebetero ardiente
-**Objetos finales:** Putrificador tecnoquímico, Pebetero ardiente, Báculo de agua fluyente
+**Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Pebetero ardiente > Báculo de agua fluyente
+**Objetos finales:** Putrificador tecnoquímico, Bendición de Mikael, Robaalmas de Mejai

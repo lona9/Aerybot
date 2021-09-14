@@ -1,5 +1,5 @@
 **Teemo** *(ARAM)*
-**Porcentagem de vitorias:** 51.0%
+**Porcentagem de vitorias:** 51.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Capítulo Perdido > Angústia de Liandry > Abraço Demoníaco > Morellonomicon
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ímpeto Cósmico

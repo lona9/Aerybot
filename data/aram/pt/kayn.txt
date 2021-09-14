@@ -1,5 +1,5 @@
 **Kayn** *(ARAM)*
-**Porcentagem de vitorias:** 47.3%
+**Porcentagem de vitorias:** 48.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Chicote Ferrifarpo
 **Itens Core:** Chicote Ferrifarpo > Hemodrenário > Sinal de Sterak > Semblante Espiritual
-**Itens End:** Rancor de Serylda, Limiar da Noite, Lâmina Fantasma de Youmuu
+**Itens End:** Limiar da Noite, Rancor de Serylda, Presa da Serpente

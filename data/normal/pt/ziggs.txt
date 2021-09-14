@@ -1,6 +1,6 @@
 **Ziggs Build ** *(Normal)*
-**Rota:** Atirador, Rota do Meio
-**Porcentagem de vitorias:** 51.1%
+**Rota:** Atirador
+**Porcentagem de vitorias:** 51.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 

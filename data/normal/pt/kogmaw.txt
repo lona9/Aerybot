@@ -1,6 +1,6 @@
 **Kog'Maw Build ** *(Normal)*
-**Rota:** Atirador
-**Porcentagem de vitorias:** 50.9%
+**Rota:** Atirador, Rota do Meio
+**Porcentagem de vitorias:** 51.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Machado Termestre > Limite da Razão > Furacão de Runaan > Presságio de Randuin
+**Itens Core:** Machado Termestre > Limite da Razão > Furacão de Runaan > Arco-escudo Imortal
 **Itens End:** Anjo Guardião, Presságio de Randuin, Espada do Rei Destruído

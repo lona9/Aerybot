@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Bacteriófago
 **Objetos principales:** Bacteriófago > Cercenador divino > Guantelete de Sterak > Cota de espinas
-**Objetos finales:** Cota de espinas, Apariencia espiritual, Cuchilla oscura
+**Objetos finales:** Apariencia espiritual, Cuchilla oscura, Presagio de Randuin

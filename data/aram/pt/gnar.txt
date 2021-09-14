@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Fago
 **Itens Core:** Fago > Ruptor Divino > Sinal de Sterak > Armadura de Espinhos
-**Itens End:** Armadura de Espinhos, Semblante Espiritual, Cutelo Negro
+**Itens End:** Semblante Espiritual, Cutelo Negro, Presságio de Randuin

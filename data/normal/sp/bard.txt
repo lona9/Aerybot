@@ -18,4 +18,4 @@
 **Botas:** Botas de movilidad
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Cadenas de Anatema > Corazón de hielo
-**Objetos finales:** Cañón de fuego rápido, Redención, Putrificador tecnoquímico
+**Objetos finales:** Putrificador tecnoquímico, Redención, Coraza del muerto

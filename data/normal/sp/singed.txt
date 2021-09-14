@@ -1,6 +1,6 @@
 **Singed ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 50.0%
+**Porcentaje de victorias:** 51.2%
 **Hechizos del Invocador:** <:Ghost:804555480856002610> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Vara explosiva > Cetro de cristal de Rylai > Agrietador > Abrazo demoníaco
-**Objetos finales:** Morellonomicón, Abrazo demoníaco, Coraza del muerto
+**Objetos finales:** Coraza del muerto, Reloj de arena de Zhonya, Robaalmas de Mejai

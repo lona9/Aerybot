@@ -1,7 +1,7 @@
 **Soraka ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 50.9%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Porcentaje de victorias:** 54.0%
+**Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:valor:804451124245561394>
 
 >   <:bruj11:804448796104589323>:cd::cd:
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
-**Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Pebetero ardiente > Redención
-**Objetos finales:** Redención, Armadura de Warmog, Pebetero ardiente
+**Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Redención > Pebetero ardiente
+**Objetos finales:** Putrificador tecnoquímico, Báculo de agua fluyente, Armadura de Warmog

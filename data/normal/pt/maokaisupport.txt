@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Escudo Relicário, Poção de Vida
 **Itens Core:** Espelho de Bandópolis > Mandato Imperial > Abraço Demoníaco > Morellonomicon
-**Itens End:** Máscara Abissal, Armadura de Espinhos, Cajado do Vazio
+**Itens End:** Couraça do Defunto, Máscara Abissal, Armadura de Espinhos

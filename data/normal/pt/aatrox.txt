@@ -1,6 +1,6 @@
 **Aatrox Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 50.9%
+**Porcentagem de vitorias:** 49.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 

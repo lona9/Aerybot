@@ -1,20 +1,20 @@
 **Maokai ** *(ARAM)*
-**Porcentaje de victorias:** 54.8%
+**Porcentaje de victorias:** 54.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
-**Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
+**Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
->   :cd:<:valor12:804449943775084614>:cd:
->   :cd:<:valor22:804449944018223104>:cd:
->   <:valor31:804449943666425907>:cd::cd:
->   <:valor41:804449944298586143>:cd::cd:
+>   :cd:<:bruj12:804448797001252864>:cd:
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
+>   <:bruj41:804448797597499402>:cd::cd:
 
 >   :cd::cd:<:precision23:804446921628057630>
->   :cd:<:precision32:804446921737371648>:cd:
 >   :cd::cd::cd:
->   <:5007:804451180164022312> <:5002:804451180104908870> <:5003:804451180100452403>
+>   <:precision41:804446922151690300>:cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Abrazo demoníaco > Morellonomicón
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Cota de espinas
