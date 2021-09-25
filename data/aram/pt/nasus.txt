@@ -1,5 +1,5 @@
 **Nasus** *(ARAM)*
-**Porcentagem de vitorias:** 52.3%
+**Porcentagem de vitorias:** 52.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Fulgor > Ruptor Divino > Semblante Espiritual > Coração Congelado
-**Itens End:** Armadura de Espinhos, Força da Natureza, Placa Gargolítica
+**Itens End:** Força da Natureza, Armadura de Espinhos, Placa Gargolítica

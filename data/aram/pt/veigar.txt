@@ -17,4 +17,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Capítulo Perdido > Tormenta de Luden > Capuz da Morte de Rabadon > Cajado do Vazio
-**Itens End:** Véu da Banshee, Morellonomicon, Ímpeto Cósmico
+**Itens End:** Véu da Banshee, Ímpeto Cósmico, Morellonomicon

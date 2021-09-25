@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Ceniza de Bami
 **Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Armadura de Warmog > Cota de espinas
-**Objetos finales:** Armadura pétrea, Hidra titánica, Cadenas de Anatema
+**Objetos finales:** Armadura pétrea, Hidra titánica, Apariencia espiritual

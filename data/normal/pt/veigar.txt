@@ -1,6 +1,6 @@
 **Veigar Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 49.9%
+**Porcentagem de vitorias:** 50.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -18,4 +18,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
 **Itens Core:** Capítulo Perdido > Glacieterno > Ampulheta de Zhonya > Capuz da Morte de Rabadon
-**Itens End:** Cajado do Vazio, Véu da Banshee, Morellonomicon
+**Itens End:** Cajado do Vazio, Véu da Banshee, Ímpeto Cósmico

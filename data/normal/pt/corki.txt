@@ -1,6 +1,6 @@
 **Corki Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 51.8%
+**Porcentagem de vitorias:** 52.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Itens Iniciais:** Sentinela Invisível, Abatedora, Poção de Vida
 **Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Manamune > Colhedor de Essência
-**Itens End:** Gume do Infinito, Anjo Guardião, Canhão Fumegante
+**Itens End:** Gume do Infinito, Canhão Fumegante, Anjo Guardião

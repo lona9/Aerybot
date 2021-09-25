@@ -1,5 +1,5 @@
 **Yuumi ** *(ARAM)*
-**Porcentaje de victorias:** 50.2%
+**Porcentaje de victorias:** 50.1%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Redención
+**Botas:** Putrificador tecnoquímico
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Renovación de piedra lunar > Báculo de agua fluyente > Pebetero ardiente > Botas jonias de la lucidez
-**Objetos finales:** Redención, Putrificador tecnoquímico, Bendición de Mikael
+**Objetos finales:** Putrificador tecnoquímico, Redención, Bendición de Mikael

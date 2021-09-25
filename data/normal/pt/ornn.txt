@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
 **Itens Core:** Brasa de Bami > Égide de Fogo Solar > Armadura de Espinhos > Máscara Abissal
-**Itens End:** Coração Congelado, Placa Gargolítica, Armadura de Warmog
+**Itens End:** Coração Congelado, Armadura de Warmog, Placa Gargolítica

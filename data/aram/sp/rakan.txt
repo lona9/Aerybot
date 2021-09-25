@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Cristal de rubí, Espejo de cristal de Bandle
 **Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Cota de espinas, Armadura de Warmog, Redención
+**Objetos finales:** Armadura de Warmog, Cota de espinas, Apariencia espiritual

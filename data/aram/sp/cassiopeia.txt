@@ -1,5 +1,5 @@
 **Cassiopeia** *(ARAM)*
-> **% victorias:** 47.7%
+> **% victorias:** 47.0%
 > **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 > **Runas**: <:pres:804451123825606657> <:dom:804451124085522442>
  
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808><:5008:804451180172279808><:5002:804451180104908870>
  
 > **Build**:
-*Iniciales:* Capítulo perdido
+*Iniciales:* CapÃ­tulo perdido
 *Botas:* -
-*Principales:* Capítulo perdido > Angustia de Liandry > Báculo del arcángel > Abrazo demoníaco
-*Finales:* Morellonomicón, Báculo del vacío, Reloj de arena de Zhonya
+*Principales:* CapÃ­tulo perdido > Angustia de Liandry > BÃ¡culo del arcÃ¡ngel > Abrazo demonÃ­aco
+*Finales:* MorellonomicÃ³n, BÃ¡culo del vacÃ­o, Reloj de arena de Zhonya

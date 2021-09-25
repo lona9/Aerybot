@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Fago
 **Itens Core:** Fago > Ruptor Divino > Sinal de Sterak > Cutelo Negro
-**Itens End:** Semblante Espiritual, Dança da Morte, Serrespada Quimiopunk
+**Itens End:** Semblante Espiritual, Dança da Morte, Hidra Raivosa

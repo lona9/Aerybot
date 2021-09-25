@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Bacteriófago
 **Objetos principales:** Bacteriófago > Cercenador divino > Guantelete de Sterak > Cuchilla oscura
-**Objetos finales:** Apariencia espiritual, Danza de la muerte, Sierraespada Quimopunk
+**Objetos finales:** Apariencia espiritual, Danza de la muerte, Hidra voraz

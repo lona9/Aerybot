@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Brasa de Bami
 **Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Armadura de Warmog > Armadura de Espinhos
-**Itens End:** Placa Gargolítica, Hidra Titânica, Correntes de Anátema
+**Itens End:** Placa Gargolítica, Hidra Titânica, Semblante Espiritual

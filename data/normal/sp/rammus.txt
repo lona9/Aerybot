@@ -1,6 +1,6 @@
 **Rammus ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 50.2%
+**Porcentaje de victorias:** 49.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Cota de espinas > Máscara abisal
-**Objetos finales:** Presagio de Randuin, Armadura pétrea, Coraza del muerto
+**Objetos finales:** Armadura pétrea, Presagio de Randuin, Coraza del muerto

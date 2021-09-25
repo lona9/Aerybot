@@ -1,5 +1,5 @@
 **Irelia ** *(ARAM)*
-**Porcentaje de victorias:** 54.2%
+**Porcentaje de victorias:** 54.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Arcoescudo inmortal
 **Objetos iniciales:** Daga, Cetro vampírico, Poción reutilizable
 **Objetos principales:** Cetro vampírico > Poción reutilizable > Cetro vampírico > Hoja del rey arruinado
-**Objetos finales:** Apariencia espiritual, Danza de la muerte, Hidra voraz
+**Objetos finales:** Danza de la muerte, Apariencia espiritual, Hidra voraz

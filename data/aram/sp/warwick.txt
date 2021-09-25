@@ -1,5 +1,5 @@
 **Warwick ** *(ARAM)*
-**Porcentaje de victorias:** 48.8%
+**Porcentaje de victorias:** 48.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Bacteriófago
 **Objetos principales:** Bacteriófago > Cercenador divino > Apariencia espiritual > Cota de espinas
-**Objetos finales:** Guantelete de Sterak, Al filo de la Cordura, Danza de la muerte
+**Objetos finales:** Guantelete de Sterak, Danza de la muerte, Hidra titánica

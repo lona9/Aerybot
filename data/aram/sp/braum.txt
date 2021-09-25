@@ -1,5 +1,5 @@
 **Braum ** *(ARAM)*
-**Porcentaje de victorias:** 51.6%
+**Porcentaje de victorias:** 51.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Cristal de rubí, Cuerno del guardián
 **Objetos principales:** Cuerno del guardián > Relicario de los Solari de Hierro > Armadura de Warmog > Cota de espinas
-**Objetos finales:** Armadura pétrea, Fuerza de la naturaleza, Apariencia espiritual
+**Objetos finales:** Armadura pétrea, Fuerza de la naturaleza, Corazón de hielo

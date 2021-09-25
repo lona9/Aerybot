@@ -1,6 +1,6 @@
 **Maokai Build Rota Topo** *(Normal)*
 **Rota:** Suporte, Rota Topo
-**Porcentagem de vitorias:** 52.7%
+**Porcentagem de vitorias:** 51.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Coração Congelado
+**Botas:** Correntes de Anátema
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
 **Itens Core:** Égide de Fogo Solar > Armadura de Espinhos > Máscara Abissal > Botas Galvanizadas de Aço
-**Itens End:** Coração Congelado, Correntes de Anátema, Presságio de Randuin
+**Itens End:** Correntes de Anátema, Coração Congelado, Presságio de Randuin
