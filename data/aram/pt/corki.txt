@@ -17,4 +17,4 @@
 **Botas:** Manamune
 **Itens Iniciais:** Poção com Refil, Fulgor, Lágrima da Deusa
 **Itens Core:** Fulgor > Lágrima da Deusa > Fulgor > Ruptor Divino
-**Itens End:** Gume do Infinito, Lembrete Mortal, Sedenta por Sangue
+**Itens End:** Gume do Infinito, Sedenta por Sangue, Lembrete Mortal

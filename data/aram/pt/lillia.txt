@@ -1,5 +1,5 @@
 **Lillia** *(ARAM)*
-**Porcentagem de vitorias:** 55.1%
+**Porcentagem de vitorias:** 54.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -17,4 +17,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Capítulo Perdido > Angústia de Liandry > Abraço Demoníaco > Ampulheta de Zhonya
-**Itens End:** Morellonomicon, Capuz da Morte de Rabadon, Cajado do Vazio
+**Itens End:** Capuz da Morte de Rabadon, Morellonomicon, Cajado do Vazio

@@ -1,10 +1,10 @@
 **Janna ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 51.6%
+**Porcentaje de victorias:** 50.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
->   :cd:<:bruj12:804448797001252864>:cd:
+>   <:bruj11:804448796104589323>:cd::cd:
 >   :cd:<:bruj22:804448796553117707>:cd:
 >   :cd:<:bruj32:804448797346234369>:cd:
 >   <:bruj41:804448797597499402>:cd::cd:

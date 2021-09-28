@@ -18,4 +18,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
 **Itens Core:** Punhal Serrilhado > Crepúsculo de Draktharr > A Coletora > Colhedor de Essência
-**Itens End:** Anjo Guardião, Sinal de Sterak, Dança da Morte
+**Itens End:** Anjo Guardião, Dança da Morte, Sinal de Sterak

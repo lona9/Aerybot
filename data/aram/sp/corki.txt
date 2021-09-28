@@ -17,4 +17,4 @@
 **Botas:** Manamune
 **Objetos iniciales:** Poción reutilizable, Brillo, Lágrima de la diosa
 **Objetos principales:** Brillo > Lágrima de la diosa > Brillo > Cercenador divino
-**Objetos finales:** Filo del infinito, Recordatorio mortal, Sanguinaria
+**Objetos finales:** Filo del infinito, Sanguinaria, Recordatorio mortal

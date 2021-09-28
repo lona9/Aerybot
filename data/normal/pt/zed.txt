@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Espada Longa, Poção com Refil
 **Itens Core:** Punhal Serrilhado > Lâmina Fantasma de Youmuu > Crepúsculo de Draktharr > Rancor de Serylda
-**Itens End:** Limiar da Noite, Anjo Guardião, Cutelo Negro
+**Itens End:** Anjo Guardião, Limiar da Noite, Cutelo Negro

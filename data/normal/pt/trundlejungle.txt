@@ -1,21 +1,21 @@
 **Trundle Build Selva** *(Normal)*
 **Rota:** Selva, Rota Topo
-**Porcentagem de vitorias:** 51.4%
+**Porcentagem de vitorias:** 52.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
-**Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
+**Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
 > <:precision11:804445926906658886>:cd::cd::cd:
 >   :cd:<:precision22:804446921414541333>:cd:
->   <:precision31:804446921660956702>:cd::cd:
+>   :cd:<:precision32:804446921737371648>:cd:
 >   <:precision41:804446922151690300>:cd::cd:
 
->   :cd::cd:<:bruj23:804448797425532928>
+>   :cd:<:insp22:804450563793747989>:cd:
 >   :cd::cd::cd:
->   :cd:<:bruj42:804448797572595813>:cd:
+>   <:insp41:804450563507879947>:cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
 **Itens Core:** Fulgor > Ruptor Divino > Sinal de Sterak > Armadura de Espinhos
-**Itens End:** Semblante Espiritual, Presságio de Randuin, Hidra Titânica
+**Itens End:** Semblante Espiritual, Couraça do Defunto, Espada do Rei Destruído

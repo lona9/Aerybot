@@ -17,4 +17,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Tempestad de Luden > Enfoque al horizonte > Sombrero mortífero de Rabadon
-**Objetos finales:** Báculo del vacío, Reloj de arena de Zhonya, Morellonomicón
+**Objetos finales:** Báculo del vacío, Morellonomicón, Reloj de arena de Zhonya

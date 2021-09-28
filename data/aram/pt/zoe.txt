@@ -17,4 +17,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Capítulo Perdido > Tormenta de Luden > Foco do Horizonte > Capuz da Morte de Rabadon
-**Itens End:** Cajado do Vazio, Ampulheta de Zhonya, Morellonomicon
+**Itens End:** Cajado do Vazio, Morellonomicon, Ampulheta de Zhonya

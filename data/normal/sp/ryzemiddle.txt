@@ -1,6 +1,6 @@
 **Ryze Mid** *(Normal)*
 **Posición:** Mid, Top
-**Porcentaje de victorias:** 47.3%
+**Porcentaje de victorias:** 43.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Lágrima de la diosa, Poción de vida
 **Objetos principales:** Capítulo perdido > Escarcha eterna > Báculo del arcángel > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortífero de Rabadon, Morellonomicón, Báculo del vacío
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón

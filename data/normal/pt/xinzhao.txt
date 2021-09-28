@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
 **Itens Core:** Chicote Ferrifarpo > Hemodrenário > Sinal de Sterak > Anjo Guardião
-**Itens End:** Dança da Morte, Armadura de Espinhos, Limite da Razão
+**Itens End:** Armadura de Espinhos, Dança da Morte, Limite da Razão

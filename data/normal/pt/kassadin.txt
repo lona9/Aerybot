@@ -1,6 +1,6 @@
 **Kassadin Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 50.7%
+**Porcentagem de vitorias:** 51.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -11,7 +11,7 @@
 
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
-> :cd::cd::cd:<:dom44:804457129732866048>
+> <:dom41:804457130379182120>:cd::cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**

@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
-**Itens Core:** Espelho de Bandópolis > Hino Bélico de Shurelya > Turíbulo Ardente > Putrificador Quimtec
-**Itens End:** Redenção, Cajado Aquafluxo, Bênção de Mikael
+**Itens Core:** Espelho de Bandópolis > Hino Bélico de Shurelya > Putrificador Quimtec > Turíbulo Ardente
+**Itens End:** Cajado Aquafluxo, Bênção de Mikael, Redenção

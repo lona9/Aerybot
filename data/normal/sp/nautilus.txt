@@ -1,6 +1,6 @@
 **Nautilus ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 49.5%
+**Porcentaje de victorias:** 49.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Cota de espinas > Máscara abisal
-**Objetos finales:** Convergencia de Zeke, Cadenas de Anatema, Promesa del caballero
+**Objetos finales:** Presagio de Randuin, Corazón de hielo, Convergencia de Zeke

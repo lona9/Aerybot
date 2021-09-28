@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Látigo férreo
-**Objetos principales:** Látigo férreo > Cortasendas > Guantelete de Sterak > Coraza del muerto
-**Objetos finales:** Cota de espinas, Cuchilla oscura, Apariencia espiritual
+**Objetos principales:** Látigo férreo > Cortasendas > Guantelete de Sterak > Apariencia espiritual
+**Objetos finales:** Cota de espinas, Coraza del muerto, Cuchilla oscura

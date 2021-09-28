@@ -1,6 +1,6 @@
 **Nidalee Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 48.6%
+**Porcentagem de vitorias:** 48.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
-**Itens Core:** Alternador Hextec > Colhedor Noturno > Ampulheta de Zhonya > Cajado do Vazio
-**Itens End:** Capuz da Morte de Rabadon, Morellonomicon, Ladrão de Almas de Mejai
+**Itens Core:** Alternador Hextec > Colhedor Noturno > Foco do Horizonte > Ampulheta de Zhonya
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon

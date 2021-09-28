@@ -1,6 +1,6 @@
 **Aurelion Sol Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 50.1%
+**Porcentagem de vitorias:** 52.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -12,10 +12,10 @@
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
 >   :cd::cd:<:insp43:804450563952869452>
->   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
-**Itens Core:** Alternador Hextec > Colhedor Noturno > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Abraço Demoníaco
+**Itens Core:** Alternador Hextec > Colhedor Noturno > Morellonomicon > Ampulheta de Zhonya
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ladrão de Almas de Mejai

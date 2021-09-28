@@ -1,5 +1,5 @@
 **Rakan** *(ARAM)*
-**Porcentagem de vitorias:** 48.0%
+**Porcentagem de vitorias:** 47.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Cristal de Rubi, Espelho de Bandópolis
 **Itens Core:** Espelho de Bandópolis > Hino Bélico de Shurelya > Convergência de Zeke > Juramento do Cavaleiro
-**Itens End:** Armadura de Warmog, Armadura de Espinhos, Semblante Espiritual
+**Itens End:** Armadura de Espinhos, Armadura de Warmog, Redenção

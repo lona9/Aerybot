@@ -18,4 +18,4 @@
 **Botas:** Botas de movilidad
 **Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
 **Objetos principales:** Puñal serrado > Eclipse > Guja sombría > Sierraespada Quimopunk
-**Objetos finales:** Ángel Guardián, Guantelete de Sterak, Cuchilla oscura
+**Objetos finales:** Cuchilla oscura, Colmillo de serpiente, Danza de la muerte

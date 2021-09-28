@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
 **Objetos principales:** Látigo férreo > Bebedor de sangre > Guantelete de Sterak > Ángel Guardián
-**Objetos finales:** Danza de la muerte, Cota de espinas, Al filo de la Cordura
+**Objetos finales:** Cota de espinas, Danza de la muerte, Al filo de la Cordura
