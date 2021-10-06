@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
+**Botas:** Botas de hechicero
+**Objetos iniciales:** Guardián invisible, Espada de granizo, Poción reutilizable
 **Objetos principales:** Capítulo perdido > Tempestad de Luden > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Velo de la banshee
+**Objetos finales:** Sombrero mortal de Rabadon, Bastón del Vacío, Velo del hada de la muerte

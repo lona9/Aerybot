@@ -1,6 +1,6 @@
 **Rumble Build ** *(Normal)*
 **Rota:** Rota do Meio, Selva, Rota Topo
-**Porcentagem de vitorias:** 49.5%
+**Porcentagem de vitorias:** 48.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 

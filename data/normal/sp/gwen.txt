@@ -1,6 +1,6 @@
 **Gwen ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 46.4%
+**Porcentaje de victorias:** 47.0%
 **Hechizos del Invocador:** <:Teleport:804555481699713034> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Mirada absorbente > Agrietador > Diente de Nashor > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortífero de Rabadon, Morellonomicón, Impulso cósmico
+**Botas:** Botas blindadas
+**Objetos iniciales:** Guardián invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Lapa maliciosa > Creagrietas > Diente de Nashor > Reloj de arena de Zhonya
+**Objetos finales:** Morellonomicón, Sombrero mortal de Rabadon, Impulso cósmico

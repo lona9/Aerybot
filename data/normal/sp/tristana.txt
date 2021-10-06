@@ -1,6 +1,6 @@
 **Tristana ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 49.7%
+**Porcentaje de victorias:** 49.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj de mediodía > Matakrakens > Bailarín espectral > Filo del infinito
-**Objetos finales:** Ángel Guardián, Sanguinaria, Recuerdos de lord Dominik
+**Objetos iniciales:** Guardián invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Carcaj del mediodía > Verdugo de krakens > Bailarín espectral > Filo infinito
+**Objetos finales:** Ángel de la guarda, Sanguinaria, Recuerdos de lord Dominik

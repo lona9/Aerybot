@@ -168,6 +168,7 @@ class Aram(Cog):
                   "vayne": ["vayne"],
                   "veigar": ["veigar", "veig", "vergas"],
                   "velkoz": ["velkoz", "vel"],
+                  "vex": ["vex"],
                   "vi": ["vi"],
                   "viego": ["viego"],
                   "viktor": ["viktor"],

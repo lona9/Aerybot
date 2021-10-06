@@ -1,6 +1,6 @@
 **Teemo Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 49.6%
+**Porcentagem de vitorias:** 49.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 

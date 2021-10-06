@@ -1,6 +1,6 @@
 **Jayce ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 46.8%
+**Porcentaje de victorias:** 46.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Puñal serrado > Eclipse > Manamune > Filo fantasmal de Youmuu
-**Objetos finales:** Ángel Guardián, Rencor de Serylda, Filo de la noche
+**Objetos iniciales:** Guardián invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Daga dentada > Eclipse > Manamune > Filo fantasmal de Youmuu
+**Objetos finales:** Ángel de la guarda, Rencor de Serylda, Filo de la noche

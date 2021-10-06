@@ -9,13 +9,13 @@
 >   <:precision31:804446921660956702>:cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:
 
->   :cd::cd::cd:
+>   :cd::cd:<:bruj23:804448797425532928>
 >   :cd::cd:<:bruj33:804448797509419098>
->   :cd:<:bruj42:804448797572595813>:cd:
+>   :cd::cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
-**Itens Core:** Punhal Serrilhado > Eclipse > A Coletora > Lembranças do Lorde Dominik
-**Itens End:** Anjo Guardião, Gume do Infinito, Sedenta por Sangue
+**Itens Core:** Punhal Serrilhado > Lâmina Fantasma de Youmuu > Arco-escudo Imortal > A Coletora
+**Itens End:** Anjo Guardião, Gume do Infinito, Lembranças do Lorde Dominik

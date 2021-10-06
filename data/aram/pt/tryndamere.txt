@@ -1,5 +1,5 @@
 **Tryndamere** *(ARAM)*
-**Porcentagem de vitorias:** 43.9%
+**Porcentagem de vitorias:** 44.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
 **Itens Core:** Aljava Vespertina > Força do Vendaval > Adagas Rápidas Navori > Gume do Infinito
-**Itens End:** Espada do Rei Destruído, Dançarina Fantasma, Sedenta por Sangue
+**Itens End:** Dançarina Fantasma, Espada do Rei Destruído, Sedenta por Sangue

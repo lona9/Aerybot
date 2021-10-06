@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
+**Botas:** Botas de hechicero
+**Objetos iniciales:** Guardián invisible, Cuchillo de ascuas, Poción reutilizable
 **Objetos principales:** Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Velo de la banshee
+**Objetos finales:** Bastón del Vacío, Sombrero mortal de Rabadon, Velo del hada de la muerte

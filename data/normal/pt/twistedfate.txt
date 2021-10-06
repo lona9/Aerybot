@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
 **Itens Core:** Capítulo Perdido > Glacieterno > Canhão Fumegante > Ampulheta de Zhonya
-**Itens End:** Capuz da Morte de Rabadon, Morellonomicon, Cajado do Vazio
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Perdição de Lich

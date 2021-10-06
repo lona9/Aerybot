@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
-**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > Saqueador de esencias > El Coleccionista
-**Objetos finales:** Filo del infinito, Ángel Guardián, Recuerdos de lord Dominik
+**Objetos iniciales:** Guardián invisible, Espada de granizo, Poción reutilizable
+**Objetos principales:** Daga dentada > Filoscuro de Draktharr > Segador de esencia > Recaudadora
+**Objetos finales:** Filo infinito, Ángel de la guarda, Recuerdos de lord Dominik

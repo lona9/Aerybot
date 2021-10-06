@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Poción de corrupción
+**Objetos iniciales:** Guardián invisible, Poción de corrupción
 **Objetos principales:** Capítulo perdido > Escarcha eterna > Cañón de fuego rápido > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortífero de Rabadon, Morellonomicón, Báculo del vacío
+**Objetos finales:** Sombrero mortal de Rabadon, Bastón del Vacío, Perdición del liche

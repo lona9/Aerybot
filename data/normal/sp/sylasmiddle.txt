@@ -1,6 +1,6 @@
 **Sylas Mid** *(Normal)*
 **Posición:** Mid, Top
-**Porcentaje de victorias:** 49.0%
+**Porcentaje de victorias:** 49.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
+**Objetos iniciales:** Guardián invisible, Anillo de Doran, Poción de vida
 **Objetos principales:** Capítulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Impulso cósmico
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón
+**Objetos finales:** Sombrero mortal de Rabadon, Bastón del Vacío, Morellonomicón

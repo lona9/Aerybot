@@ -1,6 +1,6 @@
 **Talon ** *(Normal)*
 **Posición:** Jungler, Mid
-**Porcentaje de victorias:** 50.5%
+**Porcentaje de victorias:** 50.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
-**Objetos principales:** Látigo férreo > Bebedor de sangre > Filo fantasmal de Youmuu > Cuchilla oscura
-**Objetos finales:** Ángel Guardián, Rencor de Serylda, Guantelete de Sterak
+**Objetos iniciales:** Guardián invisible, Cuchillo de ascuas, Poción reutilizable
+**Objetos principales:** Látigo puntahierro > Chupasangre > Filo fantasmal de Youmuu > Cuchilla negra
+**Objetos finales:** Ángel de la guarda, Rencor de Serylda, Calibrador de Sterak

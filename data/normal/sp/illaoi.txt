@@ -1,6 +1,6 @@
 **Illaoi ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 50.3%
+**Porcentaje de victorias:** 50.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Brillo > Cercenador divino > Guantelete de Sterak > Danza de la muerte
-**Objetos finales:** Cota de espinas, Apariencia espiritual, Ángel Guardián
+**Botas:** Botas blindadas
+**Objetos iniciales:** Guardián invisible, Poción de corrupción
+**Objetos principales:** Bacteriófago > Desgarrador divino > Calibrador de Sterak > Baile de la muerte
+**Objetos finales:** Rostro espiritual, Malla de espinas, Ángel de la guarda

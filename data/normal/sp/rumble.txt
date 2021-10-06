@@ -1,6 +1,6 @@
 **Rumble ** *(Normal)*
 **Posición:** Mid, Jungler, Top
-**Porcentaje de victorias:** 49.5%
+**Porcentaje de victorias:** 48.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -15,7 +15,7 @@
 >   <:5007:804451180164022312> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Botas:** Botas de hechicero
+**Objetos iniciales:** Guardián invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Alternador hextech > Cosechador nocturno > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Abrazo demoníaco
+**Objetos finales:** Sombrero mortal de Rabadon, Bastón del Vacío, Abrazo demoníaco

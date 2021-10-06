@@ -1,6 +1,6 @@
 **Aphelios ** *(ARAM)*
-**Porcentaje de victorias:** 53.8%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Porcentaje de victorias:** 53.4%
+**Hechizos del Invocador:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > :cd::cd::cd:<:precision14:804446921631596585>

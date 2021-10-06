@@ -1,6 +1,6 @@
 **Trundle ** *(Normal)*
 **Posición:** Jungler, Top
-**Porcentaje de victorias:** 51.3%
+**Porcentaje de victorias:** 50.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
-**Objetos principales:** Brillo > Cercenador divino > Guantelete de Sterak > Cota de espinas
-**Objetos finales:** Apariencia espiritual, Presagio de Randuin, Hidra titánica
+**Botas:** Botas blindadas
+**Objetos iniciales:** Guardián invisible, Cuchillo de ascuas, Poción reutilizable
+**Objetos principales:** Brillo > Desgarrador divino > Calibrador de Sterak > Malla de espinas
+**Objetos finales:** Rostro espiritual, Presagio de Randuin, Coraza del muerto

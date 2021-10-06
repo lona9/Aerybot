@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
-**Objetos principales:** Capítulo perdido > Tempestad de Luden > Enfoque al horizonte > Reloj de arena de Zhonya
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón
+**Botas:** Botas de hechicero
+**Objetos iniciales:** Guardián invisible, Daga de hechicero, Poción de vida
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Precisión infalible > Reloj de arena de Zhonya
+**Objetos finales:** Bastón del Vacío, Sombrero mortal de Rabadon, Morellonomicón

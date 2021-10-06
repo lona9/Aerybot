@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
-**Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Putrificador tecnoquímico > Báculo de agua fluyente
-**Objetos finales:** Sombrero mortífero de Rabadon, Reloj de arena de Zhonya, Cetro de cristal de Rylai
+**Objetos iniciales:** Guardián invisible, Daga de hechicero, Poción de vida
+**Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Putrificador tecnoquímico > Bastón de aguas fluidas
+**Objetos finales:** Sombrero mortal de Rabadon, Reloj de arena de Zhonya, Bastón del Vacío

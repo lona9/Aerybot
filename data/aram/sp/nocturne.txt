@@ -1,5 +1,5 @@
 **Nocturne ** *(ARAM)*
-**Porcentaje de victorias:** 44.4%
+**Porcentaje de victorias:** 45.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Puñal serrado
 **Objetos principales:** Puñal serrado > Filoscuro de Draktharr > El Coleccionista > Filo de la noche
-**Objetos finales:** Hidra voraz, Guantelete de Sterak, Rencor de Serylda
+**Objetos finales:** Rencor de Serylda, Hidra voraz, Guantelete de Sterak

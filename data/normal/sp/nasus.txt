@@ -1,6 +1,6 @@
 **Nasus ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 51.5%
+**Porcentaje de victorias:** 51.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Brillo > Cercenador divino > Corazón de hielo > Apariencia espiritual
-**Objetos finales:** Armadura pétrea, Cota de espinas, Guantelete de Sterak
+**Objetos iniciales:** Guardián invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Brillo > Desgarrador divino > Corazón de hielo > Rostro espiritual
+**Objetos finales:** Malla de espinas, Protector pétreo de gárgola, Calibrador de Sterak

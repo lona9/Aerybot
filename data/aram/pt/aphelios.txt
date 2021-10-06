@@ -1,6 +1,6 @@
 **Aphelios** *(ARAM)*
-**Porcentagem de vitorias:** 53.8%
-**Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Porcentagem de vitorias:** 53.4%
+**Summoner Spells:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > :cd::cd::cd:<:precision14:804446921631596585>

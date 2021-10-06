@@ -1,6 +1,6 @@
 **Galio Build ** *(Normal)*
 **Rota:** Rota do Meio, Suporte
-**Porcentagem de vitorias:** 49.6%
+**Porcentagem de vitorias:** 50.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:bruj:804451124236648478>
 

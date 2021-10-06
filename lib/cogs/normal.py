@@ -224,6 +224,7 @@ class Normal(Cog):
                   "velkoz": ["velkoz", "vel"],
                   "velkozmiddle": ["velkozmid", "velmid"],
                   "velkozsupport": ["velkozsupp", "velsupp"],
+                  "vex": ["vex"],
                   "vi": ["vi"],
                   "viego": ["viego"],
                   "viegojungle": ["viegojg"],

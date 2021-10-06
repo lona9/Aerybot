@@ -1,6 +1,6 @@
 **Shaco Support** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 49.5%
+**Porcentaje de victorias:** 48.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
-**Objetos principales:** Capítulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Sombrero mortífero de Rabadon, Abrazo demoníaco, Impulso cósmico
+**Objetos iniciales:** Guardián invisible, Daga de hechicero, Poción de vida
+**Objetos principales:** Capítulo perdido > Desconsuelo de Liandry > Reloj de arena de Zhonya > Morellonomicón
+**Objetos finales:** Sombrero mortal de Rabadon, Bastón del Vacío, Impulso cósmico

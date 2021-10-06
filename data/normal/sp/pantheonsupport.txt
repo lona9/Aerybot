@@ -1,6 +1,6 @@
 **Pantheon Support** *(Normal)*
 **Posición:** Mid, Support
-**Porcentaje de victorias:** 47.5%
+**Porcentaje de victorias:** 46.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas de movilidad
-**Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
-**Objetos principales:** Puñal serrado > Eclipse > Guja sombría > Sierraespada Quimopunk
-**Objetos finales:** Cuchilla oscura, Colmillo de serpiente, Danza de la muerte
+**Objetos iniciales:** Guardián invisible, Hombreras de acero, Poción de vida
+**Objetos principales:** Daga dentada > Eclipse > Guja sombría > Mecanoespada punki
+**Objetos finales:** Ángel de la guarda, Calibrador de Sterak, Colmillo de serpiente

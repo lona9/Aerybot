@@ -1,5 +1,5 @@
 **Elise** *(ARAM)*
-**Porcentagem de vitorias:** 43.0%
+**Porcentagem de vitorias:** 43.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Capítulo Perdido > Tormenta de Luden > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Abraço Demoníaco
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Véu da Banshee

@@ -1,13 +1,13 @@
 **Alistar Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 49.2%
+**Porcentagem de vitorias:** 49.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
 >   :cd:<:valor12:804449943775084614>:cd:
 >   :cd:<:valor22:804449944018223104>:cd:
 >   :cd::cd:<:valor33:804449943603118131>
->   :cd::cd:<:valor43:804449944001708043>
+>   <:valor41:804449944298586143>:cd::cd:
 
 >   <:insp21:804450563911057458>:cd::cd:
 >   :cd::cd::cd:
