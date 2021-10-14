@@ -1,6 +1,6 @@
 **Poppy Jungler** *(Normal)*
 **Posición:** Jungler, Top
-**Porcentaje de victorias:** 50.6%
+**Porcentaje de victorias:** 50.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Espada de granizo, Poción reutilizable
-**Objetos principales:** Brillo > Desgarrador divino > Coraza del muerto > Malla de espinas
-**Objetos finales:** Presagio de Randuin, Calibrador de Sterak, Cadenas de Anatema
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
+**Objetos principales:** Brillo > Cercenador divino > Coraza del muerto > Cota de espinas
+**Objetos finales:** Presagio de Randuin, Máscara abisal, Guantelete de Sterak

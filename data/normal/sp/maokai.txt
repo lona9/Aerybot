@@ -1,6 +1,6 @@
 **Maokai ** *(Normal)*
-**Posición:** Support, Top
-**Porcentaje de victorias:** 51.9%
+**Posición:** Support
+**Porcentaje de victorias:** 52.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Escudo reliquia, Poción de vida
-**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Malla de espinas > Máscara abisal
-**Objetos finales:** Corazón de hielo, Coraza del muerto, Presagio de Randuin
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
+**Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Abrazo demoníaco > Morellonomicón
+**Objetos finales:** Máscara abisal, Corazón de hielo, Cadenas de Anatema

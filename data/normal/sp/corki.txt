@@ -1,6 +1,6 @@
 **Corki ** *(Normal)*
 **Posición:** Mid
-**Porcentaje de victorias:** 51.5%
+**Porcentaje de victorias:** 51.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Botas de hechicero
-**Objetos iniciales:** Guardián invisible, Preferencia, Poción de vida
-**Objetos principales:** Carcaj del mediodía > Arcoescudo inmortal > Manamune > Segador de esencia
-**Objetos finales:** Filo infinito, Ángel de la guarda, Cañón de fuego rápido
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Centinela invisible, Preferencia, Poción de vida
+**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Manamune > Saqueador de esencias
+**Objetos finales:** Filo del infinito, Cañón de fuego rápido, Ángel Guardián

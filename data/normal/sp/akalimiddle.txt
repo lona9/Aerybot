@@ -1,6 +1,6 @@
 **Akali Mid** *(Normal)*
 **Posición:** Mid, Top
-**Porcentaje de victorias:** 47.0%
+**Porcentaje de victorias:** 47.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de hechicero
-**Objetos iniciales:** Guardián invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Lapa maliciosa > Creagrietas > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Bastón del Vacío, Sombrero mortal de Rabadon, Abrazo demoníaco
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Mirada absorbente > Agrietador > Reloj de arena de Zhonya > Morellonomicón
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Abrazo demoníaco

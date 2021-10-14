@@ -1,6 +1,6 @@
 **Sion ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 48.9%
+**Porcentaje de victorias:** 48.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Poción de corrupción
-**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Rompecascos > Hidra titánica
-**Objetos finales:** Malla de espinas, Presagio de Randuin, Cadenas de Anatema
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Poción de corrupción
+**Objetos principales:** Puñal serrado > Garra de merodeador > Filo fantasmal de Youmuu > El Coleccionista
+**Objetos finales:** Cota de espinas, Filo del infinito, Hidra titánica

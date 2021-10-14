@@ -1,5 +1,5 @@
 **Trundle** *(ARAM)*
-**Porcentagem de vitorias:** 51.0%
+**Porcentagem de vitorias:** 51.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Fago
 **Itens Core:** Fago > Ruptor Divino > Semblante Espiritual > Armadura de Espinhos
-**Itens End:** Sinal de Sterak, Hidra Titânica, Espada do Rei Destruído
+**Itens End:** Hidra Titânica, Espada do Rei Destruído, Sinal de Sterak

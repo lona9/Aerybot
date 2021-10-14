@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Brasa de Bami
 **Itens Core:** Brasa de Bami > Égide de Fogo Solar > Armadura de Espinhos > Armadura de Warmog
-**Itens End:** Placa Gargolítica, Couraça do Defunto, Máscara Abissal
+**Itens End:** Placa Gargolítica, Máscara Abissal, Força da Natureza

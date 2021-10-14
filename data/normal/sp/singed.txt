@@ -1,21 +1,21 @@
 **Singed ** *(Normal)*
-**Posición:** Top
-**Porcentaje de victorias:** 52.1%
+**Posición:** Top, Mid
+**Porcentaje de victorias:** 51.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
+**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
 > :cd:<:dom12:804447180362219551>:cd::cd:
 >   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd:<:dom33:804457129578332160>
 > :cd::cd:<:dom43:804457129183936582>:cd:
 
->   :cd:<:precision22:804446921414541333>:cd:
->   :cd:<:precision32:804446921737371648>:cd:
 >   :cd::cd::cd:
+>   :cd:<:bruj32:804448797346234369>:cd:
+>   :cd:<:bruj42:804448797572595813>:cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Poción de corrupción
-**Objetos principales:** Vara explosiva > Cetro de cristal de Rylai > Creagrietas > Abrazo demoníaco
-**Objetos finales:** Coraza del muerto, Reloj de arena de Zhonya, Robaalmas de Mejai
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Poción de corrupción
+**Objetos principales:** Vara explosiva > Cetro de cristal de Rylai > Agrietador > Abrazo demoníaco
+**Objetos finales:** Reloj de arena de Zhonya, Coraza del muerto, Robaalmas de Mejai

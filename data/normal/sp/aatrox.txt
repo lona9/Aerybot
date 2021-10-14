@@ -1,6 +1,6 @@
 **Aatrox ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 50.5%
+**Porcentaje de victorias:** 50.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Látigo puntahierro > Chupasangre > Calibrador de Sterak > Baile de la muerte
-**Objetos finales:** Ángel de la guarda, Rostro espiritual, Malla de espinas
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Látigo férreo > Bebedor de sangre > Guantelete de Sterak > Danza de la muerte
+**Objetos finales:** Ángel Guardián, Apariencia espiritual, Cota de espinas

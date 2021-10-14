@@ -1,6 +1,6 @@
 **Twitch ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 49.6%
+**Porcentaje de victorias:** 49.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Guardián invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj del mediodía > Verdugo de krakens > Huracán de Runaan > Filo infinito
-**Objetos finales:** Recuerdos de lord Dominik, Ángel de la guarda, Recordatorio letal
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Huracán de Runaan > Filo del infinito
+**Objetos finales:** Recuerdos de lord Dominik, Ángel Guardián, Recordatorio mortal

@@ -1,6 +1,6 @@
 **Vayne ** *(ARAM)*
-**Porcentaje de victorias:** 51.0%
-**Hechizos del Invocador:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
+**Porcentaje de victorias:** 51.3%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > <:precision11:804445926906658886>:cd::cd::cd:

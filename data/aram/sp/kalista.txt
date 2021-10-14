@@ -1,6 +1,6 @@
 **Kalista ** *(ARAM)*
-**Porcentaje de victorias:** 47.8%
-**Hechizos del Invocador:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
+**Porcentaje de victorias:** 46.7%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd::cd:<:dom14:804447179938070569>

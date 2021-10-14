@@ -1,21 +1,21 @@
 **Singed Build ** *(Normal)*
-**Rota:** Rota Topo
-**Porcentagem de vitorias:** 52.1%
+**Rota:** Rota Topo, Rota do Meio
+**Porcentagem de vitorias:** 51.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
+**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
 > :cd:<:dom12:804447180362219551>:cd::cd:
 >   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd:<:dom33:804457129578332160>
 > :cd::cd:<:dom43:804457129183936582>:cd:
 
->   :cd:<:precision22:804446921414541333>:cd:
->   :cd:<:precision32:804446921737371648>:cd:
 >   :cd::cd::cd:
+>   :cd:<:bruj32:804448797346234369>:cd:
+>   :cd:<:bruj42:804448797572595813>:cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
 **Itens Core:** Varinha Explosiva > Cetro de Cristal de Rylai > Criafendas > Abraço Demoníaco
-**Itens End:** Couraça do Defunto, Ampulheta de Zhonya, Ladrão de Almas de Mejai
+**Itens End:** Ampulheta de Zhonya, Couraça do Defunto, Ladrão de Almas de Mejai

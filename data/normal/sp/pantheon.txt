@@ -1,6 +1,6 @@
 **Pantheon ** *(Normal)*
 **Posición:** Mid, Support
-**Porcentaje de victorias:** 49.2%
+**Porcentaje de victorias:** 49.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Poción de corrupción
-**Objetos principales:** Daga dentada > Eclipse > Cuchilla negra > Calibrador de Sterak
-**Objetos finales:** Ángel de la guarda, Mecanoespada punki, Baile de la muerte
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Poción de corrupción
+**Objetos principales:** Puñal serrado > Eclipse > Cuchilla oscura > Guantelete de Sterak
+**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Danza de la muerte

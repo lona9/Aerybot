@@ -1,6 +1,6 @@
 **Irelia Mid** *(Normal)*
 **Posición:** Top, Mid
-**Porcentaje de victorias:** 49.3%
+**Porcentaje de victorias:** 48.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Calibrador de Sterak
-**Objetos iniciales:** Guardián invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Poción de vida > Cetro vampírico > Hoja del rey arruinado > Chupasangre
-**Objetos finales:** Ángel de la guarda, Baile de la muerte, Mecanoespada punki
+**Botas:** Guantelete de Sterak
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Poción de vida > Cetro vampírico > Hoja del rey arruinado > Bebedor de sangre
+**Objetos finales:** Ángel Guardián, Danza de la muerte, Sierraespada Quimopunk

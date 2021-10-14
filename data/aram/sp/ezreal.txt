@@ -1,5 +1,5 @@
 **Ezreal ** *(ARAM)*
-**Porcentaje de victorias:** 51.7%
+**Porcentaje de victorias:** 51.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Manamune
-**Objetos iniciales:** Brillo, Lágrima de la diosa, Poción de vida
-**Objetos principales:** Lágrima de la diosa > Poción de vida > Brillo > Cercenador divino
+**Objetos iniciales:** Poción reutilizable, Brillo, Lágrima de la diosa
+**Objetos principales:** Brillo > Lágrima de la diosa > Brillo > Cercenador divino
 **Objetos finales:** Hidra voraz, Sierraespada Quimopunk, El Coleccionista

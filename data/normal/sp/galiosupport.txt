@@ -1,6 +1,6 @@
 **Galio Support** *(Normal)*
 **Posición:** Mid, Support
-**Porcentaje de victorias:** 48.5%
+**Porcentaje de victorias:** 48.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:bruj:804451124236648478>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Escudo reliquia
-**Objetos principales:** Gema avivadora > Canción de batalla de Shurelya > Reloj de arena de Zhonya > Malla de espinas
-**Objetos finales:** Poción de vida, Promesa de caballero, Cadenas de Anatema
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Escudo reliquia
+**Objetos principales:** Gemaluz > Canción de batalla de Shurelya > Reloj de arena de Zhonya > Cota de espinas
+**Objetos finales:** Poción de vida, Cadenas de Anatema, Promesa del caballero

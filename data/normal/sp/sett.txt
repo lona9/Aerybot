@@ -1,6 +1,6 @@
 **Sett ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 50.4%
+**Porcentaje de victorias:** 50.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Látigo puntahierro > Chupasangre > Calibrador de Sterak > Hidra titánica
-**Objetos finales:** Malla de espinas, Rostro espiritual, Coraza del muerto
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Látigo férreo > Bebedor de sangre > Guantelete de Sterak > Hidra titánica
+**Objetos finales:** Cota de espinas, Apariencia espiritual, Coraza del muerto

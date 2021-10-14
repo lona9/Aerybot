@@ -1,6 +1,6 @@
 **Janna ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 51.1%
+**Porcentaje de victorias:** 50.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Guardián invisible, Daga de hechicero, Poción de vida
-**Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Putrificador tecnoquímico > Bastón de aguas fluidas
-**Objetos finales:** Incensario ardiente, Redención, Bendición de Mikael
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
+**Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Putrificador tecnoquímico > Báculo de agua fluyente
+**Objetos finales:** Pebetero ardiente, Redención, Bendición de Mikael

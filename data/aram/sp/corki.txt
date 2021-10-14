@@ -1,5 +1,5 @@
 **Corki ** *(ARAM)*
-**Porcentaje de victorias:** 49.7%
+**Porcentaje de victorias:** 50.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Manamune
-**Objetos iniciales:** Poción reutilizable, Brillo, Lágrima de la diosa
-**Objetos principales:** Brillo > Lágrima de la diosa > Brillo > Cercenador divino
+**Botas:** Brillo
+**Objetos iniciales:** Botas, Perla de rejuvenecimiento, Espada larga, Poción reutilizable, Lágrima de la diosa
+**Objetos principales:** Perla de rejuvenecimiento > Espada larga > Poción reutilizable > Lágrima de la diosa
 **Objetos finales:** Filo del infinito, Sanguinaria, Recordatorio mortal
