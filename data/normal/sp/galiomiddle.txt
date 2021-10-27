@@ -1,6 +1,6 @@
 **Galio Mid** *(Normal)*
 **Posición:** Mid, Support
-**Porcentaje de victorias:** 51.1%
+**Porcentaje de victorias:** 52.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:bruj:804451124236648478>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
 **Objetos principales:** Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Robaalmas de Mejai
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Abrazo demoníaco

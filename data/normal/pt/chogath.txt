@@ -1,6 +1,6 @@
 **Cho'Gath Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 49.4%
+**Porcentagem de vitorias:** 50.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
 **Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Armadura de Espinhos > Placa Gargolítica
-**Itens End:** Armadura de Warmog, Coração Congelado, Presságio de Randuin
+**Itens End:** Coração Congelado, Armadura de Warmog, Correntes de Anátema

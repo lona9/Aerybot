@@ -1,5 +1,5 @@
 **Blitzcrank ** *(ARAM)*
-**Porcentaje de victorias:** 50.3%
+**Porcentaje de victorias:** 51.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Escarcha eterna > Impulso cósmico > Reloj de arena de Zhonya
-**Objetos finales:** Cota de espinas, Armadura de Warmog, Corazón de hielo
+**Objetos finales:** Armadura de Warmog, Corazón de hielo, Cota de espinas

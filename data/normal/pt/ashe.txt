@@ -1,6 +1,6 @@
 **Ashe Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 50.7%
+**Porcentagem de vitorias:** 51.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 

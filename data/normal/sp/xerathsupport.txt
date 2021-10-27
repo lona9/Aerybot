@@ -1,6 +1,6 @@
 **Xerath Support** *(Normal)*
 **Posición:** Support, Mid
-**Porcentaje de victorias:** 48.8%
+**Porcentaje de victorias:** 50.4%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 

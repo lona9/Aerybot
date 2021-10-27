@@ -1,6 +1,6 @@
 **Aurelion Sol ** *(Normal)*
 **Posición:** Mid
-**Porcentaje de victorias:** 51.8%
+**Porcentaje de victorias:** 50.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 

@@ -9,13 +9,13 @@
 >   <:precision31:804446921660956702>:cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:
 
->   :cd::cd:<:dom23:804457130307485707>
 >   :cd::cd::cd:
+>   :cd::cd:<:dom33:804457129578332160>
 > :cd::cd:<:dom43:804457129183936582>:cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
-**Itens Core:** Chicote Ferrifarpo > Lâmina Fantasma de Youmuu > Limiar da Noite > Hemodrenário
-**Itens End:** Gume do Infinito, Anjo Guardião, Lembranças do Lorde Dominik
+**Itens Core:** Punhal Serrilhado > Lâmina Fantasma de Youmuu > Crepúsculo de Draktharr > Colhedor de Essência
+**Itens End:** Gume do Infinito, Lembranças do Lorde Dominik, Anjo Guardião

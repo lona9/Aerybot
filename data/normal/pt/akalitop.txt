@@ -1,17 +1,17 @@
 **Akali Build Rota Topo** *(Normal)*
 **Rota:** Rota do Meio, Rota Topo
-**Porcentagem de vitorias:** 46.6%
+**Porcentagem de vitorias:** 46.0%
 **Summoner Spells:** <:Teleport:804555481699713034> <:Ignite:804555481167298570>
-**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+**Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd::cd::cd:<:precision14:804446921631596585>
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd:<:precision32:804446921737371648>:cd:
 >   <:precision41:804446922151690300>:cd::cd:
 
->   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
-> <:dom41:804457130379182120>:cd::cd::cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   <:valor41:804449944298586143>:cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**

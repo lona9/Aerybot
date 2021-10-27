@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Mirada absorbente
 **Objetos principales:** Mirada absorbente > Agrietador > Diente de Nashor > Impulso cósmico
-**Objetos finales:** Apariencia espiritual, Sombrero mortífero de Rabadon, Reloj de arena de Zhonya
+**Objetos finales:** Reloj de arena de Zhonya, Sombrero mortífero de Rabadon, Apariencia espiritual

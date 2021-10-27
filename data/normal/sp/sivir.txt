@@ -1,6 +1,6 @@
 **Sivir ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 51.1%
+**Porcentaje de victorias:** 50.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Lágrima de la diosa, Poción de vida
-**Objetos principales:** Martillo de guerra de Caulfield > Manamune > Filoscuro de Draktharr > Rencor de Serylda
+**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > Manamune > Rencor de Serylda
 **Objetos finales:** Ángel Guardián, Filo de la noche, Recordatorio mortal

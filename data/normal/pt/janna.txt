@@ -4,7 +4,7 @@
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
->   <:bruj11:804448796104589323>:cd::cd:
+>   :cd:<:bruj12:804448797001252864>:cd:
 >   :cd:<:bruj22:804448796553117707>:cd:
 >   :cd:<:bruj32:804448797346234369>:cd:
 >   <:bruj41:804448797597499402>:cd::cd:
@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
 **Itens Core:** Espelho de Bandópolis > Hino Bélico de Shurelya > Putrificador Quimtec > Cajado Aquafluxo
-**Itens End:** Turíbulo Ardente, Redenção, Bênção de Mikael
+**Itens End:** Turíbulo Ardente, Bênção de Mikael, Redenção

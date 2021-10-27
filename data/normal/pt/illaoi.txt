@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
-**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Sinal de Sterak > Dança da Morte
+**Itens Core:** Fago > Ruptor Divino > Sinal de Sterak > Dança da Morte
 **Itens End:** Semblante Espiritual, Armadura de Espinhos, Anjo Guardião

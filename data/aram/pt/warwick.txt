@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Fago
 **Itens Core:** Fago > Ruptor Divino > Semblante Espiritual > Armadura de Espinhos
-**Itens End:** Sinal de Sterak, Limite da Razão, Dança da Morte
+**Itens End:** Sinal de Sterak, Dança da Morte, Limite da Razão

@@ -1,21 +1,21 @@
 **Zilean Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 52.3%
+**Porcentagem de vitorias:** 51.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
+**Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
 >   <:bruj11:804448796104589323>:cd::cd:
 >   :cd:<:bruj22:804448796553117707>:cd:
 >   <:bruj31:804448797395910716>:cd::cd:
->   <:bruj41:804448797597499402>:cd::cd:
+>   :cd:<:bruj42:804448797572595813>:cd:
 
+>   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd::cd:
->   :cd::cd:<:insp33:804450564049731594>
->   <:insp41:804450563507879947>:cd::cd:
+> :cd::cd:<:dom43:804457129183936582>:cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
 **Itens Core:** Espelho de Bandópolis > Hino Bélico de Shurelya > Putrificador Quimtec > Ampulheta de Zhonya
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ímpeto Cósmico
+**Itens End:** Ímpeto Cósmico, Cajado do Vazio, Capuz da Morte de Rabadon

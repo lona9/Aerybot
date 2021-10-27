@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Sombrero mortífero de Rabadon
-**Objetos iniciales:** Perla de rejuvenecimiento, Poción reutilizable, Alternador hextech
-**Objetos principales:** Alternador hextech > Alternador hextech > Cosechador nocturno > Maldición del liche
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Botas, Alternador hextech
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Maldición del liche > Sombrero mortífero de Rabadon
 **Objetos finales:** Báculo del vacío, Velo de la banshee, Reloj de arena de Zhonya

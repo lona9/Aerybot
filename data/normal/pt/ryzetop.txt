@@ -1,6 +1,6 @@
 **Ryze Build Rota Topo** *(Normal)*
-**Rota:** Rota do Meio
-**Porcentagem de vitorias:** 43.6%
+**Rota:** Rota do Meio, Rota Topo
+**Porcentagem de vitorias:** 45.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Ionianas da Lucidez
+**Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Lágrima da Deusa, Poção de Vida
 **Itens Core:** Capítulo Perdido > Glacieterno > Cajado do Arcanjo > Ampulheta de Zhonya
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Coração Congelado
+**Itens End:** Capuz da Morte de Rabadon, Morellonomicon, Cajado do Vazio

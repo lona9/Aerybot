@@ -1,6 +1,6 @@
 **Janna** *(ARAM)*
-**Porcentagem de vitorias:** 53.2%
-**Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
+**Porcentagem de vitorias:** 52.8%
+**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
 >   :cd:<:bruj12:804448797001252864>:cd:
@@ -17,4 +17,4 @@
 **Botas:** Redenção
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Tormenta de Luden > Foco do Horizonte > Morellonomicon > Botas Ionianas da Lucidez
-**Itens End:** Redenção, Putrificador Quimtec, Cajado Aquafluxo
+**Itens End:** Redenção, Cajado Aquafluxo, Putrificador Quimtec

@@ -1,21 +1,21 @@
 **Akali Mid** *(Normal)*
 **Posición:** Mid, Top
-**Porcentaje de victorias:** 47.2%
+**Porcentaje de victorias:** 48.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+**Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd::cd::cd:<:precision14:804446921631596585>
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd:<:precision32:804446921737371648>:cd:
 >   <:precision41:804446922151690300>:cd::cd:
 
->   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
-> <:dom41:804457130379182120>:cd::cd::cd:
->   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+>   :cd:<:valor32:804449943959765002>:cd:
+>   <:valor41:804449944298586143>:cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Mirada absorbente > Agrietador > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Abrazo demoníaco
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Abrazo demoníaco

@@ -1,5 +1,5 @@
 **Aphelios ** *(ARAM)*
-**Porcentaje de victorias:** 52.9%
+**Porcentaje de victorias:** 53.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
-**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > El Coleccionista > Huracán de Runaan
-**Objetos finales:** Sanguinaria, Recuerdos de lord Dominik, Filo del infinito
+**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > El Coleccionista > Filo del infinito
+**Objetos finales:** Sanguinaria, Recuerdos de lord Dominik, Huracán de Runaan

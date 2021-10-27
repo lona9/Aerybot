@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Bacteriófago
 **Objetos principales:** Bacteriófago > Cercenador divino > Apariencia espiritual > Cota de espinas
-**Objetos finales:** Guantelete de Sterak, Al filo de la Cordura, Danza de la muerte
+**Objetos finales:** Guantelete de Sterak, Danza de la muerte, Al filo de la Cordura

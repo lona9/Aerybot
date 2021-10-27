@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Olhar Sanguessuga
 **Itens Core:** Olhar Sanguessuga > Criafendas > Dente de Na'Shor > Ímpeto Cósmico
-**Itens End:** Semblante Espiritual, Capuz da Morte de Rabadon, Ampulheta de Zhonya
+**Itens End:** Ampulheta de Zhonya, Capuz da Morte de Rabadon, Semblante Espiritual

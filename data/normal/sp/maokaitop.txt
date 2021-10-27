@@ -1,6 +1,6 @@
 **Maokai Top** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 49.2%
+**Porcentaje de victorias:** 52.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Corazón de hielo
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Égida de fuego solar > Cota de espinas > Máscara abisal > Punteras de acero revestidas
-**Objetos finales:** Corazón de hielo, Cadenas de Anatema, Presagio de Randuin
+**Objetos finales:** Corazón de hielo, Presagio de Randuin, Apariencia espiritual

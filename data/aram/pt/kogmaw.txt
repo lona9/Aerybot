@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
-**Itens Core:** Capítulo Perdido > Angústia de Liandry > Cajado do Arcanjo > Foco do Horizonte
+**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Limite da Razão > Furacão de Runaan
 **Itens End:** Espada do Rei Destruído, Lâmina da Fúria de Guinsoo, Capuz da Morte de Rabadon

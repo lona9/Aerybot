@@ -1,5 +1,5 @@
 **Aphelios** *(ARAM)*
-**Porcentagem de vitorias:** 52.9%
+**Porcentagem de vitorias:** 53.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
-**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > A Coletora > Furacão de Runaan
-**Itens End:** Sedenta por Sangue, Lembranças do Lorde Dominik, Gume do Infinito
+**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > A Coletora > Gume do Infinito
+**Itens End:** Sedenta por Sangue, Lembranças do Lorde Dominik, Furacão de Runaan

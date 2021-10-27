@@ -1,21 +1,21 @@
 **Zilean ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 52.3%
+**Porcentaje de victorias:** 51.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
+**Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
 >   <:bruj11:804448796104589323>:cd::cd:
 >   :cd:<:bruj22:804448796553117707>:cd:
 >   <:bruj31:804448797395910716>:cd::cd:
->   <:bruj41:804448797597499402>:cd::cd:
+>   :cd:<:bruj42:804448797572595813>:cd:
 
+>   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd::cd:
->   :cd::cd:<:insp33:804450564049731594>
->   <:insp41:804450563507879947>:cd::cd:
+> :cd::cd:<:dom43:804457129183936582>:cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Putrificador tecnoquímico > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Impulso cósmico
+**Objetos finales:** Impulso cósmico, Báculo del vacío, Sombrero mortífero de Rabadon

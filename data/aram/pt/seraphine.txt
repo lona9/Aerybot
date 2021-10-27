@@ -1,5 +1,5 @@
 **Seraphine** *(ARAM)*
-**Porcentagem de vitorias:** 56.7%
+**Porcentagem de vitorias:** 55.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Putrificador Quimtec > Cajado Aquafluxo
-**Itens End:** Capuz da Morte de Rabadon, Ampulheta de Zhonya, Redenção
+**Itens End:** Capuz da Morte de Rabadon, Ampulheta de Zhonya, Ímpeto Cósmico
