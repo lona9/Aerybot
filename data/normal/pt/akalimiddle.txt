@@ -1,6 +1,6 @@
 **Akali Build Rota do Meio** *(Normal)*
 **Rota:** Rota do Meio, Rota Topo
-**Porcentagem de vitorias:** 48.2%
+**Porcentagem de vitorias:** 47.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
 **Itens Core:** Olhar Sanguessuga > Criafendas > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Abraço Demoníaco
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Abraço Demoníaco

@@ -1,5 +1,5 @@
 **Karma** *(ARAM)*
-**Porcentagem de vitorias:** 50.4%
+**Porcentagem de vitorias:** 50.0%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 

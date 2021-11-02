@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
 **Itens Core:** Fulgor > Ruptor Divino > Sinal de Sterak > Dança da Morte
-**Itens End:** Armadura de Espinhos, Semblante Espiritual, Anjo Guardião
+**Itens End:** Armadura de Espinhos, Semblante Espiritual, Couraça do Defunto

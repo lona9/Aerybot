@@ -18,4 +18,4 @@
 **Botas:** Coração Congelado
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
 **Itens Core:** Égide de Fogo Solar > Armadura de Espinhos > Máscara Abissal > Botas Galvanizadas de Aço
-**Itens End:** Coração Congelado, Presságio de Randuin, Semblante Espiritual
+**Itens End:** Coração Congelado, Presságio de Randuin, Correntes de Anátema

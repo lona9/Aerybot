@@ -1,6 +1,6 @@
 **Pantheon Build Suporte** *(Normal)*
 **Rota:** Suporte, Rota do Meio
-**Porcentagem de vitorias:** 47.0%
+**Porcentagem de vitorias:** 46.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas da Mobilidade
 **Itens Iniciais:** Sentinela Invisível, Guarda-ombros de Aço, Poção de Vida
 **Itens Core:** Punhal Serrilhado > Eclipse > Glaive Sombria > Serrespada Quimiopunk
-**Itens End:** Sinal de Sterak, Anjo Guardião, Presa da Serpente
+**Itens End:** Anjo Guardião, Sinal de Sterak, Presa da Serpente

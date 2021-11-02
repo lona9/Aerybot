@@ -17,4 +17,4 @@
 **Botas:** Arcoescudo inmortal
 **Objetos iniciales:** Daga, Cetro vampírico, Poción reutilizable
 **Objetos principales:** Cetro vampírico > Poción reutilizable > Cetro vampírico > Hoja del rey arruinado
-**Objetos finales:** Danza de la muerte, Apariencia espiritual, Guantelete de Sterak
+**Objetos finales:** Danza de la muerte, Apariencia espiritual, Hidra voraz

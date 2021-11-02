@@ -1,6 +1,6 @@
 **Viego Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 49.9%
+**Porcentagem de vitorias:** 50.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Limite da Razão
+**Botas:** Serrespada Quimiopunk
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
 **Itens Core:** Sinal de Sterak > Botas Galvanizadas de Aço > Anjo Guardião > Dança da Morte
-**Itens End:** Anjo Guardião, Dança da Morte, Limite da Razão
+**Itens End:** Anjo Guardião, Dança da Morte, Serrespada Quimiopunk

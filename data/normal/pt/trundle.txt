@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
 **Itens Core:** Fulgor > Ruptor Divino > Sinal de Sterak > Armadura de Espinhos
-**Itens End:** Semblante Espiritual, Couraça do Defunto, Hidra Titânica
+**Itens End:** Semblante Espiritual, Hidra Titânica, Couraça do Defunto

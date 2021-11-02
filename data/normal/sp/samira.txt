@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Cetro vampírico > Arcoescudo inmortal > El Coleccionista > Filo del infinito
+**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > El Coleccionista > Filo del infinito
 **Objetos finales:** Ángel Guardián, Sanguinaria, Recuerdos de lord Dominik

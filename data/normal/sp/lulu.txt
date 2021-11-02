@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Putrificador tecnoquímico > Pebetero ardiente
-**Objetos finales:** Báculo de agua fluyente, Redención, Bendición de Mikael
+**Objetos finales:** Redención, Báculo de agua fluyente, Bendición de Mikael

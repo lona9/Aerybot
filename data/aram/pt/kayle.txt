@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
-**Itens Core:** Arco Recurvo > Dente de Na'Shor > Criafendas > Limite da Razão
-**Itens End:** Lâmina da Fúria de Guinsoo, Espada do Rei Destruído, Canhão Fumegante
+**Itens Core:** Aljava Vespertina > Mata-Cráquens > Espada do Rei Destruído > Lâmina da Fúria de Guinsoo
+**Itens End:** Limite da Razão, Sedenta por Sangue, Canhão Fumegante

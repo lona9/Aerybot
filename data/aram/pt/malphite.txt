@@ -17,4 +17,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Botas, Alternador Hextec
 **Itens Core:** Alternador Hextec > Colhedor Noturno > Ímpeto Cósmico > Ampulheta de Zhonya
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Foco do Horizonte
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

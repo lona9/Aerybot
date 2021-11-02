@@ -1,6 +1,6 @@
 **Tahm Kench AD Carry** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 51.6%
+**Porcentaje de victorias:** 53.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 

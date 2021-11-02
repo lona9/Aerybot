@@ -17,4 +17,4 @@
 **Botas:** Arco-escudo Imortal
 **Itens Iniciais:** Adaga, Cetro Vampírico, Poção com Refil
 **Itens Core:** Cetro Vampírico > Poção com Refil > Cetro Vampírico > Espada do Rei Destruído
-**Itens End:** Dança da Morte, Semblante Espiritual, Sinal de Sterak
+**Itens End:** Dança da Morte, Semblante Espiritual, Hidra Raivosa

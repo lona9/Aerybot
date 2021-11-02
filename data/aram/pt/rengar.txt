@@ -1,5 +1,5 @@
 **Rengar** *(ARAM)*
-**Porcentagem de vitorias:** 45.7%
+**Porcentagem de vitorias:** 46.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Punhal Serrilhado
 **Itens Core:** Punhal Serrilhado > Crepúsculo de Draktharr > A Coletora > Colhedor de Essência
-**Itens End:** Gume do Infinito, Limiar da Noite, Lembranças do Lorde Dominik
+**Itens End:** Gume do Infinito, Lembranças do Lorde Dominik, Limiar da Noite

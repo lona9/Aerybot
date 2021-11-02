@@ -1,6 +1,6 @@
 **Maokai Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 52.8%
+**Porcentagem de vitorias:** 53.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Escudo Relicário, Poção de Vida
-**Itens Core:** Brasa de Bami > Égide de Fogo Solar > Armadura de Espinhos > Máscara Abissal
-**Itens End:** Presságio de Randuin, Coração Congelado, Semblante Espiritual
+**Itens Core:** Couraça Lunar Alada > Couraça do Defunto > Máscara Abissal > Medalhão dos Solari de Ferro
+**Itens End:** Coração Congelado, Semblante Espiritual, Presságio de Randuin

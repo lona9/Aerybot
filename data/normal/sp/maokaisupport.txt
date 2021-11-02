@@ -1,6 +1,6 @@
 **Maokai Support** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 52.9%
+**Porcentaje de victorias:** 53.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo reliquia
 **Objetos principales:** Armadura lunar alada > Coraza del muerto > Máscara abisal > Relicario de los Solari de Hierro
-**Objetos finales:** Poción de vida, Cota de espinas, Abrazo demoníaco
+**Objetos finales:** Poción de vida, Abrazo demoníaco, Cota de espinas

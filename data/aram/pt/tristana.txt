@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
-**Itens Core:** Aljava Vespertina > Mata-Cráquens > Dançarina Fantasma > Gume do Infinito
+**Itens Core:** Aljava Vespertina > Mata-Cráquens > Canhão Fumegante > Gume do Infinito
 **Itens End:** Sedenta por Sangue, Lembranças do Lorde Dominik, Lembrete Mortal

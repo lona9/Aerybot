@@ -17,4 +17,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Botas, Alternador hextech
 **Objetos principales:** Alternador hextech > Cosechador nocturno > Impulso cósmico > Reloj de arena de Zhonya
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Enfoque al horizonte
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

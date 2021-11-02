@@ -9,7 +9,7 @@
 >   <:valor41:804449944298586143>:cd::cd:
 
 >   :cd:<:precision22:804446921414541333>:cd:
->   :cd:<:precision32:804446921737371648>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd::cd:
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Brasa de Bami
 **Itens Core:** Brasa de Bami > Égide de Fogo Solar > Armadura de Espinhos > Armadura de Warmog
-**Itens End:** Placa Gargolítica, Máscara Abissal, Couraça do Defunto
+**Itens End:** Máscara Abissal, Placa Gargolítica, Couraça do Defunto

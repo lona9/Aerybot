@@ -1,13 +1,13 @@
 **Veigar ** *(Normal)*
 **Posición:** Mid
-**Porcentaje de victorias:** 49.8%
+**Porcentaje de victorias:** 49.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
 > <:dom11:804447179758239744>:cd::cd::cd:
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd:<:dom33:804457129578332160>
-> <:dom41:804457130379182120>:cd::cd::cd:
+> :cd:<:dom42:804457129980461107>:cd::cd:
 
 >   :cd:<:bruj22:804448796553117707>:cd:
 >   <:bruj31:804448797395910716>:cd::cd:

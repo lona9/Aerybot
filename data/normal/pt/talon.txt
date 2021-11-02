@@ -1,6 +1,6 @@
 **Talon Build ** *(Normal)*
 **Rota:** Selva, Rota do Meio
-**Porcentagem de vitorias:** 48.4%
+**Porcentagem de vitorias:** 49.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
-**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Lâmina Fantasma de Youmuu > Cutelo Negro
-**Itens End:** Anjo Guardião, Rancor de Serylda, Limiar da Noite
+**Itens Core:** Punhal Serrilhado > Lâmina Fantasma de Youmuu > Eclipse > Rancor de Serylda
+**Itens End:** Anjo Guardião, Limiar da Noite, Presa da Serpente

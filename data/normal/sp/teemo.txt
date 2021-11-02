@@ -1,6 +1,6 @@
 **Teemo ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 50.9%
+**Porcentaje de victorias:** 51.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -9,7 +9,7 @@
 >   <:precision31:804446921660956702>:cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:
 
->   <:dom21:804457127800078397>:cd::cd:
+>   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
 > <:dom41:804457130379182120>:cd::cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Arco curvo > Diente de Nashor > Agrietador > Morellonomicón
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Reloj de arena de Zhonya
+**Objetos principales:** Arco curvo > Diente de Nashor > Agrietador > Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón

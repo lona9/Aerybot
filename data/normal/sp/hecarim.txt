@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
 **Objetos principales:** Brillo > Cercenador divino > Guantelete de Sterak > Danza de la muerte
-**Objetos finales:** Cota de espinas, Apariencia espiritual, Ángel Guardián
+**Objetos finales:** Cota de espinas, Apariencia espiritual, Coraza del muerto

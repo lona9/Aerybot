@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
-**Objetos principales:** Carcaj de mediodía > Matakrakens > Bailarín espectral > Filo del infinito
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Cañón de fuego rápido > Filo del infinito
 **Objetos finales:** Sanguinaria, Recuerdos de lord Dominik, Recordatorio mortal

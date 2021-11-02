@@ -1,6 +1,6 @@
 **Kennen ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 49.2%
+**Porcentaje de victorias:** 47.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
