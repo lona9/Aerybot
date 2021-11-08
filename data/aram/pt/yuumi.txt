@@ -1,5 +1,5 @@
 **Yuumi** *(ARAM)*
-**Porcentagem de vitorias:** 50.3%
+**Porcentagem de vitorias:** 47.7%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Putrificador Quimtec
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Tormenta de Luden > Foco do Horizonte > Capuz da Morte de Rabadon > Botas Ionianas da Lucidez
-**Itens End:** Putrificador Quimtec, Redenção, Turíbulo Ardente
+**Itens End:** Putrificador Quimtec, Redenção, Cajado Aquafluxo

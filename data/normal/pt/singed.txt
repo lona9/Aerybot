@@ -1,6 +1,6 @@
 **Singed Build ** *(Normal)*
-**Rota:** Rota Topo, Rota do Meio
-**Porcentagem de vitorias:** 51.3%
+**Rota:** Rota Topo
+**Porcentagem de vitorias:** 50.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
 **Itens Core:** Varinha Explosiva > Cetro de Cristal de Rylai > Criafendas > Abraço Demoníaco
-**Itens End:** Couraça do Defunto, Ampulheta de Zhonya, Ladrão de Almas de Mejai
+**Itens End:** Ampulheta de Zhonya, Couraça do Defunto, Morellonomicon

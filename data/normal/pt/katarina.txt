@@ -1,6 +1,6 @@
 **Katarina Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 50.7%
+**Porcentagem de vitorias:** 50.1%
 **Summoner Spells:** <:Teleport:804555481699713034> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 

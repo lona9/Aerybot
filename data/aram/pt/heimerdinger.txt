@@ -1,5 +1,5 @@
 **Heimerdinger** *(ARAM)*
-**Porcentagem de vitorias:** 53.3%
+**Porcentagem de vitorias:** 51.8%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Capítulo Perdido > Angústia de Liandry > Abraço Demoníaco > Ampulheta de Zhonya
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

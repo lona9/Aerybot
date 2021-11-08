@@ -1,5 +1,5 @@
 **Kayle ** *(ARAM)*
-**Porcentaje de victorias:** 53.5%
+**Porcentaje de victorias:** 53.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
-**Objetos principales:** Carcaj de mediodía > Matakrakens > Hoja del rey arruinado > Hoja de furia de Guinsoo
-**Objetos finales:** Al filo de la Cordura, Sanguinaria, Cañón de fuego rápido
+**Objetos principales:** Arco curvo > Diente de Nashor > Agrietador > Al filo de la Cordura
+**Objetos finales:** Hoja de furia de Guinsoo, Hoja del rey arruinado, Cañón de fuego rápido

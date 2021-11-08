@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas de movilidad
-**Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
+**Objetos iniciales:** Centinela invisible, Escudo reliquia
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Cota de espinas, Corazón de hielo, Presagio de Randuin
+**Objetos finales:** Poción de vida, Máscara abisal, Cota de espinas

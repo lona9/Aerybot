@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Ceniza de Bami
-**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Máscara abisal
-**Objetos finales:** Armadura pétrea, Armadura de Warmog, Corazón de hielo
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Armadura de Warmog
+**Objetos finales:** Armadura pétrea, Máscara abisal, Corazón de hielo

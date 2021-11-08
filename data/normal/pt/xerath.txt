@@ -1,6 +1,6 @@
 **Xerath Build ** *(Normal)*
 **Rota:** Suporte, Rota do Meio
-**Porcentagem de vitorias:** 50.5%
+**Porcentagem de vitorias:** 50.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
 **Itens Core:** Capítulo Perdido > Tormenta de Luden > Foco do Horizonte > Ampulheta de Zhonya
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Ladrão de Almas de Mejai
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

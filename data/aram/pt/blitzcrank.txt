@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Capítulo Perdido > Glacieterno > Ímpeto Cósmico > Ampulheta de Zhonya
-**Itens End:** Armadura de Warmog, Armadura de Espinhos, Máscara Abissal
+**Itens End:** Armadura de Warmog, Máscara Abissal, Coração Congelado

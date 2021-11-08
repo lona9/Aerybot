@@ -1,6 +1,6 @@
 **Miss Fortune ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 51.1%
+**Porcentaje de victorias:** 50.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Puñal serrado > Eclipse > Filo fantasmal de Youmuu > Rencor de Serylda
-**Objetos finales:** Ángel Guardián, Sanguinaria, Recordatorio mortal
+**Objetos finales:** Ángel Guardián, Recordatorio mortal, Sanguinaria

@@ -1,6 +1,6 @@
 **Gangplank Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 47.5%
+**Porcentagem de vitorias:** 47.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 

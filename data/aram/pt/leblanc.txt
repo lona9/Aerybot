@@ -1,5 +1,5 @@
 **LeBlanc** *(ARAM)*
-**Porcentagem de vitorias:** 45.9%
+**Porcentagem de vitorias:** 45.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Capítulo Perdido > Tormenta de Luden > Ímpeto Cósmico > Ampulheta de Zhonya
-**Itens End:** Cajado do Vazio, Véu da Banshee, Morellonomicon
+**Itens End:** Cajado do Vazio, Véu da Banshee, Capuz da Morte de Rabadon

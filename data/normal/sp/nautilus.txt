@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Cota de espinas > Máscara abisal
-**Objetos finales:** Corazón de hielo, Presagio de Randuin, Convergencia de Zeke
+**Objetos finales:** Cadenas de Anatema, Presagio de Randuin, Convergencia de Zeke

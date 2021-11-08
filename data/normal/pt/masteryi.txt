@@ -1,6 +1,6 @@
 **Master Yi Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 50.1%
+**Porcentagem de vitorias:** 49.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -18,4 +18,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
 **Itens Core:** Punhal Serrilhado > Crepúsculo de Draktharr > A Coletora > Colhedor de Essência
-**Itens End:** Anjo Guardião, Sinal de Sterak, Dança da Morte
+**Itens End:** Anjo Guardião, Dança da Morte, Sinal de Sterak

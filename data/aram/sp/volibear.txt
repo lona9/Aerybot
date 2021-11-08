@@ -1,5 +1,5 @@
 **Volibear ** *(ARAM)*
-**Porcentaje de victorias:** 49.8%
+**Porcentaje de victorias:** 49.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Ceniza de Bami
-**Objetos principales:** Bacteriófago > Cercenador divino > Guantelete de Sterak > Apariencia espiritual
-**Objetos finales:** Armadura pétrea, Armadura de Warmog, Cota de espinas
+**Objetos iniciales:** Poción reutilizable, Bacteriófago
+**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Apariencia espiritual
+**Objetos finales:** Armadura pétrea, Armadura de Warmog, Fuerza de la naturaleza

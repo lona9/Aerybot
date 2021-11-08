@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Escarcha eterna > Impulso cósmico > Reloj de arena de Zhonya
-**Objetos finales:** Armadura de Warmog, Cota de espinas, Máscara abisal
+**Objetos finales:** Armadura de Warmog, Máscara abisal, Corazón de hielo

@@ -1,6 +1,6 @@
 **Maokai Build Suporte** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 53.9%
+**Porcentagem de vitorias:** 52.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Escudo Relicário
 **Itens Core:** Couraça Lunar Alada > Couraça do Defunto > Máscara Abissal > Medalhão dos Solari de Ferro
-**Itens End:** Poção de Vida, Abraço Demoníaco, Armadura de Espinhos
+**Itens End:** Poção de Vida, Armadura de Espinhos, Abraço Demoníaco

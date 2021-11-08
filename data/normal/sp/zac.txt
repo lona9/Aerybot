@@ -1,6 +1,6 @@
 **Zac ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 51.4%
+**Porcentaje de victorias:** 51.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -15,7 +15,7 @@
 >   <:5007:804451180164022312> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas jonias de la lucidez
+**Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Apariencia espiritual
-**Objetos finales:** Presagio de Randuin, Máscara abisal, Robaalmas de Mejai
+**Objetos finales:** Presagio de Randuin, Máscara abisal, Abrazo demoníaco

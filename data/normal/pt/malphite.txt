@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
-**Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Armadura de Espinhos > Coração Congelado
-**Itens End:** Ampulheta de Zhonya, Presságio de Randuin, Máscara Abissal
+**Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Armadura de Espinhos > Máscara Abissal
+**Itens End:** Coração Congelado, Ampulheta de Zhonya, Presságio de Randuin
