@@ -1,5 +1,5 @@
 **Blitzcrank** *(ARAM)*
-**Porcentagem de vitorias:** 50.8%
+**Porcentagem de vitorias:** 51.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Capítulo Perdido > Glacieterno > Ímpeto Cósmico > Ampulheta de Zhonya
-**Itens End:** Armadura de Warmog, Máscara Abissal, Coração Congelado
+**Itens End:** Armadura de Warmog, Coração Congelado, Armadura de Espinhos

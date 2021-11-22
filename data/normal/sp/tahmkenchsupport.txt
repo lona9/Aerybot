@@ -1,13 +1,13 @@
 **Tahm Kench Support** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 48.2%
+**Porcentaje de victorias:** 47.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
 >   :cd::cd:<:valor13:804449943497605171>
 >   :cd:<:valor22:804449944018223104>:cd:
->   :cd::cd:<:valor33:804449943603118131>
->   :cd::cd:<:valor43:804449944001708043>
+>   :cd:<:valor32:804449943959765002>:cd:
+>   :cd:<:valor42:804449943615438919>:cd:
 
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible
-**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Apariencia espiritual
-**Objetos finales:** Escudo reliquia, Poción de vida, Promesa del caballero
+**Objetos iniciales:** Centinela invisible, Escudo reliquia
+**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Apariencia espiritual > Cota de espinas
+**Objetos finales:** Poción de vida, Coraza del muerto, Promesa del caballero

@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Botas, Alternador hextech
-**Objetos principales:** Alternador hextech > Cosechador nocturno > Impulso cósmico > Sombrero mortífero de Rabadon
-**Objetos finales:** Báculo del vacío, Morellonomicón, Enfoque al horizonte
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Impulso cósmico > Enfoque al horizonte
+**Objetos finales:** Báculo del vacío, Morellonomicón, Sombrero mortífero de Rabadon

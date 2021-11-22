@@ -1,21 +1,21 @@
 **Singed ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 50.9%
+**Porcentaje de victorias:** 49.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
+**Runas:** <:dom:804451124085522442> <:valor:804451124245561394>
 
 > :cd:<:dom12:804447180362219551>:cd::cd:
->   <:dom21:804457127800078397>:cd::cd:
+>   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd:<:dom33:804457129578332160>
-> :cd::cd:<:dom43:804457129183936582>:cd:
+> :cd:<:dom42:804457129980461107>:cd::cd:
 
 >   :cd::cd::cd:
->   :cd:<:bruj32:804448797346234369>:cd:
->   :cd:<:bruj42:804448797572595813>:cd:
+>   :cd:<:valor32:804449943959765002>:cd:
+>   :cd::cd:<:valor43:804449944001708043>
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Vara explosiva > Cetro de cristal de Rylai > Agrietador > Abrazo demoníaco
-**Objetos finales:** Reloj de arena de Zhonya, Coraza del muerto, Morellonomicón
+**Objetos finales:** Fuerza de la naturaleza, Coraza del muerto, Reloj de arena de Zhonya

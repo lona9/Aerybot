@@ -1,6 +1,6 @@
 **Ahri Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 50.6%
+**Porcentagem de vitorias:** 51.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Itens Core:** Capítulo Perdido > Tormenta de Luden > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Véu da Banshee
+**Itens Core:** Capítulo Perdido > Tormenta de Luden > Foco do Horizonte > Ampulheta de Zhonya
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ímpeto Cósmico

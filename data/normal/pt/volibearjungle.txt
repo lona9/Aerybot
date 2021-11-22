@@ -1,16 +1,16 @@
 **Volibear Build Selva** *(Normal)*
 **Rota:** Rota Topo, Selva
-**Porcentagem de vitorias:** 50.2%
+**Porcentagem de vitorias:** 49.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
-**Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
+**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
-> <:precision11:804445926906658886>:cd::cd::cd:
->   :cd:<:precision22:804446921414541333>:cd:
->   :cd:<:precision32:804446921737371648>:cd:
->   :cd::cd:<:precision43:804446921941975080>
+> :cd:<:dom12:804447180362219551>:cd::cd:
+>   <:dom21:804457127800078397>:cd::cd:
+>   :cd::cd:<:dom33:804457129578332160>
+> :cd:<:dom42:804457129980461107>:cd::cd:
 
->   :cd::cd:<:bruj23:804448797425532928>
 >   :cd::cd::cd:
+>   :cd:<:bruj32:804448797346234369>:cd:
 >   :cd:<:bruj42:804448797572595813>:cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
 **Itens Core:** Fulgor > Ruptor Divino > Sinal de Sterak > Armadura de Espinhos
-**Itens End:** Semblante Espiritual, Presságio de Randuin, Força da Natureza
+**Itens End:** Presságio de Randuin, Couraça do Defunto, Semblante Espiritual

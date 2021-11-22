@@ -1,21 +1,21 @@
 **Neeko Build Suporte** *(Normal)*
 **Rota:** Rota do Meio, Suporte
-**Porcentagem de vitorias:** 48.3%
+**Porcentagem de vitorias:** 47.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
+**Runas:** <:insp:804451124207681577> <:dom:804451124085522442>
 
-> <:dom11:804447179758239744>:cd::cd::cd:
+>   <:insp11:804450563936223283>:cd::cd:
+>   :cd::cd:<:insp23:804450563948675112>
+>   :cd::cd:<:insp33:804450564049731594>
+>   <:insp41:804450563507879947>:cd::cd:
+
 >   <:dom21:804457127800078397>:cd::cd:
->   :cd::cd:<:dom33:804457129578332160>
-> <:dom41:804457130379182120>:cd::cd::cd:
-
->   :cd:<:bruj22:804448796553117707>:cd:
 >   :cd::cd::cd:
->   <:bruj41:804448797597499402>:cd::cd:
+> :cd:<:dom42:804457129980461107>:cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano
 **Itens Core:** Alternador Hextec > Explocinturão Hextec > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Poção de Vida, Capuz da Morte de Rabadon, Foco do Horizonte
+**Itens End:** Poção de Vida, Cajado do Vazio, Foco do Horizonte

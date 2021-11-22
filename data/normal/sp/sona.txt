@@ -1,21 +1,21 @@
 **Sona ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 53.4%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
+**Porcentaje de victorias:** 54.5%
+**Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
+**Runas:** <:bruj:804451124236648478> <:valor:804451124245561394>
 
 >   <:bruj11:804448796104589323>:cd::cd:
 >   :cd:<:bruj22:804448796553117707>:cd:
 >   <:bruj31:804448797395910716>:cd::cd:
 >   :cd::cd:<:bruj43:804448797631316069>
 
->   :cd::cd:<:precision23:804446921628057630>
 >   :cd::cd::cd:
->   :cd:<:precision42:804446921636053043>:cd:
+>   <:valor31:804449943666425907>:cd::cd:
+>   :cd:<:valor42:804449943615438919>:cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Putrificador tecnoquímico > Báculo de agua fluyente
-**Objetos finales:** Báculo del arcángel, Pebetero ardiente, Maldición del liche
+**Objetos finales:** Pebetero ardiente, Sombrero mortífero de Rabadon, Redención

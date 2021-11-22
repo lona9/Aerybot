@@ -1,6 +1,6 @@
 **Darius ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 50.6%
+**Porcentaje de victorias:** 49.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Hacha hogareña > Fuerza de la trinidad > Guantelete de Sterak > Coraza del muerto
-**Objetos finales:** Armadura pétrea, Cota de espinas, Apariencia espiritual
+**Objetos principales:** Látigo férreo > Cortasendas > Guantelete de Sterak > Coraza del muerto
+**Objetos finales:** Cota de espinas, Armadura pétrea, Apariencia espiritual

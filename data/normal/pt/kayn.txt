@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
 **Itens Core:** Chicote Ferrifarpo > Hemodrenário > Cutelo Negro > Sinal de Sterak
-**Itens End:** Anjo Guardião, Rancor de Serylda, Limiar da Noite
+**Itens End:** Rancor de Serylda, Anjo Guardião, Limiar da Noite

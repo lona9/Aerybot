@@ -1,13 +1,13 @@
 **Blitzcrank ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 52.0%
+**Porcentaje de victorias:** 51.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
 >   :cd:<:valor12:804449943775084614>:cd:
 >   :cd:<:valor22:804449944018223104>:cd:
 >   :cd::cd:<:valor33:804449943603118131>
->   :cd::cd:<:valor43:804449944001708043>
+>   <:valor41:804449944298586143>:cd::cd:
 
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
@@ -18,4 +18,4 @@
 **Botas:** Botas de movilidad
 **Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Corazón de hielo, Máscara abisal, Redención
+**Objetos finales:** Presagio de Randuin, Cota de espinas, Corazón de hielo

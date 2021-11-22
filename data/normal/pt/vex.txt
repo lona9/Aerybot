@@ -1,6 +1,6 @@
 **Vex Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 50.1%
+**Porcentagem de vitorias:** 50.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Itens Core:** Capítulo Perdido > Tormenta de Luden > Foco do Horizonte > Ampulheta de Zhonya
+**Botas:** Cajado do Vazio
+**Itens Iniciais:** Sentinela Invisível, Poção Corrupta
+**Itens Core:** Tormenta de Luden > Foco do Horizonte > Ampulheta de Zhonya > Sapatos do Feiticeiro
 **Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

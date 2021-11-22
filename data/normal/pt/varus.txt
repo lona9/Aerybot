@@ -1,21 +1,21 @@
 **Varus Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 47.6%
+**Porcentagem de vitorias:** 46.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
-**Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
+**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
-> :cd::cd::cd:<:dom14:804447179938070569>
+> :cd:<:precision12:804446921522675733>:cd::cd:
+>   :cd::cd:<:precision23:804446921628057630>
+>   <:precision31:804446921660956702>:cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
+
 >   :cd:<:dom22:804457129394176020>:cd:
->   :cd::cd:<:dom33:804457129578332160>
-> <:dom41:804457130379182120>:cd::cd::cd:
-
 >   :cd::cd::cd:
->   :cd::cd:<:insp33:804450564049731594>
->   <:insp41:804450563507879947>:cd::cd:
+> <:dom41:804457130379182120>:cd::cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Punhal Serrilhado > Crepúsculo de Draktharr > Manamune > Rancor de Serylda
-**Itens End:** Anjo Guardião, Limiar da Noite, A Coletora
+**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Limite da Razão > Lâmina da Fúria de Guinsoo
+**Itens End:** Anjo Guardião, Rancor de Serylda, Sedenta por Sangue

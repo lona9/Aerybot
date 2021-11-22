@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Chicote Ferrifarpo
-**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Sinal de Sterak > Semblante Espiritual
-**Itens End:** Armadura de Espinhos, Dança da Morte, Hidra Raivosa
+**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Sinal de Sterak > Dança da Morte
+**Itens End:** Armadura de Espinhos, Semblante Espiritual, Cutelo Negro

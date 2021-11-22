@@ -1,6 +1,6 @@
 **Kindred ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 50.3%
+**Porcentaje de victorias:** 49.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
 **Objetos principales:** Carcaj de mediodía > Matakrakens > El Coleccionista > Cañón de fuego rápido
-**Objetos finales:** Ángel Guardián, Filo del infinito, Recuerdos de lord Dominik
+**Objetos finales:** Ángel Guardián, Filo del infinito, Recordatorio mortal

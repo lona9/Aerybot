@@ -1,5 +1,5 @@
 **Nunu e Willump** *(ARAM)*
-**Porcentagem de vitorias:** 44.2%
+**Porcentagem de vitorias:** 43.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Botas, Alternador Hextec
-**Itens Core:** Alternador Hextec > Colhedor Noturno > Ímpeto Cósmico > Ampulheta de Zhonya
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon
+**Botas:** Ampulheta de Zhonya
+**Itens Iniciais:** Pérola do Rejuvenescimento, Poção com Refil, Alternador Hextec
+**Itens Core:** Alternador Hextec > Alternador Hextec > Colhedor Noturno > Ímpeto Cósmico
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Semblante Espiritual

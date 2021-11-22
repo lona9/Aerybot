@@ -1,6 +1,6 @@
 **Pantheon ** *(Normal)*
 **Posición:** Support, Mid
-**Porcentaje de victorias:** 48.8%
+**Porcentaje de victorias:** 48.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Puñal serrado > Eclipse > Cuchilla oscura > Guantelete de Sterak
-**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Danza de la muerte
+**Botas:** Filo de la noche
+**Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
+**Objetos principales:** Poción de vida > Puñal serrado > Eclipse > Filo fantasmal de Youmuu
+**Objetos finales:** Ángel Guardián, Rencor de Serylda, Sierraespada Quimopunk

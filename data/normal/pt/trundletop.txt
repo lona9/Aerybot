@@ -1,10 +1,10 @@
 **Trundle Build Rota Topo** *(Normal)*
 **Rota:** Selva, Rota Topo
-**Porcentagem de vitorias:** 51.2%
+**Porcentagem de vitorias:** 52.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
-> <:precision11:804445926906658886>:cd::cd::cd:
+> :cd:<:precision12:804446921522675733>:cd::cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd:<:precision43:804446921941975080>
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
 **Itens Core:** Fulgor > Ruptor Divino > Quebracascos > Hidra Titânica
-**Itens End:** Sinal de Sterak, Armadura de Espinhos, Semblante Espiritual
+**Itens End:** Armadura de Espinhos, Sinal de Sterak, Semblante Espiritual

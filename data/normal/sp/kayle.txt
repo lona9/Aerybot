@@ -1,10 +1,10 @@
 **Kayle ** *(Normal)*
 **Posición:** Top, Mid
-**Porcentaje de victorias:** 52.2%
+**Porcentaje de victorias:** 52.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
-> <:precision11:804445926906658886>:cd::cd::cd:
+> :cd:<:precision12:804446921522675733>:cd::cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:

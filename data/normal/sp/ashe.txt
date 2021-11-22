@@ -1,13 +1,13 @@
 **Ashe ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 50.7%
+**Porcentaje de victorias:** 50.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
-**Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
+**Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
-> :cd::cd::cd:<:dom14:804447179938070569>
->   <:dom21:804457127800078397>:cd::cd:
->   :cd::cd:<:dom33:804457129578332160>
-> <:dom41:804457130379182120>:cd::cd::cd:
+> :cd:<:precision12:804446921522675733>:cd::cd:
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd::cd:<:precision33:804446921644179516>
+>   <:precision41:804446922151690300>:cd::cd:
 
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>

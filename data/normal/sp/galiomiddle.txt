@@ -1,13 +1,13 @@
 **Galio Mid** *(Normal)*
 **Posición:** Mid, Support
-**Porcentaje de victorias:** 50.7%
+**Porcentaje de victorias:** 50.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runas:** <:valor:804451124245561394> <:bruj:804451124236648478>
+**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
->   :cd:<:valor12:804449943775084614>:cd:
->   :cd::cd:<:valor23:804449943876010024>
->   :cd::cd:<:valor33:804449943603118131>
->   <:valor41:804449944298586143>:cd::cd:
+> :cd:<:dom12:804447180362219551>:cd::cd:
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd:<:dom33:804457129578332160>
+> :cd:<:dom42:804457129980461107>:cd::cd:
 
 >   :cd::cd:<:bruj23:804448797425532928>
 >   <:bruj31:804448797395910716>:cd::cd:
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Báculo del vacío, Abrazo demoníaco, Sombrero mortífero de Rabadon
+**Objetos principales:** Capítulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Morellonomicón
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Velo de la banshee

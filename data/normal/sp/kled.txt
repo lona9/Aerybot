@@ -1,10 +1,10 @@
 **Kled ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 51.6%
+**Porcentaje de victorias:** 52.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
-> :cd::cd::cd:<:precision14:804446921631596585>
+> :cd:<:precision12:804446921522675733>:cd::cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd:<:precision43:804446921941975080>
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Tiamat > Hidra titánica > Égida de fuego solar > Guantelete de Sterak
-**Objetos finales:** Armadura pétrea, Cota de espinas, Danza de la muerte
+**Objetos finales:** Cota de espinas, Armadura pétrea, Danza de la muerte

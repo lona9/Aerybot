@@ -1,5 +1,5 @@
 **Anivia** *(ARAM)*
-**Porcentagem de vitorias:** 45.1%
+**Porcentagem de vitorias:** 47.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Capítulo Perdido
-**Itens Core:** Capítulo Perdido > Angústia de Liandry > Cajado do Arcanjo > Abraço Demoníaco
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon
+**Botas:** Angústia de Liandry
+**Itens Iniciais:** Cristal de Safira, Tomo Amplificador, Poção com Refil, Lágrima da Deusa
+**Itens Core:** Tomo Amplificador > Poção com Refil > Lágrima da Deusa > Capítulo Perdido
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon

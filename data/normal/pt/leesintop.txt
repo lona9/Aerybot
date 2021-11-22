@@ -1,6 +1,6 @@
 **Lee Sin Build Rota Topo** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 43.7%
+**Porcentagem de vitorias:** 46.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Sinal de Sterak > Cutelo Negro
-**Itens End:** Anjo Guardião, Glaive Sombria, Semblante Espiritual
+**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Cutelo Negro > Sinal de Sterak
+**Itens End:** Dança da Morte, Armadura de Espinhos, Anjo Guardião

@@ -1,21 +1,21 @@
 **Neeko Support** *(Normal)*
 **Posición:** Mid, Support
-**Porcentaje de victorias:** 48.3%
+**Porcentaje de victorias:** 47.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
+**Runas:** <:insp:804451124207681577> <:dom:804451124085522442>
 
-> <:dom11:804447179758239744>:cd::cd::cd:
+>   <:insp11:804450563936223283>:cd::cd:
+>   :cd::cd:<:insp23:804450563948675112>
+>   :cd::cd:<:insp33:804450564049731594>
+>   <:insp41:804450563507879947>:cd::cd:
+
 >   <:dom21:804457127800078397>:cd::cd:
->   :cd::cd:<:dom33:804457129578332160>
-> <:dom41:804457130379182120>:cd::cd::cd:
-
->   :cd:<:bruj22:804448796553117707>:cd:
 >   :cd::cd::cd:
->   <:bruj41:804448797597499402>:cd::cd:
+> :cd:<:dom42:804457129980461107>:cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos
 **Objetos principales:** Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Poción de vida, Sombrero mortífero de Rabadon, Enfoque al horizonte
+**Objetos finales:** Poción de vida, Báculo del vacío, Enfoque al horizonte

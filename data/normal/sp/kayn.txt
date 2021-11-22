@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Látigo férreo > Bebedor de sangre > Cuchilla oscura > Guantelete de Sterak
-**Objetos finales:** Ángel Guardián, Rencor de Serylda, Filo de la noche
+**Objetos finales:** Rencor de Serylda, Ángel Guardián, Filo de la noche

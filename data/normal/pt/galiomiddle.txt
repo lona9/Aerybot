@@ -1,13 +1,13 @@
 **Galio Build Rota do Meio** *(Normal)*
 **Rota:** Rota do Meio, Suporte
-**Porcentagem de vitorias:** 50.7%
+**Porcentagem de vitorias:** 50.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runas:** <:valor:804451124245561394> <:bruj:804451124236648478>
+**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
->   :cd:<:valor12:804449943775084614>:cd:
->   :cd::cd:<:valor23:804449943876010024>
->   :cd::cd:<:valor33:804449943603118131>
->   <:valor41:804449944298586143>:cd::cd:
+> :cd:<:dom12:804447180362219551>:cd::cd:
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd:<:dom33:804457129578332160>
+> :cd:<:dom42:804457129980461107>:cd::cd:
 
 >   :cd::cd:<:bruj23:804448797425532928>
 >   <:bruj31:804448797395910716>:cd::cd:
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Itens Core:** Alternador Hextec > Explocinturão Hextec > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Cajado do Vazio, Abraço Demoníaco, Capuz da Morte de Rabadon
+**Itens Core:** Capítulo Perdido > Glacieterno > Ampulheta de Zhonya > Morellonomicon
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Véu da Banshee

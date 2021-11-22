@@ -1,6 +1,6 @@
 **Anivia Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 51.0%
+**Porcentagem de vitorias:** 52.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -12,7 +12,7 @@
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd::cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:
->   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
 **Botas:** Sapatos do Feiticeiro

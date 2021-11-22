@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Botas, Alternador Hextec
-**Itens Core:** Alternador Hextec > Colhedor Noturno > Ímpeto Cósmico > Capuz da Morte de Rabadon
-**Itens End:** Cajado do Vazio, Morellonomicon, Foco do Horizonte
+**Itens Core:** Alternador Hextec > Colhedor Noturno > Ímpeto Cósmico > Foco do Horizonte
+**Itens End:** Cajado do Vazio, Morellonomicon, Capuz da Morte de Rabadon
