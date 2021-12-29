@@ -1,10 +1,10 @@
 **Kled Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 52.3%
+**Porcentagem de vitorias:** 50.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
-> :cd:<:precision12:804446921522675733>:cd::cd:
+> :cd::cd::cd:<:precision14:804446921631596585>
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd:<:precision43:804446921941975080>
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Tiamat > Hidra Titânica > Égide de Fogo Solar > Sinal de Sterak
-**Itens End:** Armadura de Espinhos, Placa Gargolítica, Dança da Morte
+**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Hidra Titânica > Sinal de Sterak
+**Itens End:** Placa Gargolítica, Dança da Morte, Armadura de Espinhos

@@ -1,5 +1,5 @@
 **Galio** *(ARAM)*
-**Porcentagem de vitorias:** 51.5%
+**Porcentagem de vitorias:** 52.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:bruj:804451124236648478>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Passos de Mercúrio
-**Itens Iniciais:** Botas, Alternador Hextec
+**Itens Iniciais:** Poção com Refil, Brasa de Bami
 **Itens Core:** Brasa de Bami > Égide de Fogo Solar > Armadura de Espinhos > Armadura de Warmog
-**Itens End:** Placa Gargolítica, Presságio de Randuin, Abraço Demoníaco
+**Itens End:** Placa Gargolítica, Presságio de Randuin, Semblante Espiritual

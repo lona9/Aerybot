@@ -1,6 +1,6 @@
 **Alistar Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 50.4%
+**Porcentagem de vitorias:** 49.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas da Mobilidade
 **Itens Iniciais:** Sentinela Invisível, Escudo Relicário
 **Itens Core:** Gema Ardente > Medalhão dos Solari de Ferro > Convergência de Zeke > Juramento do Cavaleiro
-**Itens End:** Poção de Vida, Armadura de Espinhos, Couraça do Defunto
+**Itens End:** Poção de Vida, Força da Natureza, Armadura de Espinhos

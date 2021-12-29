@@ -1,6 +1,6 @@
 **Yorick Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 52.8%
+**Porcentagem de vitorias:** 50.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 

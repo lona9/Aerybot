@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Lágrima da Deusa, Poção de Vida
-**Itens Core:** Capítulo Perdido > Glacieterno > Cajado do Arcanjo > Ímpeto Cósmico
+**Itens Core:** Capítulo Perdido > Coroa da Rainha Despedaçada > Cajado do Arcanjo > Ímpeto Cósmico
 **Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ampulheta de Zhonya

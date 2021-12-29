@@ -1,5 +1,5 @@
 **Gangplank** *(ARAM)*
-**Porcentagem de vitorias:** 50.0%
+**Porcentagem de vitorias:** 50.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Crepúsculo de Draktharr
-**Itens Iniciais:** Botas, Espada Longa, Fulgor
-**Itens Core:** Espada Longa > Fulgor > Fulgor > Colhedor de Essência
+**Itens Iniciais:** Poção com Refil, Fulgor, Lágrima da Deusa
+**Itens Core:** Fulgor > Lágrima da Deusa > Fulgor > Colhedor de Essência
 **Itens End:** Lembranças do Lorde Dominik, Gume do Infinito, Lembrete Mortal

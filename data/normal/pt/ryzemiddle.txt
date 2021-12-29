@@ -1,6 +1,6 @@
 **Ryze Build Rota do Meio** *(Normal)*
 **Rota:** Rota do Meio, Rota Topo
-**Porcentagem de vitorias:** 45.1%
+**Porcentagem de vitorias:** 45.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Lágrima da Deusa, Poção de Vida
-**Itens Core:** Capítulo Perdido > Glacieterno > Cajado do Arcanjo > Ímpeto Cósmico
+**Itens Core:** Capítulo Perdido > Coroa da Rainha Despedaçada > Cajado do Arcanjo > Ímpeto Cósmico
 **Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ampulheta de Zhonya

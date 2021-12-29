@@ -1,6 +1,6 @@
 **Shyvana ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 50.1%
+**Porcentaje de victorias:** 51.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
-**Objetos principales:** Arco curvo > Diente de Nashor > Cosechador nocturno > Impulso cósmico
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Reloj de arena de Zhonya
+**Objetos principales:** Arco curvo > Diente de Nashor > Cosechador nocturno > Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón

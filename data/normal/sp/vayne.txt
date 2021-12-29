@@ -1,10 +1,10 @@
 **Vayne ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 53.4%
+**Porcentaje de victorias:** 53.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
-> <:precision11:804445926906658886>:cd::cd::cd:
+> :cd:<:precision12:804446921522675733>:cd::cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Hoja de furia de Guinsoo > Bailarín espectral
-**Objetos finales:** Ángel Guardián, Cimitarra mercurial, Sanguinaria
+**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Hoja de furia de Guinsoo > Al filo de la Cordura
+**Objetos finales:** Ángel Guardián, Cimitarra mercurial, Presagio de Randuin

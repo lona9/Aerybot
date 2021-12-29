@@ -1,13 +1,13 @@
 **Vladimir ** *(Normal)*
 **Posición:** Mid, Top
-**Porcentaje de victorias:** 52.0%
+**Porcentaje de victorias:** 50.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
-> :cd:<:dom12:804447180362219551>:cd::cd:
+> <:dom11:804447179758239744>:cd::cd::cd:
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd:<:dom33:804457129578332160>
-> :cd:<:dom42:804457129980461107>:cd::cd:
+> <:dom41:804457130379182120>:cd::cd::cd:
 
 >   :cd::cd::cd:
 >   <:bruj31:804448797395910716>:cd::cd:

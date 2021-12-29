@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Eclipse
-**Objetos iniciales:** Botas, Espada larga, Lágrima de la diosa, Poción de vida
-**Objetos principales:** Espada larga > Lágrima de la diosa > Poción de vida > Puñal serrado
+**Botas:** Manamune
+**Objetos iniciales:** Poción reutilizable, Lágrima de la diosa, Espada larga
+**Objetos principales:** Lágrima de la diosa > Espada larga > Puñal serrado > Eclipse
 **Objetos finales:** Filo de la noche, Rencor de Serylda, Sierraespada Quimopunk

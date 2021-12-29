@@ -1,10 +1,10 @@
 **Vayne Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 53.4%
+**Porcentagem de vitorias:** 53.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
-> <:precision11:804445926906658886>:cd::cd::cd:
+> :cd:<:precision12:804446921522675733>:cd::cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Lâmina da Fúria de Guinsoo > Dançarina Fantasma
-**Itens End:** Anjo Guardião, Cimitarra Mercurial, Sedenta por Sangue
+**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Lâmina da Fúria de Guinsoo > Limite da Razão
+**Itens End:** Anjo Guardião, Cimitarra Mercurial, Presságio de Randuin

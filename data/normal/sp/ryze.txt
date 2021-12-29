@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Lágrima de la diosa, Poción de vida
-**Objetos principales:** Capítulo perdido > Escarcha eterna > Báculo del arcángel > Impulso cósmico
+**Objetos principales:** Capítulo perdido > Corona de la Reina Quebrada > Báculo del arcángel > Impulso cósmico
 **Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Reloj de arena de Zhonya

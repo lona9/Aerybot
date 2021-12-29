@@ -1,10 +1,10 @@
 **Volibear Top** *(Normal)*
 **Posición:** Top, Jungler
-**Porcentaje de victorias:** 48.5%
+**Porcentaje de victorias:** 48.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
-> <:precision11:804445926906658886>:cd::cd::cd:
+> :cd:<:precision12:804446921522675733>:cd::cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd:<:precision32:804446921737371648>:cd:
 >   :cd::cd:<:precision43:804446921941975080>

@@ -1,6 +1,6 @@
 **Vex ** *(Normal)*
 **Posición:** Mid
-**Porcentaje de victorias:** 50.3%
+**Porcentaje de victorias:** 50.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Báculo del vacío
+**Botas:** Sombrero mortífero de Rabadon
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Tempestad de Luden > Enfoque al horizonte > Reloj de arena de Zhonya > Botas del hechicero
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón

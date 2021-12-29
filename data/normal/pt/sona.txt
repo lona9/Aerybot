@@ -1,6 +1,6 @@
 **Sona Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 54.5%
+**Porcentagem de vitorias:** 55.0%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
-**Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Putrificador Quimtec > Cajado Aquafluxo
-**Itens End:** Turíbulo Ardente, Capuz da Morte de Rabadon, Redenção
+**Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Cajado do Arcanjo > Putrificador Quimtec
+**Itens End:** Turíbulo Ardente, Cajado Aquafluxo, Redenção

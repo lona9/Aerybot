@@ -12,10 +12,10 @@
 >   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd::cd:
 > :cd::cd:<:dom43:804457129183936582>:cd:
->   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+>   <:5007:804451180164022312> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Putrificador tecnoquímico > Reloj de arena de Zhonya
-**Objetos finales:** Impulso cósmico, Báculo del vacío, Morellonomicón
+**Objetos finales:** Sombrero mortífero de Rabadon, Velo de la banshee, Impulso cósmico

@@ -1,17 +1,17 @@
 **Irelia Build Rota Topo** *(Normal)*
 **Rota:** Rota Topo, Rota do Meio
-**Porcentagem de vitorias:** 49.4%
+**Porcentagem de vitorias:** 49.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
-> :cd::cd::cd:<:precision14:804446921631596585>
+> :cd:<:precision12:804446921522675733>:cd::cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd:<:precision43:804446921941975080>
 
 >   :cd::cd::cd:
 >   :cd::cd:<:valor33:804449943603118131>
->   :cd:<:valor42:804449943615438919>:cd:
+>   :cd::cd:<:valor43:804449944001708043>
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**

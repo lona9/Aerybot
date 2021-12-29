@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
-**Objetos principales:** Puñal serrado > Eclipse > Manamune > Rencor de Serylda
+**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Saqueador de esencias > El Coleccionista
 **Objetos finales:** Filo del infinito, Sanguinaria, Recuerdos de lord Dominik

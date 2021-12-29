@@ -1,6 +1,6 @@
 **Kog'Maw Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 52.4%
+**Porcentagem de vitorias:** 53.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 

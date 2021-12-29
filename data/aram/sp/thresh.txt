@@ -1,5 +1,5 @@
 **Thresh ** *(ARAM)*
-**Porcentaje de victorias:** 48.6%
+**Porcentaje de victorias:** 47.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5001:804451180112642088>
 
 **Build**
-**Botas:** Botas de mercurio
-**Objetos iniciales:** Carcaj de mediodía
-**Objetos principales:** Cuerno del guardián > Relicario de los Solari de Hierro > Armadura de Warmog > Cota de espinas
-**Objetos finales:** Armadura pétrea, Corazón de hielo, Fuerza de la naturaleza
+**Botas:** Llegada del invierno
+**Objetos iniciales:** Poción reutilizable, Gemaluz, Lágrima de la diosa
+**Objetos principales:** Gemaluz > Lágrima de la diosa > Cuerno del guardián > Relicario de los Solari de Hierro
+**Objetos finales:** Armadura pétrea, Fuerza de la naturaleza, Cota de espinas

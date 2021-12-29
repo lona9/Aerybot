@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Eclipse
-**Itens Iniciais:** Botas, Espada Longa, Lágrima da Deusa, Poção de Vida
-**Itens Core:** Espada Longa > Lágrima da Deusa > Poção de Vida > Punhal Serrilhado
+**Botas:** Manamune
+**Itens Iniciais:** Poção com Refil, Lágrima da Deusa, Espada Longa
+**Itens Core:** Lágrima da Deusa > Espada Longa > Punhal Serrilhado > Eclipse
 **Itens End:** Limiar da Noite, Rancor de Serylda, Serrespada Quimiopunk

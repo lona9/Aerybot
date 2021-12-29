@@ -1,6 +1,6 @@
 **Azir Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 46.9%
+**Porcentagem de vitorias:** 45.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Itens Core:** Capítulo Perdido > Tormenta de Luden > Dente de Na'Shor > Ampulheta de Zhonya
+**Itens Core:** Capítulo Perdido > Tormenta de Luden > Chama Sombria > Ampulheta de Zhonya
 **Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon

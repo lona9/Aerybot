@@ -1,7 +1,7 @@
 **Singed ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 49.2%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Porcentaje de victorias:** 48.6%
+**Hechizos del Invocador:** <:Ghost:804555480856002610> <:Teleport:804555481699713034>
 **Runas:** <:dom:804451124085522442> <:valor:804451124245561394>
 
 > :cd:<:dom12:804447180362219551>:cd::cd:
@@ -10,12 +10,12 @@
 > :cd:<:dom42:804457129980461107>:cd::cd:
 
 >   :cd::cd::cd:
->   :cd:<:valor32:804449943959765002>:cd:
+>   <:valor31:804449943666425907>:cd::cd:
 >   :cd::cd:<:valor43:804449944001708043>
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Vara explosiva > Cetro de cristal de Rylai > Agrietador > Abrazo demoníaco
-**Objetos finales:** Fuerza de la naturaleza, Coraza del muerto, Reloj de arena de Zhonya
+**Objetos principales:** Vara explosiva > Abrazo demoníaco > Quimiotanque turbo > Cetro de cristal de Rylai
+**Objetos finales:** Coraza del muerto, Reloj de arena de Zhonya, Fuerza de la naturaleza

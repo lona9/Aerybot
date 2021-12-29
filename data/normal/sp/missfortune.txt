@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Puñal serrado > Eclipse > Filo fantasmal de Youmuu > Rencor de Serylda
-**Objetos finales:** Ángel Guardián, Recordatorio mortal, Filo del infinito
+**Objetos principales:** Carcaj de mediodía > Matakrakens > El Coleccionista > Filo del infinito
+**Objetos finales:** Ángel Guardián, Recordatorio mortal, Sanguinaria

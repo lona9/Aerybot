@@ -1,10 +1,10 @@
 **Sett Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 50.2%
+**Porcentagem de vitorias:** 49.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
-> :cd::cd::cd:<:precision14:804446921631596585>
+> :cd:<:precision12:804446921522675733>:cd::cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd:<:precision43:804446921941975080>
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
+**Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
 **Itens Core:** Chicote Ferrifarpo > Hemodrenário > Sinal de Sterak > Hidra Titânica
 **Itens End:** Armadura de Espinhos, Semblante Espiritual, Couraça do Defunto

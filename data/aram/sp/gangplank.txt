@@ -1,5 +1,5 @@
 **Gangplank ** *(ARAM)*
-**Porcentaje de victorias:** 50.0%
+**Porcentaje de victorias:** 50.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Filoscuro de Draktharr
-**Objetos iniciales:** Botas, Espada larga, Brillo
-**Objetos principales:** Espada larga > Brillo > Brillo > Saqueador de esencias
+**Objetos iniciales:** Poción reutilizable, Brillo, Lágrima de la diosa
+**Objetos principales:** Brillo > Lágrima de la diosa > Brillo > Saqueador de esencias
 **Objetos finales:** Recuerdos de lord Dominik, Filo del infinito, Recordatorio mortal

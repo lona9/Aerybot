@@ -1,6 +1,6 @@
 **Aphelios ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 45.1%
+**Porcentaje de victorias:** 46.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > El Coleccionista > Filo del infinito
-**Objetos finales:** Ángel Guardián, Sanguinaria, Huracán de Runaan
+**Objetos finales:** Ángel Guardián, Sanguinaria, Recuerdos de lord Dominik

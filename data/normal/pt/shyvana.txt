@@ -1,6 +1,6 @@
 **Shyvana Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 50.1%
+**Porcentagem de vitorias:** 51.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
-**Itens Core:** Arco Recurvo > Dente de Na'Shor > Colhedor Noturno > Ímpeto Cósmico
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ampulheta de Zhonya
+**Itens Core:** Arco Recurvo > Dente de Na'Shor > Colhedor Noturno > Ampulheta de Zhonya
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon

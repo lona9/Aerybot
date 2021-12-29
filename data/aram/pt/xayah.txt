@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
-**Itens Core:** Punhal Serrilhado > Eclipse > Manamune > Rancor de Serylda
+**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Colhedor de Essência > A Coletora
 **Itens End:** Gume do Infinito, Sedenta por Sangue, Lembranças do Lorde Dominik

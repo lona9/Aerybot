@@ -1,10 +1,10 @@
 **Rengar Top** *(Normal)*
 **Posición:** Jungler, Top
-**Porcentaje de victorias:** 47.0%
+**Porcentaje de victorias:** 48.9%
 **Hechizos del Invocador:** <:Teleport:804555481699713034> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
-> :cd::cd::cd:<:precision14:804446921631596585>
+> :cd:<:precision12:804446921522675733>:cd::cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd:<:precision43:804446921941975080>
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Puñal serrado > Eclipse > Saqueador de esencias > El Coleccionista
-**Objetos finales:** Ángel Guardián, Filo del infinito, Recuerdos de lord Dominik
+**Objetos principales:** Puñal serrado > Eclipse > Saqueador de esencias > Recuerdos de lord Dominik
+**Objetos finales:** Ángel Guardián, Filo del infinito, Filo de la noche

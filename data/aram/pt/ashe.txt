@@ -1,5 +1,5 @@
 **Ashe** *(ARAM)*
-**Porcentagem de vitorias:** 56.9%
+**Porcentagem de vitorias:** 54.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Rancor de Serylda
+**Botas:** Arco do Axioma
 **Itens Iniciais:** Lágrima da Deusa, Espelho de Bandópolis
 **Itens Core:** Espelho de Bandópolis > Espelho de Bandópolis > Mandato Imperial > Manamune
-**Itens End:** Serrespada Quimiopunk, Hidra Raivosa, Espada do Rei Destruído
+**Itens End:** Serrespada Quimiopunk, Rancor de Serylda, Hidra Raivosa

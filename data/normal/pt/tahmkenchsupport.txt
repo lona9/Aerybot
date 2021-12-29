@@ -1,13 +1,13 @@
 **Tahm Kench Build Suporte** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 47.7%
+**Porcentagem de vitorias:** 45.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
 >   :cd::cd:<:valor13:804449943497605171>
 >   :cd:<:valor22:804449944018223104>:cd:
 >   :cd:<:valor32:804449943959765002>:cd:
->   :cd:<:valor42:804449943615438919>:cd:
+>   :cd::cd:<:valor43:804449944001708043>
 
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Escudo Relicário
-**Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Semblante Espiritual > Armadura de Espinhos
-**Itens End:** Poção de Vida, Couraça do Defunto, Juramento do Cavaleiro
+**Itens Iniciais:** Sentinela Invisível
+**Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Armadura de Espinhos > Semblante Espiritual
+**Itens End:** Escudo Relicário, Poção de Vida, Couraça do Defunto

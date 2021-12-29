@@ -1,5 +1,5 @@
 **Corki** *(ARAM)*
-**Porcentagem de vitorias:** 50.0%
+**Porcentagem de vitorias:** 49.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Manamune
-**Itens Iniciais:** Poção com Refil, Fulgor, Lágrima da Deusa
-**Itens Core:** Fulgor > Lágrima da Deusa > Fulgor > Ruptor Divino
-**Itens End:** Gume do Infinito, Sedenta por Sangue, Lembrete Mortal
+**Itens Iniciais:** Poção com Refil, Lágrima da Deusa, Espada Longa
+**Itens Core:** Lágrima da Deusa > Espada Longa > Fulgor > Arco-escudo Imortal
+**Itens End:** Cajado do Vazio, Gume do Infinito, Canhão Fumegante

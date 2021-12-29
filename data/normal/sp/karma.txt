@@ -1,6 +1,6 @@
 **Karma ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 49.3%
+**Porcentaje de victorias:** 48.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Putrificador tecnoquímico > Báculo de agua fluyente
-**Objetos finales:** Sombrero mortífero de Rabadon, Pebetero ardiente, Redención
+**Objetos finales:** Pebetero ardiente, Reloj de arena de Zhonya, Redención

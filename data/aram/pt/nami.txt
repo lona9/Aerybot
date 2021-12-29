@@ -1,5 +1,5 @@
 **Nami** *(ARAM)*
-**Porcentagem de vitorias:** 55.1%
+**Porcentagem de vitorias:** 55.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Lágrima da Deusa, Espelho de Bandópolis
-**Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Cajado Aquafluxo > Putrificador Quimtec
-**Itens End:** Redenção, Turíbulo Ardente, Bênção de Mikael
+**Itens Core:** Espelho de Bandópolis > Mandato Imperial > Cajado do Arcanjo > Putrificador Quimtec
+**Itens End:** Redenção, Turíbulo Ardente, Cajado Aquafluxo

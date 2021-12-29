@@ -1,5 +1,5 @@
 **Rakan ** *(ARAM)*
-**Porcentaje de victorias:** 46.9%
+**Porcentaje de victorias:** 47.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Cristal de rubí, Espejo de cristal de Bandle
-**Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Cota de espinas, Armadura de Warmog, Redención
+**Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Llegada del invierno > Armadura de Warmog
+**Objetos finales:** Cota de espinas, Redención, Fuerza de la naturaleza

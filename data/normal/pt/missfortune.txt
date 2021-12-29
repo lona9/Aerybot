@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Punhal Serrilhado > Eclipse > Lâmina Fantasma de Youmuu > Rancor de Serylda
-**Itens End:** Anjo Guardião, Lembrete Mortal, Gume do Infinito
+**Itens Core:** Aljava Vespertina > Mata-Cráquens > A Coletora > Gume do Infinito
+**Itens End:** Anjo Guardião, Lembrete Mortal, Sedenta por Sangue

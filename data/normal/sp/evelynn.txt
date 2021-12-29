@@ -1,6 +1,6 @@
 **Evelynn ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 47.9%
+**Porcentaje de victorias:** 48.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Alternador hextech > Cintomisil hextech > Robaalmas de Mejai > Sombrero mortífero de Rabadon
-**Objetos finales:** Báculo del vacío, Velo de la banshee, Reloj de arena de Zhonya
+**Objetos finales:** Báculo del vacío, Llamasombría, Velo de la banshee

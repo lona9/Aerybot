@@ -1,6 +1,6 @@
 **Swain Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 50.4%
+**Porcentagem de vitorias:** 49.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
-**Itens Core:** Capítulo Perdido > Angústia de Liandry > Ampulheta de Zhonya > Abraço Demoníaco
-**Itens End:** Morellonomicon, Capuz da Morte de Rabadon, Cetro de Cristal de Rylai
+**Itens Core:** Capítulo Perdido > Angústia de Liandry > Ampulheta de Zhonya > Morellonomicon
+**Itens End:** Capuz da Morte de Rabadon, Abraço Demoníaco, Cetro de Cristal de Rylai

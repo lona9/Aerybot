@@ -1,5 +1,5 @@
 **Galio ** *(ARAM)*
-**Porcentaje de victorias:** 51.5%
+**Porcentaje de victorias:** 52.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:bruj:804451124236648478>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Botas, Alternador hextech
+**Objetos iniciales:** Poción reutilizable, Ceniza de Bami
 **Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Armadura de Warmog
-**Objetos finales:** Armadura pétrea, Presagio de Randuin, Abrazo demoníaco
+**Objetos finales:** Armadura pétrea, Presagio de Randuin, Apariencia espiritual

@@ -1,6 +1,6 @@
 **Gragas Build Suporte** *(Normal)*
 **Rota:** Selva, Rota Topo
-**Porcentagem de vitorias:** 48.9%
+**Porcentagem de vitorias:** 49.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -12,10 +12,10 @@
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
 >   <:insp41:804450563507879947>:cd::cd:
->   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+>   <:5007:804451180164022312> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela Invisível
-**Itens Core:** Capítulo Perdido > Glacieterno > Ampulheta de Zhonya > Ímpeto Cósmico
-**Itens End:** Escudo Relicário, Poção de Vida, Convergência de Zeke
+**Itens Iniciais:** Sentinela Invisível, Escudo Relicário, Poção de Vida
+**Itens Core:** Capítulo Perdido > Glacieterno > Ampulheta de Zhonya > Morellonomicon
+**Itens End:** Armadura de Espinhos, Capuz da Morte de Rabadon, Aproximação Invernal

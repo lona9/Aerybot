@@ -1,6 +1,6 @@
 **Pyke ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 47.4%
+**Porcentaje de victorias:** 48.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas de movilidad
 **Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
-**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > Filo fantasmal de Youmuu > Filo de la noche
-**Objetos finales:** Ángel Guardián, Rencor de Serylda, Danza de la muerte
+**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > Arco axiomático > Filo fantasmal de Youmuu
+**Objetos finales:** Ángel Guardián, Filo de la noche, Danza de la muerte
