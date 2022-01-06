@@ -1,5 +1,5 @@
 **Kalista ** *(ARAM)*
-**Porcentaje de victorias:** 45.8%
+**Porcentaje de victorias:** 47.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Huracán de Runaan > Al filo de la Cordura
-**Objetos finales:** Recuerdos de lord Dominik, Sanguinaria, Hoja de furia de Guinsoo
+**Objetos finales:** Sanguinaria, Recuerdos de lord Dominik, Hoja de furia de Guinsoo

@@ -1,6 +1,6 @@
 **Tahm Kench Top** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 51.9%
+**Porcentaje de victorias:** 51.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 

@@ -1,6 +1,6 @@
 **Galio ** *(Normal)*
 **Posición:** Mid, Support
-**Porcentaje de victorias:** 49.3%
+**Porcentaje de victorias:** 48.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:bruj:804451124236648478>
 

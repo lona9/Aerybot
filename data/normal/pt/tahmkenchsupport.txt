@@ -1,6 +1,6 @@
 **Tahm Kench Build Suporte** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 45.4%
+**Porcentagem de vitorias:** 46.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 

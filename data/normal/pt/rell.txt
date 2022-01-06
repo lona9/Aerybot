@@ -1,6 +1,6 @@
 **Rell Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 50.4%
+**Porcentagem de vitorias:** 50.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Escudo Relicário
 **Itens Core:** Gema Ardente > Proteção Imutável > Convergência de Zeke > Juramento do Cavaleiro
-**Itens End:** Poção de Vida, Coração Congelado, Armadura de Espinhos
+**Itens End:** Poção de Vida, Armadura de Espinhos, Força da Natureza

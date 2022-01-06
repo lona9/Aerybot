@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
 **Itens Core:** Fulgor > Colhedor de Essência > Manamune > Coroa da Rainha Despedaçada
-**Itens End:** Coração Congelado, Hidra Raivosa, Rancor de Serylda
+**Itens End:** Hidra Raivosa, Coração Congelado, Rancor de Serylda

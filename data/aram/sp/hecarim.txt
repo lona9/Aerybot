@@ -1,5 +1,5 @@
 **Hecarim ** *(ARAM)*
-**Porcentaje de victorias:** 47.8%
+**Porcentaje de victorias:** 47.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Bacteriófago
 **Objetos principales:** Bacteriófago > Cercenador divino > Guantelete de Sterak > Apariencia espiritual
-**Objetos finales:** Cota de espinas, Fuerza de la naturaleza, Danza de la muerte
+**Objetos finales:** Cota de espinas, Danza de la muerte, Fuerza de la naturaleza

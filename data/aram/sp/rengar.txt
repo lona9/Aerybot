@@ -1,5 +1,5 @@
 **Rengar ** *(ARAM)*
-**Porcentaje de victorias:** 47.6%
+**Porcentaje de victorias:** 47.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Puñal serrado
 **Objetos principales:** Puñal serrado > Filoscuro de Draktharr > El Coleccionista > Saqueador de esencias
-**Objetos finales:** Filo del infinito, Filo de la noche, Filo fantasmal de Youmuu
+**Objetos finales:** Filo del infinito, Filo de la noche, Recuerdos de lord Dominik

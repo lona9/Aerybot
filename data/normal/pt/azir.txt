@@ -1,10 +1,10 @@
 **Azir Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 45.6%
+**Porcentagem de vitorias:** 45.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
-> :cd:<:precision12:804446921522675733>:cd::cd:
+> :cd::cd::cd:<:precision14:804446921631596585>
 >   :cd::cd:<:precision23:804446921628057630>
 >   <:precision31:804446921660956702>:cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:

@@ -1,6 +1,6 @@
 **Sett Support** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 45.0%
+**Porcentaje de victorias:** 47.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:insp:804451124207681577> <:bruj:804451124236648478>
 

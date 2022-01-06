@@ -1,6 +1,6 @@
 **Sett Build Suporte** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 45.0%
+**Porcentagem de vitorias:** 47.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:insp:804451124207681577> <:bruj:804451124236648478>
 

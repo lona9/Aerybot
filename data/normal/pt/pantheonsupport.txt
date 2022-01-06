@@ -1,6 +1,6 @@
 **Pantheon Build Suporte** *(Normal)*
 **Rota:** Suporte, Rota do Meio
-**Porcentagem de vitorias:** 48.0%
+**Porcentagem de vitorias:** 47.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Guarda-ombros de Aço, Poção de Vida
 **Itens Core:** Punhal Serrilhado > Eclipse > Lâmina Fantasma de Youmuu > Limiar da Noite
-**Itens End:** Serrespada Quimiopunk, Rancor de Serylda, Anjo Guardião
+**Itens End:** Serrespada Quimiopunk, Anjo Guardião, Mandíbula de Malmortius

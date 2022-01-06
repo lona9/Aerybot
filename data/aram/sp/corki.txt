@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Manamune
+**Botas:** Tempestad de Luden
 **Objetos iniciales:** Poción reutilizable, Lágrima de la diosa, Espada larga
-**Objetos principales:** Lágrima de la diosa > Espada larga > Brillo > Arcoescudo inmortal
-**Objetos finales:** Báculo del vacío, Filo del infinito, Cañón de fuego rápido
+**Objetos principales:** Lágrima de la diosa > Espada larga > Martillo de guerra de Caulfield > Manamune
+**Objetos finales:** Báculo del vacío, Filo del infinito, Sombrero mortífero de Rabadon

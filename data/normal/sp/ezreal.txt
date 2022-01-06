@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Brillo > Saqueador de esencias > Manamune > Corona de la Reina Quebrada
-**Objetos finales:** Corazón de hielo, Hidra voraz, Rencor de Serylda
+**Objetos finales:** Hidra voraz, Corazón de hielo, Rencor de Serylda

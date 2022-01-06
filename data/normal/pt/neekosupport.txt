@@ -1,6 +1,6 @@
 **Neeko Build Suporte** *(Normal)*
 **Rota:** Rota do Meio, Suporte
-**Porcentagem de vitorias:** 48.7%
+**Porcentagem de vitorias:** 46.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:insp:804451124207681577> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela Invisível
-**Itens Core:** Alternador Hextec > Explocinturão Hextec > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Gume do Ladrão Arcano, Poção de Vida, Foco do Horizonte
+**Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
+**Itens Core:** Capítulo Perdido > Glacieterno > Ampulheta de Zhonya > Morellonomicon
+**Itens End:** Capuz da Morte de Rabadon, Foco do Horizonte, Véu da Banshee

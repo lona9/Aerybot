@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Brillo > Cercenador divino > Guantelete de Sterak > Cota de espinas
-**Objetos finales:** Apariencia espiritual, Presagio de Randuin, Armadura pétrea
+**Objetos finales:** Apariencia espiritual, Coraza del muerto, Presagio de Randuin

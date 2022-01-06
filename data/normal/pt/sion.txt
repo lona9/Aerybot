@@ -1,6 +1,6 @@
 **Sion Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 50.0%
+**Porcentagem de vitorias:** 49.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
 **Itens Core:** Punhal Serrilhado > Garra do Espreitador > Lâmina Fantasma de Youmuu > A Coletora
-**Itens End:** Gume do Infinito, Armadura de Espinhos, Lembranças do Lorde Dominik
+**Itens End:** Gume do Infinito, Armadura de Espinhos, Hidra Titânica

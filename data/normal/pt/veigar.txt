@@ -1,6 +1,6 @@
 **Veigar Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 49.8%
+**Porcentagem de vitorias:** 50.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 

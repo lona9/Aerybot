@@ -1,5 +1,5 @@
 **Veigar ** *(ARAM)*
-**Porcentaje de victorias:** 51.6%
+**Porcentaje de victorias:** 52.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Tempestad de Luden > Sombrero mortífero de Rabadon > Báculo del vacío
-**Objetos finales:** Velo de la banshee, Reloj de arena de Zhonya, Morellonomicón
+**Objetos finales:** Velo de la banshee, Morellonomicón, Llamasombría

@@ -18,4 +18,4 @@
 **Botas:** Reloj de arena de Zhonya
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Poción reutilizable > Alternador hextech > Cintomisil hextech > Maldición del liche
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Llamasombría
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Velo de la banshee
