@@ -251,6 +251,7 @@ class Normal(Cog):
                   "yuumi": ["yuumi"],
                   "zac": ["zac"],
                   "zed": ["zed"],
+                  "zeri": ["zeri"],
                   "ziggs": ["ziggs"],
                   "ziggsmiddle": ["ziggsmid"],
                   "ziggsadc": ["ziggsadc"],

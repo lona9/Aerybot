@@ -185,6 +185,7 @@ class Aram(Cog):
                   "yuumi": ["yuumi"],
                   "zac": ["zac"],
                   "zed": ["zed"],
+                  "zeri": ["zeri"],
                   "ziggs": ["ziggs"],
                   "zilean": ["zilean"],
                   "zoe": ["zoe"],
