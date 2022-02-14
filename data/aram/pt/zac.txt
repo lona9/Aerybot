@@ -1,5 +1,5 @@
 **Zac** *(ARAM)*
-**Porcentagem de vitorias:** 46.7%
+**Porcentagem de vitorias:** 46.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Brasa de Bami
 **Itens Core:** Brasa de Bami > Égide de Fogo Solar > Armadura de Warmog > Semblante Espiritual
-**Itens End:** Placa Gargolítica, Abraço Demoníaco, Presságio de Randuin
+**Itens End:** Armadura de Espinhos, Placa Gargolítica, Abraço Demoníaco

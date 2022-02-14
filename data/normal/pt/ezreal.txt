@@ -1,6 +1,6 @@
 **Ezreal Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 48.6%
+**Porcentagem de vitorias:** 48.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:insp:804451124207681577> <:pres:804451123825606657>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
 **Itens Core:** Fulgor > Colhedor de Essência > Manamune > Coroa da Rainha Despedaçada
-**Itens End:** Hidra Raivosa, Coração Congelado, Rancor de Serylda
+**Itens End:** Coração Congelado, Hidra Raivosa, Rancor de Serylda

@@ -1,6 +1,6 @@
 **Tristana Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 48.4%
+**Porcentagem de vitorias:** 50.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -10,7 +10,7 @@
 > <:dom41:804457130379182120>:cd::cd::cd:
 
 >   :cd:<:precision22:804446921414541333>:cd:
->   :cd::cd:<:precision33:804446921644179516>
+>   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 

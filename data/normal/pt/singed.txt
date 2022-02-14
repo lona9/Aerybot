@@ -1,13 +1,13 @@
 **Singed Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 50.2%
-**Summoner Spells:** <:Ghost:804555480856002610> <:Teleport:804555481699713034>
-**Runas:** <:dom:804451124085522442> <:valor:804451124245561394>
+**Porcentagem de vitorias:** 51.8%
+**Summoner Spells:** <:Ghost:804555480856002610> <:Ignite:804555481167298570>
+**Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
-> :cd:<:dom12:804447180362219551>:cd::cd:
->   :cd:<:dom22:804457129394176020>:cd:
->   :cd::cd:<:dom33:804457129578332160>
-> :cd:<:dom42:804457129980461107>:cd::cd:
+> :cd::cd::cd:<:precision14:804446921631596585>
+>   :cd:<:precision22:804446921414541333>:cd:
+>   :cd:<:precision32:804446921737371648>:cd:
+>   :cd::cd:<:precision43:804446921941975080>
 
 >   :cd::cd::cd:
 >   <:valor31:804449943666425907>:cd::cd:
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
-**Itens Core:** Varinha Explosiva > Abraço Demoníaco > Criafendas > Cetro de Cristal de Rylai
+**Itens Core:** Varinha Explosiva > Cetro de Cristal de Rylai > Abraço Demoníaco > Quimiotanque Turbo
 **Itens End:** Couraça do Defunto, Força da Natureza, Ampulheta de Zhonya

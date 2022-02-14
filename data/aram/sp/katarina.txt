@@ -1,5 +1,5 @@
 **Katarina ** *(ARAM)*
-**Porcentaje de victorias:** 49.5%
+**Porcentaje de victorias:** 49.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Báculo del vacío
+**Botas:** Botas del hechicero
 **Objetos iniciales:** Mirada absorbente
-**Objetos principales:** Agrietador > Diente de Nashor > Reloj de arena de Zhonya > Botas del hechicero
+**Objetos principales:** Mirada absorbente > Agrietador > Diente de Nashor > Reloj de arena de Zhonya
 **Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Llamasombría

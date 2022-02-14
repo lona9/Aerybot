@@ -1,6 +1,6 @@
 **Sona ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 54.5%
+**Porcentaje de victorias:** 53.4%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos
 **Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Báculo del arcángel > Putrificador tecnoquímico
-**Objetos finales:** Báculo de agua fluyente, Pebetero ardiente, Redención
+**Objetos finales:** Poción de vida, Pebetero ardiente, Báculo de agua fluyente

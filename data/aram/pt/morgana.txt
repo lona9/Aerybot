@@ -1,12 +1,12 @@
 **Morgana** *(ARAM)*
-**Porcentagem de vitorias:** 53.2%
+**Porcentagem de vitorias:** 52.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
 >   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd:<:dom33:804457129578332160>
-> <:dom41:804457130379182120>:cd::cd::cd:
+> :cd::cd::cd:<:dom44:804457129732866048>
 
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd::cd::cd:
@@ -17,4 +17,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Capítulo Perdido > Angústia de Liandry > Ampulheta de Zhonya > Abraço Demoníaco
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon
+**Itens End:** Cajado do Vazio, Morellonomicon, Capuz da Morte de Rabadon

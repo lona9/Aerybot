@@ -1,6 +1,6 @@
 **Ekko Jungler** *(Normal)*
 **Posición:** Jungler, Mid
-**Porcentaje de victorias:** 50.3%
+**Porcentaje de victorias:** 51.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
+**Objetos iniciales:** Lente del oráculo, Hoja granizo, Poción reutilizable
 **Objetos principales:** Alternador hextech > Cintomisil hextech > Maldición del liche > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Velo de la banshee
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Llamasombría

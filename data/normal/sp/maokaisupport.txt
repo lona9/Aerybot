@@ -1,6 +1,6 @@
 **Maokai Support** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 50.0%
+**Porcentaje de victorias:** 52.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Punteras de acero revestidas
+**Botas:** Botas de rapidez
 **Objetos iniciales:** Centinela invisible, Escudo reliquia
-**Objetos principales:** Armadura lunar alada > Coraza del muerto > Mortaja de la quietud > Cota de espinas
-**Objetos finales:** Poción de vida, Sombrero mortífero de Rabadon, Abrazo demoníaco
+**Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Abrazo demoníaco > Morellonomicón
+**Objetos finales:** Poción de vida, Coraza del muerto, Cota de espinas

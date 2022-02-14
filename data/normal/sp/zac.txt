@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Apariencia espiritual
-**Objetos finales:** Presagio de Randuin, Abrazo demoníaco, Armadura de Warmog
+**Objetos finales:** Presagio de Randuin, Abrazo demoníaco, Armadura pétrea

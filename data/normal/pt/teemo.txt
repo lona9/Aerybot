@@ -1,6 +1,6 @@
 **Teemo Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 51.1%
+**Porcentagem de vitorias:** 49.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Itens Core:** Arco Recurvo > Dente de Na'Shor > Angústia de Liandry > Abraço Demoníaco
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ampulheta de Zhonya
+**Itens Core:** Arco Recurvo > Dente de Na'Shor > Criafendas > Ampulheta de Zhonya
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon

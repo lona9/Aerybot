@@ -1,21 +1,21 @@
 **Senna ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 48.2%
+**Porcentaje de victorias:** 52.3%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
-**Runas:** <:insp:804451124207681577> <:pres:804451123825606657>
+**Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
->   :cd::cd:<:insp13:914919550464720936>
->   :cd:<:insp22:804450563793747989>:cd:
->   :cd::cd:<:insp33:804450564049731594>
->   :cd:<:insp42:804450563965452369>:cd:
-
+> :cd::cd:<:precision13:804446921619931187>:cd:
 >   :cd::cd:<:precision23:804446921628057630>
 >   <:precision31:804446921660956702>:cd::cd:
+>   :cd:<:precision42:804446921636053043>:cd:
+
 >   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd:<:insp42:804450563965452369>:cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas de rapidez
 **Objetos iniciales:** Centinela invisible, Hoz espectral, Poción de vida
-**Objetos principales:** Carcaj de mediodía > Matakrakens > Cañón de fuego rápido > Hoja de furia de Guinsoo
+**Objetos principales:** Puñal serrado > Eclipse > Manamune > Cañón de fuego rápido
 **Objetos finales:** Recuerdos de lord Dominik, Ángel Guardián, Recordatorio mortal

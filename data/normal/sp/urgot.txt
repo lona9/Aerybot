@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Tiamat > Hidra titánica > Cuchilla oscura > Guantelete de fuego escarchado
-**Objetos finales:** Guantelete de Sterak, Cota de espinas, Sierraespada Quimopunk
+**Objetos finales:** Cota de espinas, Guantelete de Sterak, Armadura pétrea

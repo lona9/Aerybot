@@ -1,6 +1,6 @@
 **Malzahar** *(ARAM)*
-**Porcentagem de vitorias:** 52.0%
-**Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
+**Porcentagem de vitorias:** 52.3%
+**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Capítulo Perdido
-**Itens Core:** Capítulo Perdido > Angústia de Liandry > Abraço Demoníaco > Morellonomicon
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ampulheta de Zhonya
+**Itens Core:** Capítulo Perdido > Angústia de Liandry > Abraço Demoníaco > Cetro de Cristal de Rylai
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

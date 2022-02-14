@@ -1,7 +1,7 @@
 **Wukong ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 49.8%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Porcentaje de victorias:** 50.5%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd::cd::cd:<:precision14:804446921631596585>
@@ -11,11 +11,11 @@
 
 >   :cd::cd::cd:
 >   :cd::cd:<:valor33:804449943603118131>
->   <:valor41:804449944298586143>:cd::cd:
+>   :cd::cd:<:valor43:804449944001708043>
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Brillo > Cercenador divino > Cuchilla oscura > Guantelete de Sterak
-**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Danza de la muerte
+**Objetos principales:** Brillo > Cercenador divino > Cuchilla oscura > Danza de la muerte
+**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Guantelete de Sterak

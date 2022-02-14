@@ -1,7 +1,7 @@
 **Lissandra Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 50.4%
-**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Porcentagem de vitorias:** 51.3%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
 > <:dom11:804447179758239744>:cd::cd::cd:
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Itens Core:** Capítulo Perdido > Glacieterno > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Chama Sombria
+**Itens Core:** Capítulo Perdido > Glacieterno > Ampulheta de Zhonya > Chama Sombria
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

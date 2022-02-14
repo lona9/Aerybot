@@ -1,6 +1,6 @@
 **Zed ** *(Normal)*
 **Posición:** Mid, Jungler
-**Porcentaje de victorias:** 49.9%
+**Porcentaje de victorias:** 49.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Espada larga, Poción reutilizable
-**Objetos principales:** Puñal serrado > Eclipse > Filo fantasmal de Youmuu > Arco axiomático
-**Objetos finales:** Rencor de Serylda, Ángel Guardián, Filo de la noche
+**Objetos principales:** Puñal serrado > Eclipse > Filo fantasmal de Youmuu > Rencor de Serylda
+**Objetos finales:** Filo de la noche, Ángel Guardián, Cuchilla oscura

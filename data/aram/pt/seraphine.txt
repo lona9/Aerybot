@@ -1,6 +1,6 @@
 **Seraphine** *(ARAM)*
-**Porcentagem de vitorias:** 58.1%
-**Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
+**Porcentagem de vitorias:** 57.4%
+**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
 >   <:bruj11:804448796104589323>:cd::cd:
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Sapatos do Feiticeiro
+**Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Capítulo Perdido
-**Itens Core:** Capítulo Perdido > Angústia de Liandry > Abraço Demoníaco > Morellonomicon
-**Itens End:** Capuz da Morte de Rabadon, Ampulheta de Zhonya, Cajado do Vazio
+**Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Cajado do Arcanjo > Putrificador Quimtec
+**Itens End:** Capuz da Morte de Rabadon, Cetro de Cristal de Rylai, Ampulheta de Zhonya

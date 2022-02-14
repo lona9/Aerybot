@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
 **Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Armadura de Espinhos > Semblante Espiritual
-**Itens End:** Presságio de Randuin, Abraço Demoníaco, Armadura de Warmog
+**Itens End:** Presságio de Randuin, Abraço Demoníaco, Placa Gargolítica

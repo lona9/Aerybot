@@ -1,13 +1,13 @@
 **Kayle Build ** *(Normal)*
 **Rota:** Rota Topo, Rota do Meio
-**Porcentagem de vitorias:** 53.1%
+**Porcentagem de vitorias:** 51.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
->   <:precision41:804446922151690300>:cd::cd:
+>   :cd::cd:<:precision43:804446921941975080>
 
 >   :cd::cd::cd:
 >   :cd::cd:<:valor33:804449943603118131>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Grevas do Berserker
-**Itens Iniciais:** Sentinela Invisível, Poção Corrupta
-**Itens Core:** Arco Recurvo > Dente de Na'Shor > Criafendas > Ampulheta de Zhonya
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Perdição de Lich
+**Botas:** Capuz da Morte de Rabadon
+**Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
+**Itens Core:** Poção de Vida > Arco Recurvo > Dente de Na'Shor > Criafendas
+**Itens End:** Ampulheta de Zhonya, Cajado do Vazio, Perdição de Lich

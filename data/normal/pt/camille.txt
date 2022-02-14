@@ -1,13 +1,13 @@
 **Camille Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 50.1%
+**Porcentagem de vitorias:** 50.5%
 **Summoner Spells:** <:Teleport:804555481699713034> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
 >   <:valor11:804449943376232509>:cd::cd:
 >   :cd::cd:<:valor23:804449943876010024>
 >   :cd::cd:<:valor33:804449943603118131>
->   <:valor41:804449944298586143>:cd::cd:
+>   :cd::cd:<:valor43:804449944001708043>
 
 >   :cd:<:insp22:804450563793747989>:cd:
 >   :cd::cd:<:insp33:804450564049731594>
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Fulgor > Ruptor Divino > Hidra Raivosa > Sinal de Sterak
-**Itens End:** Anjo Guardião, Dança da Morte, Serrespada Quimiopunk
+**Itens Core:** Fulgor > Ruptor Divino > Hidra Raivosa > Dança da Morte
+**Itens End:** Anjo Guardião, Sinal de Sterak, Serrespada Quimiopunk

@@ -1,5 +1,5 @@
 **Akshan ** *(ARAM)*
-**Porcentaje de victorias:** 48.4%
+**Porcentaje de victorias:** 46.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
-**Objetos principales:** Carcaj de mediodía > Matakrakens > El Coleccionista > Filo del infinito
-**Objetos finales:** Recuerdos de lord Dominik, Sanguinaria, Recordatorio mortal
+**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Al filo de la Cordura > El Coleccionista
+**Objetos finales:** Recuerdos de lord Dominik, Sanguinaria, Filo del infinito

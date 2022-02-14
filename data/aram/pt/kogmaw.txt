@@ -1,6 +1,6 @@
 **Kog'Maw** *(ARAM)*
-**Porcentagem de vitorias:** 56.6%
-**Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Porcentagem de vitorias:** 54.9%
+**Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
-**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Limite da Razão > Furacão de Runaan
-**Itens End:** Espada do Rei Destruído, Capuz da Morte de Rabadon, Lâmina da Fúria de Guinsoo
+**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Limite da Razão > Lâmina da Fúria de Guinsoo
+**Itens End:** Capuz da Morte de Rabadon, Espada do Rei Destruído, Cajado do Vazio

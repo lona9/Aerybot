@@ -1,6 +1,6 @@
 **Jayce Build ** *(Normal)*
 **Rota:** Rota Topo, Rota do Meio
-**Porcentagem de vitorias:** 48.4%
+**Porcentagem de vitorias:** 48.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:insp:804451124207681577> <:bruj:804451124236648478>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Itens Iniciais:** Sentinela Invisível, Espada Longa, Poção com Refil
 **Itens Core:** Punhal Serrilhado > Eclipse > Manamune > Rancor de Serylda
 **Itens End:** Anjo Guardião, Limiar da Noite, Presa da Serpente

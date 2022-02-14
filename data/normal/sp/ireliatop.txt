@@ -1,10 +1,10 @@
 **Irelia Top** *(Normal)*
 **Posición:** Top, Mid
-**Porcentaje de victorias:** 49.5%
+**Porcentaje de victorias:** 49.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
-> :cd:<:precision12:804446921522675733>:cd::cd:
+> :cd::cd::cd:<:precision14:804446921631596585>
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd:<:precision43:804446921941975080>
@@ -18,4 +18,4 @@
 **Botas:** Danza de la muerte
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Poción de vida > Cetro vampírico > Hoja del rey arruinado > Arcoescudo inmortal
-**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Al filo de la Cordura
+**Objetos finales:** Ángel Guardián, Al filo de la Cordura, Sierraespada Quimopunk

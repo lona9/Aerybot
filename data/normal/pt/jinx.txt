@@ -1,6 +1,6 @@
 **Jinx Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 50.9%
+**Porcentagem de vitorias:** 50.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Aljava Vespertina > Mata-Cráquens > Furacão de Runaan > Gume do Infinito
-**Itens End:** Anjo Guardião, Lembranças do Lorde Dominik, Sedenta por Sangue
+**Itens Core:** Aljava Vespertina > Força do Vendaval > Canhão Fumegante > Gume do Infinito
+**Itens End:** Anjo Guardião, Sedenta por Sangue, Lembranças do Lorde Dominik

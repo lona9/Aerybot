@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Capítulo Perdido > Angústia de Liandry > Abraço Demoníaco > Cetro de Cristal de Rylai
-**Itens End:** Força da Natureza, Armadura de Espinhos, Placa Gargolítica
+**Itens End:** Armadura de Espinhos, Força da Natureza, Placa Gargolítica

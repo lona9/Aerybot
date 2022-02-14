@@ -1,6 +1,6 @@
 **Jax Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 50.4%
+**Porcentagem de vitorias:** 48.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
-**Itens Core:** Fulgor > Ruptor Divino > Espada do Rei Destruído > Sinal de Sterak
-**Itens End:** Anjo Guardião, Dança da Morte, Limite da Razão
+**Itens Core:** Fulgor > Ruptor Divino > Espada do Rei Destruído > Dança da Morte
+**Itens End:** Anjo Guardião, Sinal de Sterak, Limite da Razão

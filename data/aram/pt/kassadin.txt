@@ -1,5 +1,5 @@
 **Kassadin** *(ARAM)*
-**Porcentagem de vitorias:** 50.1%
+**Porcentagem de vitorias:** 50.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Capítulo Perdido
-**Itens Core:** Capítulo Perdido > Coroa da Rainha Despedaçada > Cajado do Arcanjo > Ampulheta de Zhonya
+**Botas:** Ampulheta de Zhonya
+**Itens Iniciais:** Lágrima da Deusa, Tomo Amplificador
+**Itens Core:** Tomo Amplificador > Capítulo Perdido > Coroa da Rainha Despedaçada > Cajado do Arcanjo
 **Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Perdição de Lich

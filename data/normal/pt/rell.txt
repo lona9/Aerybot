@@ -1,21 +1,21 @@
 **Rell Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 50.5%
+**Porcentagem de vitorias:** 50.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+**Runas:** <:insp:804451124207681577> <:valor:804451124245561394>
 
->   :cd:<:valor12:804449943775084614>:cd:
->   :cd::cd:<:valor23:804449943876010024>
+>   <:insp11:804450563936223283>:cd::cd:
+>   <:insp21:804450563911057458>:cd::cd:
+>   :cd:<:insp32:804450563915645008>:cd:
+>   <:insp41:804450563507879947>:cd::cd:
+
+>   :cd::cd::cd:
 >   :cd::cd:<:valor33:804449943603118131>
 >   :cd::cd:<:valor43:804449944001708043>
-
->   <:insp21:804450563911057458>:cd::cd:
->   :cd::cd::cd:
->   <:insp41:804450563507879947>:cd::cd:
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Escudo Relicário
-**Itens Core:** Gema Ardente > Proteção Imutável > Convergência de Zeke > Juramento do Cavaleiro
-**Itens End:** Poção de Vida, Armadura de Espinhos, Força da Natureza
+**Itens Iniciais:** Sentinela Invisível
+**Itens Core:** Gema Ardente > Medalhão dos Solari de Ferro > Juramento do Cavaleiro > Convergência de Zeke
+**Itens End:** Escudo Relicário, Poção de Vida, Armadura de Espinhos

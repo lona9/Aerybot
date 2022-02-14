@@ -1,5 +1,5 @@
 **Soraka** *(ARAM)*
-**Porcentagem de vitorias:** 54.0%
+**Porcentagem de vitorias:** 53.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:bruj:804451124236648478> <:valor:804451124245561394>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Redenção
-**Itens Iniciais:** Amuleto da Fada, Poção com Refil, Espelho de Bandópolis
-**Itens Core:** Espelho de Bandópolis > Espelho de Bandópolis > Regenerador de Pedra Lunar > Armadura de Warmog
-**Itens End:** Cajado Aquafluxo, Turíbulo Ardente, Putrificador Quimtec
+**Botas:** Botas Ionianas da Lucidez
+**Itens Iniciais:** Lágrima da Deusa, Espelho de Bandópolis
+**Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Armadura de Warmog > Aproximação Invernal
+**Itens End:** Cajado Aquafluxo, Putrificador Quimtec, Redenção

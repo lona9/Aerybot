@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Abrazo demoníaco > Cetro de cristal de Rylai
-**Objetos finales:** Fuerza de la naturaleza, Cota de espinas, Armadura pétrea
+**Objetos finales:** Cota de espinas, Fuerza de la naturaleza, Armadura pétrea

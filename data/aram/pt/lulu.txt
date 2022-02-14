@@ -1,5 +1,5 @@
 **Lulu** *(ARAM)*
-**Porcentagem de vitorias:** 49.9%
+**Porcentagem de vitorias:** 51.1%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Lágrima da Deusa, Espelho de Bandópolis
 **Itens Core:** Espelho de Bandópolis > Hino Bélico de Shurelya > Putrificador Quimtec > Cajado Aquafluxo
-**Itens End:** Redenção, Bênção de Mikael, Turíbulo Ardente
+**Itens End:** Redenção, Turíbulo Ardente, Bênção de Mikael

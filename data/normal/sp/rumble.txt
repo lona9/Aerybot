@@ -1,7 +1,7 @@
 **Rumble ** *(Normal)*
 **Posición:** Top, Mid
-**Porcentaje de victorias:** 47.8%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Porcentaje de victorias:** 49.1%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
 >   :cd:<:bruj12:804448797001252864>:cd:
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Alternador hextech > Cosechador nocturno > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Llamasombría
+**Objetos principales:** Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya > Llamasombría
+**Objetos finales:** Báculo del vacío, Morellonomicón, Sombrero mortífero de Rabadon

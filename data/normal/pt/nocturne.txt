@@ -1,6 +1,6 @@
 **Nocturne Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 48.1%
+**Porcentagem de vitorias:** 50.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -9,13 +9,13 @@
 >   <:precision31:804446921660956702>:cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:
 
->   :cd::cd:<:dom23:804457130307485707>
 >   :cd::cd::cd:
+>   :cd::cd:<:dom33:804457129578332160>
 > :cd::cd::cd:<:dom44:804457129732866048>
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
-**Itens Core:** Punhal Serrilhado > Arco do Axioma > Crepúsculo de Draktharr > Limiar da Noite
-**Itens End:** Anjo Guardião, Rancor de Serylda, Serrespada Quimiopunk
+**Itens Core:** Chicote Ferrifarpo > Quebrapassos > Sinal de Sterak > Anjo Guardião
+**Itens End:** Serrespada Quimiopunk, Rancor de Serylda, Cutelo Negro

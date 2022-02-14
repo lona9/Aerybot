@@ -1,5 +1,5 @@
 **Jax ** *(ARAM)*
-**Porcentaje de victorias:** 49.3%
+**Porcentaje de victorias:** 46.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Hoja del rey arruinado
-**Objetos iniciales:** Botas, Perla de rejuvenecimiento, Poción reutilizable, Brillo
-**Objetos principales:** Poción reutilizable > Brillo > Bacteriófago > Cercenador divino
+**Botas:** Botas de mercurio
+**Objetos iniciales:** Poción reutilizable, Martillo de guerra de Caulfield
+**Objetos principales:** Brillo > Cercenador divino > Hoja del rey arruinado > Guantelete de Sterak
 **Objetos finales:** Danza de la muerte, Apariencia espiritual, Al filo de la Cordura

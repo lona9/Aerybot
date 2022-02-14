@@ -1,7 +1,7 @@
 **Renekton ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 47.5%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Porcentaje de victorias:** 47.6%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > <:precision11:804445926906658886>:cd::cd::cd:
@@ -9,9 +9,9 @@
 >   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd:<:precision43:804446921941975080>
 
->   <:valor21:804449943984537690>:cd::cd:
->   :cd::cd:<:valor33:804449943603118131>
 >   :cd::cd::cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd::cd:<:valor43:804449944001708043>
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**

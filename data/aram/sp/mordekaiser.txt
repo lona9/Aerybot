@@ -1,5 +1,5 @@
 **Mordekaiser ** *(ARAM)*
-**Porcentaje de victorias:** 48.1%
+**Porcentaje de victorias:** 48.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Mirada absorbente
-**Objetos principales:** Mirada absorbente > Agrietador > Diente de Nashor > Abrazo demoníaco
-**Objetos finales:** Cota de espinas, Apariencia espiritual, Cetro de cristal de Rylai
+**Objetos principales:** Mirada absorbente > Agrietador > Abrazo demoníaco > Apariencia espiritual
+**Objetos finales:** Cota de espinas, Cetro de cristal de Rylai, Reloj de arena de Zhonya

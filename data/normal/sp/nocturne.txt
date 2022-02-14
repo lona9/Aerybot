@@ -1,6 +1,6 @@
 **Nocturne ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 48.1%
+**Porcentaje de victorias:** 50.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -9,13 +9,13 @@
 >   <:precision31:804446921660956702>:cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:
 
->   :cd::cd:<:dom23:804457130307485707>
 >   :cd::cd::cd:
+>   :cd::cd:<:dom33:804457129578332160>
 > :cd::cd::cd:<:dom44:804457129732866048>
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
-**Objetos principales:** Puñal serrado > Arco axiomático > Filoscuro de Draktharr > Filo de la noche
-**Objetos finales:** Ángel Guardián, Rencor de Serylda, Sierraespada Quimopunk
+**Objetos principales:** Látigo férreo > Cortasendas > Guantelete de Sterak > Ángel Guardián
+**Objetos finales:** Sierraespada Quimopunk, Rencor de Serylda, Cuchilla oscura

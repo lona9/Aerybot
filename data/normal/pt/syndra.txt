@@ -1,7 +1,7 @@
 **Syndra Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 48.3%
-**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Porcentagem de vitorias:** 47.1%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
 >   <:bruj11:804448796104589323>:cd::cd:
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Itens Core:** Capítulo Perdido > Tormenta de Luden > Chama Sombria > Ampulheta de Zhonya
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon
+**Botas:** Capuz da Morte de Rabadon
+**Itens Iniciais:** Sentinela Invisível, Poção Corrupta
+**Itens Core:** Tormenta de Luden > Chama Sombria > Ampulheta de Zhonya > Sapatos do Feiticeiro
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Véu da Banshee

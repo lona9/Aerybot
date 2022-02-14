@@ -1,7 +1,7 @@
 **Rumble Build ** *(Normal)*
 **Rota:** Rota Topo, Rota do Meio
-**Porcentagem de vitorias:** 47.8%
-**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Porcentagem de vitorias:** 49.1%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
 >   :cd:<:bruj12:804448797001252864>:cd:
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
-**Itens Core:** Alternador Hextec > Colhedor Noturno > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Chama Sombria
+**Itens Core:** Alternador Hextec > Explocinturão Hextec > Ampulheta de Zhonya > Chama Sombria
+**Itens End:** Cajado do Vazio, Morellonomicon, Capuz da Morte de Rabadon
