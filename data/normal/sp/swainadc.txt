@@ -1,6 +1,6 @@
 **Swain AD Carry** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 52.3%
+**Porcentaje de victorias:** 52.8%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Abrazo demoníaco
-**Objetos finales:** Morellonomicón, Sombrero mortífero de Rabadon, Báculo del vacío
+**Objetos finales:** Cetro de cristal de Rylai, Sombrero mortífero de Rabadon, Morellonomicón

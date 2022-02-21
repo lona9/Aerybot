@@ -1,5 +1,5 @@
 **Trundle** *(ARAM)*
-**Porcentagem de vitorias:** 50.5%
+**Porcentagem de vitorias:** 49.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:insp:804451124207681577> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Lágrima da Deusa, Espelho de Bandópolis
-**Itens Core:** Espelho de Bandópolis > Mandato Imperial > Aproximação Invernal > Semblante Espiritual
-**Itens End:** Armadura de Espinhos, Coração Congelado, Hidra Titânica
+**Itens Core:** Espelho de Bandópolis > Mandato Imperial > Aproximação Invernal > Armadura de Warmog
+**Itens End:** Armadura de Espinhos, Semblante Espiritual, Força da Natureza

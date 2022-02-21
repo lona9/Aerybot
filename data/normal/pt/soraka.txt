@@ -1,6 +1,6 @@
 **Soraka Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 52.7%
+**Porcentagem de vitorias:** 52.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:bruj:804451124236648478> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
 **Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Redenção > Armadura de Warmog
-**Itens End:** Putrificador Quimtec, Turíbulo Ardente, Ampulheta de Zhonya
+**Itens End:** Turíbulo Ardente, Putrificador Quimtec, Bênção de Mikael

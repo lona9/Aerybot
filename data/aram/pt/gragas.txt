@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Cajado do Vazio
+**Botas:** Capuz da Morte de Rabadon
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Colhedor Noturno > Ímpeto Cósmico > Ampulheta de Zhonya > Sapatos do Feiticeiro
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Chama Sombria

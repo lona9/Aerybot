@@ -1,6 +1,6 @@
 **Gragas Support** *(Normal)*
 **Posición:** Top, Jungler
-**Porcentaje de victorias:** 45.0%
+**Porcentaje de victorias:** 47.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -12,10 +12,10 @@
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
 >   <:insp41:804450563507879947>:cd::cd:
->   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+>   <:5007:804451180164022312> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible
-**Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Reloj de arena de Zhonya > Convergencia de Zeke
+**Objetos principales:** Capítulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Morellonomicón
 **Objetos finales:** Escudo reliquia, Poción de vida, Umbral del invierno

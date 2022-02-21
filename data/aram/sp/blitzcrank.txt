@@ -1,5 +1,5 @@
 **Blitzcrank ** *(ARAM)*
-**Porcentaje de victorias:** 52.4%
+**Porcentaje de victorias:** 52.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -14,7 +14,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5001:804451180112642088>
 
 **Build**
-**Botas:** Botas de mercurio
-**Objetos iniciales:** Capítulo perdido
-**Objetos principales:** Cuerno del guardián > Manto del Ocaso > Umbral del invierno > Armadura de Warmog
+**Botas:** Umbral del invierno
+**Objetos iniciales:** Poción reutilizable, Gemaluz, Lágrima de la diosa
+**Objetos principales:** Gemaluz > Lágrima de la diosa > Cuerno del guardián > Manto del Ocaso
 **Objetos finales:** Cota de espinas, Fuerza de la naturaleza, Corazón de hielo

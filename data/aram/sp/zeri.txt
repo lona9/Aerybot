@@ -1,6 +1,6 @@
 **Zeri ** *(ARAM)*
-**Porcentaje de victorias:** 48.1%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Porcentaje de victorias:** 50.3%
+**Hechizos del Invocador:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:
@@ -17,4 +17,4 @@
 **Botas:** Hidra titánica
 **Objetos iniciales:** Botas, Hacha hogareña
 **Objetos principales:** Hacha hogareña > Hacha hogareña > Fuerza de la trinidad > Huracán de Runaan
-**Objetos finales:** Cuchilla oscura, Danza de la muerte, Al filo de la Cordura
+**Objetos finales:** Cuchilla oscura, Hoja del rey arruinado, Al filo de la Cordura

@@ -1,12 +1,12 @@
 **Volibear ** *(Normal)*
 **Posición:** Top, Jungler
-**Porcentaje de victorias:** 50.0%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Porcentaje de victorias:** 50.1%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > <:precision11:804445926906658886>:cd::cd::cd:
 >   :cd:<:precision22:804446921414541333>:cd:
->   :cd:<:precision32:804446921737371648>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd:<:precision43:804446921941975080>
 
 >   :cd::cd::cd:
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Brillo > Cercenador divino > Guantelete de Sterak > Cota de espinas
-**Objetos finales:** Apariencia espiritual, Reloj de arena de Zhonya, Armadura pétrea
+**Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Coraza del muerto > Fuerza de la naturaleza
+**Objetos finales:** Apariencia espiritual, Cota de espinas, Guantelete de Sterak

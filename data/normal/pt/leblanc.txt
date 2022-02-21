@@ -1,6 +1,6 @@
 **LeBlanc Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 47.7%
+**Porcentagem de vitorias:** 48.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 

@@ -1,6 +1,6 @@
 **Ahri ** *(Normal)*
 **Posición:** Mid
-**Porcentaje de victorias:** 52.4%
+**Porcentaje de victorias:** 52.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Báculo del vacío
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Tempestad de Luden > Llamasombría > Reloj de arena de Zhonya > Botas del hechicero
+**Objetos principales:** Escarcha eterna > Llamasombría > Reloj de arena de Zhonya > Botas del hechicero
 **Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

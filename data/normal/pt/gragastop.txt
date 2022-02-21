@@ -1,21 +1,21 @@
 **Gragas Build Rota Topo** *(Normal)*
 **Rota:** Rota Topo, Selva
-**Porcentagem de vitorias:** 48.6%
+**Porcentagem de vitorias:** 47.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runas:** <:valor:804451124245561394> <:bruj:804451124236648478>
+**Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
->   <:valor11:804449943376232509>:cd::cd:
->   <:valor21:804449943984537690>:cd::cd:
->   <:valor31:804449943666425907>:cd::cd:
->   <:valor41:804449944298586143>:cd::cd:
-
+>   :cd::cd:<:bruj13:804448796787474433>
 >   :cd:<:bruj22:804448796553117707>:cd:
 >   <:bruj31:804448797395910716>:cd::cd:
+>   <:bruj41:804448797597499402>:cd::cd:
+
 >   :cd::cd::cd:
->   <:5007:804451180164022312> <:5002:804451180104908870> <:5001:804451180112642088>
+>   :cd::cd:<:insp33:804450564049731594>
+>   <:insp41:804450563507879947>:cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Lágrima da Deusa, Poção de Vida
 **Itens Core:** Brasa de Bami > Quimiotanque Turbo > Aproximação Invernal > Armadura de Espinhos
-**Itens End:** Ampulheta de Zhonya, Morellonomicon, Cajado do Vazio
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Ampulheta de Zhonya

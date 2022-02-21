@@ -1,5 +1,5 @@
 **Xayah ** *(ARAM)*
-**Porcentaje de victorias:** 50.4%
+**Porcentaje de victorias:** 50.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
-**Objetos principales:** Puñal serrado > Eclipse > Manamune > Rencor de Serylda
-**Objetos finales:** Sanguinaria, Recuerdos de lord Dominik, Filo del infinito
+**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > Saqueador de esencias > Filo del infinito
+**Objetos finales:** Sanguinaria, Recuerdos de lord Dominik, Cañón de fuego rápido

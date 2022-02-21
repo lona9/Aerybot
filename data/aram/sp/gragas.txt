@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Báculo del vacío
+**Botas:** Sombrero mortífero de Rabadon
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Cosechador nocturno > Impulso cósmico > Reloj de arena de Zhonya > Botas del hechicero
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Llamasombría

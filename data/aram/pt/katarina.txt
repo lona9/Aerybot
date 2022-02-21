@@ -1,5 +1,5 @@
 **Katarina** *(ARAM)*
-**Porcentagem de vitorias:** 49.6%
+**Porcentagem de vitorias:** 49.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Cajado do Vazio
+**Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Olhar Sanguessuga
-**Itens Core:** Criafendas > Dente de Na'Shor > Ampulheta de Zhonya > Sapatos do Feiticeiro
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Chama Sombria
+**Itens Core:** Olhar Sanguessuga > Criafendas > Dente de Na'Shor > Ampulheta de Zhonya
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Chama Sombria

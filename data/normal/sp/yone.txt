@@ -1,6 +1,6 @@
 **Yone ** *(Normal)*
 **Posición:** Mid, Top
-**Porcentaje de victorias:** 48.8%
+**Porcentaje de victorias:** 49.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Filo del infinito > Danza de la muerte
-**Objetos finales:** Ángel Guardián, Sanguinaria, Al filo de la Cordura
+**Objetos finales:** Ángel Guardián, Sanguinaria, Recordatorio mortal

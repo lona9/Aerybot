@@ -1,5 +1,5 @@
 **Seraphine** *(ARAM)*
-**Porcentagem de vitorias:** 57.4%
+**Porcentagem de vitorias:** 52.7%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Cajado do Arcanjo > Putrificador Quimtec
-**Itens End:** Capuz da Morte de Rabadon, Cetro de Cristal de Rylai, Ampulheta de Zhonya
+**Itens End:** Capuz da Morte de Rabadon, Ampulheta de Zhonya, Cetro de Cristal de Rylai

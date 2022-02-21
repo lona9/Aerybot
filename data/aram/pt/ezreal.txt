@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Manamune
+**Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Poção com Refil, Fulgor, Lágrima da Deusa
-**Itens Core:** Fulgor > Lágrima da Deusa > Fulgor > Ruptor Divino
+**Itens Core:** Fulgor > Ruptor Divino > Manamune > Rancor de Serylda
 **Itens End:** Hidra Raivosa, A Coletora, Espada do Rei Destruído

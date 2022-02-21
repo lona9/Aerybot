@@ -1,6 +1,6 @@
 **Hecarim ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 50.1%
+**Porcentaje de victorias:** 50.3%
 **Hechizos del Invocador:** <:Ghost:804555480856002610> <:Smite:804555481494061086>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
-**Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Manamune > Guantelete de Sterak
-**Objetos finales:** Cota de espinas, Fuerza de la naturaleza, Apariencia espiritual
+**Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Manamune > Danza de la muerte
+**Objetos finales:** Cota de espinas, Guantelete de Sterak, Fuerza de la naturaleza

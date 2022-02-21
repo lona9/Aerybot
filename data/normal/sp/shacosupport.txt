@@ -1,7 +1,7 @@
 **Shaco Support** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 49.2%
-**Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Ignite:804555481167298570>
+**Porcentaje de victorias:** 50.0%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
 >   :cd:<:bruj12:804448797001252864>:cd:
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Poción de vida, Impulso cósmico, Abrazo demoníaco
+**Objetos finales:** Llamasombría, Sombrero mortífero de Rabadon, Abrazo demoníaco

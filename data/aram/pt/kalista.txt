@@ -1,5 +1,5 @@
 **Kalista** *(ARAM)*
-**Porcentagem de vitorias:** 46.9%
+**Porcentagem de vitorias:** 46.6%
 **Summoner Spells:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
 **Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Furacão de Runaan > Limite da Razão
-**Itens End:** Lembranças do Lorde Dominik, Sedenta por Sangue, Lâmina da Fúria de Guinsoo
+**Itens End:** Sedenta por Sangue, Lembranças do Lorde Dominik, Lâmina da Fúria de Guinsoo

@@ -1,6 +1,6 @@
 **Caitlyn ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 47.7%
+**Porcentaje de victorias:** 47.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > El Coleccionista > Filo del infinito
+**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > Cañón de fuego rápido > Filo del infinito
 **Objetos finales:** Ángel Guardián, Recuerdos de lord Dominik, Sanguinaria

@@ -1,6 +1,6 @@
 **Rakan Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 48.3%
+**Porcentagem de vitorias:** 48.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Escudo Relicário
-**Itens Core:** Gema Ardente > Hino Bélico de Shurelya > Putrificador Quimtec > Convergência de Zeke
+**Itens Core:** Espelho de Bandópolis > Hino Bélico de Shurelya > Putrificador Quimtec > Convergência de Zeke
 **Itens End:** Poção de Vida, Redenção, Juramento do Cavaleiro

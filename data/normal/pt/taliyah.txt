@@ -1,6 +1,6 @@
 **Taliyah Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 49.8%
+**Porcentagem de vitorias:** 51.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
-**Itens Core:** Capítulo Perdido > Tormenta de Luden > Chama Sombria > Ampulheta de Zhonya
+**Itens Core:** Capítulo Perdido > Tormenta de Luden > Ampulheta de Zhonya > Chama Sombria
 **Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

@@ -1,5 +1,5 @@
 **Seraphine ** *(ARAM)*
-**Porcentaje de victorias:** 57.4%
+**Porcentaje de victorias:** 52.7%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Báculo del arcángel > Putrificador tecnoquímico
-**Objetos finales:** Sombrero mortífero de Rabadon, Cetro de cristal de Rylai, Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mortífero de Rabadon, Reloj de arena de Zhonya, Cetro de cristal de Rylai

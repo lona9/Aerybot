@@ -1,6 +1,6 @@
 **Tahm Kench Build Atirador** *(Normal)*
 **Rota:** Rota Topo, Suporte
-**Porcentagem de vitorias:** 56.3%
+**Porcentagem de vitorias:** 57.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
+**Itens Iniciais:** Sentinela Invisível, Escudo de Doran
 **Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Armadura de Espinhos > Semblante Espiritual
-**Itens End:** Força da Natureza, Presságio de Randuin, Couraça do Defunto
+**Itens End:** Poção de Vida, Couraça do Defunto, Presságio de Randuin

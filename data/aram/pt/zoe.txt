@@ -1,5 +1,5 @@
 **Zoe** *(ARAM)*
-**Porcentagem de vitorias:** 46.3%
+**Porcentagem de vitorias:** 45.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Capítulo Perdido
-**Itens Core:** Capítulo Perdido > Tormenta de Luden > Foco do Horizonte > Capuz da Morte de Rabadon
-**Itens End:** Cajado do Vazio, Ampulheta de Zhonya, Chama Sombria
+**Itens Core:** Capítulo Perdido > Tormenta de Luden > Foco do Horizonte > Chama Sombria
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Ampulheta de Zhonya

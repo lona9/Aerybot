@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Passos de Mercúrio
-**Itens Iniciais:** Berrante do Guardião, Lágrima da Deusa
+**Itens Iniciais:** Poção com Refil, Brasa de Bami
 **Itens Core:** Brasa de Bami > Égide de Fogo Solar > Armadura de Espinhos > Armadura de Warmog
-**Itens End:** Placa Gargolítica, Presságio de Randuin, Força da Natureza
+**Itens End:** Placa Gargolítica, Força da Natureza, Presságio de Randuin

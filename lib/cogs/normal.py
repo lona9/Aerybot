@@ -163,6 +163,7 @@ class Normal(Cog):
                   "rammus": ["rammus"],
                   "reksai": ["reksai", "rek"],
                   "rell": ["rell"],
+                  "renata": ["renata", "renataglasc"],
                   "renekton": ["renekton", "renek"],
                   "rengar": ["rengar"],
                   "rengarjungle": ["rengarjg"],

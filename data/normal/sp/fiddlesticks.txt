@@ -1,6 +1,6 @@
 **Fiddlesticks ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 52.5%
+**Porcentaje de victorias:** 50.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Hoja granizo, Poción de vida, Guardián de control
-**Objetos principales:** Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Velo de la banshee
+**Objetos principales:** Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya > Llamasombría
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

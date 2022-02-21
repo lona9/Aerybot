@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Lente del oráculo, Hoja granizo, Poción reutilizable
 **Objetos principales:** Puñal serrado > Garra de merodeador > Filo de la noche > Ángel Guardián
-**Objetos finales:** Danza de la muerte, Guantelete de Sterak, Sierraespada Quimopunk
+**Objetos finales:** Danza de la muerte, Guantelete de Sterak, Cuchilla oscura

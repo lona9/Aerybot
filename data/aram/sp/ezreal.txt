@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Manamune
+**Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Poción reutilizable, Brillo, Lágrima de la diosa
-**Objetos principales:** Brillo > Lágrima de la diosa > Brillo > Cercenador divino
+**Objetos principales:** Brillo > Cercenador divino > Manamune > Rencor de Serylda
 **Objetos finales:** Hidra voraz, El Coleccionista, Hoja del rey arruinado

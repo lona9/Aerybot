@@ -18,4 +18,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Puñal serrado > Saqueador de esencias > Eclipse > Recuerdos de lord Dominik
-**Objetos finales:** Cañón de fuego rápido, Ángel Guardián, Filo del infinito
+**Objetos finales:** Cañón de fuego rápido, Filo del infinito, Ángel Guardián

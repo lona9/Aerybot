@@ -1,12 +1,12 @@
 **Maokai Top** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 48.5%
+**Porcentaje de victorias:** 48.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
 >   <:valor11:804449943376232509>:cd::cd:
 >   <:valor21:804449943984537690>:cd::cd:
->   :cd:<:valor32:804449943959765002>:cd:
+>   <:valor31:804449943666425907>:cd::cd:
 >   <:valor41:804449944298586143>:cd::cd:
 
 >   :cd::cd::cd:

@@ -129,6 +129,7 @@ class Aram(Cog):
                   "rammus": ["rammus"],
                   "reksai": ["reksai", "rek"],
                   "rell": ["rell"],
+                  "renata": ["renata", "renataglasc"], 
                   "renekton": ["renekton", "renek"],
                   "rengar": ["rengar"],
                   "riven": ["riven"],

@@ -1,6 +1,6 @@
 **Kai'Sa ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 49.4%
+**Porcentaje de victorias:** 49.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada larga, Poción de vida
 **Objetos principales:** Puñal serrado > Manamune > Diente de Nashor > Corona de la Reina Quebrada
-**Objetos finales:** Reloj de arena de Zhonya, Sombrero mortífero de Rabadon, Ángel Guardián
+**Objetos finales:** Reloj de arena de Zhonya, Ángel Guardián, Sombrero mortífero de Rabadon

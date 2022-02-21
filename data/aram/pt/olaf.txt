@@ -1,5 +1,5 @@
 **Olaf** *(ARAM)*
-**Porcentagem de vitorias:** 41.1%
+**Porcentagem de vitorias:** 47.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Chicote Ferrifarpo
-**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Sinal de Sterak > Semblante Espiritual
-**Itens End:** Armadura de Espinhos, Dança da Morte, Força da Natureza
+**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Sinal de Sterak > Dança da Morte
+**Itens End:** Armadura de Espinhos, Semblante Espiritual, Força da Natureza

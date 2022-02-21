@@ -1,5 +1,5 @@
 **Senna ** *(ARAM)*
-**Porcentaje de victorias:** 55.6%
+**Porcentaje de victorias:** 56.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Carcaj de mediodía > Matakrakens > Manamune > Cañón de fuego rápido
-**Objetos finales:** Recuerdos de lord Dominik, El Coleccionista, Hoja de furia de Guinsoo
+**Objetos finales:** Recuerdos de lord Dominik, Hoja de furia de Guinsoo, Recordatorio mortal

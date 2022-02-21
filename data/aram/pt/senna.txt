@@ -1,5 +1,5 @@
 **Senna** *(ARAM)*
-**Porcentagem de vitorias:** 55.6%
+**Porcentagem de vitorias:** 56.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
 **Itens Core:** Aljava Vespertina > Mata-Cráquens > Manamune > Canhão Fumegante
-**Itens End:** Lembranças do Lorde Dominik, A Coletora, Lâmina da Fúria de Guinsoo
+**Itens End:** Lembranças do Lorde Dominik, Lâmina da Fúria de Guinsoo, Lembrete Mortal

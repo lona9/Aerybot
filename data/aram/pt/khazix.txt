@@ -1,5 +1,5 @@
 **Kha'Zix** *(ARAM)*
-**Porcentagem de vitorias:** 48.2%
+**Porcentagem de vitorias:** 47.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Espada Longa
+**Botas:** A Coletora
 **Itens Iniciais:** Poção com Refil, Lágrima da Deusa, Espada Longa
-**Itens Core:** Salto > Sabor de Medo > Poção com Refil > Lágrima da Deusa
+**Itens Core:** Poção com Refil > Lágrima da Deusa > Espada Longa > Punhal Serrilhado > Crepúsculo de Draktharr > Manamune
 **Itens End:** Rancor de Serylda, Limiar da Noite, Mandíbula de Malmortius

@@ -18,4 +18,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
 **Itens Core:** Capítulo Perdido > Angústia de Liandry > Ampulheta de Zhonya > Abraço Demoníaco
-**Itens End:** Capuz da Morte de Rabadon, Morellonomicon, Ímpeto Cósmico
+**Itens End:** Morellonomicon, Capuz da Morte de Rabadon, Ímpeto Cósmico

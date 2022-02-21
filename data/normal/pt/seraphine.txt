@@ -1,13 +1,13 @@
 **Seraphine Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 48.8%
+**Porcentagem de vitorias:** 49.5%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
 >   <:bruj11:804448796104589323>:cd::cd:
 >   :cd:<:bruj22:804448796553117707>:cd:
 >   <:bruj31:804448797395910716>:cd::cd:
->   :cd::cd:<:bruj43:804448797631316069>
+>   <:bruj41:804448797597499402>:cd::cd:
 
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
-**Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Putrificador Quimtec > Cajado Aquafluxo
-**Itens End:** Capuz da Morte de Rabadon, Ampulheta de Zhonya, Cetro de Cristal de Rylai
+**Itens Core:** Capítulo Perdido > Angústia de Liandry > Cajado do Arcanjo > Cetro de Cristal de Rylai
+**Itens End:** Capuz da Morte de Rabadon, Ampulheta de Zhonya, Cajado do Vazio
