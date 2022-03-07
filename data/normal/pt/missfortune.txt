@@ -18,4 +18,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
 **Itens Core:** Punhal Serrilhado > Eclipse > A Coletora > Rancor de Serylda
-**Itens End:** Anjo Guardião, Gume do Infinito, Sedenta por Sangue
+**Itens End:** Anjo Guardião, Gume do Infinito, Lembrete Mortal

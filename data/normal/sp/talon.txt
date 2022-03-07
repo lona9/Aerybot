@@ -1,6 +1,6 @@
 **Talon ** *(Normal)*
 **Posición:** Mid, Jungler
-**Porcentaje de victorias:** 51.3%
+**Porcentaje de victorias:** 51.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Espada larga, Poción reutilizable
-**Objetos principales:** Puñal serrado > Garra de merodeador > Filo fantasmal de Youmuu > Filo de la noche
-**Objetos finales:** Ángel Guardián, Rencor de Serylda, Colmillo de serpiente
+**Objetos principales:** Látigo férreo > Bebedor de sangre > Cuchilla oscura > Danza de la muerte
+**Objetos finales:** Ángel Guardián, Rencor de Serylda, Filo de la noche

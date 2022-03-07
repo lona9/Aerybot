@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
-**Itens Core:** Espelho de Bandópolis > Mandato Imperial > Cajado Aquafluxo > Turíbulo Ardente
-**Itens End:** Redenção, Ampulheta de Zhonya, Putrificador Quimtec
+**Itens Core:** Espelho de Bandópolis > Hino Bélico de Shurelya > Putrificador Quimtec > Redenção
+**Itens End:** Cajado Aquafluxo, Ampulheta de Zhonya, Turíbulo Ardente

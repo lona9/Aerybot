@@ -1,6 +1,6 @@
 **Sion ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 48.3%
+**Porcentaje de victorias:** 49.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -9,13 +9,13 @@
 >   <:valor31:804449943666425907>:cd::cd:
 >   <:valor41:804449944298586143>:cd::cd:
 
->   :cd:<:insp22:804450563793747989>:cd:
->   :cd::cd:<:insp33:804450564049731594>
 >   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd:<:insp42:804450563965452369>:cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Bacteriófago > Rompecascos > Égida de fuego solar > Hidra titánica
-**Objetos finales:** Cota de espinas, Armadura pétrea, Guantelete de Sterak
+**Objetos principales:** Bacteriófago > Rompecascos > Égida de fuego solar > Cota de espinas
+**Objetos finales:** Armadura pétrea, Hidra titánica, Corazón de hielo

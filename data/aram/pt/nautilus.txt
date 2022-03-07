@@ -1,5 +1,5 @@
 **Nautilus** *(ARAM)*
-**Porcentagem de vitorias:** 53.2%
+**Porcentagem de vitorias:** 54.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Passos de Mercúrio
-**Itens Iniciais:** Poção com Refil, Brasa de Bami
+**Itens Iniciais:** Berrante do Guardião, Lágrima da Deusa
 **Itens Core:** Brasa de Bami > Égide de Fogo Solar > Armadura de Espinhos > Armadura de Warmog
 **Itens End:** Placa Gargolítica, Força da Natureza, Coração Congelado

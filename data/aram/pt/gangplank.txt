@@ -1,5 +1,5 @@
 **Gangplank** *(ARAM)*
-**Porcentagem de vitorias:** 50.8%
+**Porcentagem de vitorias:** 50.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Lembranças do Lorde Dominik
-**Itens Iniciais:** Botas, Espada Longa, Fulgor
+**Itens Iniciais:** Poção com Refil, Fulgor, Lágrima da Deusa
 **Itens Core:** Colhedor de Essência > Crepúsculo de Draktharr > A Coletora > Botas Ionianas da Lucidez
 **Itens End:** Lembranças do Lorde Dominik, Gume do Infinito, Lembrete Mortal

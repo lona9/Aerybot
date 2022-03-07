@@ -1,6 +1,6 @@
 **Xayah ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 50.7%
+**Porcentaje de victorias:** 49.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > Saqueador de esencias > Filo del infinito
-**Objetos finales:** Ángel Guardián, Sanguinaria, Recuerdos de lord Dominik
+**Objetos principales:** Puñal serrado > Eclipse > Manamune > Rencor de Serylda
+**Objetos finales:** Ángel Guardián, Recuerdos de lord Dominik, Filo del infinito

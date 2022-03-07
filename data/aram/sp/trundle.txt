@@ -1,12 +1,12 @@
 **Trundle ** *(ARAM)*
-**Porcentaje de victorias:** 49.9%
+**Porcentaje de victorias:** 50.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
-**Runas:** <:insp:804451124207681577> <:pres:804451123825606657>
+**Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
->   <:insp11:804450563936223283>:cd::cd:
->   :cd:<:insp22:804450563793747989>:cd:
->   <:insp31:804450564188536842>:cd::cd:
->   :cd:<:insp42:804450563965452369>:cd:
+>   <:valor11:804449943376232509>:cd::cd:
+>   :cd:<:valor22:804449944018223104>:cd:
+>   <:valor31:804449943666425907>:cd::cd:
+>   <:valor41:804449944298586143>:cd::cd:
 
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd:<:precision32:804446921737371648>:cd:
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Lágrima de la diosa, Espejo de cristal de Bandle
 **Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Umbral del invierno > Armadura de Warmog
-**Objetos finales:** Cota de espinas, Apariencia espiritual, Fuerza de la naturaleza
+**Objetos finales:** Cota de espinas, Apariencia espiritual, Hidra titánica

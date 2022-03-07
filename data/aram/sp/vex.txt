@@ -1,5 +1,5 @@
 **Vex ** *(ARAM)*
-**Porcentaje de victorias:** 49.7%
+**Porcentaje de victorias:** 48.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
-**Objetos principales:** Capítulo perdido > Tempestad de Luden > Enfoque al horizonte > Reloj de arena de Zhonya
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Llamasombría > Reloj de arena de Zhonya
 **Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

@@ -1,6 +1,6 @@
 **Qiyana Build ** *(Normal)*
 **Rota:** Rota do Meio, Selva
-**Porcentagem de vitorias:** 49.4%
+**Porcentagem de vitorias:** 49.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Espada Longa, Poção com Refil
 **Itens Core:** Punhal Serrilhado > Garra do Espreitador > Lâmina Fantasma de Youmuu > Rancor de Serylda
-**Itens End:** Anjo Guardião, Limiar da Noite, Cutelo Negro
+**Itens End:** Anjo Guardião, Limiar da Noite, Dança da Morte

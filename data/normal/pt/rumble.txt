@@ -1,12 +1,12 @@
 **Rumble Build ** *(Normal)*
 **Rota:** Rota Topo, Rota do Meio
-**Porcentagem de vitorias:** 49.0%
+**Porcentagem de vitorias:** 49.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
 >   :cd:<:bruj12:804448797001252864>:cd:
 >   :cd::cd:<:bruj23:804448797425532928>
->   :cd::cd:<:bruj33:804448797509419098>
+>   <:bruj31:804448797395910716>:cd::cd:
 >   <:bruj41:804448797597499402>:cd::cd:
 
 >   :cd:<:dom22:804457129394176020>:cd:

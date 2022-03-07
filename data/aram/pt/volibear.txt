@@ -1,12 +1,12 @@
 **Volibear** *(ARAM)*
-**Porcentagem de vitorias:** 50.5%
+**Porcentagem de vitorias:** 50.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
 >   <:valor11:804449943376232509>:cd::cd:
 >   :cd::cd:<:valor23:804449943876010024>
 >   <:valor31:804449943666425907>:cd::cd:
->   :cd:<:valor42:804449943615438919>:cd:
+>   <:valor41:804449944298586143>:cd::cd:
 
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd:<:precision32:804446921737371648>:cd:

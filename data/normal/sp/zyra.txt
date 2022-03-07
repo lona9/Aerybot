@@ -1,6 +1,6 @@
 **Zyra ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 51.5%
+**Porcentaje de victorias:** 50.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Abrazo demoníaco, Sombrero mortífero de Rabadon, Cetro de cristal de Rylai
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Abrazo demoníaco

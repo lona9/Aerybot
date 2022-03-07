@@ -1,5 +1,5 @@
 **Gragas** *(ARAM)*
-**Porcentagem de vitorias:** 47.3%
+**Porcentagem de vitorias:** 47.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Capuz da Morte de Rabadon
+**Botas:** Cajado do Vazio
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Colhedor Noturno > Ímpeto Cósmico > Ampulheta de Zhonya > Sapatos do Feiticeiro
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Chama Sombria
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Chama Sombria

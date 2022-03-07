@@ -1,6 +1,6 @@
 **Seraphine Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 49.5%
+**Porcentagem de vitorias:** 49.9%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 

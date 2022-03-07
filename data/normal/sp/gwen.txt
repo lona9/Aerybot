@@ -1,7 +1,7 @@
 **Gwen ** *(Normal)*
 **Posición:** Top, Jungler
-**Porcentaje de victorias:** 48.5%
-**Hechizos del Invocador:** <:Ghost:804555480856002610> <:Smite:804555481494061086>
+**Porcentaje de victorias:** 45.1%
+**Hechizos del Invocador:** <:Teleport:804555481699713034> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd::cd::cd:<:precision14:804446921631596585>
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
-**Objetos principales:** Arco curvo > Diente de Nashor > Agrietador > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortífero de Rabadon, Impulso cósmico, Morellonomicón
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Mirada absorbente > Agrietador > Diente de Nashor > Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mortífero de Rabadon, Morellonomicón, Impulso cósmico

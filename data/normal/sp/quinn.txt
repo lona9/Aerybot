@@ -1,6 +1,6 @@
 **Quinn ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 52.5%
+**Porcentaje de victorias:** 53.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Al filo de la Cordura > Navaja de asalto
+**Objetos principales:** Cetro vampírico > Arcoescudo inmortal > Al filo de la Cordura > Navaja de asalto
 **Objetos finales:** Ángel Guardián, Filo del infinito, Recuerdos de lord Dominik

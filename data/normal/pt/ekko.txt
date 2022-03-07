@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Ampulheta de Zhonya
-**Itens Iniciais:** Lente do Oráculo, Lâmina Álgida, Poção com Refil
+**Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
 **Itens Core:** Poção com Refil > Alternador Hextec > Explocinturão Hextec > Perdição de Lich
 **Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Chama Sombria

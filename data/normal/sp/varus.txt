@@ -1,6 +1,6 @@
 **Varus ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 45.9%
+**Porcentaje de victorias:** 45.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Puñal serrado > Eclipse > Manamune > Rencor de Serylda
-**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Sanguinaria
+**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > Bailarín espectral > Hoja de furia de Guinsoo
+**Objetos finales:** Ángel Guardián, Rencor de Serylda, Filo de la noche

@@ -1,5 +1,5 @@
 **Poppy ** *(ARAM)*
-**Porcentaje de victorias:** 47.5%
+**Porcentaje de victorias:** 47.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Ceniza de Bami
 **Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Armadura de Warmog
-**Objetos finales:** Armadura pétrea, Fuerza de la naturaleza, Presagio de Randuin
+**Objetos finales:** Armadura pétrea, Fuerza de la naturaleza, Corazón de hielo

@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Puñal serrado
 **Objetos principales:** Puñal serrado > Eclipse > El Coleccionista > Guantelete de Sterak
-**Objetos finales:** Danza de la muerte, Cuchilla oscura, Apariencia espiritual
+**Objetos finales:** Cuchilla oscura, Danza de la muerte, Sierraespada Quimopunk

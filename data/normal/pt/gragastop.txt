@@ -1,6 +1,6 @@
 **Gragas Build Rota Topo** *(Normal)*
-**Rota:** Rota Topo, Selva
-**Porcentagem de vitorias:** 47.9%
+**Rota:** Rota Topo
+**Porcentagem de vitorias:** 48.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Lágrima da Deusa, Poção de Vida
-**Itens Core:** Brasa de Bami > Quimiotanque Turbo > Aproximação Invernal > Armadura de Espinhos
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Ampulheta de Zhonya
+**Itens Core:** Capítulo Perdido > Glacieterno > Aproximação Invernal > Ampulheta de Zhonya
+**Itens End:** Cajado do Vazio, Morellonomicon, Capuz da Morte de Rabadon

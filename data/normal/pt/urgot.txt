@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Fago > Quebracascos > Hidra Titânica > Manopla do Raio de Gelo
+**Itens Core:** Tiamat > Hidra Titânica > Cutelo Negro > Manopla do Raio de Gelo
 **Itens End:** Armadura de Espinhos, Sinal de Sterak, Placa Gargolítica

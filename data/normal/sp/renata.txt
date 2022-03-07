@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
-**Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Báculo de agua fluyente > Pebetero ardiente
-**Objetos finales:** Redención, Reloj de arena de Zhonya, Putrificador tecnoquímico
+**Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Putrificador tecnoquímico > Redención
+**Objetos finales:** Báculo de agua fluyente, Reloj de arena de Zhonya, Pebetero ardiente

@@ -1,6 +1,6 @@
 **Sett Build Suporte** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 46.2%
+**Porcentagem de vitorias:** 44.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas da Rapidez
 **Itens Iniciais:** Sentinela Invisível
 **Itens Core:** Brasa de Bami > Quimiotanque Turbo > Couraça do Defunto > Armadura de Espinhos
-**Itens End:** Guarda-ombros de Aço, Poção de Vida, Força da Natureza
+**Itens End:** Guarda-ombros de Aço, Poção de Vida, Sinal de Sterak

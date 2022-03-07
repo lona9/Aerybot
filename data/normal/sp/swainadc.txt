@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Abrazo demoníaco
-**Objetos finales:** Cetro de cristal de Rylai, Sombrero mortífero de Rabadon, Morellonomicón
+**Objetos finales:** Morellonomicón, Sombrero mortífero de Rabadon, Cetro de cristal de Rylai

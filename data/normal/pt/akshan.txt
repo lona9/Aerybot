@@ -1,6 +1,6 @@
 **Akshan Build ** *(Normal)*
 **Rota:** Rota do Meio, Rota Topo
-**Porcentagem de vitorias:** 50.6%
+**Porcentagem de vitorias:** 51.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -12,10 +12,10 @@
 >   :cd::cd:<:valor23:804449943876010024>
 >   :cd::cd:<:valor33:804449943603118131>
 >   :cd::cd::cd:
->   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Picareta > Quebracascos > Mata-Cráquens > Lembranças do Lorde Dominik
-**Itens End:** Anjo Guardião, Gume do Infinito, Lembrete Mortal
+**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Limite da Razão > Lâmina da Fúria de Guinsoo
+**Itens End:** Anjo Guardião, Lembranças do Lorde Dominik, Gume do Infinito

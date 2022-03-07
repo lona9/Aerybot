@@ -1,6 +1,6 @@
 **Gragas Top** *(Normal)*
-**Posición:** Top, Jungler
-**Porcentaje de victorias:** 47.9%
+**Posición:** Top
+**Porcentaje de victorias:** 48.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Lágrima de la diosa, Poción de vida
-**Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Umbral del invierno > Cota de espinas
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Reloj de arena de Zhonya
+**Objetos principales:** Capítulo perdido > Escarcha eterna > Umbral del invierno > Reloj de arena de Zhonya
+**Objetos finales:** Báculo del vacío, Morellonomicón, Sombrero mortífero de Rabadon

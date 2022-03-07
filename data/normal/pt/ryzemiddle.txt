@@ -1,6 +1,6 @@
 **Ryze Build Rota do Meio** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 46.1%
+**Porcentagem de vitorias:** 45.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Capuz da Morte de Rabadon
+**Botas:** Ampulheta de Zhonya
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
 **Itens Core:** Glacieterno > Aproximação Invernal > Coração Congelado > Passos de Mercúrio
-**Itens End:** Capuz da Morte de Rabadon, Chama Sombria, Ampulheta de Zhonya
+**Itens End:** Ampulheta de Zhonya, Capuz da Morte de Rabadon, Chama Sombria

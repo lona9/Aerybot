@@ -1,7 +1,7 @@
 **Karthus Build ** *(Normal)*
-**Rota:** Selva
-**Porcentagem de vitorias:** 48.6%
-**Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
+**Rota:** Selva, Atirador
+**Porcentagem de vitorias:** 49.0%
+**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
-**Itens Core:** Capítulo Perdido > Angústia de Liandry > Chama Sombria > Ampulheta de Zhonya
+**Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
+**Itens Core:** Capítulo Perdido > Angústia de Liandry > Ampulheta de Zhonya > Chama Sombria
 **Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

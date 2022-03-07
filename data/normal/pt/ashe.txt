@@ -18,4 +18,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
 **Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Limite da Razão > Lâmina da Fúria de Guinsoo
-**Itens End:** Anjo Guardião, Lembranças do Lorde Dominik, Espada do Rei Destruído
+**Itens End:** Anjo Guardião, Lembranças do Lorde Dominik, Furacão de Runaan

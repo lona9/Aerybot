@@ -1,6 +1,6 @@
 **Vayne ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 51.9%
+**Porcentaje de victorias:** 52.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 

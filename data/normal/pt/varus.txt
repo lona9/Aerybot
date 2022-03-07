@@ -1,6 +1,6 @@
 **Varus Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 45.9%
+**Porcentagem de vitorias:** 45.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Punhal Serrilhado > Eclipse > Manamune > Rancor de Serylda
-**Itens End:** Anjo Guardião, Serrespada Quimiopunk, Sedenta por Sangue
+**Itens Core:** Aljava Vespertina > Força do Vendaval > Dançarina Fantasma > Lâmina da Fúria de Guinsoo
+**Itens End:** Anjo Guardião, Rancor de Serylda, Limiar da Noite

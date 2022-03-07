@@ -1,6 +1,6 @@
 **Maokai Build Suporte** *(Normal)*
-**Rota:** Suporte
-**Porcentagem de vitorias:** 51.0%
+**Rota:** Suporte, Rota Topo
+**Porcentagem de vitorias:** 49.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas da Rapidez
-**Itens Iniciais:** Sentinela Invisível, Escudo Relicário
-**Itens Core:** Espelho de Bandópolis > Mandato Imperial > Abraço Demoníaco > Morellonomicon
-**Itens End:** Poção de Vida, Couraça do Defunto, Armadura de Espinhos
+**Itens Iniciais:** 
+**Itens Core:** Couraça Lunar Alada > Couraça do Defunto > Proteção Imutável > Armadura de Espinhos
+**Itens End:** Sentinela Invisível, Escudo Relicário, Poção de Vida

@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Bacteriófago > Rompecascos > Hidra titánica > Guantelete de fuego escarchado
+**Objetos principales:** Tiamat > Hidra titánica > Cuchilla oscura > Guantelete de fuego escarchado
 **Objetos finales:** Cota de espinas, Guantelete de Sterak, Armadura pétrea

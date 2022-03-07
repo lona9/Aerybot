@@ -1,6 +1,6 @@
 **Soraka** *(ARAM)*
-**Porcentagem de vitorias:** 54.1%
-**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
+**Porcentagem de vitorias:** 53.5%
+**Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:bruj:804451124236648478> <:valor:804451124245561394>
 
 >   <:bruj11:804448796104589323>:cd::cd:
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Cristal de Rubi, Espelho de Bandópolis
+**Itens Iniciais:** Lágrima da Deusa, Espelho de Bandópolis
 **Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Armadura de Warmog > Aproximação Invernal
-**Itens End:** Putrificador Quimtec, Cajado Aquafluxo, Redenção
+**Itens End:** Cajado Aquafluxo, Redenção, Putrificador Quimtec

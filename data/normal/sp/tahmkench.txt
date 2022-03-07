@@ -1,7 +1,7 @@
 **Tahm Kench ** *(Normal)*
 **Posición:** Top, Support
-**Porcentaje de victorias:** 51.8%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Porcentaje de victorias:** 51.3%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
 >   <:valor11:804449943376232509>:cd::cd:
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Apariencia espiritual
-**Objetos finales:** Armadura pétrea, Presagio de Randuin, Corazón de hielo
+**Objetos finales:** Presagio de Randuin, Corazón de hielo, Armadura pétrea

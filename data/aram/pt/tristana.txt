@@ -1,20 +1,20 @@
 **Tristana** *(ARAM)*
-**Porcentagem de vitorias:** 44.9%
+**Porcentagem de vitorias:** 45.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
-**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+**Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
-> :cd:<:precision12:804446921522675733>:cd::cd:
+> :cd::cd::cd:<:dom14:804447179938070569>
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd:<:dom33:804457129578332160>
+> <:dom41:804457130379182120>:cd::cd::cd:
+
 >   :cd:<:precision22:804446921414541333>:cd:
 >   <:precision31:804446921660956702>:cd::cd:
->   <:precision41:804446922151690300>:cd::cd:
-
->   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
-> <:dom41:804457130379182120>:cd::cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
 **Itens Core:** Aljava Vespertina > Mata-Cráquens > Canhão Fumegante > Gume do Infinito
-**Itens End:** Sedenta por Sangue, Lembranças do Lorde Dominik, Lembrete Mortal
+**Itens End:** Lembranças do Lorde Dominik, Sedenta por Sangue, Lembrete Mortal

@@ -1,6 +1,6 @@
 **Ekko Build Selva** *(Normal)*
 **Rota:** Selva, Rota do Meio
-**Porcentagem de vitorias:** 50.9%
+**Porcentagem de vitorias:** 51.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Lente do Oráculo, Lâmina Álgida, Poção com Refil
+**Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
 **Itens Core:** Alternador Hextec > Explocinturão Hextec > Perdição de Lich > Ampulheta de Zhonya
 **Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Chama Sombria

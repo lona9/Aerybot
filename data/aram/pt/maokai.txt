@@ -17,4 +17,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Capítulo Perdido > Angústia de Liandry > Abraço Demoníaco > Morellonomicon
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Armadura de Espinhos
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Semblante Espiritual

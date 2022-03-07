@@ -1,6 +1,6 @@
 **Zeri Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 49.8%
+**Porcentagem de vitorias:** 51.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
 **Itens Core:** Fulgor > Força da Trindade > Furacão de Runaan > Hidra Titânica
-**Itens End:** Anjo Guardião, Cutelo Negro, Dança da Morte
+**Itens End:** Anjo Guardião, Cutelo Negro, Espada do Rei Destruído

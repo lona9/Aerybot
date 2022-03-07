@@ -1,6 +1,6 @@
 **Rek'Sai ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 52.2%
+**Porcentaje de victorias:** 51.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Lente del oráculo, Hoja granizo, Poción reutilizable
-**Objetos principales:** Puñal serrado > Garra de merodeador > Filo de la noche > Ángel Guardián
-**Objetos finales:** Danza de la muerte, Guantelete de Sterak, Cuchilla oscura
+**Objetos principales:** Puñal serrado > Garra de merodeador > Filo de la noche > Danza de la muerte
+**Objetos finales:** Ángel Guardián, Cuchilla oscura, Guantelete de Sterak
