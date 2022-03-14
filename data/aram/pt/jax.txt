@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Sinal de Sterak
+**Botas:** Dança da Morte
 **Itens Iniciais:** Cristal de Rubi, Poção com Refil, Fulgor
 **Itens Core:** Fulgor > Fulgor > Ruptor Divino > Espada do Rei Destruído
-**Itens End:** Semblante Espiritual, Dança da Morte, Limite da Razão
+**Itens End:** Semblante Espiritual, Sinal de Sterak, Limite da Razão

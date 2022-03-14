@@ -1,6 +1,6 @@
 **Lee Sin Top** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 45.8%
+**Porcentaje de victorias:** 41.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Látigo férreo > Bebedor de sangre > Cuchilla oscura > Danza de la muerte
-**Objetos finales:** Ángel Guardián, Fauces de Malmortius, Filo de la noche
+**Objetos principales:** Látigo férreo > Bebedor de sangre > Danza de la muerte > Cuchilla oscura
+**Objetos finales:** Ángel Guardián, Fauces de Malmortius, Sierraespada Quimopunk

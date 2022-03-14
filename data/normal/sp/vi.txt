@@ -1,6 +1,6 @@
 **Vi ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 50.7%
+**Porcentaje de victorias:** 51.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
 **Objetos principales:** Puñal serrado > Eclipse > El Coleccionista > Saqueador de esencias
-**Objetos finales:** Ángel Guardián, Danza de la muerte, Guantelete de Sterak
+**Objetos finales:** Ángel Guardián, Danza de la muerte, Cota de espinas

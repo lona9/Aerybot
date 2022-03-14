@@ -1,6 +1,6 @@
 **Volibear Build Selva** *(Normal)*
-**Rota:** Rota Topo, Selva
-**Porcentagem de vitorias:** 52.4%
+**Rota:** Selva, Rota Topo
+**Porcentagem de vitorias:** 52.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
 **Itens Core:** Brasa de Bami > Quimiotanque Turbo > Couraça do Defunto > Força da Natureza
-**Itens End:** Semblante Espiritual, Presságio de Randuin, Armadura de Espinhos
+**Itens End:** Semblante Espiritual, Armadura de Espinhos, Presságio de Randuin

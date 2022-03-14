@@ -1,5 +1,5 @@
 **Vi** *(ARAM)*
-**Porcentagem de vitorias:** 46.0%
+**Porcentagem de vitorias:** 46.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Fago, Poção de Vida
-**Itens Core:** Fago > Ruptor Divino > Sinal de Sterak > Dança da Morte
+**Itens Core:** Martelo de Guerra de Caulfield > Ruptor Divino > Sinal de Sterak > Dança da Morte
 **Itens End:** Armadura de Espinhos, Semblante Espiritual, Cutelo Negro

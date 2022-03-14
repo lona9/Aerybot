@@ -1,6 +1,6 @@
 **Zoe ** *(ARAM)*
-**Porcentaje de victorias:** 46.1%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
+**Porcentaje de victorias:** 45.9%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:

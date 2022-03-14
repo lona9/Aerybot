@@ -1,6 +1,6 @@
 **Kled ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 51.9%
+**Porcentaje de victorias:** 50.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Látigo férreo > Bebedor de sangre > Cuchilla oscura > Danza de la muerte
-**Objetos finales:** Guantelete de Sterak, Armadura pétrea, Cota de espinas
+**Objetos finales:** Armadura pétrea, Cota de espinas, Ángel Guardián

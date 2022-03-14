@@ -1,6 +1,6 @@
 **Amumu ** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 49.2%
+**Porcentaje de victorias:** 50.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Ceniza de Bami > Égida de fuego solar > Abrazo demoníaco > Cota de espinas
-**Objetos finales:** Corazón de hielo, Armadura pétrea, Fuerza de la naturaleza
+**Objetos finales:** Fuerza de la naturaleza, Corazón de hielo, Armadura pétrea

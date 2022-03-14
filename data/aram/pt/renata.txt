@@ -1,5 +1,5 @@
 **Renata Glasc** *(ARAM)*
-**Porcentagem de vitorias:** 54.2%
+**Porcentagem de vitorias:** 55.7%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -8,7 +8,7 @@
 >   <:bruj31:804448797395910716>:cd::cd:
 >   :cd::cd:<:bruj43:804448797631316069>
 
->   <:dom21:804457127800078397>:cd::cd:
+>   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
 > :cd::cd::cd:<:dom44:804457129732866048>
 >   <:5007:804451180164022312> <:5008:804451180172279808> <:5002:804451180104908870>
@@ -17,4 +17,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Cristal de Rubi, Espelho de Bandópolis
 **Itens Core:** Espelho de Bandópolis > Mandato Imperial > Cajado Aquafluxo > Turíbulo Ardente
-**Itens End:** Redenção, Ampulheta de Zhonya, Bênção de Mikael
+**Itens End:** Ampulheta de Zhonya, Redenção, Putrificador Quimtec

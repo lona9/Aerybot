@@ -1,6 +1,6 @@
 **Neeko Support** *(Normal)*
 **Posición:** Mid, Support
-**Porcentaje de victorias:** 51.1%
+**Porcentaje de victorias:** 49.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos
+**Objetos iniciales:** Centinela invisible
 **Objetos principales:** Capítulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Poción de vida, Báculo del vacío, Llamasombría
+**Objetos finales:** Filo del Robahechizos, Poción de vida, Llamasombría

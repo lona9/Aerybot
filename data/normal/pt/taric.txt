@@ -1,6 +1,6 @@
 **Taric Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 49.3%
+**Porcentagem de vitorias:** 48.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 

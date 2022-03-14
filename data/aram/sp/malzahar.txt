@@ -1,6 +1,6 @@
 **Malzahar ** *(ARAM)*
-**Porcentaje de victorias:** 52.8%
-**Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
+**Porcentaje de victorias:** 52.3%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:

@@ -1,5 +1,5 @@
 **Azir ** *(ARAM)*
-**Porcentaje de victorias:** 45.1%
+**Porcentaje de victorias:** 44.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Tempestad de Luden > Diente de Nashor > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Cetro de cristal de Rylai
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón

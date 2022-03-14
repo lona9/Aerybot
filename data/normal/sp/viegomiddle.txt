@@ -1,6 +1,6 @@
 **Viego Mid** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 47.0%
+**Porcentaje de victorias:** 49.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -10,12 +10,12 @@
 >   <:precision41:804446922151690300>:cd::cd:
 
 >   :cd::cd::cd:
->   :cd::cd:<:valor33:804449943603118131>
+>   :cd:<:valor32:804449943959765002>:cd:
 >   :cd:<:valor42:804449943615438919>:cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Cetro vampírico > Hoja del rey arruinado > Cercenador divino > Danza de la muerte
-**Objetos finales:** Ángel Guardián, Presagio de Randuin, Al filo de la Cordura
+**Objetos finales:** Al filo de la Cordura, Ángel Guardián, El Coleccionista

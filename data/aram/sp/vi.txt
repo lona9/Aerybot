@@ -1,5 +1,5 @@
 **Vi ** *(ARAM)*
-**Porcentaje de victorias:** 46.0%
+**Porcentaje de victorias:** 46.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Bacteriófago, Poción de vida
-**Objetos principales:** Bacteriófago > Cercenador divino > Guantelete de Sterak > Danza de la muerte
+**Objetos principales:** Martillo de guerra de Caulfield > Cercenador divino > Guantelete de Sterak > Danza de la muerte
 **Objetos finales:** Cota de espinas, Apariencia espiritual, Cuchilla oscura

@@ -1,21 +1,21 @@
 **Pantheon Build ** *(Normal)*
 **Rota:** Suporte, Rota Topo, Rota do Meio
-**Porcentagem de vitorias:** 49.6%
+**Porcentagem de vitorias:** 48.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
+**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
-> :cd::cd::cd:<:precision14:804446921631596585>
+> <:precision11:804445926906658886>:cd::cd::cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd:<:precision32:804446921737371648>:cd:
 >   <:precision41:804446922151690300>:cd::cd:
 
+>   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd::cd:
->   :cd::cd:<:insp33:804450564049731594>
->   :cd::cd:<:insp43:804450563952869452>
+> :cd::cd:<:dom43:804457129183936582>:cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Poção Corrupta
-**Itens Core:** Punhal Serrilhado > Eclipse > Cutelo Negro > Dança da Morte
-**Itens End:** Anjo Guardião, Serrespada Quimiopunk, Rancor de Serylda
+**Botas:** Dança da Morte
+**Itens Iniciais:** Sentinela Invisível, Guarda-ombros de Aço, Poção de Vida
+**Itens Core:** Poção de Vida > Punhal Serrilhado > Eclipse > Cutelo Negro
+**Itens End:** Anjo Guardião, Rancor de Serylda, Serrespada Quimiopunk

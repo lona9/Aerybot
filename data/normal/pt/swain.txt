@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
-**Itens Core:** Capítulo Perdido > Angústia de Liandry > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Capuz da Morte de Rabadon, Cetro de Cristal de Rylai, Abraço Demoníaco
+**Itens Core:** Capítulo Perdido > Angústia de Liandry > Ampulheta de Zhonya > Abraço Demoníaco
+**Itens End:** Morellonomicon, Cetro de Cristal de Rylai, Capuz da Morte de Rabadon

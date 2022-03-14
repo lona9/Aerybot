@@ -1,11 +1,11 @@
 **Thresh ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 47.3%
+**Porcentaje de victorias:** 46.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:insp:804451124207681577> <:valor:804451124245561394>
 
 >   <:insp11:804450563936223283>:cd::cd:
->   :cd::cd:<:insp23:804450563948675112>
+>   <:insp21:804450563911057458>:cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
 >   :cd::cd:<:insp43:804450563952869452>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas de movilidad
 **Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Presagio de Randuin, Cota de espinas, Corazón de hielo
+**Objetos finales:** Redención, Presagio de Randuin, Cota de espinas

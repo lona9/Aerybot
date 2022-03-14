@@ -1,6 +1,6 @@
 **Gragas Support** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 47.6%
+**Porcentaje de victorias:** 49.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible
-**Objetos principales:** Capítulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Impulso cósmico
+**Objetos principales:** Capítulo perdido > Escarcha eterna > Impulso cósmico > Reloj de arena de Zhonya
 **Objetos finales:** Escudo reliquia, Poción de vida, Convergencia de Zeke

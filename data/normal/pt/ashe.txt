@@ -1,6 +1,6 @@
 **Ashe Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 50.2%
+**Porcentagem de vitorias:** 50.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
 **Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Limite da Razão > Lâmina da Fúria de Guinsoo
-**Itens End:** Anjo Guardião, Lembranças do Lorde Dominik, Furacão de Runaan
+**Itens End:** Anjo Guardião, Lembranças do Lorde Dominik, Sedenta por Sangue

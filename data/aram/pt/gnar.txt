@@ -1,20 +1,20 @@
 **Gnar** *(ARAM)*
-**Porcentagem de vitorias:** 45.7%
+**Porcentagem de vitorias:** 46.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
-**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+**Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
-> :cd::cd::cd:<:precision14:804446921631596585>
+>   <:valor11:804449943376232509>:cd::cd:
+>   :cd:<:valor22:804449944018223104>:cd:
+>   <:valor31:804449943666425907>:cd::cd:
+>   <:valor41:804449944298586143>:cd::cd:
+
 >   :cd:<:precision22:804446921414541333>:cd:
->   <:precision31:804446921660956702>:cd::cd:
->   <:precision41:804446922151690300>:cd::cd:
-
->   :cd:<:dom22:804457129394176020>:cd:
+>   :cd:<:precision32:804446921737371648>:cd:
 >   :cd::cd::cd:
-> <:dom41:804457130379182120>:cd::cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Martelo de Guerra de Caulfield
-**Itens Core:** Fago > Ruptor Divino > Sinal de Sterak > Armadura de Espinhos
-**Itens End:** Força da Natureza, Semblante Espiritual, Armadura de Warmog
+**Itens Core:** Martelo de Guerra de Caulfield > Ruptor Divino > Sinal de Sterak > Armadura de Espinhos
+**Itens End:** Força da Natureza, Semblante Espiritual, Presságio de Randuin

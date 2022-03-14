@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Brillo > Cercenador divino > Corazón de hielo > Apariencia espiritual
-**Objetos finales:** Cota de espinas, Armadura pétrea, Fuerza de la naturaleza
+**Objetos finales:** Cota de espinas, Armadura pétrea, Coraza del muerto

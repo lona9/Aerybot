@@ -1,6 +1,6 @@
 **Syndra ** *(ARAM)*
-**Porcentaje de victorias:** 48.6%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
+**Porcentaje de victorias:** 48.8%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
@@ -17,4 +17,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Tempestad de Luden > Llamasombría > Sombrero mortífero de Rabadon
-**Objetos finales:** Báculo del vacío, Reloj de arena de Zhonya, Morellonomicón
+**Objetos finales:** Báculo del vacío, Reloj de arena de Zhonya, Velo de la banshee

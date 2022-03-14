@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Guantelete de Sterak
+**Botas:** Danza de la muerte
 **Objetos iniciales:** Cristal de rubí, Poción reutilizable, Brillo
 **Objetos principales:** Brillo > Brillo > Cercenador divino > Hoja del rey arruinado
-**Objetos finales:** Apariencia espiritual, Danza de la muerte, Al filo de la Cordura
+**Objetos finales:** Apariencia espiritual, Guantelete de Sterak, Al filo de la Cordura

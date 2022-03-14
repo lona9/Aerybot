@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
 **Itens Core:** Fulgor > Ruptor Divino > Coração Congelado > Semblante Espiritual
-**Itens End:** Armadura de Espinhos, Placa Gargolítica, Força da Natureza
+**Itens End:** Armadura de Espinhos, Placa Gargolítica, Couraça do Defunto

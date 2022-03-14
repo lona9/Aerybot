@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
 **Itens Core:** Fago > Quebracascos > Força da Trindade > Rancor de Serylda
-**Itens End:** Armadura de Espinhos, Sinal de Sterak, Semblante Espiritual
+**Itens End:** Sinal de Sterak, Armadura de Espinhos, Semblante Espiritual

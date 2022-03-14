@@ -1,6 +1,6 @@
 **Nami ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 51.1%
+**Porcentaje de victorias:** 51.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Putrificador tecnoquímico > Báculo de agua fluyente
-**Objetos finales:** Redención, Pebetero ardiente, Bendición de Mikael
+**Objetos finales:** Pebetero ardiente, Redención, Bendición de Mikael

@@ -1,6 +1,6 @@
 **Dr. Mundo Build Selva** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 47.2%
+**Porcentagem de vitorias:** 50.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
 **Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Armadura de Espinhos > Semblante Espiritual
-**Itens End:** Força da Natureza, Armadura de Warmog, Presságio de Randuin
+**Itens End:** Presságio de Randuin, Força da Natureza, Armadura de Warmog

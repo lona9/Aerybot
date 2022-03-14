@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Bacteriófago > Rompecascos > Fuerza de la trinidad > Rencor de Serylda
-**Objetos finales:** Cota de espinas, Guantelete de Sterak, Apariencia espiritual
+**Objetos finales:** Guantelete de Sterak, Cota de espinas, Apariencia espiritual

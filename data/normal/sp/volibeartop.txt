@@ -1,6 +1,6 @@
 **Volibear Top** *(Normal)*
-**Posición:** Top, Jungler
-**Porcentaje de victorias:** 50.0%
+**Posición:** Jungler, Top
+**Porcentaje de victorias:** 50.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
 **Objetos principales:** Bacteriófago > Rompecascos > Cadenas de Anatema > Agrietador
-**Objetos finales:** Cota de espinas, Apariencia espiritual, Guantelete de Sterak
+**Objetos finales:** Apariencia espiritual, Cota de espinas, Guantelete de Sterak

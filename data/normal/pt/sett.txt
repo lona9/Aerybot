@@ -1,6 +1,6 @@
 **Sett Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 50.2%
+**Porcentagem de vitorias:** 50.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 

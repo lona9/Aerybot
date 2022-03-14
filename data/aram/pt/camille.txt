@@ -1,5 +1,5 @@
 **Camille** *(ARAM)*
-**Porcentagem de vitorias:** 47.0%
+**Porcentagem de vitorias:** 48.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Sinal de Sterak
 **Itens Iniciais:** Botas, Espada Longa, Fulgor
 **Itens Core:** Fulgor > Fulgor > Ruptor Divino > Dança da Morte
-**Itens End:** Semblante Espiritual, Hidra Raivosa, Armadura de Espinhos
+**Itens End:** Semblante Espiritual, Armadura de Espinhos, Hidra Raivosa

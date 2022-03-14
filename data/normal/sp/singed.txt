@@ -1,6 +1,6 @@
 **Singed ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 53.0%
+**Porcentaje de victorias:** 51.5%
 **Hechizos del Invocador:** <:Ghost:804555480856002610> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Vara explosiva > Cetro de cristal de Rylai > Abrazo demoníaco > Quimiotanque turbo
-**Objetos finales:** Coraza del muerto, Fuerza de la naturaleza, Reloj de arena de Zhonya
+**Objetos finales:** Fuerza de la naturaleza, Coraza del muerto, Reloj de arena de Zhonya

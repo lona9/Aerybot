@@ -1,6 +1,6 @@
 **Viego Build Rota do Meio** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 47.0%
+**Porcentagem de vitorias:** 49.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -10,12 +10,12 @@
 >   <:precision41:804446922151690300>:cd::cd:
 
 >   :cd::cd::cd:
->   :cd::cd:<:valor33:804449943603118131>
+>   :cd:<:valor32:804449943959765002>:cd:
 >   :cd:<:valor42:804449943615438919>:cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
 **Itens Core:** Cetro Vampírico > Espada do Rei Destruído > Ruptor Divino > Dança da Morte
-**Itens End:** Anjo Guardião, Presságio de Randuin, Limite da Razão
+**Itens End:** Limite da Razão, Anjo Guardião, A Coletora
