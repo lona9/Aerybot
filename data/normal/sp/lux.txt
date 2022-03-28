@@ -1,6 +1,6 @@
 **Lux ** *(Normal)*
 **Posición:** Support, Mid
-**Porcentaje de victorias:** 49.2%
+**Porcentaje de victorias:** 49.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Capítulo perdido > Tempestad de Luden > Enfoque al horizonte > Reloj de arena de Zhonya
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Llamasombría
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Llamasombría

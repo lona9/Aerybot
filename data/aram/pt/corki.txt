@@ -1,5 +1,5 @@
 **Corki** *(ARAM)*
-**Porcentagem de vitorias:** 49.1%
+**Porcentagem de vitorias:** 48.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Tormenta de Luden
-**Itens Iniciais:** Espada Longa, Tomo Amplificador, Poção com Refil, Lágrima da Deusa
-**Itens Core:** Poção com Refil > Lágrima da Deusa > Martelo de Guerra de Caulfield > Manamune
+**Botas:** Hidra Raivosa
+**Itens Iniciais:** Poção com Refil, Lágrima da Deusa, Espada Longa
+**Itens Core:** Espada Longa > Martelo de Guerra de Caulfield > Manamune > Tormenta de Luden
 **Itens End:** Cajado do Vazio, Chama Sombria, Capuz da Morte de Rabadon

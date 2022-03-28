@@ -1,6 +1,6 @@
 **Renata Glasc ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 52.6%
+**Porcentaje de victorias:** 52.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Putrificador tecnoquímico > Redención
-**Objetos finales:** Báculo de agua fluyente, Reloj de arena de Zhonya, Pebetero ardiente
+**Objetos finales:** Báculo de agua fluyente, Pebetero ardiente, Bendición de Mikael

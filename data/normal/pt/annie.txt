@@ -1,6 +1,6 @@
 **Annie Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 51.0%
+**Porcentagem de vitorias:** 52.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -10,12 +10,12 @@
 > :cd::cd:<:dom43:804457129183936582>:cd:
 
 >   :cd:<:bruj22:804448796553117707>:cd:
+>   :cd::cd:<:bruj33:804448797509419098>
 >   :cd::cd::cd:
->   <:bruj41:804448797597499402>:cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
 **Itens Core:** Capítulo Perdido > Tormenta de Luden > Chama Sombria > Ampulheta de Zhonya
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Véu da Banshee
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

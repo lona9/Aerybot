@@ -1,6 +1,6 @@
 **Leona Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 49.4%
+**Porcentagem de vitorias:** 48.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Galvanizadas de Aço
+**Botas:** Botas da Mobilidade
 **Itens Iniciais:** Sentinela Invisível, Escudo Relicário, Poção de Vida
 **Itens Core:** Gema Ardente > Medalhão dos Solari de Ferro > Convergência de Zeke > Juramento do Cavaleiro
-**Itens End:** Armadura de Espinhos, Couraça do Defunto, Coração Congelado
+**Itens End:** Armadura de Espinhos, Presságio de Randuin, Força da Natureza

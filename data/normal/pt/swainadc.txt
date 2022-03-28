@@ -1,21 +1,21 @@
 **Swain Build Atirador** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 53.8%
+**Porcentagem de vitorias:** 55.0%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
-**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+**Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
-> :cd::cd::cd:<:precision14:804446921631596585>
->   :cd::cd:<:precision23:804446921628057630>
->   :cd:<:precision32:804446921737371648>:cd:
->   <:precision41:804446922151690300>:cd::cd:
-
+> <:dom11:804447179758239744>:cd::cd::cd:
 >   <:dom21:804457127800078397>:cd::cd:
->   :cd::cd::cd:
+>   :cd::cd:<:dom33:804457129578332160>
 > :cd::cd::cd:<:dom44:804457129732866048>
+
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd::cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
 **Itens Core:** Capítulo Perdido > Angústia de Liandry > Ampulheta de Zhonya > Abraço Demoníaco
-**Itens End:** Morellonomicon, Capuz da Morte de Rabadon, Cajado do Vazio
+**Itens End:** Capuz da Morte de Rabadon, Cetro de Cristal de Rylai, Morellonomicon

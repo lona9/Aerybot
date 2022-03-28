@@ -1,6 +1,6 @@
 **Viktor Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 51.2%
+**Porcentagem de vitorias:** 50.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Itens Core:** Capítulo Perdido > Coroa da Rainha Despedaçada > Chama Sombria > Ampulheta de Zhonya
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon
+**Botas:** Cajado do Vazio
+**Itens Iniciais:** Sentinela Invisível, Poção Corrupta
+**Itens Core:** Tormenta de Luden > Chama Sombria > Ampulheta de Zhonya > Sapatos do Feiticeiro
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Perdição de Lich

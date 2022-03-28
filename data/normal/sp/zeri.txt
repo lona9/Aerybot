@@ -1,6 +1,6 @@
 **Zeri ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 46.7%
+**Porcentaje de victorias:** 48.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -11,11 +11,11 @@
 
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
-> <:dom41:804457130379182120>:cd::cd::cd:
+> :cd:<:dom42:804457129980461107>:cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Brillo > Fuerza de la trinidad > Huracán de Runaan > Hidra titánica
+**Objetos principales:** Brillo > Fuerza de la trinidad > Hidra titánica > Huracán de Runaan
 **Objetos finales:** Ángel Guardián, Cuchilla oscura, Hoja del rey arruinado

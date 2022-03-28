@@ -1,6 +1,6 @@
 **Gnar ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 48.6%
+**Porcentaje de victorias:** 48.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Bacteriófago > Rompecascos > Fuerza de la trinidad > Guantelete de Sterak
-**Objetos finales:** Cota de espinas, Presagio de Randuin, Coraza del muerto
+**Objetos finales:** Cota de espinas, Fuerza de la naturaleza, Presagio de Randuin

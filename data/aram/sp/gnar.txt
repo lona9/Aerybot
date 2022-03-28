@@ -1,5 +1,5 @@
 **Gnar ** *(ARAM)*
-**Porcentaje de victorias:** 46.6%
+**Porcentaje de victorias:** 46.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Martillo de guerra de Caulfield
 **Objetos principales:** Martillo de guerra de Caulfield > Cercenador divino > Guantelete de Sterak > Cota de espinas
-**Objetos finales:** Fuerza de la naturaleza, Apariencia espiritual, Presagio de Randuin
+**Objetos finales:** Fuerza de la naturaleza, Armadura de Warmog, Apariencia espiritual

@@ -17,4 +17,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Poção com Refil, Lágrima da Deusa, Espada Longa
 **Itens Core:** Punhal Serrilhado > Eclipse > Manamune > Rancor de Serylda
-**Itens End:** Limiar da Noite, Mandíbula de Malmortius, Lâmina Fantasma de Youmuu
+**Itens End:** Limiar da Noite, Mandíbula de Malmortius, Serrespada Quimiopunk

@@ -1,6 +1,6 @@
 **Veigar** *(ARAM)*
-**Porcentagem de vitorias:** 51.7%
-**Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
+**Porcentagem de vitorias:** 51.5%
+**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:

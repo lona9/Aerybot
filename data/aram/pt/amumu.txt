@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Brasa de Bami
 **Itens Core:** Brasa de Bami > Égide de Fogo Solar > Aproximação Invernal > Armadura de Espinhos
-**Itens End:** Armadura de Warmog, Placa Gargolítica, Abraço Demoníaco
+**Itens End:** Armadura de Warmog, Placa Gargolítica, Força da Natureza

@@ -1,6 +1,6 @@
 **Pantheon Build ** *(Normal)*
 **Rota:** Suporte, Rota Topo, Rota do Meio
-**Porcentagem de vitorias:** 48.4%
+**Porcentagem de vitorias:** 49.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 

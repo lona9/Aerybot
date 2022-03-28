@@ -1,5 +1,5 @@
 **Kayn ** *(ARAM)*
-**Porcentaje de victorias:** 46.5%
+**Porcentaje de victorias:** 46.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Látigo férreo
-**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > Manamune > El Coleccionista
-**Objetos finales:** Danza de la muerte, Filo de la noche, Rencor de Serylda
+**Botas:** El Coleccionista
+**Objetos iniciales:** Poción reutilizable, Lágrima de la diosa, Espada larga
+**Objetos principales:** Espada larga > Puñal serrado > Filoscuro de Draktharr > Manamune
+**Objetos finales:** Filo de la noche, Filo fantasmal de Youmuu, Rencor de Serylda

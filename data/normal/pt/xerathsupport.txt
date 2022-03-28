@@ -1,6 +1,6 @@
 **Xerath Build Suporte** *(Normal)*
 **Rota:** Suporte, Rota do Meio
-**Porcentagem de vitorias:** 49.5%
+**Porcentagem de vitorias:** 49.6%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:insp:804451124207681577> <:bruj:804451124236648478>
 

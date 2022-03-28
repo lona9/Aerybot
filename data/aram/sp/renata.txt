@@ -1,5 +1,5 @@
 **Renata Glasc ** *(ARAM)*
-**Porcentaje de victorias:** 55.7%
+**Porcentaje de victorias:** 56.3%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Cristal de rubí, Espejo de cristal de Bandle
 **Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Báculo de agua fluyente > Pebetero ardiente
-**Objetos finales:** Reloj de arena de Zhonya, Redención, Putrificador tecnoquímico
+**Objetos finales:** Redención, Reloj de arena de Zhonya, Putrificador tecnoquímico

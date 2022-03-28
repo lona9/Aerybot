@@ -1,6 +1,6 @@
 **Kayle ** *(ARAM)*
-**Porcentaje de victorias:** 55.5%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Porcentaje de victorias:** 55.3%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:

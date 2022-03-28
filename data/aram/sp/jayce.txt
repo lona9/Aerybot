@@ -17,4 +17,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Poción reutilizable, Lágrima de la diosa, Espada larga
 **Objetos principales:** Puñal serrado > Eclipse > Manamune > Rencor de Serylda
-**Objetos finales:** Filo de la noche, Fauces de Malmortius, Filo fantasmal de Youmuu
+**Objetos finales:** Filo de la noche, Fauces de Malmortius, Sierraespada Quimopunk

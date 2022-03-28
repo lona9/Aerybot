@@ -1,6 +1,6 @@
 **Lulu Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 50.7%
+**Porcentagem de vitorias:** 51.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 

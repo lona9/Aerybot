@@ -1,6 +1,6 @@
 **Corki Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 47.4%
+**Porcentagem de vitorias:** 47.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:insp:804451124207681577> <:dom:804451124085522442>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela Invisível, Lágrima da Deusa, Poção de Vida
-**Itens Core:** Martelo de Guerra de Caulfield > Manamune > Tormenta de Luden > Hidra Raivosa
-**Itens End:** Cajado do Vazio, Chama Sombria, Ampulheta de Zhonya
+**Botas:** Cajado do Vazio
+**Itens Iniciais:** Sentinela Invisível, Poção Corrupta
+**Itens Core:** Manamune > Tormenta de Luden > Hidra Raivosa > Sapatos do Feiticeiro
+**Itens End:** Cajado do Vazio, Ampulheta de Zhonya, Chama Sombria

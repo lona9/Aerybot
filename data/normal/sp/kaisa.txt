@@ -1,6 +1,6 @@
 **Kai'Sa ** *(Normal)*
 **Posición:** AD Carry, Mid
-**Porcentaje de victorias:** 48.5%
+**Porcentaje de victorias:** 48.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada larga, Poción de vida
-**Objetos principales:** Martillo de guerra de Caulfield > Manamune > Diente de Nashor > Corona de la Reina Quebrada
+**Objetos principales:** Martillo de guerra de Caulfield > Manamune > Tempestad de Luden > Llamasombría
 **Objetos finales:** Reloj de arena de Zhonya, Sombrero mortífero de Rabadon, Ángel Guardián

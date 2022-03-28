@@ -1,10 +1,10 @@
 **Fiddlesticks Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 52.0%
+**Porcentagem de vitorias:** 50.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
-> <:dom11:804447179758239744>:cd::cd::cd:
+> :cd:<:dom12:804447180362219551>:cd::cd:
 >   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd:<:dom33:804457129578332160>
 > :cd::cd::cd:<:dom44:804457129732866048>
@@ -18,4 +18,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Lâmina Álgida, Poção de Vida, Sentinela de Controle
 **Itens Core:** Alternador Hextec > Explocinturão Hextec > Ampulheta de Zhonya > Chama Sombria
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

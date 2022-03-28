@@ -1,6 +1,6 @@
 **Pyke Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 49.5%
+**Porcentagem de vitorias:** 50.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas da Mobilidade
 **Itens Iniciais:** Sentinela Invisível, Guarda-ombros de Aço, Poção de Vida
-**Itens Core:** Punhal Serrilhado > Glaive Sombria > Crepúsculo de Draktharr > Limiar da Noite
-**Itens End:** Anjo Guardião, Dança da Morte, Lâmina Fantasma de Youmuu
+**Itens Core:** Punhal Serrilhado > Crepúsculo de Draktharr > Lâmina Fantasma de Youmuu > Dança da Morte
+**Itens End:** Anjo Guardião, Limiar da Noite, Mandíbula de Malmortius

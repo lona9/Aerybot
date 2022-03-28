@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Umbral del invierno > Cota de espinas
-**Objetos finales:** Armadura pétrea, Fuerza de la naturaleza, Corazón de hielo
+**Objetos finales:** Corazón de hielo, Fuerza de la naturaleza, Armadura pétrea

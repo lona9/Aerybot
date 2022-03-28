@@ -1,6 +1,6 @@
 **Ryze ** *(Normal)*
 **Posición:** Mid
-**Porcentaje de victorias:** 43.3%
+**Porcentaje de victorias:** 44.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Sombrero mortífero de Rabadon
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Escarcha eterna > Umbral del invierno > Corazón de hielo > Botas de mercurio
-**Objetos finales:** Sombrero mortífero de Rabadon, Reloj de arena de Zhonya, Llamasombría
+**Objetos finales:** Sombrero mortífero de Rabadon, Reloj de arena de Zhonya, Báculo del vacío

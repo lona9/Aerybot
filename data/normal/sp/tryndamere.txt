@@ -1,6 +1,6 @@
 **Tryndamere ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 50.6%
+**Porcentaje de victorias:** 50.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 

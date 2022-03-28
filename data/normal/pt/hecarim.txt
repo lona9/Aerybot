@@ -1,6 +1,6 @@
 **Hecarim Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 50.6%
+**Porcentagem de vitorias:** 50.3%
 **Summoner Spells:** <:Ghost:804555480856002610> <:Smite:804555481494061086>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 

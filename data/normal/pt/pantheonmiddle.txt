@@ -1,6 +1,6 @@
 **Pantheon Build Rota do Meio** *(Normal)*
 **Rota:** Suporte, Rota Topo, Rota do Meio
-**Porcentagem de vitorias:** 49.3%
+**Porcentagem de vitorias:** 49.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
-**Itens Core:** Punhal Serrilhado > Eclipse > Cutelo Negro > Dança da Morte
-**Itens End:** Anjo Guardião, Serrespada Quimiopunk, Rancor de Serylda
+**Itens Core:** Punhal Serrilhado > Eclipse > Lâmina Fantasma de Youmuu > Dança da Morte
+**Itens End:** Anjo Guardião, Rancor de Serylda, Limiar da Noite

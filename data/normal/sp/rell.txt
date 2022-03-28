@@ -1,6 +1,6 @@
 **Rell ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 51.8%
+**Porcentaje de victorias:** 50.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:insp:804451124207681577> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo reliquia
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Poción de vida, Cota de espinas, Cadenas de Anatema
+**Objetos finales:** Poción de vida, Cota de espinas, Fuerza de la naturaleza

@@ -1,6 +1,6 @@
 **Braum Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 49.9%
+**Porcentagem de vitorias:** 49.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -12,10 +12,10 @@
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
 >   <:insp41:804450563507879947>:cd::cd:
->   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
+>   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Guarda-ombros de Aço
+**Itens Iniciais:** Sentinela Invisível
 **Itens Core:** Gema Ardente > Medalhão dos Solari de Ferro > Juramento do Cavaleiro > Convergência de Zeke
-**Itens End:** Poção de Vida, Armadura de Espinhos, Força da Natureza
+**Itens End:** Guarda-ombros de Aço, Poção de Vida, Armadura de Espinhos

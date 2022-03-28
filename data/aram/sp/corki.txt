@@ -1,5 +1,5 @@
 **Corki ** *(ARAM)*
-**Porcentaje de victorias:** 49.1%
+**Porcentaje de victorias:** 48.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Tempestad de Luden
-**Objetos iniciales:** Espada larga, Tomo amplificador, Poción reutilizable, Lágrima de la diosa
-**Objetos principales:** Poción reutilizable > Lágrima de la diosa > Martillo de guerra de Caulfield > Manamune
+**Botas:** Hidra voraz
+**Objetos iniciales:** Poción reutilizable, Lágrima de la diosa, Espada larga
+**Objetos principales:** Espada larga > Martillo de guerra de Caulfield > Manamune > Tempestad de Luden
 **Objetos finales:** Báculo del vacío, Llamasombría, Sombrero mortífero de Rabadon
