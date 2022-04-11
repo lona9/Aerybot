@@ -1,5 +1,5 @@
 **Jax** *(ARAM)*
-**Porcentagem de vitorias:** 46.6%
+**Porcentagem de vitorias:** 47.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -10,11 +10,11 @@
 
 >   :cd::cd:<:dom23:804457130307485707>
 >   :cd::cd::cd:
-> <:dom41:804457130379182120>:cd::cd::cd:
+> <:dom41:963152951478747156>:cd::cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Dança da Morte
-**Itens Iniciais:** Cristal de Rubi, Poção com Refil, Fulgor
+**Itens Iniciais:** Botas, Espada Longa, Fulgor
 **Itens Core:** Fulgor > Fulgor > Ruptor Divino > Espada do Rei Destruído
-**Itens End:** Semblante Espiritual, Sinal de Sterak, Limite da Razão
+**Itens End:** Sinal de Sterak, Semblante Espiritual, Limite da Razão

@@ -1,12 +1,12 @@
 **Twisted Fate ** *(ARAM)*
-**Porcentaje de victorias:** 47.1%
+**Porcentaje de victorias:** 47.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd:<:dom33:804457129578332160>
-> <:dom41:804457130379182120>:cd::cd::cd:
+> <:dom41:963152951478747156>:cd::cd::cd:
 
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd::cd::cd:

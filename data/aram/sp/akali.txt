@@ -1,5 +1,5 @@
 **Akali ** *(ARAM)*
-**Porcentaje de victorias:** 44.1%
+**Porcentaje de victorias:** 42.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -10,11 +10,11 @@
 
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
-> <:dom41:804457130379182120>:cd::cd::cd:
+> <:dom41:963152951478747156>:cd::cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas del hechicero
-**Objetos iniciales:** Botas, Alternador hextech
-**Objetos principales:** Alternador hextech > Cintomisil hextech > Llamasombría > Reloj de arena de Zhonya
+**Botas:** Sombrero mortífero de Rabadon
+**Objetos iniciales:** Mirada absorbente
+**Objetos principales:** Agrietador > Llamasombría > Reloj de arena de Zhonya > Botas del hechicero
 **Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón

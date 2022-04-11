@@ -1,5 +1,5 @@
 **Zed** *(ARAM)*
-**Porcentagem de vitorias:** 43.7%
+**Porcentagem de vitorias:** 43.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Poção com Refil, Punhal Serrilhado
 **Itens Core:** Punhal Serrilhado > Crepúsculo de Draktharr > Arco do Axioma > A Coletora
-**Itens End:** Rancor de Serylda, Limiar da Noite, Mandíbula de Malmortius
+**Itens End:** Limiar da Noite, Rancor de Serylda, Mandíbula de Malmortius

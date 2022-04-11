@@ -1,13 +1,13 @@
 **Neeko Build Suporte** *(Normal)*
 **Rota:** Rota do Meio, Suporte
-**Porcentagem de vitorias:** 50.4%
+**Porcentagem de vitorias:** 45.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
 > <:dom11:804447179758239744>:cd::cd::cd:
->   <:dom21:804457127800078397>:cd::cd:
+>   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd:<:dom33:804457129578332160>
-> :cd::cd::cd:<:dom44:804457129732866048>
+> <:dom41:963152951478747156>:cd::cd::cd:
 
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano
-**Itens Core:** Alternador Hextec > Explocinturão Hextec > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Poção de Vida, Chama Sombria, Foco do Horizonte
+**Itens Iniciais:** Sentinela Invisível
+**Itens Core:** Capítulo Perdido > Glacieterno > Ampulheta de Zhonya > Morellonomicon
+**Itens End:** Gume do Ladrão Arcano, Poção de Vida, Chama Sombria

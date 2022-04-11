@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Cuerno del guardián, Lágrima de la diosa
-**Objetos principales:** Brillo > Cercenador divino > Guantelete de Sterak > Apariencia espiritual
-**Objetos finales:** Cota de espinas, Fuerza de la naturaleza, Hidra titánica
+**Objetos principales:** Brillo > Cercenador divino > Umbral del invierno > Guantelete de Sterak
+**Objetos finales:** Cota de espinas, Danza de la muerte, Apariencia espiritual

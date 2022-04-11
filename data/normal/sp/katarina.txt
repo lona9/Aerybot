@@ -1,6 +1,6 @@
 **Katarina ** *(Normal)*
 **Posición:** Mid
-**Porcentaje de victorias:** 49.9%
+**Porcentaje de victorias:** 49.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -11,11 +11,11 @@
 
 >   :cd::cd:<:dom23:804457130307485707>
 >   :cd::cd::cd:
-> <:dom41:804457130379182120>:cd::cd::cd:
+> :cd::cd:<:dom43:804457129183936582>:cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Espada larga, Poción de vida
+**Objetos iniciales:** Centinela invisible, Sello oscuro, Poción reutilizable
 **Objetos principales:** Vara explosiva > Diente de Nashor > Cintomisil hextech > Reloj de arena de Zhonya
 **Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Llamasombría

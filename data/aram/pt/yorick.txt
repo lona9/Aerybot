@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Berrante do Guardião, Lágrima da Deusa
-**Itens Core:** Fulgor > Ruptor Divino > Sinal de Sterak > Semblante Espiritual
-**Itens End:** Armadura de Espinhos, Força da Natureza, Hidra Titânica
+**Itens Core:** Fulgor > Ruptor Divino > Aproximação Invernal > Sinal de Sterak
+**Itens End:** Armadura de Espinhos, Dança da Morte, Semblante Espiritual

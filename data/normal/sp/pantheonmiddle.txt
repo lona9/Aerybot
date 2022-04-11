@@ -1,6 +1,6 @@
 **Pantheon Mid** *(Normal)*
 **Posición:** Support, Top, Mid
-**Porcentaje de victorias:** 49.8%
+**Porcentaje de victorias:** 50.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Botas de mercurio
+**Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Puñal serrado > Eclipse > Filo fantasmal de Youmuu > Danza de la muerte
+**Objetos principales:** Puñal serrado > Eclipse > Cuchilla oscura > Danza de la muerte
 **Objetos finales:** Ángel Guardián, Rencor de Serylda, Filo de la noche

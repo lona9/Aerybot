@@ -1,12 +1,12 @@
 **Taliyah** *(ARAM)*
-**Porcentagem de vitorias:** 46.8%
-**Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
+**Porcentagem de vitorias:** 44.8%
+**Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
 >   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd:<:dom33:804457129578332160>
-> <:dom41:804457130379182120>:cd::cd::cd:
+> <:dom41:963152951478747156>:cd::cd::cd:
 
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd::cd::cd:

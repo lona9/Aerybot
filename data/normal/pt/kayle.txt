@@ -1,6 +1,6 @@
 **Kayle Build ** *(Normal)*
 **Rota:** Rota Topo, Rota do Meio
-**Porcentagem de vitorias:** 53.3%
+**Porcentagem de vitorias:** 52.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Capuz da Morte de Rabadon
-**Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
+**Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
 **Itens Core:** Poção de Vida > Arco Recurvo > Dente de Na'Shor > Criafendas
-**Itens End:** Ampulheta de Zhonya, Perdição de Lich, Cajado do Vazio
+**Itens End:** Cajado do Vazio, Ampulheta de Zhonya, Perdição de Lich

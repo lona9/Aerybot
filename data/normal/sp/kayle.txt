@@ -1,6 +1,6 @@
 **Kayle ** *(Normal)*
 **Posición:** Top, Mid
-**Porcentaje de victorias:** 53.3%
+**Porcentaje de victorias:** 52.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Sombrero mortífero de Rabadon
-**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Poción de vida > Arco curvo > Diente de Nashor > Agrietador
-**Objetos finales:** Reloj de arena de Zhonya, Maldición del liche, Báculo del vacío
+**Objetos finales:** Báculo del vacío, Reloj de arena de Zhonya, Maldición del liche

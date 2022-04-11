@@ -1,6 +1,6 @@
 **Taric ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 48.5%
+**Porcentaje de victorias:** 48.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
+**Objetos iniciales:** Centinela invisible, Escudo reliquia
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Umbral del invierno > Promesa del caballero
-**Objetos finales:** Corazón de hielo, Fuerza de la naturaleza, Convergencia de Zeke
+**Objetos finales:** Poción de vida, Convergencia de Zeke, Corazón de hielo

@@ -1,6 +1,6 @@
 **Riven ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 51.3%
+**Porcentaje de victorias:** 51.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Martillo de guerra de Caulfield > Bebedor de sangre > Cuchilla oscura > Danza de la muerte
-**Objetos finales:** Ángel Guardián, Rencor de Serylda, Fauces de Malmortius
+**Objetos finales:** Ángel Guardián, Rencor de Serylda, Sierraespada Quimopunk

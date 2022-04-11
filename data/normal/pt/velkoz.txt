@@ -1,6 +1,6 @@
 **Vel'Koz Build ** *(Normal)*
 **Rota:** Suporte, Rota do Meio
-**Porcentagem de vitorias:** 49.4%
+**Porcentagem de vitorias:** 48.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
-**Itens Core:** Capítulo Perdido > Tormenta de Luden > Ampulheta de Zhonya > Chama Sombria
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Véu da Banshee
+**Itens Core:** Capítulo Perdido > Tormenta de Luden > Ampulheta de Zhonya > Morellonomicon
+**Itens End:** Capuz da Morte de Rabadon, Foco do Horizonte, Cajado do Vazio

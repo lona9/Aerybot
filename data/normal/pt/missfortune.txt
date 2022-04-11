@@ -1,6 +1,6 @@
 **Miss Fortune Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 49.8%
+**Porcentagem de vitorias:** 49.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grevas do Berserker
-**Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Itens Iniciais:** Sentinela Invisível, Lágrima da Deusa, Poção de Vida
 **Itens Core:** Punhal Serrilhado > Eclipse > Manamune > Rancor de Serylda
-**Itens End:** Anjo Guardião, Gume do Infinito, Limiar da Noite
+**Itens End:** Anjo Guardião, Limiar da Noite, A Coletora

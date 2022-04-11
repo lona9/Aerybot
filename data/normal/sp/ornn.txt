@@ -1,6 +1,6 @@
 **Ornn ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 51.7%
+**Porcentaje de victorias:** 51.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Ceniza de Bami > Égida de fuego solar > Umbral del invierno > Cota de espinas
-**Objetos finales:** Corazón de hielo, Armadura pétrea, Armadura de Warmog
+**Objetos finales:** Armadura pétrea, Corazón de hielo, Armadura de Warmog

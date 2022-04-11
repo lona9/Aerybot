@@ -1,5 +1,5 @@
 **Taric** *(ARAM)*
-**Porcentagem de vitorias:** 52.2%
+**Porcentagem de vitorias:** 51.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -11,10 +11,10 @@
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd:<:precision32:804446921737371648>:cd:
 >   :cd::cd::cd:
->   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
+>   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Semblante Espiritual
 **Itens Iniciais:** Poção com Refil, Gema Ardente, Lágrima da Deusa
-**Itens Core:** Lágrima da Deusa > Berrante do Guardião > Medalhão dos Solari de Ferro > Aproximação Invernal
-**Itens End:** Coração Congelado, Armadura de Espinhos, Armadura de Warmog
+**Itens Core:** Lágrima da Deusa > Gema Ardente > Medalhão dos Solari de Ferro > Aproximação Invernal
+**Itens End:** Armadura de Espinhos, Coração Congelado, Armadura de Warmog

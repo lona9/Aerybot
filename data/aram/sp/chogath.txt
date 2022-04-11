@@ -1,10 +1,10 @@
 **Cho'Gath ** *(ARAM)*
-**Porcentaje de victorias:** 50.6%
+**Porcentaje de victorias:** 51.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
 >   <:valor11:804449943376232509>:cd::cd:
->   <:valor21:804449943984537690>:cd::cd:
+>   :cd:<:valor22:804449944018223104>:cd:
 >   <:valor31:804449943666425907>:cd::cd:
 >   <:valor41:804449944298586143>:cd::cd:
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Armadura pétrea
-**Objetos iniciales:** Capítulo perdido
-**Objetos principales:** Guantelete de fuego escarchado > Umbral del invierno > Armadura de Warmog > Botas de mercurio
+**Botas:** Botas de mercurio
+**Objetos iniciales:** Cuerno del guardián, Lágrima de la diosa
+**Objetos principales:** Cuerno del guardián > Guantelete de fuego escarchado > Umbral del invierno > Armadura de Warmog
 **Objetos finales:** Armadura pétrea, Cota de espinas, Fuerza de la naturaleza

@@ -1,5 +1,5 @@
 **Akali** *(ARAM)*
-**Porcentagem de vitorias:** 44.1%
+**Porcentagem de vitorias:** 42.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -10,11 +10,11 @@
 
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
-> <:dom41:804457130379182120>:cd::cd::cd:
+> <:dom41:963152951478747156>:cd::cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Botas, Alternador Hextec
-**Itens Core:** Alternador Hextec > Explocinturão Hextec > Chama Sombria > Ampulheta de Zhonya
+**Botas:** Capuz da Morte de Rabadon
+**Itens Iniciais:** Olhar Sanguessuga
+**Itens Core:** Criafendas > Chama Sombria > Ampulheta de Zhonya > Sapatos do Feiticeiro
 **Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon

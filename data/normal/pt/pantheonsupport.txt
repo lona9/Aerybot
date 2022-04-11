@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas da Mobilidade
 **Itens Iniciais:** Sentinela Invisível, Guarda-ombros de Aço, Poção de Vida
-**Itens Core:** Punhal Serrilhado > Eclipse > Glaive Sombria > Limiar da Noite
-**Itens End:** Cutelo Negro, Serrespada Quimiopunk, Presa da Serpente
+**Itens Core:** Punhal Serrilhado > Eclipse > Glaive Sombria > Lâmina Fantasma de Youmuu
+**Itens End:** Limiar da Noite, Anjo Guardião, Dança da Morte

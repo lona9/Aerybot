@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas de movilidad
 **Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
-**Objetos principales:** Puñal serrado > Eclipse > Guja sombría > Filo de la noche
-**Objetos finales:** Cuchilla oscura, Sierraespada Quimopunk, Colmillo de serpiente
+**Objetos principales:** Puñal serrado > Eclipse > Guja sombría > Filo fantasmal de Youmuu
+**Objetos finales:** Filo de la noche, Ángel Guardián, Danza de la muerte

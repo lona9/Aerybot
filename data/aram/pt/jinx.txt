@@ -1,5 +1,5 @@
 **Jinx** *(ARAM)*
-**Porcentagem de vitorias:** 51.6%
+**Porcentagem de vitorias:** 51.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -10,11 +10,11 @@
 
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
-> <:dom41:804457130379182120>:cd::cd::cd:
+> <:dom41:963152951478747156>:cd::cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
-**Itens Core:** Aljava Vespertina > Mata-Cráquens > Furacão de Runaan > Gume do Infinito
+**Itens Core:** Aljava Vespertina > Força do Vendaval > Canhão Fumegante > Gume do Infinito
 **Itens End:** Sedenta por Sangue, Lembranças do Lorde Dominik, Lembrete Mortal

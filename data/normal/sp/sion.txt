@@ -1,6 +1,6 @@
 **Sion ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 48.6%
+**Porcentaje de victorias:** 48.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Bacteriófago > Rompecascos > Égida de fuego solar > Cota de espinas
-**Objetos finales:** Armadura pétrea, Corazón de hielo, Hidra titánica
+**Objetos principales:** Bacteriófago > Rompecascos > Égida de fuego solar > Hidra titánica
+**Objetos finales:** Cota de espinas, Armadura pétrea, Corazón de hielo

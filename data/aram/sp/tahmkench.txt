@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Cuerno del guardián, Lágrima de la diosa
+**Objetos iniciales:** Poción reutilizable, Ceniza de Bami
 **Objetos principales:** Cuerno del guardián > Guantelete de fuego escarchado > Umbral del invierno > Armadura de Warmog
-**Objetos finales:** Armadura pétrea, Cota de espinas, Apariencia espiritual
+**Objetos finales:** Cota de espinas, Armadura pétrea, Fuerza de la naturaleza

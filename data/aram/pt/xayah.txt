@@ -1,5 +1,5 @@
 **Xayah** *(ARAM)*
-**Porcentagem de vitorias:** 51.9%
+**Porcentagem de vitorias:** 53.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -10,11 +10,11 @@
 
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
-> <:dom41:804457130379182120>:cd::cd::cd:
+> <:dom41:963152951478747156>:cd::cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Grevas do Berserker
-**Itens Iniciais:** Aljava Vespertina
-**Itens Core:** Punhal Serrilhado > Eclipse > Manamune > Rancor de Serylda
-**Itens End:** Sedenta por Sangue, Gume do Infinito, Lembranças do Lorde Dominik
+**Botas:** Manamune
+**Itens Iniciais:** Poção com Refil, Lágrima da Deusa, Espada Longa
+**Itens Core:** Lágrima da Deusa > Espada Longa > Punhal Serrilhado > Eclipse
+**Itens End:** A Coletora, Sedenta por Sangue, Gume do Infinito

@@ -1,5 +1,5 @@
 **Jinx ** *(ARAM)*
-**Porcentaje de victorias:** 51.6%
+**Porcentaje de victorias:** 51.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -10,11 +10,11 @@
 
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
-> <:dom41:804457130379182120>:cd::cd::cd:
+> <:dom41:963152951478747156>:cd::cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
-**Objetos principales:** Carcaj de mediodía > Matakrakens > Huracán de Runaan > Filo del infinito
+**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > Cañón de fuego rápido > Filo del infinito
 **Objetos finales:** Sanguinaria, Recuerdos de lord Dominik, Recordatorio mortal

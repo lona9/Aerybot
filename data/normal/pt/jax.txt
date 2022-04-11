@@ -1,6 +1,6 @@
 **Jax Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 48.6%
+**Porcentagem de vitorias:** 49.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
 **Itens Core:** Cetro Vampírico > Espada do Rei Destruído > Força da Trindade > Dança da Morte
-**Itens End:** Anjo Guardião, Sinal de Sterak, Mandíbula de Malmortius
+**Itens End:** Anjo Guardião, Sinal de Sterak, Limite da Razão

@@ -1,6 +1,6 @@
 **Kassadin Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 51.1%
+**Porcentagem de vitorias:** 50.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Lacre Sombrio, Poção com Refil
-**Itens Core:** Capítulo Perdido > Coroa da Rainha Despedaçada > Cajado do Arcanjo > Ampulheta de Zhonya
+**Itens Core:** Capítulo Perdido > Glacieterno > Cajado do Arcanjo > Ampulheta de Zhonya
 **Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ladrão de Almas de Mejai
