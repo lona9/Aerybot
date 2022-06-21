@@ -1,6 +1,6 @@
 **Neeko Build Suporte** *(Normal)*
 **Rota:** Rota do Meio, Suporte
-**Porcentagem de vitorias:** 49.9%
+**Porcentagem de vitorias:** 47.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 

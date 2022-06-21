@@ -1,5 +1,5 @@
 **Xin Zhao** *(ARAM)*
-**Porcentagem de vitorias:** 47.8%
+**Porcentagem de vitorias:** 47.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Chicote Ferrifarpo
 **Itens Core:** Chicote Ferrifarpo > Hemodrenário > Dança da Morte > Mandíbula de Malmortius
-**Itens End:** Espada do Rei Destruído, Armadura de Espinhos, Semblante Espiritual
+**Itens End:** Espada do Rei Destruído, Armadura de Espinhos, Limite da Razão

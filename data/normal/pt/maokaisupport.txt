@@ -1,6 +1,6 @@
 **Maokai Build Suporte** *(Normal)*
 **Rota:** Suporte, Rota Topo
-**Porcentagem de vitorias:** 49.9%
+**Porcentagem de vitorias:** 49.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 

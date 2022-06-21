@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano
 **Itens Core:** Espelho de Bandópolis > Mandato Imperial > Putrificador Quimtec > Cajado Aquafluxo
-**Itens End:** Poção de Vida, Redenção, Turíbulo Ardente
+**Itens End:** Poção de Vida, Turíbulo Ardente, Redenção

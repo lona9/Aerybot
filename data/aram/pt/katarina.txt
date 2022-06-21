@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Dança da Morte
-**Itens Iniciais:** Botas, Alternador Hextec
-**Itens Core:** Alternador Hextec > Fulgor > Ruptor Divino > Hidra Titânica
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Ampulheta de Zhonya
+**Itens Iniciais:** Varinha Explosiva, Tomo Amplificador
+**Itens Core:** Tomo Amplificador > Fulgor > Ruptor Divino > Hidra Titânica
+**Itens End:** Capuz da Morte de Rabadon, Ampulheta de Zhonya, Cajado do Vazio

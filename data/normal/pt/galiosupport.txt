@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível
-**Itens Core:** Gema Ardente > Glacieterno > Ampulheta de Zhonya > Abraço Demoníaco
-**Itens End:** Escudo Relicário, Poção de Vida, Armadura de Espinhos
+**Itens Core:** Gema Ardente > Medalhão dos Solari de Ferro > Juramento do Cavaleiro > Armadura de Espinhos
+**Itens End:** Escudo Relicário, Poção de Vida, Ampulheta de Zhonya

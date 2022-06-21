@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Lente del oráculo, Hoja granizo, Poción reutilizable
 **Objetos principales:** Puñal serrado > Garra de merodeador > Filo de la noche > Danza de la muerte
-**Objetos finales:** Ángel Guardián, Cuchilla oscura, Fauces de Malmortius
+**Objetos finales:** Ángel Guardián, Fauces de Malmortius, Cuchilla oscura

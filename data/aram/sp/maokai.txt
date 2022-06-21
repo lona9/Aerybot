@@ -17,4 +17,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Abrazo demoníaco > Morellonomicón
-**Objetos finales:** Cota de espinas, Sombrero mortífero de Rabadon, Apariencia espiritual
+**Objetos finales:** Sombrero mortífero de Rabadon, Apariencia espiritual, Cota de espinas

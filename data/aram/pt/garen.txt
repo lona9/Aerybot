@@ -1,5 +1,5 @@
 **Garen** *(ARAM)*
-**Porcentagem de vitorias:** 47.9%
+**Porcentagem de vitorias:** 48.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Botas, Berrante do Guardião
 **Itens Core:** Berrante do Guardião > Quebrapassos > Couraça do Defunto > Força da Natureza
-**Itens End:** Armadura de Espinhos, Dança da Morte, Cutelo Negro
+**Itens End:** Dança da Morte, Armadura de Espinhos, Cutelo Negro

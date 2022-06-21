@@ -1,6 +1,6 @@
 **Nunu e Willump Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 50.1%
+**Porcentagem de vitorias:** 50.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Lente do Oráculo, Lâmina Cálida, Poção com Refil
 **Itens Core:** Brasa de Bami > Égide de Fogo Solar > Couraça do Defunto > Armadura de Espinhos
-**Itens End:** Ampulheta de Zhonya, Ladrão de Almas de Mejai, Capuz da Morte de Rabadon
+**Itens End:** Ampulheta de Zhonya, Presságio de Randuin, Ladrão de Almas de Mejai

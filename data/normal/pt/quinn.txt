@@ -1,6 +1,6 @@
 **Quinn Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 51.6%
+**Porcentagem de vitorias:** 50.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 

@@ -1,6 +1,6 @@
 **Neeko Mid** *(Normal)*
 **Posición:** Mid, Support
-**Porcentaje de victorias:** 51.6%
+**Porcentaje de victorias:** 52.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
 **Objetos principales:** Capítulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Llamasombría
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

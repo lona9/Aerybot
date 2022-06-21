@@ -1,6 +1,6 @@
 **Yorick Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 48.2%
+**Porcentagem de vitorias:** 48.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
 **Itens Core:** Fulgor > Ruptor Divino > Quebracascos > Rancor de Serylda
-**Itens End:** Semblante Espiritual, Sinal de Sterak, Armadura de Espinhos
+**Itens End:** Semblante Espiritual, Dança da Morte, Sinal de Sterak

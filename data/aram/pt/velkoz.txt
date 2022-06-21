@@ -1,5 +1,5 @@
 **Vel'Koz** *(ARAM)*
-**Porcentagem de vitorias:** 52.6%
+**Porcentagem de vitorias:** 52.5%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Capítulo Perdido > Angústia de Liandry > Abraço Demoníaco > Morellonomicon
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Chama Sombria
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Ampulheta de Zhonya

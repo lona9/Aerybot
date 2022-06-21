@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível
-**Itens Core:** Gema Ardente > Medalhão dos Solari de Ferro > Juramento do Cavaleiro > Convergência de Zeke
-**Itens End:** Guarda-ombros de Aço, Poção de Vida, Armadura de Espinhos
+**Itens Iniciais:** Sentinela Invisível, Guarda-ombros de Aço
+**Itens Core:** Gema Ardente > Medalhão dos Solari de Ferro > Convergência de Zeke > Juramento do Cavaleiro
+**Itens End:** Poção de Vida, Armadura de Espinhos, Coração Congelado

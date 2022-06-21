@@ -1,6 +1,6 @@
 **Akshan AD Carry** *(Normal)*
 **Posición:** Mid, Top
-**Porcentaje de victorias:** 45.6%
+**Porcentaje de victorias:** 44.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 

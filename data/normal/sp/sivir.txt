@@ -1,6 +1,6 @@
 **Sivir ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 49.5%
+**Porcentaje de victorias:** 49.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 

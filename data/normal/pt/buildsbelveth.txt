@@ -1,0 +1,21 @@
+**Bel'Veth Build ** *(Normal)*
+**Rota:** Selva
+**Porcentagem de vitorias:** 54.2%
+**Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
+**Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
+
+> :cd::cd::cd:<:precision14:804446921631596585>
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   :cd::cd:<:precision43:804446921941975080>
+
+>   :cd:<:insp22:804450563793747989>:cd:
+>   :cd::cd::cd:
+>   <:insp41:804450563507879947>:cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas Galvanizadas de Aço
+**Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
+**Itens Core:** Aljava Vespertina > Mata-Cráquens > Espada do Rei Destruído > Dança da Morte
+**Itens End:** Anjo Guardião, Semblante Espiritual, Lâmina da Fúria de Guinsoo

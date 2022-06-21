@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
+**Objetos iniciales:** Centinela invisible, Escudo reliquia
 **Objetos principales:** Ceniza de Bami > Égida de fuego solar > Umbral del invierno > Cota de espinas
-**Objetos finales:** Apariencia espiritual, Coraza del muerto, Abrazo demoníaco
+**Objetos finales:** Poción de vida, Coraza del muerto, Abrazo demoníaco

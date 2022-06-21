@@ -1,6 +1,6 @@
 **Yorick ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 48.2%
+**Porcentaje de victorias:** 48.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Brillo > Cercenador divino > Rompecascos > Rencor de Serylda
-**Objetos finales:** Apariencia espiritual, Guantelete de Sterak, Cota de espinas
+**Objetos finales:** Apariencia espiritual, Danza de la muerte, Guantelete de Sterak

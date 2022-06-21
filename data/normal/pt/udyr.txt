@@ -1,6 +1,6 @@
 **Udyr Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 50.8%
+**Porcentagem de vitorias:** 50.5%
 **Summoner Spells:** <:Ghost:804555480856002610> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 

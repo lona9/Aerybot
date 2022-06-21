@@ -1,5 +1,5 @@
 **Seraphine ** *(ARAM)*
-**Porcentaje de victorias:** 54.2%
+**Porcentaje de victorias:** 54.5%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Putrificador tecnoquímico > Báculo del arcángel
-**Objetos finales:** Cetro de cristal de Rylai, Sombrero mortífero de Rabadon, Báculo de agua fluyente
+**Objetos finales:** Cetro de cristal de Rylai, Sombrero mortífero de Rabadon, Abrazo demoníaco

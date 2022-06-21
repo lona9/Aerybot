@@ -1,6 +1,6 @@
 **Trundle Build Rota Topo** *(Normal)*
 **Rota:** Selva, Rota Topo
-**Porcentagem de vitorias:** 51.5%
+**Porcentagem de vitorias:** 51.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 

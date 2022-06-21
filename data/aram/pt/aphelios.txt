@@ -1,5 +1,5 @@
 **Aphelios** *(ARAM)*
-**Porcentagem de vitorias:** 47.8%
+**Porcentagem de vitorias:** 48.3%
 **Summoner Spells:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
 **Itens Core:** Aljava Vespertina > Força do Vendaval > A Coletora > Gume do Infinito
-**Itens End:** Sedenta por Sangue, Lembranças do Lorde Dominik, Furacão de Runaan
+**Itens End:** Lembranças do Lorde Dominik, Sedenta por Sangue, Furacão de Runaan

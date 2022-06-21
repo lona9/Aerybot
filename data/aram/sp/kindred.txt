@@ -1,5 +1,5 @@
 **Kindred ** *(ARAM)*
-**Porcentaje de victorias:** 49.1%
+**Porcentaje de victorias:** 49.4%
 **Hechizos del Invocador:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Carcaj de mediodía > Matakrakens > El Coleccionista > Cañón de fuego rápido
-**Objetos finales:** Sanguinaria, Filo del infinito, Recuerdos de lord Dominik
+**Objetos finales:** Sanguinaria, Recuerdos de lord Dominik, Filo del infinito

@@ -1,6 +1,6 @@
 **Aatrox ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 49.9%
+**Porcentaje de victorias:** 50.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Látigo férreo > Bebedor de sangre > Danza de la muerte > Rencor de Serylda
-**Objetos finales:** Ángel Guardián, Apariencia espiritual, Fauces de Malmortius
+**Objetos finales:** Ángel Guardián, Apariencia espiritual, Cota de espinas

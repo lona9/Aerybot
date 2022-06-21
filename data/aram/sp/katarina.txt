@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Danza de la muerte
-**Objetos iniciales:** Botas, Alternador hextech
-**Objetos principales:** Alternador hextech > Brillo > Cercenador divino > Hidra titánica
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Reloj de arena de Zhonya
+**Objetos iniciales:** Vara explosiva, Tomo amplificador
+**Objetos principales:** Tomo amplificador > Brillo > Cercenador divino > Hidra titánica
+**Objetos finales:** Sombrero mortífero de Rabadon, Reloj de arena de Zhonya, Báculo del vacío

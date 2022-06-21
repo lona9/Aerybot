@@ -1,6 +1,6 @@
 **Nocturne Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 49.6%
+**Porcentagem de vitorias:** 49.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
 **Itens Core:** Chicote Ferrifarpo > Quebrapassos > Dança da Morte > Mandíbula de Malmortius
-**Itens End:** Anjo Guardião, Serrespada Quimiopunk, Rancor de Serylda
+**Itens End:** Anjo Guardião, Rancor de Serylda, Serrespada Quimiopunk

@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos
 **Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Putrificador tecnoquímico > Báculo de agua fluyente
-**Objetos finales:** Poción de vida, Redención, Pebetero ardiente
+**Objetos finales:** Poción de vida, Pebetero ardiente, Redención

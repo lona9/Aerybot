@@ -24,7 +24,7 @@ class Ayuda(Cog):
     except:
         language = "SP"
 
-    fecha = "20/06/22"
+    fecha = "21/06/22"
     parche = "12.11"
 
     if language == "SP":

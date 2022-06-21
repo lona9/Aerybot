@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Poção Corrupta
 **Itens Core:** Brasa de Bami > Égide de Fogo Solar > Quebracascos > Hidra Titânica
-**Itens End:** Placa Gargolítica, Coração Congelado, Armadura de Espinhos
+**Itens End:** Armadura de Espinhos, Coração Congelado, Placa Gargolítica

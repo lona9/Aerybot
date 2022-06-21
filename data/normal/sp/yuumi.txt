@@ -1,6 +1,6 @@
 **Yuumi ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 51.1%
+**Porcentaje de victorias:** 51.0%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 

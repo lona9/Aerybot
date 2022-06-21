@@ -1,6 +1,6 @@
 **Kalista ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 49.1%
+**Porcentaje de victorias:** 49.6%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 

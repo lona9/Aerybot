@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Lágrima de la diosa, Poción de vida
 **Objetos principales:** Capítulo perdido > Escarcha eterna > Báculo del arcángel > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Corazón de hielo
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón

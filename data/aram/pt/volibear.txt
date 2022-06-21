@@ -1,5 +1,5 @@
 **Volibear** *(ARAM)*
-**Porcentagem de vitorias:** 51.5%
+**Porcentagem de vitorias:** 51.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Botas, Brasa de Bami
 **Itens Core:** Berrante do Guardião > Manopla do Raio de Gelo > Aproximação Invernal > Armadura de Espinhos
-**Itens End:** Placa Gargolítica, Semblante Espiritual, Força da Natureza
+**Itens End:** Semblante Espiritual, Placa Gargolítica, Armadura de Warmog

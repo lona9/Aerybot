@@ -49,6 +49,7 @@ class Normal(Cog):
                   "aurelionsol": ["aurelion", "sol", "aurelionsol"],
                   "azir": ["azir"],
                   "bard": ["bard", "bardo"],
+                  "belveth": ["belveth", "bel"],
                   "blitzcrank": ["blitz", "blitzcrank"],
                   "brand": ["brand"],
                   "braum": ["braum"],

@@ -1,6 +1,6 @@
 **Zac Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 51.7%
+**Porcentagem de vitorias:** 51.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Lâmina Álgida, Poção com Refil
 **Itens Core:** Brasa de Bami > Égide de Fogo Solar > Abraço Demoníaco > Armadura de Espinhos
-**Itens End:** Presságio de Randuin, Semblante Espiritual, Placa Gargolítica
+**Itens End:** Presságio de Randuin, Placa Gargolítica, Semblante Espiritual
