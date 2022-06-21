@@ -1,5 +1,5 @@
 **Rakan** *(ARAM)*
-**Porcentagem de vitorias:** 47.3%
+**Porcentagem de vitorias:** 48.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Armadura de Warmog
-**Itens Iniciais:** Poção com Refil, Gema Ardente, Lágrima da Deusa
-**Itens Core:** Lágrima da Deusa > Berrante do Guardião > Hino Bélico de Shurelya > Aproximação Invernal
-**Itens End:** Armadura de Espinhos, Força da Natureza, Redenção
+**Botas:** Passos de Mercúrio
+**Itens Iniciais:** Berrante do Guardião, Lágrima da Deusa
+**Itens Core:** Berrante do Guardião > Hino Bélico de Shurelya > Aproximação Invernal > Força da Natureza
+**Itens End:** Armadura de Espinhos, Armadura de Warmog, Redenção

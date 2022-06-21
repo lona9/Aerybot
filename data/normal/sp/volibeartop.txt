@@ -1,7 +1,7 @@
 **Volibear Top** *(Normal)*
 **Posición:** Jungler, Top
-**Porcentaje de victorias:** 49.3%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Porcentaje de victorias:** 49.8%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > <:precision11:804445926906658886>:cd::cd::cd:
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Bacteriófago > Rompecascos > Agrietador > Diente de Nashor
+**Objetos principales:** Mirada absorbente > Agrietador > Diente de Nashor > Rompecascos
 **Objetos finales:** Cota de espinas, Apariencia espiritual, Reloj de arena de Zhonya

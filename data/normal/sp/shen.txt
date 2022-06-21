@@ -1,6 +1,6 @@
 **Shen ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 52.2%
+**Porcentaje de victorias:** 51.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Presagio de Randuin
-**Objetos finales:** Fuerza de la naturaleza, Abrazo demoníaco, Cadenas de Anatema
+**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Hidra titánica > Cota de espinas
+**Objetos finales:** Presagio de Randuin, Abrazo demoníaco, Fuerza de la naturaleza

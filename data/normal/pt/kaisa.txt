@@ -1,6 +1,6 @@
 **Kai'Sa Build ** *(Normal)*
-**Rota:** Atirador, Rota do Meio
-**Porcentagem de vitorias:** 47.4%
+**Rota:** Atirador
+**Porcentagem de vitorias:** 48.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grevas do Berserker
-**Itens Iniciais:** Sentinela Invisível, Espada Longa, Poção de Vida
-**Itens Core:** Martelo de Guerra de Caulfield > Manamune > Tormenta de Luden > Chama Sombria
-**Itens End:** Capuz da Morte de Rabadon, Ampulheta de Zhonya, Cajado do Vazio
+**Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Itens Core:** Aljava Vespertina > Mata-Cráquens > A Coletora > Dançarina Fantasma
+**Itens End:** Anjo Guardião, Lembranças do Lorde Dominik, Gume do Infinito

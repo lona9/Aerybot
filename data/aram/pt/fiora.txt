@@ -1,5 +1,5 @@
 **Fiora** *(ARAM)*
-**Porcentagem de vitorias:** 50.4%
+**Porcentagem de vitorias:** 55.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Chicote Ferrifarpo
-**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Hidra Raivosa > Dança da Morte
-**Itens End:** Semblante Espiritual, Sinal de Sterak, Espada do Rei Destruído
+**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Dança da Morte > Hidra Raivosa
+**Itens End:** Semblante Espiritual, Espada do Rei Destruído, Mandíbula de Malmortius

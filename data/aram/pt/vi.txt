@@ -1,5 +1,5 @@
 **Vi** *(ARAM)*
-**Porcentagem de vitorias:** 45.6%
+**Porcentagem de vitorias:** 49.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Poção com Refil, Punhal Serrilhado
-**Itens Core:** Punhal Serrilhado > Eclipse > A Coletora > Colhedor de Essência
-**Itens End:** Semblante Espiritual, Dança da Morte, Armadura de Espinhos
+**Itens Core:** Punhal Serrilhado > Eclipse > A Coletora > Dança da Morte
+**Itens End:** Armadura de Espinhos, Semblante Espiritual, Sinal de Sterak

@@ -1,6 +1,6 @@
 **Bardo Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 48.9%
+**Porcentagem de vitorias:** 50.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas da Mobilidade
-**Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
+**Botas:** Botas da Rapidez
+**Itens Iniciais:** Sentinela Invisível
 **Itens Core:** Gema Ardente > Medalhão dos Solari de Ferro > Couraça do Defunto > Putrificador Quimtec
-**Itens End:** Redenção, Ampulheta de Zhonya, Bênção de Mikael
+**Itens End:** Gume do Ladrão Arcano, Poção de Vida, Redenção

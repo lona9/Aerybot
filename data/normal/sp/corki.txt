@@ -1,13 +1,13 @@
 **Corki ** *(Normal)*
 **Posición:** Mid
-**Porcentaje de victorias:** 46.5%
+**Porcentaje de victorias:** 47.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:insp:804451124207681577> <:dom:804451124085522442>
 
 >   :cd::cd:<:insp13:914919550464720936>
 >   :cd:<:insp22:804450563793747989>:cd:
 >   :cd::cd:<:insp33:804450564049731594>
->   :cd::cd:<:insp43:804450563952869452>
+>   <:insp41:804450563507879947>:cd::cd:
 
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Báculo del vacío
-**Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Manamune > Tempestad de Luden > Hidra voraz > Botas del hechicero
-**Objetos finales:** Báculo del vacío, Llamasombría, Reloj de arena de Zhonya
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Centinela invisible, Lágrima de la diosa, Poción de vida
+**Objetos principales:** Martillo de guerra de Caulfield > Manamune > Tempestad de Luden > Hidra voraz
+**Objetos finales:** Báculo del vacío, Llamasombría, Sombrero mortífero de Rabadon

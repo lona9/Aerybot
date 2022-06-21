@@ -1,21 +1,21 @@
 **Katarina Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 49.7%
+**Porcentagem de vitorias:** 47.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+**Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd::cd::cd:<:precision14:804446921631596585>
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd:<:precision32:804446921737371648>:cd:
->   <:precision41:804446922151690300>:cd::cd:
+>   :cd::cd:<:precision43:804446921941975080>
 
->   :cd::cd:<:dom23:804457130307485707>
 >   :cd::cd::cd:
-> :cd::cd:<:dom43:804457129183936582>:cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd::cd:<:valor43:804449944001708043>
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela Invisível, Lacre Sombrio, Poção com Refil
+**Itens Iniciais:** Sentinela Invisível, Espada Longa, Poção de Vida
 **Itens Core:** Varinha Explosiva > Dente de Na'Shor > Explocinturão Hextec > Ampulheta de Zhonya
 **Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Chama Sombria

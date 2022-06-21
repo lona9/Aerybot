@@ -1,11 +1,11 @@
 **Renata Glasc Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 52.7%
+**Porcentagem de vitorias:** 52.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
 >   :cd::cd:<:valor13:804449943497605171>
->   :cd:<:valor22:804449944018223104>:cd:
+>   :cd::cd:<:valor23:804449943876010024>
 >   :cd::cd:<:valor33:804449943603118131>
 >   :cd:<:valor42:804449943615438919>:cd:
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
+**Itens Iniciais:** Sentinela Invisível
 **Itens Core:** Espelho de Bandópolis > Hino Bélico de Shurelya > Putrificador Quimtec > Redenção
-**Itens End:** Ampulheta de Zhonya, Turíbulo Ardente, Cajado Aquafluxo
+**Itens End:** Gume do Ladrão Arcano, Poção de Vida, Turíbulo Ardente

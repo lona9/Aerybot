@@ -1,6 +1,6 @@
 **Rell ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 51.1%
+**Porcentaje de victorias:** 50.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:insp:804451124207681577> <:valor:804451124245561394>
 

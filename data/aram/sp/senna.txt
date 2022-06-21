@@ -17,4 +17,4 @@
 **Botas:** Manamune
 **Objetos iniciales:** Poción reutilizable, Lágrima de la diosa, Espada larga
 **Objetos principales:** Lágrima de la diosa > Espada larga > Carcaj de mediodía > Matakrakens
-**Objetos finales:** Recuerdos de lord Dominik, El Coleccionista, Filo del infinito
+**Objetos finales:** Recuerdos de lord Dominik, Filo del infinito, Hoja de furia de Guinsoo

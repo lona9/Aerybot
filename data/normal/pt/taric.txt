@@ -1,6 +1,6 @@
 **Taric Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 48.8%
+**Porcentagem de vitorias:** 52.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Escudo Relicário
 **Itens Core:** Gema Ardente > Medalhão dos Solari de Ferro > Aproximação Invernal > Juramento do Cavaleiro
-**Itens End:** Poção de Vida, Convergência de Zeke, Coração Congelado
+**Itens End:** Poção de Vida, Coração Congelado, Convergência de Zeke

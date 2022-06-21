@@ -1,6 +1,6 @@
 **Galio Mid** *(Normal)*
-**Posición:** Mid, Support
-**Porcentaje de victorias:** 51.0%
+**Posición:** Mid
+**Porcentaje de victorias:** 50.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Capítulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Sombrero mortífero de Rabadon, Velo de la banshee, Báculo del vacío
+**Objetos principales:** Capítulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Abrazo demoníaco
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón

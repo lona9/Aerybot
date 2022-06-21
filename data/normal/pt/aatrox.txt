@@ -1,7 +1,7 @@
 **Aatrox Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 50.2%
-**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
+**Porcentagem de vitorias:** 49.9%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd::cd::cd:<:precision14:804446921631596585>
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
-**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Dança da Morte > Sinal de Sterak
-**Itens End:** Anjo Guardião, Semblante Espiritual, Rancor de Serylda
+**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Dança da Morte > Rancor de Serylda
+**Itens End:** Anjo Guardião, Semblante Espiritual, Mandíbula de Malmortius

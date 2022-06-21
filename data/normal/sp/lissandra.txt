@@ -1,7 +1,7 @@
 **Lissandra ** *(Normal)*
 **Posición:** Mid
-**Porcentaje de victorias:** 51.2%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Porcentaje de victorias:** 49.2%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
 > <:dom11:804447179758239744>:cd::cd::cd:

@@ -1,5 +1,5 @@
 **Yuumi ** *(ARAM)*
-**Porcentaje de victorias:** 48.5%
+**Porcentaje de victorias:** 48.2%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Clarity:804555481489080370>
 **Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Putrificador tecnoquímico
+**Botas:** Pebetero ardiente
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Tempestad de Luden > Enfoque al horizonte > Sombrero mortífero de Rabadon > Botas jonias de la lucidez
-**Objetos finales:** Putrificador tecnoquímico, Redención, Báculo de agua fluyente
+**Objetos finales:** Pebetero ardiente, Redención, Báculo de agua fluyente

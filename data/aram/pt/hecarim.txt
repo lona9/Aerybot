@@ -1,5 +1,5 @@
 **Hecarim** *(ARAM)*
-**Porcentagem de vitorias:** 47.3%
+**Porcentagem de vitorias:** 52.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Berrante do Guardião, Lágrima da Deusa
-**Itens Core:** Berrante do Guardião > Quimiotanque Turbo > Manamune > Dança da Morte
-**Itens End:** Armadura de Espinhos, Força da Natureza, Semblante Espiritual
+**Itens Core:** Berrante do Guardião > Ruptor Divino > Manamune > Dança da Morte
+**Itens End:** Armadura de Espinhos, Semblante Espiritual, Força da Natureza

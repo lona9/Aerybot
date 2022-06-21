@@ -1,7 +1,7 @@
 **Galio Build ** *(Normal)*
-**Rota:** Rota do Meio, Suporte
-**Porcentagem de vitorias:** 49.8%
-**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Rota:** Rota do Meio
+**Porcentagem de vitorias:** 49.5%
+**Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:bruj:804451124236648478>
 
 >   :cd:<:valor12:804449943775084614>:cd:
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Passos de Mercúrio
 **Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Itens Core:** Capítulo Perdido > Glacieterno > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Véu da Banshee
+**Itens Core:** Capítulo Perdido > Glacieterno > Ampulheta de Zhonya > Abraço Demoníaco
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon

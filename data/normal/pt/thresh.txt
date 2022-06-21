@@ -1,13 +1,13 @@
 **Thresh Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 45.9%
+**Porcentagem de vitorias:** 48.2%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:insp:804451124207681577> <:valor:804451124245561394>
 
 >   <:insp11:804450563936223283>:cd::cd:
 >   <:insp21:804450563911057458>:cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
->   :cd::cd:<:insp43:804450563952869452>
+>   <:insp41:804450563507879947>:cd::cd:
 
 >   :cd::cd::cd:
 >   :cd::cd:<:valor33:804449943603118131>
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas da Mobilidade
-**Itens Iniciais:** Sentinela Invisível, Guarda-ombros de Aço, Poção de Vida
+**Itens Iniciais:** Sentinela Invisível
 **Itens Core:** Gema Ardente > Medalhão dos Solari de Ferro > Convergência de Zeke > Juramento do Cavaleiro
-**Itens End:** Armadura de Espinhos, Redenção, Força da Natureza
+**Itens End:** Guarda-ombros de Aço, Poção de Vida, Armadura de Espinhos

@@ -1,21 +1,21 @@
 **Swain ** *(Normal)*
-**Posición:** Support
-**Porcentaje de victorias:** 49.0%
+**Posición:** Support, Mid
+**Porcentaje de victorias:** 50.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
+**Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
-> <:dom11:804447179758239744>:cd::cd::cd:
->   <:dom21:804457127800078397>:cd::cd:
->   :cd::cd:<:dom33:804457129578332160>
-> :cd::cd::cd:<:dom44:804457129732866048>
+> :cd::cd::cd:<:precision14:804446921631596585>
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd:<:precision32:804446921737371648>:cd:
+>   :cd::cd:<:precision43:804446921941975080>
 
->   :cd::cd:<:insp23:804450563948675112>
->   :cd::cd:<:insp33:804450564049731594>
 >   :cd::cd::cd:
->   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+>   <:valor31:804449943666425907>:cd::cd:
+>   <:valor41:804449944298586143>:cd::cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas del hechicero
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
-**Objetos principales:** Capítulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Abrazo demoníaco
-**Objetos finales:** Cetro de cristal de Rylai, Morellonomicón, Sombrero mortífero de Rabadon
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
+**Objetos principales:** Capítulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Cetro de cristal de Rylai
+**Objetos finales:** Abrazo demoníaco, Morellonomicón, Apariencia espiritual

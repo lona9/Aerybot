@@ -1,6 +1,6 @@
 **Janna Build ** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 52.8%
+**Porcentagem de vitorias:** 54.5%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:insp:804451124207681577> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
+**Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano
 **Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Putrificador Quimtec > Redenção
-**Itens End:** Cajado Aquafluxo, Turíbulo Ardente, Ampulheta de Zhonya
+**Itens End:** Poção de Vida, Turíbulo Ardente, Cajado Aquafluxo

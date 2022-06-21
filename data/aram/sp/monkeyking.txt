@@ -1,5 +1,5 @@
 **Wukong ** *(ARAM)*
-**Porcentaje de victorias:** 47.3%
+**Porcentaje de victorias:** 52.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Látigo férreo
-**Objetos principales:** Brillo > Cercenador divino > Guantelete de Sterak > Danza de la muerte
+**Botas:** Fauces de Malmortius
+**Objetos iniciales:** Botas, Espada larga, Brillo
+**Objetos principales:** Brillo > Brillo > Cercenador divino > Danza de la muerte
 **Objetos finales:** Cuchilla oscura, Hidra voraz, Apariencia espiritual

@@ -1,6 +1,6 @@
 **Bardo ** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 48.9%
+**Porcentaje de victorias:** 50.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de movilidad
-**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
+**Botas:** Botas de rapidez
+**Objetos iniciales:** Centinela invisible
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Coraza del muerto > Putrificador tecnoquímico
-**Objetos finales:** Redención, Reloj de arena de Zhonya, Bendición de Mikael
+**Objetos finales:** Filo del Robahechizos, Poción de vida, Redención

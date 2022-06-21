@@ -1,6 +1,6 @@
 **Zeri ** *(ARAM)*
-**Porcentaje de victorias:** 50.9%
-**Hechizos del Invocador:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
+**Porcentaje de victorias:** 50.7%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Hidra titánica
-**Objetos iniciales:** Botas, Hacha hogareña
-**Objetos principales:** Hacha hogareña > Hacha hogareña > Fuerza de la trinidad > Huracán de Runaan
-**Objetos finales:** Hoja del rey arruinado, Cuchilla oscura, Al filo de la Cordura
+**Botas:** Grebas de berserker
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Bailarín espectral > Filo del infinito
+**Objetos finales:** Huracán de Runaan, Hoja del rey arruinado, Recuerdos de lord Dominik

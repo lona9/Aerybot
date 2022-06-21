@@ -1,10 +1,10 @@
 **Brand ** *(ARAM)*
-**Porcentaje de victorias:** 52.3%
+**Porcentaje de victorias:** 52.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
->   :cd:<:dom22:804457129394176020>:cd:
+>   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd:<:dom33:804457129578332160>
 > :cd::cd::cd:<:dom44:804457129732866048>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
-**Objetos principales:** Capítulo perdido > Angustia de Liandry > Abrazo demoníaco > Morellonomicón
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Reloj de arena de Zhonya
+**Objetos principales:** Capítulo perdido > Angustia de Liandry > Abrazo demoníaco > Cetro de cristal de Rylai
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

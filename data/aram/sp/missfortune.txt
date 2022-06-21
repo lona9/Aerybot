@@ -1,5 +1,5 @@
 **Miss Fortune ** *(ARAM)*
-**Porcentaje de victorias:** 52.1%
+**Porcentaje de victorias:** 53.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Capítulo perdido
-**Objetos principales:** Puñal serrado > Eclipse > Arco axiomático > El Coleccionista
-**Objetos finales:** Rencor de Serylda, Filo de la noche, Filo del infinito
+**Objetos principales:** Puñal serrado > Eclipse > Manamune > El Coleccionista
+**Objetos finales:** Rencor de Serylda, Filo de la noche, Arco axiomático

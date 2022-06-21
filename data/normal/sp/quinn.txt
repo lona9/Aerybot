@@ -1,21 +1,21 @@
 **Quinn ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 53.0%
+**Porcentaje de victorias:** 51.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+**Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
 > <:precision11:804445926906658886>:cd::cd::cd:
 >   <:precision21:804446921363685387>:cd::cd:
 >   :cd::cd:<:precision33:804446921644179516>
 >   :cd:<:precision42:804446921636053043>:cd:
 
->   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
-> <:dom41:963152951478747156>:cd::cd::cd:
+>   :cd::cd:<:bruj33:804448797509419098>
+>   :cd::cd:<:bruj43:804448797631316069>
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Puñal serrado > Garra de merodeador > El Coleccionista > Recuerdos de lord Dominik
-**Objetos finales:** Ángel Guardián, Filo del infinito, Recordatorio mortal
+**Objetos iniciales:** Centinela invisible, Espada larga, Poción reutilizable
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Hoja del rey arruinado > Recuerdos de lord Dominik
+**Objetos finales:** Filo del infinito, Ángel Guardián, Sanguinaria

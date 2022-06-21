@@ -1,6 +1,6 @@
 **Twitch Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 50.6%
+**Porcentagem de vitorias:** 51.3%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -11,11 +11,11 @@
 
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
-> :cd::cd::cd:<:dom44:804457129732866048>
+> <:dom41:963152951478747156>:cd::cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
 **Itens Core:** Aljava Vespertina > Mata-Cráquens > Espada do Rei Destruído > Furacão de Runaan
-**Itens End:** Lembranças do Lorde Dominik, Anjo Guardião, Gume do Infinito
+**Itens End:** Gume do Infinito, Lembranças do Lorde Dominik, Anjo Guardião

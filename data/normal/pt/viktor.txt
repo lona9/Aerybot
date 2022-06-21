@@ -1,21 +1,21 @@
 **Viktor Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 50.3%
+**Porcentagem de vitorias:** 51.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
+**Runas:** <:insp:804451124207681577> <:bruj:804451124236648478>
 
->   <:bruj11:804448796104589323>:cd::cd:
+>   :cd::cd:<:insp13:914919550464720936>
+>   :cd:<:insp22:804450563793747989>:cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   <:insp41:804450563507879947>:cd::cd:
+
 >   :cd:<:bruj22:804448796553117707>:cd:
 >   <:bruj31:804448797395910716>:cd::cd:
->   <:bruj41:804448797597499402>:cd::cd:
-
 >   :cd::cd::cd:
->   :cd::cd:<:insp33:804450564049731594>
->   :cd::cd:<:insp43:804450563952869452>
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Capuz da Morte de Rabadon
-**Itens Iniciais:** Sentinela Invisível, Poção Corrupta
-**Itens Core:** Tormenta de Luden > Chama Sombria > Ampulheta de Zhonya > Sapatos do Feiticeiro
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon
+**Botas:** Sapatos do Feiticeiro
+**Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
+**Itens Core:** Capítulo Perdido > Tormenta de Luden > Chama Sombria > Ampulheta de Zhonya
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Perdição de Lich

@@ -1,5 +1,5 @@
 **Urgot ** *(ARAM)*
-**Porcentaje de victorias:** 50.5%
+**Porcentaje de victorias:** 52.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Tiamat
-**Objetos principales:** Tiamat > Hidra titánica > Guantelete de fuego escarchado > Cuchilla oscura
-**Objetos finales:** Cota de espinas, Danza de la muerte, Apariencia espiritual
+**Objetos principales:** Tiamat > Hidra titánica > Guantelete de fuego escarchado > Danza de la muerte
+**Objetos finales:** Cota de espinas, Cuchilla oscura, Apariencia espiritual

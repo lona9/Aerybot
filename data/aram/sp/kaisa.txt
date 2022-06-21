@@ -1,6 +1,6 @@
 **Kai'Sa ** *(ARAM)*
-**Porcentaje de victorias:** 54.5%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Porcentaje de victorias:** 46.5%
+**Hechizos del Invocador:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas del hechicero
+**Botas:** Grebas de berserker
 **Objetos iniciales:** Capítulo perdido
-**Objetos principales:** Capítulo perdido > Tempestad de Luden > Manamune > Enfoque al horizonte
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Manamune > Diente de Nashor
 **Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Llamasombría

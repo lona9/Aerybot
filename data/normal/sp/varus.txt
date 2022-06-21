@@ -1,21 +1,21 @@
 **Varus ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 47.3%
+**Porcentaje de victorias:** 48.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
-**Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
+**Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
-> :cd::cd::cd:<:dom14:804447179938070569>
->   :cd:<:dom22:804457129394176020>:cd:
->   :cd::cd:<:dom33:804457129578332160>
-> <:dom41:963152951478747156>:cd::cd::cd:
+> :cd:<:precision12:804446921522675733>:cd::cd:
+>   :cd::cd:<:precision23:804446921628057630>
+>   <:precision31:804446921660956702>:cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
 
->   :cd::cd::cd:
+>   :cd:<:insp22:804450563793747989>:cd:
 >   :cd::cd:<:insp33:804450564049731594>
->   <:insp41:804450563507879947>:cd::cd:
+>   :cd::cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Puñal serrado > Eclipse > Manamune > Rencor de Serylda
-**Objetos finales:** Ángel Guardián, Filo de la noche, Filo fantasmal de Youmuu
+**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Hoja de furia de Guinsoo > Al filo de la Cordura
+**Objetos finales:** Ángel Guardián, Báculo del vacío, Recuerdos de lord Dominik

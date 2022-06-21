@@ -1,5 +1,5 @@
 **Lux** *(ARAM)*
-**Porcentagem de vitorias:** 51.1%
+**Porcentagem de vitorias:** 49.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Capítulo Perdido
-**Itens Core:** Capítulo Perdido > Tormenta de Luden > Foco do Horizonte > Capuz da Morte de Rabadon
-**Itens End:** Cajado do Vazio, Chama Sombria, Morellonomicon
+**Itens Core:** Capítulo Perdido > Tormenta de Luden > Foco do Horizonte > Chama Sombria
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

@@ -1,5 +1,5 @@
 **Hecarim ** *(ARAM)*
-**Porcentaje de victorias:** 47.3%
+**Porcentaje de victorias:** 52.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Cuerno del guardián, Lágrima de la diosa
-**Objetos principales:** Cuerno del guardián > Quimiotanque turbo > Manamune > Danza de la muerte
-**Objetos finales:** Cota de espinas, Fuerza de la naturaleza, Apariencia espiritual
+**Objetos principales:** Cuerno del guardián > Cercenador divino > Manamune > Danza de la muerte
+**Objetos finales:** Cota de espinas, Apariencia espiritual, Fuerza de la naturaleza

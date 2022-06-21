@@ -1,5 +1,5 @@
 **Ezreal ** *(ARAM)*
-**Porcentaje de victorias:** 51.0%
+**Porcentaje de victorias:** 52.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -17,4 +17,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Poción reutilizable, Brillo, Lágrima de la diosa
 **Objetos principales:** Brillo > Cercenador divino > Manamune > Rencor de Serylda
-**Objetos finales:** Hidra voraz, El Coleccionista, Hoja del rey arruinado
+**Objetos finales:** Hidra voraz, Fauces de Malmortius, El Coleccionista

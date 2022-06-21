@@ -1,5 +1,5 @@
 **Kayle ** *(ARAM)*
-**Porcentaje de victorias:** 55.0%
+**Porcentaje de victorias:** 53.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj de mediodía
-**Objetos principales:** Arco curvo > Diente de Nashor > Agrietador > Al filo de la Cordura
+**Botas:** Al filo de la Cordura
+**Objetos iniciales:** Botas, Arco curvo
+**Objetos principales:** Arco curvo > Arco curvo > Diente de Nashor > Agrietador
 **Objetos finales:** Hoja de furia de Guinsoo, Sombrero mortífero de Rabadon, Hoja del rey arruinado

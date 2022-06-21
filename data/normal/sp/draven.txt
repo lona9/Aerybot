@@ -1,21 +1,21 @@
 **Draven ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 49.2%
+**Porcentaje de victorias:** 50.6%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
-**Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
+**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
-> :cd::cd::cd:<:dom14:804447179938070569>
->   :cd:<:dom22:804457129394176020>:cd:
->   :cd::cd:<:dom33:804457129578332160>
-> <:dom41:963152951478747156>:cd::cd::cd:
-
->   :cd::cd:<:precision23:804446921628057630>
+> :cd:<:precision12:804446921522675733>:cd::cd:
+>   :cd:<:precision22:804446921414541333>:cd:
 >   :cd::cd:<:precision33:804446921644179516>
+>   <:precision41:804446922151690300>:cd::cd:
+
+>   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
+> <:dom41:963152951478747156>:cd::cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Puñal serrado > Saqueador de esencias > Eclipse > Recuerdos de lord Dominik
+**Objetos principales:** Puñal serrado > Eclipse > Saqueador de esencias > Recuerdos de lord Dominik
 **Objetos finales:** Cañón de fuego rápido, Filo del infinito, Ángel Guardián

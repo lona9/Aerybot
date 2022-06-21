@@ -1,6 +1,6 @@
 **Orianna Build ** *(Normal)*
 **Rota:** Rota do Meio
-**Porcentagem de vitorias:** 48.7%
+**Porcentagem de vitorias:** 49.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -11,11 +11,11 @@
 
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
->   :cd::cd:<:insp43:804450563952869452>
+>   <:insp41:804450563507879947>:cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Cajado do Vazio
-**Itens Iniciais:** Sentinela Invisível, Poção Corrupta
-**Itens Core:** Tormenta de Luden > Cajado do Arcanjo > Ampulheta de Zhonya > Sapatos do Feiticeiro
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon
+**Botas:** Sapatos do Feiticeiro
+**Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
+**Itens Core:** Capítulo Perdido > Tormenta de Luden > Cajado do Arcanjo > Ampulheta de Zhonya
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon

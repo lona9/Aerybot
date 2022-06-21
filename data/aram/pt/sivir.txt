@@ -1,5 +1,5 @@
 **Sivir** *(ARAM)*
-**Porcentagem de vitorias:** 53.3%
+**Porcentagem de vitorias:** 52.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Manamune
 **Itens Iniciais:** Poção com Refil, Lágrima da Deusa, Espada Longa
 **Itens Core:** Lágrima da Deusa > Espada Longa > Punhal Serrilhado > Crepúsculo de Draktharr
-**Itens End:** Limiar da Noite, Lembrete Mortal, Sedenta por Sangue
+**Itens End:** Lembrete Mortal, Limiar da Noite, Sedenta por Sangue

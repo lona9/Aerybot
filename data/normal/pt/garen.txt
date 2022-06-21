@@ -1,6 +1,6 @@
 **Garen Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 51.5%
+**Porcentagem de vitorias:** 50.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
 **Itens Core:** Chicote Ferrifarpo > Quebrapassos > Lembrete Mortal > Couraça do Defunto
-**Itens End:** Força da Natureza, Sinal de Sterak, Dança da Morte
+**Itens End:** Dança da Morte, Cutelo Negro, Força da Natureza

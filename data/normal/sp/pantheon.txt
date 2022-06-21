@@ -1,6 +1,6 @@
 **Pantheon ** *(Normal)*
 **Posición:** Support, Top, Mid
-**Porcentaje de victorias:** 48.2%
+**Porcentaje de victorias:** 48.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Danza de la muerte
-**Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
-**Objetos principales:** Poción de vida > Puñal serrado > Eclipse > Cuchilla oscura
-**Objetos finales:** Ángel Guardián, Rencor de Serylda, Fauces de Malmortius
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Poción de corrupción
+**Objetos principales:** Puñal serrado > Eclipse > Cuchilla oscura > Danza de la muerte
+**Objetos finales:** Ángel Guardián, Rencor de Serylda, Sierraespada Quimopunk

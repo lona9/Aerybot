@@ -1,5 +1,5 @@
 **Maestro Yi ** *(ARAM)*
-**Porcentaje de victorias:** 44.8%
+**Porcentaje de victorias:** 45.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Poción reutilizable, Puñal serrado
-**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > El Coleccionista > Saqueador de esencias
-**Objetos finales:** Hoja del rey arruinado, Danza de la muerte, Filo del infinito
+**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > El Coleccionista > Hoja del rey arruinado
+**Objetos finales:** Danza de la muerte, Al filo de la Cordura, Hoja de furia de Guinsoo

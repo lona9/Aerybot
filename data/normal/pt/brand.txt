@@ -1,21 +1,21 @@
 **Brand Build ** *(Normal)*
-**Rota:** Suporte
-**Porcentagem de vitorias:** 49.1%
+**Rota:** Suporte, Rota do Meio
+**Porcentagem de vitorias:** 49.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
+**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd:<:dom33:804457129578332160>
-> :cd::cd::cd:<:dom44:804457129732866048>
+> <:dom41:963152951478747156>:cd::cd::cd:
 
->   :cd::cd:<:precision23:804446921628057630>
+>   :cd:<:bruj22:804448796553117707>:cd:
 >   :cd::cd::cd:
->   :cd:<:precision42:804446921636053043>:cd:
+>   <:bruj41:804448797597499402>:cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
-**Itens Core:** Capítulo Perdido > Angústia de Liandry > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Cetro de Cristal de Rylai
+**Itens Core:** Capítulo Perdido > Angústia de Liandry > Cetro de Cristal de Rylai > Abraço Demoníaco
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

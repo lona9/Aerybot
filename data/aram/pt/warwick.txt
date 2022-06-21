@@ -1,5 +1,5 @@
 **Warwick** *(ARAM)*
-**Porcentagem de vitorias:** 47.6%
+**Porcentagem de vitorias:** 49.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Passos de Mercúrio
-**Itens Iniciais:** Berrante do Guardião, Lágrima da Deusa
-**Itens Core:** Martelo de Guerra de Caulfield > Ruptor Divino > Semblante Espiritual > Armadura de Espinhos
-**Itens End:** Dança da Morte, Sinal de Sterak, Hidra Titânica
+**Botas:** Dança da Morte
+**Itens Iniciais:** Botas, Espada Longa, Fulgor
+**Itens Core:** Fulgor > Fulgor > Ruptor Divino > Semblante Espiritual
+**Itens End:** Armadura de Espinhos, Hidra Titânica, Espada do Rei Destruído

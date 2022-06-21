@@ -1,6 +1,6 @@
 **Galio Support** *(Normal)*
-**Posición:** Mid, Support
-**Porcentaje de victorias:** 47.0%
+**Posición:** Mid
+**Porcentaje de victorias:** 47.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible
-**Objetos principales:** Capítulo perdido > Escarcha eterna > Reloj de arena de Zhonya > Morellonomicón
+**Objetos principales:** Gemaluz > Escarcha eterna > Reloj de arena de Zhonya > Abrazo demoníaco
 **Objetos finales:** Escudo reliquia, Poción de vida, Cota de espinas

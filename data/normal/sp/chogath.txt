@@ -1,6 +1,6 @@
 **Cho'Gath ** *(Normal)*
 **Posición:** Top, Mid
-**Porcentaje de victorias:** 50.5%
+**Porcentaje de victorias:** 50.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Umbral del invierno > Cota de espinas
-**Objetos finales:** Armadura pétrea, Armadura de Warmog, Fuerza de la naturaleza
+**Objetos finales:** Armadura pétrea, Fuerza de la naturaleza, Armadura de Warmog

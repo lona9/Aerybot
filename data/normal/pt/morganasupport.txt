@@ -1,6 +1,6 @@
 **Morgana Build Suporte** *(Normal)*
 **Rota:** Suporte
-**Porcentagem de vitorias:** 50.1%
+**Porcentagem de vitorias:** 49.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas Ionianas da Lucidez
-**Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano, Poção de Vida
+**Botas:** Sapatos do Feiticeiro
+**Itens Iniciais:** Sentinela Invisível
 **Itens Core:** Capítulo Perdido > Angústia de Liandry > Ampulheta de Zhonya > Morellonomicon
-**Itens End:** Abraço Demoníaco, Cetro de Cristal de Rylai, Capuz da Morte de Rabadon
+**Itens End:** Gume do Ladrão Arcano, Poção de Vida, Cetro de Cristal de Rylai

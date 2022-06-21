@@ -1,7 +1,7 @@
 **Tristana ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 49.9%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Porcentaje de victorias:** 50.0%
+**Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd::cd:<:dom14:804447179938070569>

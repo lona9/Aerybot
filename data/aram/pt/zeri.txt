@@ -1,6 +1,6 @@
 **Zeri** *(ARAM)*
-**Porcentagem de vitorias:** 50.9%
-**Summoner Spells:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
+**Porcentagem de vitorias:** 50.7%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Hidra Titânica
-**Itens Iniciais:** Botas, Machado Termestre
-**Itens Core:** Machado Termestre > Machado Termestre > Força da Trindade > Furacão de Runaan
-**Itens End:** Espada do Rei Destruído, Cutelo Negro, Limite da Razão
+**Botas:** Grevas do Berserker
+**Itens Iniciais:** Aljava Vespertina
+**Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Dançarina Fantasma > Gume do Infinito
+**Itens End:** Furacão de Runaan, Espada do Rei Destruído, Lembranças do Lorde Dominik

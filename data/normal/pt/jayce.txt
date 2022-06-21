@@ -1,13 +1,13 @@
 **Jayce Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 47.3%
+**Porcentagem de vitorias:** 47.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
+**Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
-> :cd::cd::cd:<:precision14:804446921631596585>
->   :cd::cd:<:precision23:804446921628057630>
->   <:precision31:804446921660956702>:cd::cd:
->   :cd::cd:<:precision43:804446921941975080>
+>   :cd::cd:<:bruj13:804448796787474433>
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   :cd::cd:<:bruj33:804448797509419098>
+>   :cd::cd:<:bruj43:804448797631316069>
 
 >   :cd:<:insp22:804450563793747989>:cd:
 >   :cd::cd:<:insp33:804450564049731594>

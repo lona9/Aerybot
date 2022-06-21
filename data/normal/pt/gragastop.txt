@@ -1,13 +1,13 @@
 **Gragas Build Rota Topo** *(Normal)*
-**Rota:** Rota Topo
-**Porcentagem de vitorias:** 48.4%
+**Rota:** Rota Topo, Selva
+**Porcentagem de vitorias:** 49.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
 >   :cd::cd:<:bruj13:804448796787474433>
 >   :cd:<:bruj22:804448796553117707>:cd:
 >   <:bruj31:804448797395910716>:cd::cd:
->   <:bruj41:804448797597499402>:cd::cd:
+>   :cd::cd:<:bruj43:804448797631316069>
 
 >   :cd::cd::cd:
 >   :cd::cd:<:insp33:804450564049731594>
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Itens Core:** Capítulo Perdido > Glacieterno > Aproximação Invernal > Ampulheta de Zhonya
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon
+**Itens Core:** Capítulo Perdido > Glacieterno > Ímpeto Cósmico > Ampulheta de Zhonya
+**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon

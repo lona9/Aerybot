@@ -1,13 +1,13 @@
 **Xayah ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 51.1%
+**Porcentaje de victorias:** 48.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
-**Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
+**Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
->   <:bruj11:804448796104589323>:cd::cd:
->   :cd:<:bruj22:804448796553117707>:cd:
->   <:bruj31:804448797395910716>:cd::cd:
->   <:bruj41:804448797597499402>:cd::cd:
+> :cd:<:precision12:804446921522675733>:cd::cd:
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd::cd:<:precision33:804446921644179516>
+>   <:precision41:804446922151690300>:cd::cd:
 
 >   :cd:<:insp22:804450563793747989>:cd:
 >   :cd::cd:<:insp33:804450564049731594>
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Espada larga, Poción de vida
-**Objetos principales:** Puñal serrado > Eclipse > Manamune > Rencor de Serylda
-**Objetos finales:** Ángel Guardián, Filo de la noche, El Coleccionista
+**Botas:** Grebas de berserker
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > Cañón de fuego rápido > Filo del infinito
+**Objetos finales:** Ángel Guardián, Sanguinaria, Recuerdos de lord Dominik

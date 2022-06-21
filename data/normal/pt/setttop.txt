@@ -1,6 +1,6 @@
 **Sett Build Rota Topo** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 50.2%
+**Porcentagem de vitorias:** 50.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas Galvanizadas de Aço
-**Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
-**Itens Core:** Fago > Quebracascos > Quebrapassos > Sinal de Sterak
-**Itens End:** Armadura de Espinhos, Hidra Titânica, Dança da Morte
+**Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
+**Itens Core:** Chicote Ferrifarpo > Quebrapassos > Hidra Titânica > Sinal de Sterak
+**Itens End:** Dança da Morte, Armadura de Espinhos, Couraça do Defunto
