@@ -31,8 +31,9 @@ class Ayuda(Cog):
 
         embed = Embed(title="Información de Aery")
 
-        fields = [("\u200B", "Escribe *aery comandos* para ver qué puede hacer Aerybot. || Escreva *aery comandos* para ver o que Aerybot pode fazer. Escreva *aery lang* dentro de um servidor para mudar o idioma para português", False),
-        ("\u200B", f"**Aerybot** quiere hacer más fácil y rápida la búsqueda de builds y runas para jugar League of Legends. Se actualiza una vez por semana, y toda la información es obtenida de las runas y builds más populares y con mejor winrate de acuerdo a League of Graphs.\n\nEste bot fue actualizado por ultima vez el **{fecha}**.\n\nLos datos y builds fueron obtenidos de League of Graphs, para Todas las regiones, Platino+, **parche {parche}**.\n\nSi quieres invitar a este bot a otro server, puedes hacerlo con este link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot\n\nSi te gustó este bot, considera comprar un kofi a la creadora: https://www.ko-fi.com/lona9", False)]
+        fields = [("\u200B", "**IMPORTANTE**: Debes reinvitar a Aerybot a tu servidor antes del 31 de julio para mantener funcionalidad: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands", False),
+        ("\u200B", "Escribe *aery comandos* para ver qué puede hacer Aerybot. || Escreva *aery comandos* para ver o que Aerybot pode fazer. Escreva *aery lang* dentro de um servidor para mudar o idioma para português", False),
+        ("\u200B", f"**Aerybot** quiere hacer más fácil y rápida la búsqueda de builds y runas para jugar League of Legends. Se actualiza una vez por semana, y toda la información es obtenida de las runas y builds más populares y con mejor winrate de acuerdo a League of Graphs.\n\nEste bot fue actualizado por ultima vez el **{fecha}**.\n\nLos datos y builds fueron obtenidos de League of Graphs, para Todas las regiones, Platino+, **parche {parche}**.\n\nSi quieres invitar a este bot a otro server, puedes hacerlo con este link: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands\n\nSi te gustó este bot, considera comprar un kofi a la creadora: https://www.ko-fi.com/lona9", False)]
 
         for name, value, inline in fields:
           embed.add_field(name=name, value=value, inline=inline)
@@ -45,8 +46,9 @@ class Ayuda(Cog):
     else:
         embed = Embed(title="Informação de Aery")
 
-        fields = [("\u200B", "Escreva aery comandos para ver o que pode fazer Aerybot. Escreva *aery lang* dentro de um servidor para mudar o idioma para português/espanhol.", False),
-        ("\u200B", f"**Aerybot** quer fazer mais fácil e rápida a busca de builds e runas para jogar League of Legends. Se atualiza uma vez por semana, e toda a informação é obtida das runas e builds mais populares e com melhor winrate de acordo com League of Graphs.\n\nEsse bot foi atualizado pela última vez no **{fecha}**.\n\nOs dados e builds foram obtidos de League of Graphs, para Todas as regiões, Platino+, **parche {parche}**.\n\nSe você quiser convidar o bot para outro server, pode fazê-lo com esse link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot\n\nSe você curtiu esse bot, considere comprar um kofi para a criadora: https://www.ko-fi.com/lona9", False)]
+        fields = [("\u200B", "**IMPORTANTE**: Debes reinvitar a Aerybot um servidor antes do 31 de julio para manter a funcionalidade: : https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands", False),
+        ("\u200B", "Escreva aery comandos para ver o que pode fazer Aerybot. Escreva *aery lang* dentro de um servidor para mudar o idioma para português/espanhol.", False),
+        ("\u200B", f"**Aerybot** quer fazer mais fácil e rápida a busca de builds e runas para jogar League of Legends. Se atualiza uma vez por semana, e toda a informação é obtida das runas e builds mais populares e com melhor winrate de acordo com League of Graphs.\n\nEsse bot foi atualizado pela última vez no **{fecha}**.\n\nOs dados e builds foram obtidos de League of Graphs, para Todas as regiões, Platino+, **parche {parche}**.\n\nSe você quiser convidar o bot para outro server, pode fazê-lo com esse link: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands\n\nSe você curtiu esse bot, considere comprar um kofi para a criadora: https://www.ko-fi.com/lona9", False)]
 
         for name, value, inline in fields:
           embed.add_field(name=name, value=value, inline=inline)
@@ -157,9 +159,9 @@ class Ayuda(Cog):
 
     if language == "SP":
 
-        await ctx.channel.send("Puedes invitar a Aery a otros servers con el siguiente link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot")
+        await ctx.channel.send("Puedes invitar a Aery a otros servers con el siguiente link: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands")
     else:
-        await ctx.channel.send("Você pode convidar Aery para outros servidores com o seguinte link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot")
+        await ctx.channel.send("Você pode convidar Aery para outros servidores com o seguinte link: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands")
 
     try:
       eventmsg = str(ctx.message.content) + ", guild: " + str(ctx.guild.name)

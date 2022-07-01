@@ -285,28 +285,10 @@ class Normal(Cog):
             with open(path, encoding="utf-8") as f:
               text = f.read()
               await ctx.channel.send(text)
-
-            try:
-                eventmsg = str(ctx.message.content) + ", guild: " + str(ctx.guild.name)
-                await self.testchannel.send(eventmsg)
-
-                with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
-                    tz = pendulum.timezone('America/La_Paz')
-                    datetime_cl = datetime.now(tz)
-                    timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
-                    log_msg = timestamp + " " + eventmsg + "\n"
-                    file.write(log_msg)
-
-            except AttributeError:
-                eventmsg = str(ctx.message.content) + ", guild: None"
-                await self.testchannel.send(eventmsg)
-
-                with open(os.path.join("/root/aery/data/logs", "logs.txt"), "a") as file:
-                    tz = pendulum.timezone('America/La_Paz')
-                    datetime_cl = datetime.now(tz)
-                    timestamp = datetime_cl.strftime("%d/%m/%y %H:%M:%S")
-                    log_msg = timestamp + " " + eventmsg + "\n"
-                    file.write(log_msg)
+          if language == 'SP':
+              await ctx.channel.send("**IMPORTANTE**: Debes reinvitar a Aerybot a tu servidor antes del 31 de julio para mantener funcionalidad: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands")
+          else:
+              await ctx.channel.send("**IMPORTANTE**: Debes reinvitar a Aerybot um servidor antes do 31 de julio para manter a funcionalidade: : https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands")
 
         else:
           pass
