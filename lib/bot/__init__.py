@@ -61,6 +61,12 @@ class Bot(BotBase):
     db.multiexec("INSERT OR IGNORE INTO languages (GuildID) VALUES (?)",
 					 ((guild.id,) for guild in self.guilds))
 
+    for guild in self.guilds:
+        db.execute("UPDATE languages SET GuildName = ?, GuildSize = ? WHERE GuildID = ?",
+        guild.name, guild.member_count, guild.id)
+
+    db.commit()
+
     to_remove = []
     stored_guilds = db.column("SELECT GuildID FROM languages")
     for id_ in stored_guilds:
