@@ -290,6 +290,14 @@ class Normal(Cog):
           else:
               await ctx.channel.send("**IMPORTANTE**: Debes reinvitar a Aerybot um servidor antes do 31 de julio para manter a funcionalidade: : https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands")
 
+          try:
+              eventmsg = str(ctx.message.content) + ", guild: " + str(ctx.guild.name)
+              await self.testchannel.send(eventmsg)
+
+          except AttributeError:
+              eventmsg = str(ctx.message.content) + ", guild: None"
+              await self.testchannel.send(eventmsg)
+
         else:
           pass
 
