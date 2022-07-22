@@ -1,6 +1,6 @@
 **Zilean Build ** *(Normal)*
-**Rota:** Suporte, Rota do Meio
-**Porcentagem de vitorias:** 52.5%
+**Rota:** Suporte
+**Porcentagem de vitorias:** 52.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Gume do Ladrão Arcano
-**Itens Core:** Capítulo Perdido > Glacieterno > Cajado do Arcanjo > Ampulheta de Zhonya
-**Itens End:** Poção de Vida, Putrificador Quimtec, Ímpeto Cósmico
+**Itens Core:** Espelho de Bandópolis > Hino Bélico de Shurelya > Putrificador Quimtec > Ampulheta de Zhonya
+**Itens End:** Poção de Vida, Cajado do Arcanjo, Ímpeto Cósmico

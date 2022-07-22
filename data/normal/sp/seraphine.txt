@@ -1,6 +1,6 @@
 **Seraphine ** *(Normal)*
 **Posición:** Support, AD Carry
-**Porcentaje de victorias:** 50.2%
+**Porcentaje de victorias:** 51.9%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Báculo del arcángel > Cetro de cristal de Rylai
-**Objetos finales:** Sombrero mortífero de Rabadon, Reloj de arena de Zhonya, Báculo del vacío
+**Objetos finales:** Reloj de arena de Zhonya, Sombrero mortífero de Rabadon, Putrificador tecnoquímico

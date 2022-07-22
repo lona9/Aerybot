@@ -1,8 +1,8 @@
 **Riven ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 49.8%
+**Porcentaje de victorias:** 51.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
+**Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd::cd::cd:<:precision14:804446921631596585>
 >   :cd:<:precision22:804446921414541333>:cd:
@@ -10,12 +10,12 @@
 >   :cd::cd:<:precision43:804446921941975080>
 
 >   :cd::cd::cd:
->   <:bruj31:804448797395910716>:cd::cd:
->   :cd::cd:<:bruj43:804448797631316069>
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd::cd:<:valor43:804449944001708043>
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Espada larga, Poción de vida
-**Objetos principales:** Látigo férreo > Bebedor de sangre > Cuchilla oscura > Danza de la muerte
-**Objetos finales:** Ángel Guardián, Rencor de Serylda, Fauces de Malmortius
+**Objetos principales:** Martillo de guerra de Caulfield > Bebedor de sangre > Cuchilla oscura > Danza de la muerte
+**Objetos finales:** Ángel Guardián, Rencor de Serylda, Sierraespada Quimopunk

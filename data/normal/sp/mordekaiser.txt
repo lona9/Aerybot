@@ -1,6 +1,6 @@
 **Mordekaiser ** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 51.6%
+**Porcentaje de victorias:** 50.9%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Mirada absorbente > Agrietador > Cetro de cristal de Rylai > Abrazo demoníaco
-**Objetos finales:** Reloj de arena de Zhonya, Cota de espinas, Apariencia espiritual
+**Objetos finales:** Reloj de arena de Zhonya, Apariencia espiritual, Cota de espinas

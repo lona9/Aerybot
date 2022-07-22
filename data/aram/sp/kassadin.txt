@@ -1,10 +1,10 @@
 **Kassadin ** *(ARAM)*
-**Porcentaje de victorias:** 49.5%
+**Porcentaje de victorias:** 50.4%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
->   :cd::cd:<:dom23:804457130307485707>
+>   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd:<:dom33:804457129578332160>
 > <:dom41:963152951478747156>:cd::cd::cd:
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Reloj de arena de Zhonya
 **Objetos iniciales:** Lágrima de la diosa, Tomo amplificador
-**Objetos principales:** Tomo amplificador > Capítulo perdido > Escarcha eterna > Báculo del arcángel
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Llamasombría
+**Objetos principales:** Tomo amplificador > Capítulo perdido > Tempestad de Luden > Báculo del arcángel
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Maldición del liche

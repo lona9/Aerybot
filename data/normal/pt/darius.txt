@@ -1,6 +1,6 @@
 **Darius Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 51.4%
+**Porcentagem de vitorias:** 51.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
 **Itens Core:** Machado Termestre > Força da Trindade > Dança da Morte > Couraça do Defunto
-**Itens End:** Armadura de Espinhos, Força da Natureza, Sinal de Sterak
+**Itens End:** Sinal de Sterak, Força da Natureza, Armadura de Espinhos

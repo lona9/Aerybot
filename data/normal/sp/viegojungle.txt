@@ -1,6 +1,6 @@
 **Viego Jungler** *(Normal)*
 **Posición:** Jungler
-**Porcentaje de victorias:** 48.5%
+**Porcentaje de victorias:** 48.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
-**Objetos principales:** Carcaj de mediodía > Matakrakens > Hoja del rey arruinado > Danza de la muerte
-**Objetos finales:** Ángel Guardián, Fauces de Malmortius, Sierraespada Quimopunk
+**Objetos principales:** Brillo > Cercenador divino > Hoja del rey arruinado > Danza de la muerte
+**Objetos finales:** Ángel Guardián, Fauces de Malmortius, Al filo de la Cordura

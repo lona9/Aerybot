@@ -1,5 +1,5 @@
 **Zeri** *(ARAM)*
-**Porcentagem de vitorias:** 50.1%
+**Porcentagem de vitorias:** 48.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
 **Itens Core:** Aljava Vespertina > Arco-escudo Imortal > Dançarina Fantasma > Gume do Infinito
-**Itens End:** Furacão de Runaan, Espada do Rei Destruído, Lembranças do Lorde Dominik
+**Itens End:** Lembranças do Lorde Dominik, Sedenta por Sangue, Furacão de Runaan

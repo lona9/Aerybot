@@ -1,6 +1,6 @@
 **Zilean ** *(Normal)*
-**Posición:** Support, Mid
-**Porcentaje de victorias:** 52.5%
+**Posición:** Support
+**Porcentaje de victorias:** 52.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos
-**Objetos principales:** Capítulo perdido > Escarcha eterna > Báculo del arcángel > Reloj de arena de Zhonya
-**Objetos finales:** Poción de vida, Putrificador tecnoquímico, Impulso cósmico
+**Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Putrificador tecnoquímico > Reloj de arena de Zhonya
+**Objetos finales:** Poción de vida, Báculo del arcángel, Impulso cósmico

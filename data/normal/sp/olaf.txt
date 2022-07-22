@@ -1,6 +1,6 @@
 **Olaf ** *(Normal)*
 **Posición:** Top, Jungler
-**Porcentaje de victorias:** 50.5%
+**Porcentaje de victorias:** 51.7%
 **Hechizos del Invocador:** <:Ghost:804555480856002610> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -9,8 +9,8 @@
 >   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd:<:precision43:804446921941975080>
 
->   :cd:<:insp22:804450563793747989>:cd:
 >   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
 >   :cd:<:insp42:804450563965452369>:cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Hacha hogareña > Fuerza de la trinidad > Danza de la muerte > Guantelete de Sterak
-**Objetos finales:** Cota de espinas, Apariencia espiritual, Cuchilla oscura
+**Objetos finales:** Apariencia espiritual, Cota de espinas, Presagio de Randuin

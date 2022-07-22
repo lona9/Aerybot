@@ -1,6 +1,6 @@
 **Irelia ** *(Normal)*
 **Posición:** Top, Mid
-**Porcentaje de victorias:** 48.2%
+**Porcentaje de victorias:** 48.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 

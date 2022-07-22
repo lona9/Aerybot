@@ -1,10 +1,10 @@
 **Kassadin** *(ARAM)*
-**Porcentagem de vitorias:** 49.5%
+**Porcentagem de vitorias:** 50.4%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
->   :cd::cd:<:dom23:804457130307485707>
+>   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd:<:dom33:804457129578332160>
 > <:dom41:963152951478747156>:cd::cd::cd:
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Ampulheta de Zhonya
 **Itens Iniciais:** Lágrima da Deusa, Tomo Amplificador
-**Itens Core:** Tomo Amplificador > Capítulo Perdido > Glacieterno > Cajado do Arcanjo
-**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Chama Sombria
+**Itens Core:** Tomo Amplificador > Capítulo Perdido > Tormenta de Luden > Cajado do Arcanjo
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Perdição de Lich

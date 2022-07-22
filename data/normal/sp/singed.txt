@@ -1,21 +1,21 @@
 **Singed ** *(Normal)*
-**Posición:** Top, Mid
-**Porcentaje de victorias:** 53.8%
+**Posición:** Top
+**Porcentaje de victorias:** 48.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
-**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
+**Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
-> :cd:<:dom12:804447180362219551>:cd::cd:
->   <:dom21:804457127800078397>:cd::cd:
->   :cd::cd:<:dom33:804457129578332160>
-> :cd:<:dom42:804457129980461107>:cd::cd:
+> :cd::cd::cd:<:precision14:804446921631596585>
+>   :cd:<:precision22:804446921414541333>:cd:
+>   :cd:<:precision32:804446921737371648>:cd:
+>   :cd::cd:<:precision43:804446921941975080>
 
 >   :cd::cd::cd:
->   :cd:<:bruj32:804448797346234369>:cd:
->   :cd:<:bruj42:804448797572595813>:cd:
->   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
+>   <:valor31:804449943666425907>:cd::cd:
+>   :cd::cd:<:valor43:804449944001708043>
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas de rapidez
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Vara explosiva > Cetro de cristal de Rylai > Quimiotanque turbo > Abrazo demoníaco
+**Objetos principales:** Vara explosiva > Cetro de cristal de Rylai > Abrazo demoníaco > Quimiotanque turbo
 **Objetos finales:** Coraza del muerto, Fuerza de la naturaleza, Reloj de arena de Zhonya

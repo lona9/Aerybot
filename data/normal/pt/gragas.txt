@@ -1,21 +1,21 @@
 **Gragas Build ** *(Normal)*
-**Rota:** Rota Topo, Selva
-**Porcentagem de vitorias:** 49.0%
+**Rota:** Rota Topo
+**Porcentagem de vitorias:** 49.6%
 **Summoner Spells:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
+**Runas:** <:insp:804451124207681577> <:bruj:804451124236648478>
 
->   :cd::cd:<:bruj13:804448796787474433>
->   :cd:<:bruj22:804448796553117707>:cd:
->   <:bruj31:804448797395910716>:cd::cd:
->   :cd::cd:<:bruj43:804448797631316069>
-
->   :cd::cd::cd:
+>   :cd::cd:<:insp13:914919550464720936>
+>   :cd:<:insp22:804450563793747989>:cd:
 >   :cd::cd:<:insp33:804450564049731594>
 >   <:insp41:804450563507879947>:cd::cd:
+
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
+>   :cd::cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
-**Itens Core:** Capítulo Perdido > Glacieterno > Ímpeto Cósmico > Ampulheta de Zhonya
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon
+**Itens Core:** Alternador Hextec > Colhedor Noturno > Cajado do Arcanjo > Ampulheta de Zhonya
+**Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Morellonomicon

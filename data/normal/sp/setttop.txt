@@ -1,6 +1,6 @@
 **Sett Top** *(Normal)*
 **Posición:** Top
-**Porcentaje de victorias:** 50.0%
+**Porcentaje de victorias:** 49.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Látigo férreo > Cortasendas > Hidra titánica > Guantelete de Sterak
-**Objetos finales:** Danza de la muerte, Cota de espinas, Coraza del muerto
+**Objetos finales:** Danza de la muerte, Cota de espinas, Fuerza de la naturaleza

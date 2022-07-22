@@ -1,5 +1,5 @@
 **Tristana** *(ARAM)*
-**Porcentagem de vitorias:** 47.8%
+**Porcentagem de vitorias:** 46.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,4 +17,4 @@
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
 **Itens Core:** Aljava Vespertina > Mata-Cráquens > Canhão Fumegante > Gume do Infinito
-**Itens End:** Lembranças do Lorde Dominik, Sedenta por Sangue, Lembrete Mortal
+**Itens End:** Lembranças do Lorde Dominik, Sedenta por Sangue, Dançarina Fantasma

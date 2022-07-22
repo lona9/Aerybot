@@ -1,6 +1,6 @@
 **Renekton Build ** *(Normal)*
 **Rota:** Rota Topo
-**Porcentagem de vitorias:** 48.7%
+**Porcentagem de vitorias:** 49.3%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Chicote Ferrifarpo > Hemodrenário > Dança da Morte > Sinal de Sterak
-**Itens End:** Anjo Guardião, Cutelo Negro, Armadura de Espinhos
+**Itens Core:** Cetro Vampírico > Espada do Rei Destruído > Égide de Fogo Solar > Dança da Morte
+**Itens End:** Anjo Guardião, Mandíbula de Malmortius, Cutelo Negro

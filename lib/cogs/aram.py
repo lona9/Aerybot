@@ -218,9 +218,9 @@ class Aram(Cog):
               text = f.read()
               await ctx.channel.send(text)
           if language == 'SP':
-              await ctx.channel.send("**IMPORTANTE**: Debes reinvitar a Aerybot a tu servidor antes del 31 de julio para mantener funcionalidad: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands")
+              await ctx.channel.send("**ÚLTIMO AVISO**: El 31 de julio, Aerybot perderá sus permisos actuales y podría dejar de funcionar, debes expulsar y reinvitarla a tu servidor para mantener funcionalidad.\nSi invitaste al bot después del 1 de julio, puedes ignorar este mensaje.\nLink para reinvitar: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands")
           else:
-              await ctx.channel.send("**IMPORTANTE**: Debes reinvitar a Aerybot um servidor antes do 31 de julio para manter a funcionalidade: : https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands")
+              await ctx.channel.send("**FINAL NOTICE**: **AVISO FINAL**: em 31 de julho, o Aerybot perderá suas permissões atuais e poderá parar de funcionar, você deve despejar e convidar novamente seu servidor para manter a funcionalidade.\nSe você convidou o bot após 1º de julho, ignore esta mensagem. \nLink para convidar novamente: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands")
 
           try:
               eventmsg = str(ctx.message.content) + ", guild: " + str(ctx.guild.name)

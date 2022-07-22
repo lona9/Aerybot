@@ -1,6 +1,6 @@
 **Draven ** *(Normal)*
 **Posición:** AD Carry
-**Porcentaje de victorias:** 49.8%
+**Porcentaje de victorias:** 50.0%
 **Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Puñal serrado > Eclipse > Saqueador de esencias > Recuerdos de lord Dominik
+**Objetos principales:** Puñal serrado > Saqueador de esencias > Eclipse > Recuerdos de lord Dominik
 **Objetos finales:** Cañón de fuego rápido, Filo del infinito, Ángel Guardián

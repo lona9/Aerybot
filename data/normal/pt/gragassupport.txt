@@ -1,6 +1,6 @@
 **Gragas Build Suporte** *(Normal)*
-**Rota:** Rota Topo, Selva
-**Porcentagem de vitorias:** 46.8%
+**Rota:** Rota Topo
+**Porcentagem de vitorias:** 47.9%
 **Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 

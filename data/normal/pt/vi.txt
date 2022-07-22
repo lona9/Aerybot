@@ -1,6 +1,6 @@
 **Vi Build ** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 50.8%
+**Porcentagem de vitorias:** 50.7%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas Galvanizadas de Aço
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
-**Itens Core:** Fulgor > Ruptor Divino > Dança da Morte > Mandíbula de Malmortius
-**Itens End:** Anjo Guardião, Armadura de Espinhos, Cutelo Negro
+**Itens Core:** Punhal Serrilhado > Eclipse > A Coletora > Colhedor de Essência
+**Itens End:** Anjo Guardião, Cutelo Negro, Armadura de Espinhos

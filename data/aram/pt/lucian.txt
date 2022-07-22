@@ -1,6 +1,6 @@
 **Lucian** *(ARAM)*
-**Porcentagem de vitorias:** 47.1%
-**Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Porcentagem de vitorias:** 45.9%
+**Summoner Spells:** <:Cleanse:804555480730304514> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > <:precision11:804445926906658886>:cd::cd::cd:
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Aljava Vespertina
-**Itens Core:** Aljava Vespertina > Força do Vendaval > Colhedor de Essência > Gume do Infinito
-**Itens End:** Sedenta por Sangue, Lembranças do Lorde Dominik, Mandíbula de Malmortius
+**Itens Core:** Aljava Vespertina > Força do Vendaval > A Coletora > Rancor de Serylda
+**Itens End:** Sedenta por Sangue, Gume do Infinito, Lembranças do Lorde Dominik

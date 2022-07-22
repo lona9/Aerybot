@@ -1,6 +1,6 @@
 **Taliyah ** *(Normal)*
-**Posición:** Mid, Jungler
-**Porcentaje de victorias:** 48.5%
+**Posición:** Jungler, Mid
+**Porcentaje de victorias:** 50.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Capítulo perdido > Escarcha eterna > Llamasombría > Reloj de arena de Zhonya
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Llamasombría > Reloj de arena de Zhonya
 **Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

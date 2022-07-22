@@ -1,7 +1,7 @@
 **Vladimir Build Rota do Meio** *(Normal)*
 **Rota:** Rota do Meio, Rota Topo
-**Porcentagem de vitorias:** 50.4%
-**Summoner Spells:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Porcentagem de vitorias:** 51.0%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
 >   :cd::cd:<:bruj13:804448796787474433>

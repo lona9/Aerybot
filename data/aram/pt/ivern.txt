@@ -1,5 +1,5 @@
 **Ivern** *(ARAM)*
-**Porcentagem de vitorias:** 49.8%
+**Porcentagem de vitorias:** 53.2%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:valor:804451124245561394>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas Ionianas da Lucidez
 **Itens Iniciais:** Lágrima da Deusa, Espelho de Bandópolis
-**Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Aproximação Invernal > Putrificador Quimtec
-**Itens End:** Cajado Aquafluxo, Turíbulo Ardente, Redenção
+**Itens Core:** Espelho de Bandópolis > Regenerador de Pedra Lunar > Aproximação Invernal > Redenção
+**Itens End:** Cajado Aquafluxo, Turíbulo Ardente, Putrificador Quimtec

@@ -1,5 +1,5 @@
 **Taric** *(ARAM)*
-**Porcentagem de vitorias:** 56.4%
+**Porcentagem de vitorias:** 56.8%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Passos de Mercúrio
-**Itens Iniciais:** Berrante do Guardião, Lágrima da Deusa
-**Itens Core:** Berrante do Guardião > Manopla do Raio de Gelo > Aproximação Invernal > Semblante Espiritual
+**Botas:** Semblante Espiritual
+**Itens Iniciais:** Poção com Refil, Gema Ardente, Lágrima da Deusa
+**Itens Core:** Lágrima da Deusa > Berrante do Guardião > Manopla do Raio de Gelo > Aproximação Invernal
 **Itens End:** Coração Congelado, Armadura de Espinhos, Armadura de Warmog

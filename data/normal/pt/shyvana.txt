@@ -1,7 +1,7 @@
 **Shyvana Build ** *(Normal)*
-**Rota:** Selva
-**Porcentagem de vitorias:** 51.8%
-**Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
+**Rota:** Selva, Rota Topo
+**Porcentagem de vitorias:** 50.4%
+**Summoner Spells:** <:Ghost:804555480856002610> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > <:precision11:804445926906658886>:cd::cd::cd:
@@ -11,11 +11,11 @@
 
 >   :cd::cd::cd:
 >   <:valor31:804449943666425907>:cd::cd:
->   :cd::cd:<:valor43:804449944001708043>
+>   <:valor41:804449944298586143>:cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
+**Botas:** Botas Ionianas da Lucidez
+**Itens Iniciais:** Sentinela Invisível, Escudo de Doran, Poção de Vida
 **Itens Core:** Brasa de Bami > Manopla do Raio de Gelo > Abraço Demoníaco > Armadura de Espinhos
-**Itens End:** Força da Natureza, Ampulheta de Zhonya, Capuz da Morte de Rabadon
+**Itens End:** Força da Natureza, Presságio de Randuin, Ampulheta de Zhonya

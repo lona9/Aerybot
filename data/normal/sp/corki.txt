@@ -1,6 +1,6 @@
 **Corki ** *(Normal)*
 **Posición:** Mid
-**Porcentaje de victorias:** 48.2%
+**Porcentaje de victorias:** 48.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:insp:804451124207681577> <:dom:804451124085522442>
 
@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Lágrima de la diosa, Poción de vida
 **Objetos principales:** Martillo de guerra de Caulfield > Manamune > Tempestad de Luden > Hidra voraz
-**Objetos finales:** Báculo del vacío, Llamasombría, Reloj de arena de Zhonya
+**Objetos finales:** Báculo del vacío, Llamasombría, Ángel Guardián

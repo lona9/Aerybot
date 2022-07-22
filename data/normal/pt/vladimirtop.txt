@@ -1,6 +1,6 @@
 **Vladimir Build Rota Topo** *(Normal)*
 **Rota:** Rota do Meio, Rota Topo
-**Porcentagem de vitorias:** 48.0%
+**Porcentagem de vitorias:** 48.6%
 **Summoner Spells:** <:Ghost:804555480856002610> <:Ignite:804555481167298570>
 **Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
 
@@ -12,10 +12,10 @@
 >   :cd:<:insp22:804450563793747989>:cd:
 >   :cd::cd::cd:
 >   <:insp41:804450563507879947>:cd::cd:
->   <:5007:804451180164022312> <:5008:804451180172279808> <:5002:804451180104908870>
+>   <:5007:804451180164022312> <:5008:804451180172279808> <:5001:804451180112642088>
 
 **Build**
 **Botas:** Sapatos do Feiticeiro
-**Itens Iniciais:** Sentinela Invisível, Anel de Doran, Poção de Vida
+**Itens Iniciais:** Sentinela Invisível, Lacre Sombrio, Poção com Refil
 **Itens Core:** Alternador Hextec > Explocinturão Hextec > Ímpeto Cósmico > Ampulheta de Zhonya
 **Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Ladrão de Almas de Mejai

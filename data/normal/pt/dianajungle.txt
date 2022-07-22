@@ -1,6 +1,6 @@
 **Diana Build Selva** *(Normal)*
 **Rota:** Selva
-**Porcentagem de vitorias:** 51.2%
+**Porcentagem de vitorias:** 52.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:insp:804451124207681577>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
-**Itens Core:** Alternador Hextec > Explocinturão Hextec > Ampulheta de Zhonya > Chama Sombria
-**Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Morellonomicon
+**Itens Core:** Arco Recurvo > Dente de Na'Shor > Égide de Fogo Solar > Abraço Demoníaco
+**Itens End:** Capuz da Morte de Rabadon, Ampulheta de Zhonya, Chama Sombria

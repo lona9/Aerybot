@@ -1,6 +1,6 @@
 **Draven Build ** *(Normal)*
 **Rota:** Atirador
-**Porcentagem de vitorias:** 49.8%
+**Porcentagem de vitorias:** 50.0%
 **Summoner Spells:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grevas do Berserker
 **Itens Iniciais:** Sentinela Invisível, Lâmina de Doran, Poção de Vida
-**Itens Core:** Punhal Serrilhado > Eclipse > Colhedor de Essência > Lembranças do Lorde Dominik
+**Itens Core:** Punhal Serrilhado > Colhedor de Essência > Eclipse > Lembranças do Lorde Dominik
 **Itens End:** Canhão Fumegante, Gume do Infinito, Anjo Guardião

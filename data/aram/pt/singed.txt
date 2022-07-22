@@ -17,4 +17,4 @@
 **Botas:** Aproximação Invernal
 **Itens Iniciais:** Berrante do Guardião, Lágrima da Deusa
 **Itens Core:** Lágrima da Deusa > Berrante do Guardião > Angústia de Liandry > Cetro de Cristal de Rylai
-**Itens End:** Força da Natureza, Couraça do Defunto, Abraço Demoníaco
+**Itens End:** Força da Natureza, Abraço Demoníaco, Couraça do Defunto

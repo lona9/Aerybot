@@ -1,7 +1,7 @@
 **Ashe ** *(Normal)*
 **Posición:** Support, AD Carry
-**Porcentaje de victorias:** 50.3%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Porcentaje de victorias:** 50.4%
+**Hechizos del Invocador:** <:Exhaust:804555480843288586> <:Flash:804555481443336202>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
 >   :cd:<:bruj12:804448797001252864>:cd:
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Hoz espectral, Poción de vida
-**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Al filo de la Cordura > Hoja de furia de Guinsoo
-**Objetos finales:** Ángel Guardián, Recuerdos de lord Dominik, Huracán de Runaan
+**Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Manamune > Sierraespada Quimopunk
+**Objetos finales:** Ángel Guardián, Recuerdos de lord Dominik, Hoja del rey arruinado

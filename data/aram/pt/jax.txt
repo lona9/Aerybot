@@ -1,5 +1,5 @@
 **Jax** *(ARAM)*
-**Porcentagem de vitorias:** 47.6%
+**Porcentagem de vitorias:** 48.0%
 **Summoner Spells:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -17,4 +17,4 @@
 **Botas:** Dança da Morte
 **Itens Iniciais:** Botas, Espada Longa, Fulgor
 **Itens Core:** Fulgor > Fulgor > Ruptor Divino > Espada do Rei Destruído
-**Itens End:** Semblante Espiritual, Mandíbula de Malmortius, Armadura de Espinhos
+**Itens End:** Semblante Espiritual, Mandíbula de Malmortius, Limite da Razão

@@ -1,20 +1,20 @@
 **Cassiopeia** *(ARAM)*
-> **Porcentagem de vitorias:** 47.7%
-> **Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
-> **Runas**: <:pres:804451123825606657> <:dom:804451124085522442>
- 
+**Porcentagem de vitorias:** 49.6%
+**Summoner Spells:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
+**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+
 > :cd::cd::cd:<:precision14:804446921631596585>
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd:<:precision32:804446921737371648>:cd:
 >   <:precision41:804446922151690300>:cd::cd:
- 
+
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
-> <:dom41:804457130379182120>:cd::cd:
->   <:5008:804451180172279808><:5008:804451180172279808><:5002:804451180104908870>
- 
-> **Build**:
-*Itens Iniciais:* Capítulo perdido
-*Botas:* -
-*Itens Core:* Capítulo perdido > Angústia de Liandry > Cajado do Arcanjo > Abraço demoníaco
-*Itens End:* Morellonomicón, Cajado do Vazio, Ampulheta de Zhonya
+> <:dom41:963152951478747156>:cd::cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** -
+**Itens Iniciais:** Cristal de Safira, Tomo Amplificador, Poção com Refil, Lágrima da Deusa
+**Itens Core:** Poção com Refil > Lágrima da Deusa > Capítulo Perdido > Angústia de Liandry
+**Itens End:** Cajado do Vazio, Morellonomicon, Ampulheta de Zhonya

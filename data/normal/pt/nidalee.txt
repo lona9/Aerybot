@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Sapatos do Feiticeiro
 **Itens Iniciais:** Sentinela Invisível, Lâmina Cálida, Poção com Refil
-**Itens Core:** Alternador Hextec > Explocinturão Hextec > Ampulheta de Zhonya > Chama Sombria
+**Itens Core:** Alternador Hextec > Colhedor Noturno > Ampulheta de Zhonya > Chama Sombria
 **Itens End:** Cajado do Vazio, Capuz da Morte de Rabadon, Ladrão de Almas de Mejai

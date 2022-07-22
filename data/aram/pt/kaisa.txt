@@ -1,5 +1,5 @@
 **Kai'Sa** *(ARAM)*
-**Porcentagem de vitorias:** 46.3%
+**Porcentagem de vitorias:** 46.1%
 **Summoner Spells:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Sapatos do Feiticeiro
+**Botas:** Grevas do Berserker
 **Itens Iniciais:** Capítulo Perdido
 **Itens Core:** Capítulo Perdido > Tormenta de Luden > Manamune > Dente de Na'Shor
 **Itens End:** Capuz da Morte de Rabadon, Cajado do Vazio, Chama Sombria

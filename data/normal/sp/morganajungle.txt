@@ -1,13 +1,13 @@
 **Morgana Jungler** *(Normal)*
 **Posición:** Support
-**Porcentaje de victorias:** 43.9%
+**Porcentaje de victorias:** 43.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
 > :cd::cd:<:dom13:804447179828625438>:cd:
 >   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd:<:dom33:804457129578332160>
-> :cd::cd:<:dom43:804457129183936582>:cd:
+> <:dom41:963152951478747156>:cd::cd::cd:
 
 >   :cd::cd::cd:
 >   <:bruj31:804448797395910716>:cd::cd:
@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Abrazo demoníaco
-**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Morellonomicón
+**Objetos finales:** Báculo del vacío, Cetro de cristal de Rylai, Morellonomicón

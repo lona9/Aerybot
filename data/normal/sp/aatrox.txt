@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Látigo férreo > Bebedor de sangre > Danza de la muerte > Rencor de Serylda
-**Objetos finales:** Ángel Guardián, Apariencia espiritual, Cota de espinas
+**Objetos principales:** Puñal serrado > Eclipse > Cuchilla oscura > Rencor de Serylda
+**Objetos finales:** Ángel Guardián, Apariencia espiritual, Fauces de Malmortius
