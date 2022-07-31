@@ -214,13 +214,13 @@ class Aram(Cog):
           counter += 1
           path = filename(key)
           if os.path.exists(path):
-            with open(path, encoding="utf-8") as f:
+            with open(path, encoding="latin-1") as f:
               text = f.read()
               await ctx.channel.send(text)
           if language == 'SP':
-              await ctx.channel.send("**ÚLTIMO AVISO**: El 31 de julio, Aerybot perderá sus permisos actuales y podría dejar de funcionar, debes expulsar y reinvitarla a tu servidor para mantener funcionalidad.\nSi invitaste al bot después del 1 de julio, puedes ignorar este mensaje.\nLink para reinvitar: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands")
+              await ctx.channel.send("**IMPORTANTE**: Desde el 7 de agosto, Aerybot solo funcionará con slash commands. Si no puedes usarlos en tu servidor actualmente, reinvita a Aery para arreglar los permisos.\nLink para reinvitar: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands")
           else:
-              await ctx.channel.send("**FINAL NOTICE**: **AVISO FINAL**: em 31 de julho, o Aerybot perderá suas permissões atuais e poderá parar de funcionar, você deve despejar e convidar novamente seu servidor para manter a funcionalidade.\nSe você convidou o bot após 1º de julho, ignore esta mensagem. \nLink para convidar novamente: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands")
+              await ctx.channel.send("**IMPORTANTE**: A partir de 7 de agosto, o Aerybot funcionará apenas com comandos de barra. Se você não pode usá-los em seu servidor atualmente, convide novamente Aery para corrigir as permissões\nLink para convidar novamente: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands")
 
           try:
               eventmsg = str(ctx.message.content) + ", guild: " + str(ctx.guild.name)
