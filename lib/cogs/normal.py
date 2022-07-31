@@ -5,6 +5,7 @@ import pendulum
 import datetime
 from datetime import datetime
 from ..db import db
+from discord import Embed
 
 class Normal(Cog):
   def __init__(self, bot):
@@ -286,9 +287,30 @@ class Normal(Cog):
               text = f.read()
               await ctx.channel.send(text)
           if language == 'SP':
-              await ctx.channel.send("**IMPORTANTE**: Desde el 7 de agosto, Aerybot solo funcionará con slash commands. Si no puedes usarlos en tu servidor actualmente, reinvita a Aery para arreglar los permisos.\nLink para reinvitar: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands")
+              embed = Embed()
+
+              fields = [("\u200B", "**IMPORTANTE**: Desde el 7 de agosto, Aerybot solo funcionará con slash commands. Escribe `/help` o `/commands` para ver los comandos disponibles. Si no puedes usarlos en tu servidor actualmente, reinvita a Aery para arreglar los permisos.\n[Link para reinvitar](https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands)", False)]
+
+              for name, value, inline in fields:
+                embed.add_field(name=name, value=value, inline=inline)
+
+              embed.set_author(name='Aerybot', icon_url="https://cdn.discordapp.com/attachments/827220123299086447/827222701349404771/Summon_Aery_rune.png")
+              embed.set_footer(text="Si presento problemas o necesitas más ayuda, envía un mensaje a lona#4817")
+
+              await ctx.channel.send(embed=embed)
+
           else:
-              await ctx.channel.send("**IMPORTANTE**: A partir de 7 de agosto, o Aerybot funcionará apenas com comandos de barra. Se você não pode usá-los em seu servidor atualmente, convide novamente Aery para corrigir as permissões\nLink para convidar novamente: https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands")
+              embed = Embed()
+
+              fields = [("\u200B", "**IMPORTANTE**: A partir de 7 de agosto, o Aerybot funcionará apenas com comandos de barra. Digite `/help` ou `/commands` para ver os comandos disponíveis. Se você não pode usá-los em seu servidor atualmente, convide novamente Aery para corrigir as permissões\n[Link para convidar novamente](https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands)", False)]
+
+              for name, value, inline in fields:
+                embed.add_field(name=name, value=value, inline=inline)
+
+              embed.set_author(name='Aerybot', icon_url="https://cdn.discordapp.com/attachments/827220123299086447/827222701349404771/Summon_Aery_rune.png")
+              embed.set_footer(text="Se eu apresentar problemas ou você precisa de mais ajuda, envie uma mensagem a lona#4817")
+
+              await ctx.channel.send(embed=embed)
 
           try:
               eventmsg = str(ctx.message.content) + ", guild: " + str(ctx.guild.name)
