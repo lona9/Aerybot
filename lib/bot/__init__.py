@@ -17,7 +17,7 @@ PREFIX = "aery "
 
 OWNER_IDS = [485054727755792410]
 
-COGS = ["ayuda", "meta", "guilds", "aram", "normal"]
+COGS = ["ayuda", "aram", "normal"]
 
 class Ready(object):
   def __init__(self):

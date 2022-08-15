@@ -221,7 +221,7 @@ class Aram(Cog):
           if language == 'SP':
               embed = Embed()
 
-              fields = [("\u200B", "**IMPORTANTE**: Desde el 7 de agosto, Aerybot solo funcionará con slash commands. Escribe `/help` o `/commands` para ver los comandos disponibles. Si no puedes usarlos en tu servidor actualmente, reinvita a Aery para arreglar los permisos.\n[Link para reinvitar](https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands)", False)]
+              fields = [("\u200B", "`ATENCIÓN`: Los comandos con prefijo funcionarán inestablemente hasta el 31 de agosto, después de esa fecha solo funcionarán los slash commands. Ambos estarán disponibles hasta esa fecha, pero sujetos a los blackouts de Discord, lo cual no depende de mi desarrollo. Disculpas por los inconvenientes, es culpa de Discord :P\nEscribe `/help` o `/commands` para ver los comandos disponibles. Si no puedes usarlos en tu servidor actualmente, reinvita a Aery para arreglar los permisos.\n[Link para reinvitar](https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands)", False)]
 
               for name, value, inline in fields:
                 embed.add_field(name=name, value=value, inline=inline)
@@ -234,7 +234,7 @@ class Aram(Cog):
           else:
               embed = Embed()
 
-              fields = [("\u200B", "**IMPORTANTE**: A partir de 7 de agosto, o Aerybot funcionará apenas com comandos de barra. Digite `/help` ou `/commands` para ver os comandos disponíveis. Se você não pode usá-los em seu servidor atualmente, convide novamente Aery para corrigir as permissões\n[Link para convidar novamente](https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands)", False)]
+              fields = [("\u200B", "`ATENÇÃO`: Comandos prefixados funcionarão instáveis ​​até 31 de agosto, após essa data apenas slash commands funcionarão. Ambos estarão disponíveis até essa data, mas sujeitos a apagões do Discord, que não dependem de mim. Desculpe pelo inconveniente, é culpa do Discord :P\nDigite `/help` ou `/commands` para ver os comandos disponíveis. Se você não pode usá-los em seu servidor atualmente, convide novamente Aery para corrigir as permissões\n[Link para convidar novamente](https://discord.com/api/oauth2/authorize?client_id=804475973579833374&permissions=8&scope=bot%20applications.commands)", False)]
 
               for name, value, inline in fields:
                 embed.add_field(name=name, value=value, inline=inline)
